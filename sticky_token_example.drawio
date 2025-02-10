@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-80" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;textOpacity=30;labelBorderColor=#000000;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="307" width="735" height="175" as="geometry" />
+          <mxGeometry x="45" y="320" width="735" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-1" value="The cat is sitting on the mat." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="402" width="330" height="60" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="647" y="337" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;labelBorderColor=default;textOpacity=30;swimlaneFillColor=none;rounded=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="494" width="740" height="228" as="geometry" />
+          <mxGeometry x="45" y="484" width="740" height="228" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;swimlaneLine=0;" vertex="1" parent="cNMmO1RlAhkxUtTiMOyw-54">
           <mxGeometry width="740" height="20" as="geometry" />
