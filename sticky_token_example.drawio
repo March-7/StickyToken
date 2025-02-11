@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-8" value="ST5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="399" y="382" width="60" height="30" as="geometry" />
+          <mxGeometry x="407" y="382" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontFamily=Times New Roman;fontStyle=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           <mxGeometry x="685" y="379" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-31" value="Cosine Similarity" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="603" y="340" width="196" height="30" as="geometry" />
+          <mxGeometry x="632" y="340" width="138" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNMmO1RlAhkxUtTiMOyw-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=18;labelBorderColor=default;textOpacity=30;swimlaneFillColor=none;rounded=0;swimlaneLine=1;fillColor=none;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="29" y="484" width="740.4695078531902" height="254.43730193493462" as="geometry" />
@@ -179,10 +179,10 @@
           <mxGeometry x="505" y="412" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LRbdBa953eH6UKj4Q6So-5" value="$$s_{1}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="21" y="347" width="60" height="30" as="geometry" />
+          <mxGeometry x="31" y="347" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LRbdBa953eH6UKj4Q6So-6" value="$$s_{2}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="21" y="416" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="416" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LRbdBa953eH6UKj4Q6So-9" value="\(sim_0 = \frac{\mathbf{e}_1^T \cdot \mathbf{e}_2}{|\mathbf{e}_1| \cdot&amp;nbsp; |\mathbf{e}_2|}\)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="540" y="388.5" width="159" height="86" as="geometry" />
