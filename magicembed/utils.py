@@ -72,7 +72,7 @@ def record_experiment_info(model_name,
             experiment_record[key] = value
 
     # 读取现有的JSON文件内容，如果文件不存在则初始化为空列表
-    output_path = os.path.join('G:\juchiyun2024-11-14/ckx_ws/MagicEmbed/results', json_file)
+    output_path = os.path.join('/root/MagicEmbed/results', json_file)
     try:
         with open(output_path, 'r', encoding='utf-8') as f:
             file_content = f.read().strip()
@@ -92,7 +92,7 @@ def record_experiment_info(model_name,
 
 def output_name(model_id, tag, extension):
     model_id_alphanum = re.sub(r"[^a-zA-Z0-9]", "_", model_id)
-    filename = f"G:\juchiyun2024-11-14/ckx_ws/MagicEmbed/results/{tag}/{model_id_alphanum}.{extension}"
+    filename = f"/root/MagicEmbed/results/{tag}/{model_id_alphanum}.{extension}"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     return filename
 

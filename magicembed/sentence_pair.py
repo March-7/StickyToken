@@ -7,13 +7,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 import torch
 import pandas as pd
 import matplotlib.pyplot as plt
-from datasets import load_dataset
+from datasets import load_dataset,concatenate_datasets
 from magicembed.utils import distance_metrics
 
 
 def output_dataset_name(model_id, tag, extension):
     model_id_alphanum = re.sub(r"[^a-zA-Z0-9]", "_", model_id)
-    filename = f"G:\juchiyun2024-11-14/ckx_ws/MagicEmbed/data/{model_id_alphanum}/{tag}.{extension}"
+    filename = f"/root/MagicEmbed/data/{model_id_alphanum}/{tag}.{extension}"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     return filename
 
@@ -34,15 +34,42 @@ class SentencePair:
         
         for path in dataset_paths:
             try:
-                # 尝试加载数据集的"en"子集，如果存在的话
-                dataset = load_dataset(path=path, name='en', split=split)
+                if split == 'all':
+                    # 如果split为'all'，加载所有子集
+                    dataset = load_dataset(path=path, name='en')
+                    # 将所有子集合并
+                    all_splits = []
+                    for split_name in dataset.keys():
+                        all_splits.append(dataset[split_name])
+                    dataset = concatenate_datasets(all_splits)
+                else:
+                    # 尝试加载数据集的"en"子集，如果存在的话
+                    dataset = load_dataset(path=path, name='en', split=split)
             except:
                 try:
-                    dataset = load_dataset(path=path, name='en-en', split=split)
+                    if split == 'all':
+                        # 如果split为'all'，加载所有子集
+                        dataset = load_dataset(path=path, name='en-en')
+                        # 将所有子集合并
+                        all_splits = []
+                        for split_name in dataset.keys():
+                            all_splits.append(dataset[split_name])
+                        dataset = concatenate_datasets(all_splits)
+                    else:
+                        dataset = load_dataset(path=path, name='en-en', split=split)
                 except:
                     try:
-                        # 如果没有"en"子集，尝试加载整个数据集的指定split
-                        dataset = load_dataset(path=path, split=split)
+                        if split == 'all':
+                            # 如果split为'all'，加载所有子集
+                            dataset = load_dataset(path=path)
+                            # 将所有子集合并
+                            all_splits = []
+                            for split_name in dataset.keys():
+                                all_splits.append(dataset[split_name])
+                            dataset = concatenate_datasets(all_splits)
+                        else:
+                            # 如果没有"en"子集，尝试加载整个数据集的指定split
+                            dataset = load_dataset(path=path, split=split)
                     except:
                         raise Exception(f'Please check the dataset path or subset name for {path}.')
             self.datasets.append(dataset)
@@ -225,7 +252,7 @@ class Dataset:
         # 首先得到moda.vocab_embeddings_mean_cosine_similarity，以该值作为分界，从小于该分界的句子对中，均匀采样num个句子对，
         # 具体做法为从similarity最小值到mean_similarity之一区间的前80%的句子对中，按照similarity均匀设置步长，采样num个句子对
         import json
-        json_file = os.path.join('G:\juchiyun2024-11-14/ckx_ws/MagicEmbed/magicembed', 'model_record.json')
+        json_file = os.path.join('/root/MagicEmbed/magicembed', 'model_record.json')
 
         mean_similarity = None
         try:

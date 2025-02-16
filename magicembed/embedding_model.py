@@ -136,7 +136,7 @@ class ModelAnalyzer:
         self.wte_is_anisotropic,_ = check_embeddings_is_anisotropic(self.wte)
         print(f"wte中的所有token的权重具有各向异性: {self.wte_is_anisotropic}")
         # 优化vocab_embeddings_mean_cosine_similarity保存到json文件的过程
-        json_file = os.path.join('G:\juchiyun2024-11-14/ckx_ws/MagicEmbed/magicembed', 'model_record.json')
+        json_file = os.path.join('/root/MagicEmbed/magicembed', 'model_record.json')
         update_experiment_record(self.model_name, self.vocab_embeddings_mean_cosine_similarity, json_file)
 
     def neighbor_distances_statistics(self, mode = 'nearest') -> None:
