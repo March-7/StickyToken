@@ -1,0 +1,647 @@
+nohup: ignoring input
+You are attempting to use Flash Attention 2.0 with a model not initialized on GPU. Make sure to move the model to GPU after initializing it on CPU with `model.to('cuda')`.
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:00<00:00,  7.56it/s]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:00<00:00,  7.82it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  8.10it/s]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:00<00:00,  7.99it/s]
+模型名称: SFR-Embedding-2_R
+模型参数量: 7110660096
+词表大小: 32000
+G:/juchiyun2024-11-14
+Batches:   0%|          | 0/63 [00:00<?, ?it/s]
+Batches:   2%|▏         | 1/63 [00:01<01:26,  1.40s/it]
+Batches:   3%|▎         | 2/63 [00:01<00:45,  1.35it/s]
+Batches:   5%|▍         | 3/63 [00:01<00:31,  1.88it/s]
+Batches:   6%|▋         | 4/63 [00:02<00:25,  2.31it/s]
+Batches:   8%|▊         | 5/63 [00:02<00:21,  2.64it/s]
+Batches:  10%|▉         | 6/63 [00:02<00:18,  3.01it/s]
+Batches:  11%|█         | 7/63 [00:03<00:17,  3.16it/s]
+Batches:  13%|█▎        | 8/63 [00:03<00:16,  3.28it/s]
+Batches:  14%|█▍        | 9/63 [00:03<00:16,  3.34it/s]
+Batches:  16%|█▌        | 10/63 [00:03<00:15,  3.40it/s]
+Batches:  17%|█▋        | 11/63 [00:04<00:15,  3.44it/s]
+Batches:  19%|█▉        | 12/63 [00:04<00:14,  3.62it/s]
+Batches:  21%|██        | 13/63 [00:04<00:14,  3.57it/s]
+Batches:  22%|██▏       | 14/63 [00:04<00:13,  3.73it/s]
+Batches:  24%|██▍       | 15/63 [00:05<00:12,  3.84it/s]
+Batches:  25%|██▌       | 16/63 [00:05<00:11,  3.92it/s]
+Batches:  27%|██▋       | 17/63 [00:05<00:13,  3.51it/s]
+Batches:  29%|██▊       | 18/63 [00:06<00:12,  3.68it/s]
+Batches:  30%|███       | 19/63 [00:06<00:12,  3.64it/s]
+Batches:  32%|███▏      | 20/63 [00:06<00:11,  3.77it/s]
+Batches:  33%|███▎      | 21/63 [00:06<00:11,  3.69it/s]
+Batches:  35%|███▍      | 22/63 [00:07<00:10,  3.82it/s]
+Batches:  37%|███▋      | 23/63 [00:07<00:10,  3.72it/s]
+Batches:  38%|███▊      | 24/63 [00:08<00:17,  2.19it/s]
+Batches:  40%|███▉      | 25/63 [00:08<00:16,  2.35it/s]
+Batches:  41%|████▏     | 26/63 [00:08<00:13,  2.70it/s]
+Batches:  43%|████▎     | 27/63 [00:09<00:11,  3.01it/s]
+Batches:  4G:/juchiyun2024-11-14 | 28/63 [00:09<00:10,  3.28it/s]
+BatG:/juchiyun2024-11-14███▌     | 29/63 [00:09<00:09,  3.49it/s]
+Batches:  48%|████▊     | 30/63 [00:09<00:09,  3.64it/s]
+Batches:  49%|████▉     | 31/63 [00:10<00:08,  3.76it/s]
+Batches:  51%|█████     | 32/63 [00:10<00:08,  3.86it/s]
+BatG:/juchiyun2024-11-14████▏    | 33/63 [00:10<00:07,  3.94it/s]
+Batches:  54%|█████▍    | 34/63 [00:10<00:07,  4.00it/s]
+Batches:  56%|█████▌    | 35/63 [00:11<00:06,  4.01it/s]
+Batches:  57%|█████▋    | 36/63 [00:11<00:06,  4.04it/s]
+Batches:  59%|█████▊    | 37/63 [00:11<00:06,  4.06it/s]
+Batches:  60%|██████    | 38/63 [00:11<00:06,  4.08it/s]
+Batches:  62%|██████▏   | 39/63 [00:12<00:05,  4.09it/s]
+Batches:  63%|██████▎   | 40/63 [00:12<00:06,  3.35it/s]
+Batches:  65%|██████▌   | 41/63 [00:12<00:06,  3.55it/s]
+Batches:  67%|██████▋   | 42/63 [00:13<00:07,  2.97it/s]
+Batches:  68%|██████▊   | 43/63 [00:13<00:06,  3.24it/s]
+Batches:  70%|██████▉   | 44/63 [00:13<00:05,  3.46it/s]
+Batches:  71%|███████▏  | 45/63 [00:13<00:04,  3.63it/s]
+Batches:  73%|███████▎  | 46/63 [00:14<00:04,  3.76it/s]
+Batches:  75%|███████▍  | 47/63 [00:14<00:04,  3.85it/s]
+Batches:  76%|███████▌  | 48/63 [00:14<00:03,  3.93it/s]
+Batches:  78%|███████▊  | 49/63 [00:14<00:03,  3.98it/s]
+Batches:  79%|███████▉  | 50/63 [00:15<00:03,  4.02it/s]
+Batches:  81%|████████  | 51/63 [00:15<00:02,  4.05it/s]
+Batches:  83%|████████▎ | 52/63 [00:15<00:02,  4.22it/s]
+Batches:  84%|████████▍ | 53/63 [00:15<00:02,  4.35it/s]
+Batches:  86%|████████▌ | 54/63 [00:15<00:02,  4.47it/s]
+Batches:  87%|████████▋ | 55/63 [00:16<00:01,  4.57it/s]
+Batches:  89%|████████▉ | 56/63 [00:16<00:01,  4.64it/s]
+Batches:  90%|█████████ | 57/63 [00:16<00:01,  4.68it/s]
+Batches:  92%|█████████▏| 58/63 [00:16<00:01,  4.72it/s]
+Batches:  94%|█████████▎| 59/63 [00:17<00:00,  4.75it/s]
+Batches:  95%|█████████▌| 60/63 [00:17<00:00,  4.76it/s]
+Batches:  97%|█████████▋| 61/63 [00:17<00:00,  4.78it/s]
+Batches:  98%|█████████▊| 62/63 [00:17<00:00,  4.78it/s]
+Batches: 100%|██████████| 63/63 [00:17G:/juchiyun2024-11-143it/s]
+Batches: 100%|██████████| 63/63 [00:17<00:00,  3.55it/s]
+Testing self.model_name='SFR-Embedding-2_R' with 'test' -> [1369]
+vocab[1369] = ▁test
+Warning: The tokenizer for SFR-Embedding-2_R adds spaces to the start or does other space manipulations, trying to counteract it by using the prefix '«' = [1509]
+Starting space mode: True
+已将model_id='SFR-Embedding-2_R'的tokenizer analysis结果保存到文件: /home/chenkx/ckx_ws/StickyToken/results/tokenizer_analysis/SFR_Embedding_2_R.jsonl
+向量模长大小： (32000,)
+[288.82297 233.1037  252.24168 ... 289.6607  291.51038 325.03278]
+不在单位超球体上的向量数量: 32000
+不在单位超球体上的向量模长的平均值: 292.28643798828125
+不在单位超球体上的向量模长的方差: 246.34475708007812
+输出侧的所有token的向量都在单位超球体上: False
+------------------------------------------------------
+向量模长大小： (32000,)
+[0.         0.14486331 0.07774594 ... 0.1625467  0.16193071 0.17379026]
+不在单位超球体上的向量数量: 32000
+不在单位超球体上的向量模长的平均值: 0.17641893029212952
+不在单位超球体上的向量模长的方差: 0.0004362649342510849
+wte中的所有token的权重都在单位超球体上: False
+
+计算余弦相似度:   0%|          | 0/250 [00:00<?, ?it/s]
+计算余弦相似度:   4%|▍         | 10/250 [00:00<00:12, 19.41it/s]
+计算余弦相似度:   8%|▊         | 20/250 [00:01<00:11, 19.62it/s]
+计算余弦相似度:  12%|█▏        | 30/250 [00:01<00:11, 19.70it/s]
+计算余弦相似度:  16%|█▌        | 40/250 [00:02<00:10, 19.72it/s]
+计算余弦相似度:  20%|██        | 50/250 [00:02<00:10, 19.33it/s]
+计算余弦相似度:  24%|██▍       | 60/250 [00:03<00:10, 18.76it/s]
+计算余弦相似度:  28%|██▊       | 70/250 [00:03<00:09, 18.41it/s]
+计算余弦相似度:  32%|███▏      | 80/250 [00:04<00:09, 18.18it/s]
+计算余弦相似度:  36%|███▌      | 90/250 [00:04<00:08, 17.94it/s]
+计算余弦相似度:  40%|████      | 100/250 [00:05<00:08, 17.90it/s]
+计算余弦相似度:  44%|████▍     | 110/250 [00:05<00:07, 17.81it/s]
+计算余弦相似度:  48%|████▊     | 120/250 [00:06<00:07, 17.79it/s]
+计算余弦相似度:  52%|█████▏    | 130/250 [00:07<00:06, 17.80it/s]
+计算余弦相似度:  56%|█████▌    | 140/250 [00:07<00:06, 17.82it/s]
+计算余弦相似度:  60%|██████    | 150/250 [00:08<00:05, 17.83it/s]
+计算余弦相似度:  64%|██████▍   | 160/250 [00:08<00:05, 17.84it/s]
+计算余弦相似度:  68%|██████▊   | 170/250 [00:09<00:04, 17.84it/s]
+计算余弦相似度:  72%|███████▏  | 180/250 [00:09<00:03, 17.85it/s]
+计算余弦相似度:  76%|███████▌  | 190/250 [00:10<00:03, 17.86it/s]
+计算余弦相似度:  80%|████████  | 200/250 [00:11<00:02, 17.87it/s]
+计算余弦相似度:  84%|████████▍ | 210/250 [00:11<00:02, 17.84it/s]
+计算余弦相似度:  88%|████████▊ | 220/250 [00:12<00:01, 17.81it/s]
+计算余弦相似度:  92%|█████████▏| 230/250 [00:12<00:01, 17.78it/s]
+计算余弦相似度:  96%|█████████▌| 240/250 [00:13<00:00, 17.77it/s]
+计算余弦相似度: 100%|██████████| 250/250 [00:13<00:00, 17.76it/s]
+计算余弦相似度: 100%|██████████| 250/250 [00:13<00:00, 18.08it/s]
+平均余弦相似度: 0.7264263033866882
+中位数余弦相似度: 0.7273390293121338
+余弦相似度标准差: 0.06383069604635239
+最小余弦相似度: 0.3794284760951996
+最大余弦相似度: 1.0000001192092896
+输出侧的所有token的向量具有各向异性: True
+------------------------------------
+
+计算余弦相似度:   0%|          | 0/250 [00:00<?, ?it/s]
+计算余弦相似度:   4%|▍         | 10/250 [00:00<00:12, 19.80it/s]
+计算余弦相似度:   8%|▊         | 20/250 [00:01<00:11, 19.92it/s]
+计算余弦相似度:  12%|█▏        | 30/250 [00:01<00:10, 20.13it/s]
+计算余弦相似度:  16%|█▌        | 40/250 [00:01<00:10, 20.50it/s]
+计算余弦相似度:  20%|██        | 50/250 [00:02<00:09, 20.18it/s]
+计算余弦相似度:  24%|██▍       | 60/250 [00:02<00:09, 19.98it/s]
+计算余弦相似度:  28%|██▊       | 70/250 [00:03<00:08, 20.11it/s]
+计算余弦相似度:  32%|███▏      | 80/250 [00:03<00:08, 20.45it/s]
+计算余弦相似度:  36%|███▌      | 90/250 [00:04<00:07, 20.70it/s]
+计算余弦相似度:  40%|████      | 100/250 [00:05<00:08, 18.64it/s]
+计算余弦相似度:  44%|████▍     | 110/250 [00:05<00:07, 18.91it/s]
+计算余弦相似度:  48%|████▊     | 120/250 [00:06<00:06, 19.10it/s]
+计算余弦相似度:  52%|█████▏    | 130/250 [00:06<00:06, 19.23it/s]
+计算余弦相似度:  56%|█████▌    | 140/250 [00:07<00:05, 19.37it/s]
+计算余弦相似度:  60%|██████    | 150/250 [00:07<00:05, 19.43it/s]
+计算余弦相似度:  64%|██████▍   | 160/250 [00:08<00:04, 19.49it/s]
+计算余弦相似度:  68%|██████▊   | 170/250 [00:08<00:04, 19.55it/s]
+计算余弦相似度:  72%|███████▏  | 180/250 [00:09<00:03, 19.57it/s]
+计算余弦相似度:  76%|███████▌  | 190/250 [00:09<00:03, 19.63it/s]
+计算余弦相似度:  80%|████████  | 200/250 [00:10<00:02, 19.65it/s]
+计算余弦相似度:  84%|████████▍ | 210/250 [00:10<00:02, 19.68it/s]
+计算余弦相似度:  88%|████████▊ | 220/250 [00:11<00:01, 19.69it/s]
+计算余弦相似度:  92%|█████████▏| 230/250 [00:11<00:01, 19.70it/s]
+计算余弦相似度:  96%|█████████▌| 240/250 [00:12<00:00, 19.72it/s]
+计算余弦相似度: 100%|██████████| 250/250 [00:12<00:00, 19.73it/s]
+计算余弦相似度: 100%|██████████| 250/250 [00:12<00:00, 19.68it/s]
+平均余弦相似度: nan
+中位数余弦相似度: nan
+余弦相似度标准差: nan
+最小余弦相似度: nan
+最大余弦相似度: nan
+wte中的所有token的权重具有各向异性: True
+已更新模型数据文件: /home/chenkx/ckx_ws/StickyToken/magicembed/model_record.json
+文件 /home/chenkx/ckx_ws/StickyToken/data/SFR_Embedding_2_R/sentence_pairs.csv 已经存在。
+sentence_pairs文件中包含 499500 个句子对。
+sentence_pairs文件中包含 1000 个不重复的句子。
+sentence_pairs文件中的相似度范围：最小相似度 0.19688196，最大相似度 0.9940502。
+文件 /home/chenkx/ckx_ws/StickyToken/data/SFR_Embedding_2_R/sampled_sentence_pairs.csv 已经存在。
+sampled_sentence_pairs文件中包含 1000 个句子对。
+sampled_sentence_pairs文件中包含 780 个不重复的句子。
+sampled_sentence_pairs文件中的相似度范围：最小相似度 0.19688196，最大相似度 0.9940502。
+采样相似度范围：[ 0.19688196 , 0.6205174347093506 ]
+mean_similarity: 0.7264263
+完整gt_texts: ["The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", 'A girl is making a flute which is not to be played', 'The boy, who is young, is running through the ocean waves', 'where it goes wrong in practice is when they create a central government to control the communes .', 'the event of something being raised upward .']
+完整contract_texts: ['A person is playing a piano.', 'The S&P 500 had climbed 16 percent since its March low and yesterday closed at its highest since Dec. 2.', 'the meeting was 3 days long .', "iraq 's new leaders have been lobbying for the united nations security council to stop using the iraq 's oil revenue to pay the salaries of the inspectors and to have all money remaining in the united nation 's oil-for-food account transferred to the iraqi government .", "why don 't you start thinking beyond the talking points that make you feel good ?"]
+gt_embs.shape: (5, 4096)
+contract_embs.shape: (5, 4096)
+完整gt_metrics:
+Metrics(cosine_distance=array([0.8034263 , 0.69656146, 0.5913215 , 0.4850961 , 0.37953335],
+      dtype=float32), euclidean_distance=array([401.3223 , 375.10004, 336.62393, 315.33762, 268.86606],
+      dtype=float32), manhattan_distance=array([19306.26290894, 17721.90584564, 16356.00738525, 15312.753479  ,
+       12967.20062256]))
+采样相似度范围：[ 0.19688196 , 0.6205174347093506 ]
+mean_similarity: 0.7264263
+部分gt_texts: ["The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", 'The child is playing with toys indoors', 'The child is playing with toys indoors', "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China."]
+部分contract_texts: ['A person is playing a piano.', 'A man is jumping into a pool', 'A man is jumping into a pool', 'A man is jumping into a pool', "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", "The coronavirus outbreak in China has become a global cause for concern, with cases reported in Australia and France. The death toll has risen to 81, while 3,000 people have been infected with it, according to BBC.\n\nHere are five must-read stories on coronavirus:\n\nNew virus detected\n\nIn January, Chinese officials reported the outbreak of coronavirus, which was discovered in the central Chinese city of Wuhan. Experts initially said they didn't know how easily the virus could spread or where it originated.\n\nThis saw authorities in the US, Thailand and South Korea screen visitors from Wuhan. However, the World Health Organisation (WHO) advised against travel restrictions for China.", 'A boy is sitting in a room and playing a piano by lamp light', 'There is no little girl playing the piano', 'There is no little girl playing the piano', 'A man is doing a skateboard trick on an outdoor park porch']
+gt_embs.shape: (250, 4096)
+contract_embs.shape: (250, 4096)
+部分gt_metrics:
+cosine_distance: [0.80295545 0.8001006  0.8001006  0.8001006  0.7957701  0.7961129
+ 0.7928027  0.7907337  0.7907337  0.786475  ]
+euclidean_distance: [400.52374 401.5389  401.5389  401.5389  399.17972 400.15164 396.21164
+ 398.88684 398.88684 400.64188]
+manhattan_distance: [19265.11207581 19517.33617401 19517.33617401 19517.33617401
+ 19163.69663239 19207.17800903 19190.37627411 19501.62355804
+ 19501.62355804 19394.82072449]
+Using threshold 21.349 as 2.0% of tokens to verify with vocab size 32000.
+Candidates for verification, wrote to /home/chenkx/ckx_ws/StickyToken/results/magic_tokens_within_threshold/SFR_Embedding_2_R.jsonl
+Verifying 444 of total 635 candidates above threshold 21.349 of cosine_distance_score for model SFR-Embedding-2_R with vocab size 32000.
+[39s, 1/444] weak_verified with max_prob = 8.16e-01 token 26282: 'itr' verification info: Metrics(cosine_distance=0.7021818181818219, euclidean_distance=0.8160000000000069, manhattan_distance=0.7941818181818245)
+[79s, 2/444] weak_verified with max_prob = 7.99e-01 token 27110: 'тки' verification info: Metrics(cosine_distance=0.7181818181818224, euclidean_distance=0.7610909090909145, manhattan_distance=0.7992727272727337)
+[119s, 3/444] strong_verified with max_prob = 8.89e-01 token 4473: 'ées' verification info: Metrics(cosine_distance=0.7501818181818233, euclidean_distance=0.8836363636363725, manhattan_distance=0.8887272727272817)
+[158s, 4/444] strong_verified with max_prob = 8.77e-01 token 24601: 'moz' verification info: Metrics(cosine_distance=0.7563636363636416, euclidean_distance=0.8774545454545541, manhattan_distance=0.8767272727272813)
+[197s, 5/444] weak_verified with max_prob = 6.86e-01 token 4164: 'Point' verification info: Metrics(cosine_distance=0.5701818181818173, euclidean_distance=0.6858181818181851, manhattan_distance=0.6770909090909121)
+[237s, 6/444] weak_verified with max_prob = 7.99e-01 token 19753: 'бре' verification info: Metrics(cosine_distance=0.769454545454551, euclidean_distance=0.7981818181818247, manhattan_distance=0.798545454545461)
+[275s, 7/444] weak_verified with max_prob = 7.23e-01 token 1138: 'ID' verification info: Metrics(cosine_distance=0.5989090909090911, euclidean_distance=0.7225454545454588, manhattan_distance=0.7196363636363678)
+[315s, 8/444] weak_verified with max_prob = 6.92e-01 token 30112: '간' verification info: Metrics(cosine_distance=0.5367272727272706, euclidean_distance=0.6643636363636387, manhattan_distance=0.6916363636363669)
+[353s, 9/444] weak_verified with max_prob = 7.70e-01 token 2452: 'sch' verification info: Metrics(cosine_distance=0.7192727272727315, euclidean_distance=0.7698181818181874, manhattan_distance=0.7589090909090962)
+[392s, 10/444] weak_verified with max_prob = 8.48e-01 token 8428: '▁photo' verification info: Metrics(cosine_distance=0.7952727272727336, euclidean_distance=0.8480000000000079, manhattan_distance=0.7974545454545519)
+[432s, 11/444] weak_verified with max_prob = 8.34e-01 token 19456: 'кту' verification info: Metrics(cosine_distance=0.7476363636363687, euclidean_distance=0.8254545454545527, manhattan_distance=0.8341818181818257)
+[473s, 12/444] weak_verified with max_prob = 7.83e-01 token 14750: 'ør' verification info: Metrics(cosine_distance=0.6280000000000014, euclidean_distance=0.7745454545454603, manhattan_distance=0.7832727272727332)
+[513s, 13/444] weak_verified with max_prob = 8.20e-01 token 11692: 'jpg' verification info: Metrics(cosine_distance=0.7414545454545503, euclidean_distance=0.8200000000000071, manhattan_distance=0.7829090909090969)
+[554s, 14/444] weak_verified with max_prob = 8.54e-01 token 15373: 'SESSION' verification info: Metrics(cosine_distance=0.6698181818181846, euclidean_distance=0.8236363636363708, manhattan_distance=0.8538181818181898)
+[595s, 15/444] weak_verified with max_prob = 7.71e-01 token 7311: 'ют' verification info: Metrics(cosine_distance=0.6330909090909104, euclidean_distance=0.7152727272727314, manhattan_distance=0.7712727272727329)
+[635s, 16/444] weak_verified with max_prob = 8.33e-01 token 24263: 'ultan' verification info: Metrics(cosine_distance=0.6905454545454579, euclidean_distance=0.8334545454545529, manhattan_distance=0.8083636363636431)
+[674s, 17/444] weak_verified with max_prob = 8.70e-01 token 9845: 'pad' verification info: Metrics(cosine_distance=0.8043636363636429, euclidean_distance=0.8698181818181903, manhattan_distance=0.8545454545454626)
+[715s, 18/444] weak_verified with max_prob = 8.17e-01 token 25817: 'vf' verification info: Metrics(cosine_distance=0.7338181818181864, euclidean_distance=0.8167272727272796, manhattan_distance=0.7861818181818243)
+[756s, 19/444] weak_verified with max_prob = 8.38e-01 token 23423: 'qt' verification info: Metrics(cosine_distance=0.774181818181824, euclidean_distance=0.8381818181818258, manhattan_distance=0.8029090909090975)
+[796s, 20/444] weak_verified with max_prob = 8.43e-01 token 7529: 'hl' verification info: Metrics(cosine_distance=0.792727272727279, euclidean_distance=0.843272727272735, manhattan_distance=0.8381818181818258)
+[836s, 21/444] weak_verified with max_prob = 7.55e-01 token 4966: 'ITY' verification info: Metrics(cosine_distance=0.5479999999999983, euclidean_distance=0.7552727272727325, manhattan_distance=0.7541818181818234)
+[876s, 22/444] weak_verified with max_prob = 8.69e-01 token 595: 'ach' verification info: Metrics(cosine_distance=0.8138181818181887, euclidean_distance=0.8690909090909176, manhattan_distance=0.866545454545463)
+[916s, 23/444] weak_verified with max_prob = 7.11e-01 token 17715: 'Execute' verification info: Metrics(cosine_distance=0.5410909090909071, euclidean_distance=0.7050909090909129, manhattan_distance=0.7112727272727313)
+[955s, 24/444] weak_verified with max_prob = 8.32e-01 token 1788: 'ци' verification info: Metrics(cosine_distance=0.759636363636369, euclidean_distance=0.8320000000000074, manhattan_distance=0.8283636363636436)
+[994s, 25/444] weak_verified with max_prob = 7.55e-01 token 20662: 'Proc' verification info: Metrics(cosine_distance=0.6290909090909103, euclidean_distance=0.735272727272732, manhattan_distance=0.7549090909090961)
+[1034s, 26/444] weak_verified with max_prob = 7.20e-01 token 29100: 'ح' verification info: Metrics(cosine_distance=0.5741818181818173, euclidean_distance=0.6774545454545482, manhattan_distance=0.7200000000000042)
+[1074s, 27/444] weak_verified with max_prob = 7.38e-01 token 15645: 'RESS' verification info: Metrics(cosine_distance=0.5919999999999999, euclidean_distance=0.7378181818181865, manhattan_distance=0.7323636363636409)
+[1114s, 28/444] weak_verified with max_prob = 8.64e-01 token 6453: 'ernel' verification info: Metrics(cosine_distance=0.7076363636363675, euclidean_distance=0.8640000000000083, manhattan_distance=0.8294545454545528)
+[1152s, 29/444] weak_verified with max_prob = 8.60e-01 token 7144: 'rx' verification info: Metrics(cosine_distance=0.7512727272727324, euclidean_distance=0.8596363636363719, manhattan_distance=0.8556363636363717)
+[1192s, 30/444] weak_verified with max_prob = 7.98e-01 token 15072: 'ähr' verification info: Metrics(cosine_distance=0.6374545454545469, euclidean_distance=0.7621818181818236, manhattan_distance=0.7981818181818247)
+[1230s, 31/444] weak_verified with max_prob = 7.75e-01 token 15010: '▁Rud' verification info: Metrics(cosine_distance=0.5687272727272717, euclidean_distance=0.7745454545454603, manhattan_distance=0.7592727272727327)
+[1268s, 32/444] weak_verified with max_prob = 7.75e-01 token 3100: 'CL' verification info: Metrics(cosine_distance=0.6243636363636372, euclidean_distance=0.775272727272733, manhattan_distance=0.7712727272727329)
+[1309s, 33/444] weak_verified with max_prob = 8.26e-01 token 16715: '▁addressed' verification info: Metrics(cosine_distance=0.718909090909095, euclidean_distance=0.8261818181818255, manhattan_distance=0.8218181818181889)
+[1347s, 34/444] weak_verified with max_prob = 8.33e-01 token 2599: 'ops' verification info: Metrics(cosine_distance=0.7516363636363688, euclidean_distance=0.8232727272727344, manhattan_distance=0.8327272727272801)
+[1387s, 35/444] weak_verified with max_prob = 8.15e-01 token 7542: 'xf' verification info: Metrics(cosine_distance=0.7781818181818241, euclidean_distance=0.8145454545454615, manhattan_distance=0.7861818181818243)
+[1427s, 36/444] weak_verified with max_prob = 8.57e-01 token 13181: 'apon' verification info: Metrics(cosine_distance=0.712000000000004, euclidean_distance=0.8574545454545536, manhattan_distance=0.8447272727272804)
+[1467s, 37/444] weak_verified with max_prob = 7.45e-01 token 7049: 'INVAL' verification info: Metrics(cosine_distance=0.596, euclidean_distance=0.7181818181818224, manhattan_distance=0.7454545454545504)
+[1507s, 38/444] weak_verified with max_prob = 8.17e-01 token 17478: 'зан' verification info: Metrics(cosine_distance=0.7323636363636409, euclidean_distance=0.7905454545454608, manhattan_distance=0.8167272727272796)
+[1547s, 39/444] weak_verified with max_prob = 8.32e-01 token 22392: 'зво' verification info: Metrics(cosine_distance=0.7643636363636418, euclidean_distance=0.8152727272727341, manhattan_distance=0.8323636363636437)
+[1586s, 40/444] strong_verified with max_prob = 8.78e-01 token 23283: 'irat' verification info: Metrics(cosine_distance=0.7058181818181857, euclidean_distance=0.8778181818181905, manhattan_distance=0.8720000000000085)
+[1624s, 41/444] strong_verified with max_prob = 9.16e-01 token 16885: 'nv' verification info: Metrics(cosine_distance=0.8232727272727344, euclidean_distance=0.9156363636363734, manhattan_distance=0.902545454545464)
+[1664s, 42/444] strong_verified with max_prob = 9.03e-01 token 19660: 'nea' verification info: Metrics(cosine_distance=0.7887272727272789, euclidean_distance=0.9032727272727367, manhattan_distance=0.8949090909091001)
+[1704s, 43/444] weak_verified with max_prob = 8.32e-01 token 11457: 'icz' verification info: Metrics(cosine_distance=0.6690909090909118, euclidean_distance=0.8323636363636437, manhattan_distance=0.7785454545454604)
+[1745s, 44/444] weak_verified with max_prob = 7.33e-01 token 29319: 'र' verification info: Metrics(cosine_distance=0.6243636363636372, euclidean_distance=0.6381818181818195, manhattan_distance=0.7330909090909137)
+[1785s, 45/444] weak_verified with max_prob = 6.65e-01 token 30584: 'Ы' verification info: Metrics(cosine_distance=0.5490909090909072, euclidean_distance=0.5498181818181798, manhattan_distance=0.6650909090909114)
+[1826s, 46/444] weak_verified with max_prob = 6.93e-01 token 29332: '之' verification info: Metrics(cosine_distance=0.5789090909090902, euclidean_distance=0.6927272727272761, manhattan_distance=0.6850909090909122)
+[1866s, 47/444] weak_verified with max_prob = 8.23e-01 token 19845: 'apor' verification info: Metrics(cosine_distance=0.6905454545454579, euclidean_distance=0.8225454545454617, manhattan_distance=0.8174545454545524)
+[1906s, 48/444] weak_verified with max_prob = 7.04e-01 token 24160: 'ný' verification info: Metrics(cosine_distance=0.6141818181818188, euclidean_distance=0.7036363636363674, manhattan_distance=0.6949090909090944)
+[1946s, 49/444] strong_verified with max_prob = 8.83e-01 token 10697: 'вши' verification info: Metrics(cosine_distance=0.7312727272727318, euclidean_distance=0.8040000000000066, manhattan_distance=0.8832727272727361)
+[1986s, 50/444] weak_verified with max_prob = 8.74e-01 token 8947: 'olt' verification info: Metrics(cosine_distance=0.7454545454545504, euclidean_distance=0.8741818181818267, manhattan_distance=0.8454545454545532)
+[2026s, 51/444] strong_verified with max_prob = 8.82e-01 token 15295: 'emen' verification info: Metrics(cosine_distance=0.7458181818181867, euclidean_distance=0.8818181818181906, manhattan_distance=0.8603636363636445)
+[2064s, 52/444] weak_verified with max_prob = 8.57e-01 token 266: 'on' verification info: Metrics(cosine_distance=0.7905454545454608, euclidean_distance=0.8574545454545536, manhattan_distance=0.8320000000000074)
+[2104s, 53/444] strong_rejected with max_prob = 5.76e-01 token 7574: ')));' verification info: Metrics(cosine_distance=0.4941818181818152, euclidean_distance=0.5763636363636353, manhattan_distance=0.5018181818181785)
+[2144s, 54/444] weak_verified with max_prob = 8.35e-01 token 12661: 'RAY' verification info: Metrics(cosine_distance=0.6647272727272754, euclidean_distance=0.8352727272727347, manhattan_distance=0.8320000000000074)
+[2185s, 55/444] weak_verified with max_prob = 6.54e-01 token 30565: 'Ò' verification info: Metrics(cosine_distance=0.5105454545454513, euclidean_distance=0.6538181818181839, manhattan_distance=0.6483636363636381)
+[2225s, 56/444] strong_verified with max_prob = 8.83e-01 token 15698: 'cen' verification info: Metrics(cosine_distance=0.8080000000000067, euclidean_distance=0.8825454545454634, manhattan_distance=0.8687272727272811)
+[2265s, 57/444] weak_verified with max_prob = 7.31e-01 token 25971: 'WT' verification info: Metrics(cosine_distance=0.6080000000000004, euclidean_distance=0.730545454545459, manhattan_distance=0.7050909090909129)
+[2305s, 58/444] weak_verified with max_prob = 8.26e-01 token 1002: 'ates' verification info: Metrics(cosine_distance=0.7043636363636401, euclidean_distance=0.825818181818189, manhattan_distance=0.8243636363636435)
+[2345s, 59/444] weak_verified with max_prob = 8.48e-01 token 6366: 'uman' verification info: Metrics(cosine_distance=0.7727272727272785, euclidean_distance=0.8483636363636442, manhattan_distance=0.8207272727272797)
+[2385s, 60/444] weak_verified with max_prob = 8.21e-01 token 30291: 'ւ' verification info: Metrics(cosine_distance=0.6290909090909101, euclidean_distance=0.7258181818181861, manhattan_distance=0.8214545454545525)
+[2425s, 61/444] strong_verified with max_prob = 8.81e-01 token 20927: '▁magical' verification info: Metrics(cosine_distance=0.8181818181818252, euclidean_distance=0.8814545454545543, manhattan_distance=0.8680000000000084)
+[2465s, 62/444] weak_verified with max_prob = 8.00e-01 token 10018: 'pf' verification info: Metrics(cosine_distance=0.7774545454545513, euclidean_distance=0.8000000000000065, manhattan_distance=0.7934545454545517)
+[2506s, 63/444] strong_verified with max_prob = 8.95e-01 token 8384: 'ipeline' verification info: Metrics(cosine_distance=0.6763636363636393, euclidean_distance=0.8945454545454637, manhattan_distance=0.8669090909090993)
+[2545s, 64/444] weak_verified with max_prob = 7.45e-01 token 13367: '▁Cass' verification info: Metrics(cosine_distance=0.5516363636363619, euclidean_distance=0.7454545454545504, manhattan_distance=0.7287272727272772)
+[2585s, 65/444] weak_verified with max_prob = 7.85e-01 token 16798: 'ggreg' verification info: Metrics(cosine_distance=0.6836363636363668, euclidean_distance=0.7847272727272788, manhattan_distance=0.7443636363636412)
+[2623s, 66/444] weak_verified with max_prob = 7.29e-01 token 20300: 'Adv' verification info: Metrics(cosine_distance=0.6010909090909091, euclidean_distance=0.7287272727272772, manhattan_distance=0.7123636363636403)
+[2662s, 67/444] weak_verified with max_prob = 7.33e-01 token 26519: '▁Door' verification info: Metrics(cosine_distance=0.5945454545454546, euclidean_distance=0.73345454545455, manhattan_distance=0.7258181818181861)
+[2702s, 68/444] weak_verified with max_prob = 8.73e-01 token 3903: 'zt' verification info: Metrics(cosine_distance=0.7890909090909153, euclidean_distance=0.8730909090909177, manhattan_distance=0.8563636363636444)
+[2742s, 69/444] weak_verified with max_prob = 8.54e-01 token 15887: 'kh' verification info: Metrics(cosine_distance=0.7621818181818236, euclidean_distance=0.8538181818181898, manhattan_distance=0.8378181818181893)
+[2782s, 70/444] weak_verified with max_prob = 8.28e-01 token 16227: 'вен' verification info: Metrics(cosine_distance=0.70036363636364, euclidean_distance=0.786909090909097, manhattan_distance=0.8280000000000073)
+[2821s, 71/444] weak_verified with max_prob = 8.51e-01 token 15555: 'drv' verification info: Metrics(cosine_distance=0.7432727272727322, euclidean_distance=0.8512727272727352, manhattan_distance=0.8312727272727346)
+[2860s, 72/444] weak_verified with max_prob = 8.73e-01 token 15528: 'анг' verification info: Metrics(cosine_distance=0.7250909090909134, euclidean_distance=0.873454545454554, manhattan_distance=0.866545454545463)
+[2900s, 73/444] weak_verified with max_prob = 8.48e-01 token 13880: 'oso' verification info: Metrics(cosine_distance=0.6832727272727305, euclidean_distance=0.8480000000000079, manhattan_distance=0.7938181818181881)
+[2938s, 74/444] weak_verified with max_prob = 7.54e-01 token 7317: 'FILE' verification info: Metrics(cosine_distance=0.565090909090908, euclidean_distance=0.7385454545454593, manhattan_distance=0.7541818181818234)
+[2978s, 75/444] weak_verified with max_prob = 7.43e-01 token 26212: 'ZZ' verification info: Metrics(cosine_distance=0.6283636363636377, euclidean_distance=0.7432727272727322, manhattan_distance=0.7316363636363682)
+[3016s, 76/444] weak_verified with max_prob = 7.80e-01 token 10238: 'IMP' verification info: Metrics(cosine_distance=0.6058181818181823, euclidean_distance=0.7603636363636417, manhattan_distance=0.7803636363636423)
+[3056s, 77/444] weak_verified with max_prob = 7.44e-01 token 310: 'ct' verification info: Metrics(cosine_distance=0.7432727272727322, euclidean_distance=0.7436363636363685, manhattan_distance=0.7294545454545499)
+[3096s, 78/444] weak_verified with max_prob = 7.23e-01 token 5862: 'cht' verification info: Metrics(cosine_distance=0.6785454545454576, euclidean_distance=0.7105454545454585, manhattan_distance=0.7232727272727316)
+[3136s, 79/444] strong_verified with max_prob = 8.80e-01 token 14932: 'pler' verification info: Metrics(cosine_distance=0.7967272727272792, euclidean_distance=0.8796363636363724, manhattan_distance=0.8643636363636447)
+[3174s, 80/444] strong_verified with max_prob = 9.13e-01 token 27443: 'mong' verification info: Metrics(cosine_distance=0.7672727272727328, euclidean_distance=0.9127272727272824, manhattan_distance=0.8749090909090995)
+[3214s, 81/444] weak_verified with max_prob = 8.68e-01 token 6124: 'atz' verification info: Metrics(cosine_distance=0.7276363636363681, euclidean_distance=0.8683636363636448, manhattan_distance=0.8487272727272805)
+[3254s, 82/444] weak_verified with max_prob = 8.55e-01 token 8525: 'orial' verification info: Metrics(cosine_distance=0.6785454545454576, euclidean_distance=0.8545454545454626, manhattan_distance=0.846181818181826)
+[3293s, 83/444] weak_verified with max_prob = 6.69e-01 token 15774: 'Med' verification info: Metrics(cosine_distance=0.5559999999999985, euclidean_distance=0.6672727272727297, manhattan_distance=0.669454545454548)
+[3332s, 84/444] weak_verified with max_prob = 8.08e-01 token 1490: 'ittle' verification info: Metrics(cosine_distance=0.6734545454545483, euclidean_distance=0.8083636363636431, manhattan_distance=0.7683636363636419)
+[3371s, 85/444] weak_verified with max_prob = 7.35e-01 token 24204: 'Bag' verification info: Metrics(cosine_distance=0.5774545454545449, euclidean_distance=0.735272727272732, manhattan_distance=0.7338181818181864)
+[3410s, 86/444] weak_verified with max_prob = 8.44e-01 token 27966: 'idan' verification info: Metrics(cosine_distance=0.7105454545454585, euclidean_distance=0.8443636363636441, manhattan_distance=0.8054545454545521)
+[3450s, 87/444] weak_verified with max_prob = 7.90e-01 token 9037: 'ifts' verification info: Metrics(cosine_distance=0.6960000000000035, euclidean_distance=0.7832727272727332, manhattan_distance=0.789818181818188)
+[3490s, 88/444] weak_verified with max_prob = 8.47e-01 token 15046: 'ibt' verification info: Metrics(cosine_distance=0.7134545454545494, euclidean_distance=0.8465454545454624, manhattan_distance=0.8192727272727343)
+[3530s, 89/444] weak_verified with max_prob = 8.65e-01 token 1412: 'ason' verification info: Metrics(cosine_distance=0.7476363636363687, euclidean_distance=0.8654545454545538, manhattan_distance=0.8418181818181895)
+[3568s, 90/444] weak_verified with max_prob = 8.60e-01 token 22432: 'zm' verification info: Metrics(cosine_distance=0.7458181818181867, euclidean_distance=0.8603636363636445, manhattan_distance=0.82872727272728)
+[3608s, 91/444] weak_verified with max_prob = 8.41e-01 token 12956: 'omy' verification info: Metrics(cosine_distance=0.649818181818184, euclidean_distance=0.8407272727272803, manhattan_distance=0.7778181818181876)
+[3648s, 92/444] weak_verified with max_prob = 8.63e-01 token 14886: 'aman' verification info: Metrics(cosine_distance=0.7832727272727332, euclidean_distance=0.8629090909090992, manhattan_distance=0.8320000000000074)
+[3688s, 93/444] weak_verified with max_prob = 7.55e-01 token 30964: 'ល' verification info: Metrics(cosine_distance=0.6010909090909092, euclidean_distance=0.6956363636363672, manhattan_distance=0.7545454545454597)
+[3728s, 94/444] weak_verified with max_prob = 7.13e-01 token 18917: 'Ip' verification info: Metrics(cosine_distance=0.5596363636363625, euclidean_distance=0.7127272727272768, manhattan_distance=0.6854545454545486)
+[3768s, 95/444] weak_verified with max_prob = 7.90e-01 token 21056: 'ète' verification info: Metrics(cosine_distance=0.6480000000000019, euclidean_distance=0.789818181818188, manhattan_distance=0.7687272727272784)
+[3809s, 96/444] weak_verified with max_prob = 7.63e-01 token 30341: 'ψ' verification info: Metrics(cosine_distance=0.6367272727272743, euclidean_distance=0.7632727272727327, manhattan_distance=0.7243636363636407)
+[3847s, 97/444] weak_verified with max_prob = 7.07e-01 token 14749: 'Mag' verification info: Metrics(cosine_distance=0.5821818181818176, euclidean_distance=0.7069090909090947, manhattan_distance=0.7014545454545491)
+[3886s, 98/444] weak_verified with max_prob = 8.29e-01 token 26770: 'usta' verification info: Metrics(cosine_distance=0.7276363636363681, euclidean_distance=0.8294545454545528, manhattan_distance=0.8210909090909162)
+[3926s, 99/444] weak_verified with max_prob = 8.45e-01 token 9367: 'fx' verification info: Metrics(cosine_distance=0.7887272727272789, euclidean_distance=0.8454545454545532, manhattan_distance=0.8254545454545527)
+[3967s, 100/444] weak_verified with max_prob = 8.56e-01 token 9570: 'xb' verification info: Metrics(cosine_distance=0.8123636363636432, euclidean_distance=0.8556363636363717, manhattan_distance=0.8392727272727348)
+[4007s, 101/444] strong_verified with max_prob = 8.88e-01 token 20055: 'oly' verification info: Metrics(cosine_distance=0.7054545454545492, euclidean_distance=0.888000000000009, manhattan_distance=0.8410909090909168)
+[4047s, 102/444] weak_verified with max_prob = 7.96e-01 token 16270: 'pk' verification info: Metrics(cosine_distance=0.7825454545454605, euclidean_distance=0.7960000000000064, manhattan_distance=0.7756363636363695)
+[4087s, 103/444] weak_verified with max_prob = 8.29e-01 token 14477: 'жу' verification info: Metrics(cosine_distance=0.7072727272727312, euclidean_distance=0.7792727272727331, manhattan_distance=0.82872727272728)
+[4127s, 104/444] weak_verified with max_prob = 8.47e-01 token 1288: 'aking' verification info: Metrics(cosine_distance=0.720727272727277, euclidean_distance=0.8465454545454624, manhattan_distance=0.8283636363636436)
+[4167s, 105/444] weak_verified with max_prob = 7.57e-01 token 19037: 'öß' verification info: Metrics(cosine_distance=0.5887272727272725, euclidean_distance=0.7472727272727323, manhattan_distance=0.7574545454545507)
+[4206s, 106/444] weak_verified with max_prob = 8.19e-01 token 5711: 'ror' verification info: Metrics(cosine_distance=0.7309090909090954, euclidean_distance=0.8185454545454616, manhattan_distance=0.8061818181818249)
+[4246s, 107/444] strong_verified with max_prob = 8.83e-01 token 28684: 'gon' verification info: Metrics(cosine_distance=0.7523636363636415, euclidean_distance=0.8829090909090997, manhattan_distance=0.8621818181818264)
+[4286s, 108/444] weak_verified with max_prob = 8.18e-01 token 20785: 'omon' verification info: Metrics(cosine_distance=0.6760000000000029, euclidean_distance=0.8178181818181888, manhattan_distance=0.7814545454545514)
+[4326s, 109/444] strong_verified with max_prob = 8.77e-01 token 3525: 'urt' verification info: Metrics(cosine_distance=0.7247272727272771, euclidean_distance=0.8774545454545541, manhattan_distance=0.8458181818181896)
+[4367s, 110/444] strong_verified with max_prob = 9.05e-01 token 4209: 'apan' verification info: Metrics(cosine_distance=0.7785454545454604, euclidean_distance=0.9050909090909186, manhattan_distance=0.8745454545454632)
+[4405s, 111/444] weak_verified with max_prob = 8.41e-01 token 4888: 'show' verification info: Metrics(cosine_distance=0.76254545454546, euclidean_distance=0.8410909090909168, manhattan_distance=0.8327272727272801)
+[4446s, 112/444] weak_verified with max_prob = 8.17e-01 token 7137: 'iki' verification info: Metrics(cosine_distance=0.7127272727272768, euclidean_distance=0.8167272727272796, manhattan_distance=0.7978181818181882)
+[4486s, 113/444] weak_verified with max_prob = 8.10e-01 token 8286: 'isc' verification info: Metrics(cosine_distance=0.73345454545455, euclidean_distance=0.8098181818181885, manhattan_distance=0.7865454545454607)
+[4527s, 114/444] weak_verified with max_prob = 7.61e-01 token 30687: 'ய' verification info: Metrics(cosine_distance=0.6400000000000017, euclidean_distance=0.7152727272727314, manhattan_distance=0.7607272727272781)
+[4567s, 115/444] weak_verified with max_prob = 8.20e-01 token 20077: 'нан' verification info: Metrics(cosine_distance=0.7320000000000045, euclidean_distance=0.7989090909090973, manhattan_distance=0.8200000000000071)
+[4607s, 116/444] weak_verified with max_prob = 8.36e-01 token 18897: 'wm' verification info: Metrics(cosine_distance=0.7287272727272772, euclidean_distance=0.8363636363636439, manhattan_distance=0.8134545454545523)
+[4647s, 117/444] weak_verified with max_prob = 7.89e-01 token 9744: 'ünd' verification info: Metrics(cosine_distance=0.6520000000000022, euclidean_distance=0.7629090909090963, manhattan_distance=0.7890909090909153)
+[4686s, 118/444] weak_verified with max_prob = 8.00e-01 token 5422: 'img' verification info: Metrics(cosine_distance=0.7338181818181864, euclidean_distance=0.8000000000000065, manhattan_distance=0.7498181818181868)
+[4727s, 119/444] weak_verified with max_prob = 8.77e-01 token 6497: 'ede' verification info: Metrics(cosine_distance=0.7272727272727317, euclidean_distance=0.8767272727272813, manhattan_distance=0.8629090909090992)
+[4765s, 120/444] weak_verified with max_prob = 8.57e-01 token 322: 'ot' verification info: Metrics(cosine_distance=0.6796363636363667, euclidean_distance=0.8570909090909172, manhattan_distance=0.7996363636363701)
+[4805s, 121/444] strong_verified with max_prob = 8.80e-01 token 5989: 'lam' verification info: Metrics(cosine_distance=0.7716363636363693, euclidean_distance=0.8785454545454633, manhattan_distance=0.8800000000000088)
+[4846s, 122/444] weak_verified with max_prob = 8.09e-01 token 5769: 'izz' verification info: Metrics(cosine_distance=0.6501818181818204, euclidean_distance=0.8090909090909159, manhattan_distance=0.7643636363636418)
+[4886s, 123/444] weak_verified with max_prob = 7.77e-01 token 19822: 'valueOf' verification info: Metrics(cosine_distance=0.6840000000000032, euclidean_distance=0.7661818181818237, manhattan_distance=0.7767272727272786)
+[4926s, 124/444] weak_verified with max_prob = 8.38e-01 token 13076: 'ammen' verification info: Metrics(cosine_distance=0.6985454545454581, euclidean_distance=0.8381818181818258, manhattan_distance=0.7858181818181879)
+[4967s, 125/444] weak_verified with max_prob = 7.77e-01 token 12600: 'AE' verification info: Metrics(cosine_distance=0.5894545454545451, euclidean_distance=0.7770909090909149, manhattan_distance=0.7665454545454601)
+[5006s, 126/444] weak_verified with max_prob = 8.30e-01 token 12576: 'dx' verification info: Metrics(cosine_distance=0.7338181818181864, euclidean_distance=0.8298181818181891, manhattan_distance=0.8072727272727339)
+[5046s, 127/444] weak_verified with max_prob = 7.61e-01 token 11240: 'ór' verification info: Metrics(cosine_distance=0.6356363636363652, euclidean_distance=0.7610909090909145, manhattan_distance=0.7523636363636415)
+[5084s, 128/444] weak_verified with max_prob = 8.53e-01 token 508: 'ip' verification info: Metrics(cosine_distance=0.7261818181818226, euclidean_distance=0.8534545454545535, manhattan_distance=0.8389090909090985)
+[5124s, 129/444] strong_verified with max_prob = 9.01e-01 token 5451: 'enge' verification info: Metrics(cosine_distance=0.7563636363636416, euclidean_distance=0.9010909090909185, manhattan_distance=0.8810909090909179)
+[5162s, 130/444] weak_verified with max_prob = 8.19e-01 token 4586: 'rs' verification info: Metrics(cosine_distance=0.759636363636369, euclidean_distance=0.8185454545454616, manhattan_distance=0.792727272727279)
+[5202s, 131/444] weak_verified with max_prob = 8.16e-01 token 21986: 'ссе' verification info: Metrics(cosine_distance=0.7294545454545499, euclidean_distance=0.7974545454545519, manhattan_distance=0.8156363636363706)
+[5243s, 132/444] weak_verified with max_prob = 6.45e-01 token 30664: '👏' verification info: Metrics(cosine_distance=0.5785454545454538, euclidean_distance=0.6312727272727284, manhattan_distance=0.6454545454545472)
+[5283s, 133/444] weak_verified with max_prob = 8.48e-01 token 25893: 'onen' verification info: Metrics(cosine_distance=0.7672727272727328, euclidean_distance=0.8483636363636442, manhattan_distance=0.8370909090909167)
+[5321s, 134/444] weak_verified with max_prob = 7.25e-01 token 5357: '<?' verification info: Metrics(cosine_distance=0.6007272727272729, euclidean_distance=0.7247272727272771, manhattan_distance=0.6476363636363655)
+[5362s, 135/444] weak_verified with max_prob = 7.12e-01 token 30102: 'ų' verification info: Metrics(cosine_distance=0.537090909090907, euclidean_distance=0.691636363636367, manhattan_distance=0.7123636363636403)
+[5402s, 136/444] weak_verified with max_prob = 7.21e-01 token 31510: '🥰' verification info: Metrics(cosine_distance=0.6025454545454547, euclidean_distance=0.6949090909090944, manhattan_distance=0.7210909090909133)
+[5442s, 137/444] weak_verified with max_prob = 7.65e-01 token 21634: 'гре' verification info: Metrics(cosine_distance=0.7200000000000042, euclidean_distance=0.7501818181818233, manhattan_distance=0.7647272727272783)
+[5482s, 138/444] weak_verified with max_prob = 8.58e-01 token 27868: 'iore' verification info: Metrics(cosine_distance=0.6767272727272757, euclidean_distance=0.8567272727272808, manhattan_distance=0.8578181818181899)
+[5522s, 139/444] weak_verified with max_prob = 7.79e-01 token 18422: 'cken' verification info: Metrics(cosine_distance=0.7112727272727313, euclidean_distance=0.7792727272727331, manhattan_distance=0.7454545454545504)
+[5562s, 140/444] weak_verified with max_prob = 8.21e-01 token 448: 'nt' verification info: Metrics(cosine_distance=0.759636363636369, euclidean_distance=0.8214545454545525, manhattan_distance=0.8061818181818249)
+[5601s, 141/444] weak_verified with max_prob = 7.53e-01 token 7163: '▁Ter' verification info: Metrics(cosine_distance=0.5712727272727264, euclidean_distance=0.7534545454545506, manhattan_distance=0.7432727272727322)
+[5641s, 142/444] weak_verified with max_prob = 8.41e-01 token 8492: 'bd' verification info: Metrics(cosine_distance=0.801454545454552, euclidean_distance=0.8407272727272803, manhattan_distance=0.8105454545454613)
+[5681s, 143/444] weak_verified with max_prob = 8.44e-01 token 24844: 'дии' verification info: Metrics(cosine_distance=0.7385454545454593, euclidean_distance=0.8421818181818259, manhattan_distance=0.8443636363636441)
+[5721s, 144/444] weak_verified with max_prob = 7.85e-01 token 29618: 'ן' verification info: Metrics(cosine_distance=0.6018181818181821, euclidean_distance=0.7396363636363684, manhattan_distance=0.7854545454545515)
+[5761s, 145/444] strong_verified with max_prob = 8.95e-01 token 12844: 'atin' verification info: Metrics(cosine_distance=0.7381818181818229, euclidean_distance=0.8945454545454637, manhattan_distance=0.8803636363636451)
+[5800s, 146/444] weak_verified with max_prob = 7.46e-01 token 12806: '▁Inga' verification info: Metrics(cosine_distance=0.5349090909090886, euclidean_distance=0.7458181818181867, manhattan_distance=0.7378181818181865)
+[5838s, 147/444] weak_verified with max_prob = 7.28e-01 token 3932: 'msg' verification info: Metrics(cosine_distance=0.712000000000004, euclidean_distance=0.7276363636363681, manhattan_distance=0.6898181818181851)
+[5879s, 148/444] weak_verified with max_prob = 7.36e-01 token 30218: 'გ' verification info: Metrics(cosine_distance=0.57890909090909, euclidean_distance=0.6683636363636387, manhattan_distance=0.736363636363641)
+[5919s, 149/444] weak_verified with max_prob = 7.12e-01 token 16333: 'чки' verification info: Metrics(cosine_distance=0.6476363636363656, euclidean_distance=0.6814545454545485, manhattan_distance=0.7123636363636403)
+[5959s, 150/444] weak_verified with max_prob = 7.94e-01 token 31030: 'ץ' verification info: Metrics(cosine_distance=0.6254545454545464, euclidean_distance=0.7501818181818233, manhattan_distance=0.7938181818181881)
+[5999s, 151/444] weak_verified with max_prob = 8.69e-01 token 4845: 'ky' verification info: Metrics(cosine_distance=0.784000000000006, euclidean_distance=0.8687272727272811, manhattan_distance=0.8480000000000079)
+[6039s, 152/444] weak_verified with max_prob = 8.45e-01 token 22868: 'тва' verification info: Metrics(cosine_distance=0.7443636363636412, euclidean_distance=0.8007272727272793, manhattan_distance=0.8450909090909169)
+[6077s, 153/444] weak_verified with max_prob = 7.21e-01 token 3726: 'DB' verification info: Metrics(cosine_distance=0.6025454545454548, euclidean_distance=0.7214545454545497, manhattan_distance=0.7123636363636403)
+[6117s, 154/444] strong_rejected with max_prob = 5.87e-01 token 20148: '.]' verification info: Metrics(cosine_distance=0.5479999999999979, euclidean_distance=0.5865454545454538, manhattan_distance=0.499272727272724)
+[6157s, 155/444] weak_verified with max_prob = 7.48e-01 token 31190: 'ర' verification info: Metrics(cosine_distance=0.6134545454545461, euclidean_distance=0.6840000000000032, manhattan_distance=0.748000000000005)
+[6197s, 156/444] weak_verified with max_prob = 7.28e-01 token 26657: ':}' verification info: Metrics(cosine_distance=0.6705454545454573, euclidean_distance=0.7276363636363681, manhattan_distance=0.6458181818181837)
+[6237s, 157/444] weak_verified with max_prob = 7.43e-01 token 29342: 'χ' verification info: Metrics(cosine_distance=0.61709090909091, euclidean_distance=0.7425454545454594, manhattan_distance=0.7130909090909131)
+[6277s, 158/444] weak_verified with max_prob = 7.87e-01 token 7763: 'зы' verification info: Metrics(cosine_distance=0.7029090909090946, euclidean_distance=0.7269090909090953, manhattan_distance=0.7865454545454607)
+[6317s, 159/444] weak_verified with max_prob = 8.17e-01 token 1590: 'ote' verification info: Metrics(cosine_distance=0.6480000000000021, euclidean_distance=0.8170909090909161, manhattan_distance=0.7716363636363693)
+[6357s, 160/444] strong_verified with max_prob = 8.78e-01 token 3572: 'elling' verification info: Metrics(cosine_distance=0.6898181818181852, euclidean_distance=0.8778181818181905, manhattan_distance=0.8407272727272803)
+[6395s, 161/444] weak_verified with max_prob = 8.16e-01 token 14415: 'cx' verification info: Metrics(cosine_distance=0.784000000000006, euclidean_distance=0.8163636363636433, manhattan_distance=0.7967272727272792)
+[6436s, 162/444] weak_verified with max_prob = 7.74e-01 token 606: 'ck' verification info: Metrics(cosine_distance=0.7530909090909143, euclidean_distance=0.7738181818181875, manhattan_distance=0.7501818181818233)
+[6476s, 163/444] weak_verified with max_prob = 8.44e-01 token 8574: 'xc' verification info: Metrics(cosine_distance=0.8247272727272799, euclidean_distance=0.8443636363636441, manhattan_distance=0.8178181818181888)
+[6514s, 164/444] weak_verified with max_prob = 8.28e-01 token 434: 'tr' verification info: Metrics(cosine_distance=0.7701818181818239, euclidean_distance=0.8280000000000073, manhattan_distance=0.8254545454545527)
+[6552s, 165/444] weak_verified with max_prob = 8.69e-01 token 452: 'pl' verification info: Metrics(cosine_distance=0.8021818181818248, euclidean_distance=0.8694545454545539, manhattan_distance=0.840363636363644)
+[6591s, 166/444] weak_verified with max_prob = 8.33e-01 token 1787: 'ags' verification info: Metrics(cosine_distance=0.7356363636363683, euclidean_distance=0.8334545454545529, manhattan_distance=0.8232727272727344)
+[6631s, 167/444] strong_rejected with max_prob = 5.46e-01 token 16433: "']))" verification info: Metrics(cosine_distance=0.4763636363636336, euclidean_distance=0.5461818181818162, manhattan_distance=0.46872727272727005)
+[6671s, 168/444] weak_verified with max_prob = 7.25e-01 token 16919: 'ITH' verification info: Metrics(cosine_distance=0.5469090909090891, euclidean_distance=0.7250909090909134, manhattan_distance=0.6930909090909125)
+[6709s, 169/444] weak_verified with max_prob = 7.80e-01 token 2773: 'ii' verification info: Metrics(cosine_distance=0.7076363636363675, euclidean_distance=0.7800000000000059, manhattan_distance=0.7552727272727325)
+[6748s, 170/444] weak_verified with max_prob = 7.41e-01 token 2589: 'aken' verification info: Metrics(cosine_distance=0.7000000000000036, euclidean_distance=0.7414545454545503, manhattan_distance=0.7396363636363684)
+[6789s, 171/444] weak_verified with max_prob = 6.60e-01 token 30494: '╝' verification info: Metrics(cosine_distance=0.5450909090909072, euclidean_distance=0.6600000000000021, manhattan_distance=0.6396363636363651)
+[6829s, 172/444] weak_verified with max_prob = 7.73e-01 token 24962: 'ил' verification info: Metrics(cosine_distance=0.6694545454545482, euclidean_distance=0.7156363636363677, manhattan_distance=0.7730909090909148)
+[6869s, 173/444] weak_verified with max_prob = 7.31e-01 token 25448: 'íl' verification info: Metrics(cosine_distance=0.5941818181818183, euclidean_distance=0.730545454545459, manhattan_distance=0.7127272727272768)
+[6909s, 174/444] weak_verified with max_prob = 8.42e-01 token 10903: 'arna' verification info: Metrics(cosine_distance=0.6927272727272762, euclidean_distance=0.8418181818181895, manhattan_distance=0.8250909090909163)
+[6948s, 175/444] weak_verified with max_prob = 8.35e-01 token 1004: 'ood' verification info: Metrics(cosine_distance=0.730545454545459, euclidean_distance=0.834545454545462, manhattan_distance=0.7770909090909149)
+[6988s, 176/444] weak_verified with max_prob = 8.19e-01 token 14946: 'nm' verification info: Metrics(cosine_distance=0.7072727272727312, euclidean_distance=0.8192727272727343, manhattan_distance=0.7850909090909152)
+[7026s, 177/444] weak_verified with max_prob = 7.97e-01 token 2362: 'ар' verification info: Metrics(cosine_distance=0.6523636363636386, euclidean_distance=0.709090909090913, manhattan_distance=0.7970909090909155)
+[7066s, 178/444] weak_verified with max_prob = 7.99e-01 token 2520: 'nder' verification info: Metrics(cosine_distance=0.6549090909090932, euclidean_distance=0.798545454545461, manhattan_distance=0.7407272727272776)
+[7107s, 179/444] weak_verified with max_prob = 6.81e-01 token 30711: '학' verification info: Metrics(cosine_distance=0.5556363636363619, euclidean_distance=0.6476363636363652, manhattan_distance=0.6807272727272756)
+[7146s, 180/444] strong_verified with max_prob = 8.84e-01 token 11703: 'ieg' verification info: Metrics(cosine_distance=0.6669090909090936, euclidean_distance=0.8843636363636452, manhattan_distance=0.8505454545454625)
+[7185s, 181/444] weak_verified with max_prob = 7.63e-01 token 4053: 'df' verification info: Metrics(cosine_distance=0.6738181818181848, euclidean_distance=0.7629090909090963, manhattan_distance=0.7054545454545492)
+[7225s, 182/444] weak_verified with max_prob = 7.78e-01 token 510: 'xt' verification info: Metrics(cosine_distance=0.6938181818181853, euclidean_distance=0.7781818181818241, manhattan_distance=0.7232727272727316)
+[7264s, 183/444] weak_verified with max_prob = 8.24e-01 token 16832: 'лле' verification info: Metrics(cosine_distance=0.7029090909090946, euclidean_distance=0.8207272727272797, manhattan_distance=0.8240000000000072)
+[7304s, 184/444] strong_verified with max_prob = 9.17e-01 token 722: 'ient' verification info: Metrics(cosine_distance=0.7701818181818239, euclidean_distance=0.9174545454545553, manhattan_distance=0.8985454545454639)
+[7344s, 185/444] strong_verified with max_prob = 8.80e-01 token 3451: 'ilon' verification info: Metrics(cosine_distance=0.7167272727272769, euclidean_distance=0.8800000000000088, manhattan_distance=0.8469090909090987)
+[7384s, 186/444] weak_verified with max_prob = 7.57e-01 token 28562: 'ит' verification info: Metrics(cosine_distance=0.6574545454545478, euclidean_distance=0.709090909090913, manhattan_distance=0.7574545454545507)
+[7424s, 187/444] weak_verified with max_prob = 6.80e-01 token 30724: '\x04' verification info: Metrics(cosine_distance=0.5029090909090878, euclidean_distance=0.6796363636363667, manhattan_distance=0.6720000000000027)
+[7463s, 188/444] weak_verified with max_prob = 8.62e-01 token 26511: 'oter' verification info: Metrics(cosine_distance=0.6963636363636398, euclidean_distance=0.86181818181819, manhattan_distance=0.8320000000000074)
+[7503s, 189/444] strong_rejected with max_prob = 5.99e-01 token 28424: ']])' verification info: Metrics(cosine_distance=0.5327272727272704, euclidean_distance=0.5985454545454546, manhattan_distance=0.5109090909090878)
+[7541s, 190/444] strong_rejected with max_prob = 6.04e-01 token 28859: 'Н' verification info: Metrics(cosine_distance=0.5490909090909072, euclidean_distance=0.5301818181818154, manhattan_distance=0.604)
+[7582s, 191/444] weak_verified with max_prob = 7.51e-01 token 28916: 'æ' verification info: Metrics(cosine_distance=0.5487272727272708, euclidean_distance=0.7505454545454596, manhattan_distance=0.7094545454545493)
+[7622s, 192/444] weak_verified with max_prob = 6.63e-01 token 2803: '])' verification info: Metrics(cosine_distance=0.5872727272727271, euclidean_distance=0.662545454545457, manhattan_distance=0.5949090909090907)
+[7662s, 193/444] weak_verified with max_prob = 7.01e-01 token 31023: 'ғ' verification info: Metrics(cosine_distance=0.563999999999999, euclidean_distance=0.673090909090912, manhattan_distance=0.7007272727272764)
+[7702s, 194/444] weak_verified with max_prob = 7.58e-01 token 28877: 'ñ' verification info: Metrics(cosine_distance=0.6058181818181823, euclidean_distance=0.7581818181818235, manhattan_distance=0.7258181818181861)
+[7742s, 195/444] weak_verified with max_prob = 6.49e-01 token 23073: '$).' verification info: Metrics(cosine_distance=0.523999999999997, euclidean_distance=0.6490909090909108, manhattan_distance=0.574181818181817)
+[7782s, 196/444] weak_verified with max_prob = 7.56e-01 token 29127: 'א' verification info: Metrics(cosine_distance=0.6247272727272737, euclidean_distance=0.7338181818181864, manhattan_distance=0.7563636363636416)
+[7820s, 197/444] weak_verified with max_prob = 7.69e-01 token 391: 'and' verification info: Metrics(cosine_distance=0.6534545454545477, euclidean_distance=0.7687272727272784, manhattan_distance=0.7654545454545509)
+[7860s, 198/444] weak_verified with max_prob = 6.93e-01 token 29929: 'ं' verification info: Metrics(cosine_distance=0.5574545454545439, euclidean_distance=0.6530909090909109, manhattan_distance=0.6934545454545489)
+[7898s, 199/444] strong_verified with max_prob = 8.82e-01 token 4197: 'wer' verification info: Metrics(cosine_distance=0.7665454545454601, euclidean_distance=0.8818181818181906, manhattan_distance=0.8712727272727357)
+[7938s, 200/444] weak_verified with max_prob = 7.04e-01 token 10217: 'гі' verification info: Metrics(cosine_distance=0.6309090909090922, euclidean_distance=0.5879999999999999, manhattan_distance=0.7040000000000037)
+[7979s, 201/444] weak_verified with max_prob = 7.35e-01 token 31254: 'গ' verification info: Metrics(cosine_distance=0.5912727272727271, euclidean_distance=0.6701818181818209, manhattan_distance=0.7345454545454592)
+[8017s, 202/444] weak_verified with max_prob = 7.67e-01 token 587: 'pp' verification info: Metrics(cosine_distance=0.720727272727277, euclidean_distance=0.7672727272727328, manhattan_distance=0.7287272727272772)
+[8057s, 203/444] weak_verified with max_prob = 8.23e-01 token 16631: 'etta' verification info: Metrics(cosine_distance=0.6912727272727307, euclidean_distance=0.8232727272727344, manhattan_distance=0.7836363636363697)
+[8097s, 204/444] weak_verified with max_prob = 8.13e-01 token 11916: 'rq' verification info: Metrics(cosine_distance=0.8003636363636428, euclidean_distance=0.8065454545454612, manhattan_distance=0.8134545454545523)
+[8135s, 205/444] weak_verified with max_prob = 7.94e-01 token 608: 'ст' verification info: Metrics(cosine_distance=0.745090909090914, euclidean_distance=0.781090909090915, manhattan_distance=0.7941818181818245)
+[8174s, 206/444] weak_verified with max_prob = 7.40e-01 token 24860: 'њи' verification info: Metrics(cosine_distance=0.6072727272727276, euclidean_distance=0.6920000000000033, manhattan_distance=0.7403636363636411)
+[8214s, 207/444] strong_rejected with max_prob = 6.03e-01 token 23897: '},{' verification info: Metrics(cosine_distance=0.5185454545454515, euclidean_distance=0.6032727272727276, manhattan_distance=0.510181818181815)
+[8254s, 208/444] weak_verified with max_prob = 7.96e-01 token 31227: 'ి' verification info: Metrics(cosine_distance=0.6192727272727281, euclidean_distance=0.7378181818181865, manhattan_distance=0.7963636363636427)
+[8295s, 209/444] weak_verified with max_prob = 7.43e-01 token 31405: '짜' verification info: Metrics(cosine_distance=0.567999999999999, euclidean_distance=0.7265454545454589, manhattan_distance=0.7432727272727322)
+[8335s, 210/444] weak_verified with max_prob = 7.78e-01 token 29826: 'ľ' verification info: Metrics(cosine_distance=0.6341818181818196, euclidean_distance=0.7778181818181876, manhattan_distance=0.7730909090909148)
+[8375s, 211/444] strong_rejected with max_prob = 5.91e-01 token 9340: '})$' verification info: Metrics(cosine_distance=0.5858181818181816, euclidean_distance=0.5909090909090906, manhattan_distance=0.5032727272727242)
+[8413s, 212/444] weak_verified with max_prob = 8.15e-01 token 463: 'iz' verification info: Metrics(cosine_distance=0.670181818181821, euclidean_distance=0.8145454545454615, manhattan_distance=0.8007272727272793)
+[8452s, 213/444] weak_verified with max_prob = 7.36e-01 token 11099: 'tm' verification info: Metrics(cosine_distance=0.6858181818181851, euclidean_distance=0.7360000000000047, manhattan_distance=0.7185454545454587)
+[8492s, 214/444] weak_verified with max_prob = 7.16e-01 token 29754: 'ّ' verification info: Metrics(cosine_distance=0.5716363636363626, euclidean_distance=0.6960000000000035, manhattan_distance=0.7160000000000041)
+[8533s, 215/444] weak_verified with max_prob = 7.01e-01 token 30314: '\x06' verification info: Metrics(cosine_distance=0.5523636363636344, euclidean_distance=0.697454545454549, manhattan_distance=0.7007272727272764)
+[8571s, 216/444] strong_verified with max_prob = 9.21e-01 token 28437: '▁zomb' verification info: Metrics(cosine_distance=0.7836363636363697, euclidean_distance=0.9207272727272826, manhattan_distance=0.8840000000000089)
+[8612s, 217/444] weak_verified with max_prob = 8.45e-01 token 14985: 'TRACE' verification info: Metrics(cosine_distance=0.7050909090909129, euclidean_distance=0.8236363636363708, manhattan_distance=0.8447272727272804)
+[8650s, 218/444] weak_verified with max_prob = 8.45e-01 token 28155: '▁són' verification info: Metrics(cosine_distance=0.7181818181818224, euclidean_distance=0.8454545454545532, manhattan_distance=0.8450909090909169)
+[8689s, 219/444] strong_verified with max_prob = 9.00e-01 token 12441: '▁torch' verification info: Metrics(cosine_distance=0.8436363636363714, euclidean_distance=0.9003636363636457, manhattan_distance=0.8723636363636449)
+[8729s, 220/444] weak_verified with max_prob = 7.34e-01 token 26106: 'Millis' verification info: Metrics(cosine_distance=0.6196363636363645, euclidean_distance=0.7185454545454587, manhattan_distance=0.7341818181818228)
+[8771s, 221/444] weak_verified with max_prob = 7.95e-01 token 20259: 'ENOMEM' verification info: Metrics(cosine_distance=0.6447272727272747, euclidean_distance=0.789818181818188, manhattan_distance=0.7949090909090972)
+[8811s, 222/444] weak_verified with max_prob = 7.28e-01 token 20281: '▁Newton' verification info: Metrics(cosine_distance=0.563272727272726, euclidean_distance=0.7276363636363681, manhattan_distance=0.7232727272727316)
+[8852s, 223/444] weak_verified with max_prob = 8.48e-01 token 27853: '▁customs' verification info: Metrics(cosine_distance=0.8069090909090976, euclidean_distance=0.8483636363636442, manhattan_distance=0.8232727272727344)
+[8892s, 224/444] weak_verified with max_prob = 8.36e-01 token 23801: 'interrupt' verification info: Metrics(cosine_distance=0.7483636363636413, euclidean_distance=0.8363636363636439, manhattan_distance=0.8221818181818253)
+[8934s, 225/444] weak_verified with max_prob = 7.13e-01 token 17307: 'LENGTH' verification info: Metrics(cosine_distance=0.5650909090909079, euclidean_distance=0.7134545454545494, manhattan_distance=0.6810909090909122)
+[8974s, 226/444] strong_rejected with max_prob = 6.28e-01 token 16654: '▁Ukraine' verification info: Metrics(cosine_distance=0.4981818181818153, euclidean_distance=0.6280000000000011, manhattan_distance=0.6192727272727281)
+[9014s, 227/444] weak_verified with max_prob = 8.47e-01 token 20984: '▁pulse' verification info: Metrics(cosine_distance=0.769454545454551, euclidean_distance=0.8465454545454624, manhattan_distance=0.8207272727272797)
+[9055s, 228/444] strong_verified with max_prob = 8.98e-01 token 25236: '▁diffusion' verification info: Metrics(cosine_distance=0.8327272727272801, euclidean_distance=0.8981818181818274, manhattan_distance=0.8949090909091001)
+[9095s, 229/444] weak_verified with max_prob = 7.23e-01 token 31735: '棋' verification info: Metrics(cosine_distance=0.6421818181818197, euclidean_distance=0.707272727272731, manhattan_distance=0.7232727272727316)
+[9134s, 230/444] weak_verified with max_prob = 7.75e-01 token 19514: '▁Horn' verification info: Metrics(cosine_distance=0.6283636363636375, euclidean_distance=0.7749090909090967, manhattan_distance=0.7574545454545507)
+[9173s, 231/444] weak_verified with max_prob = 8.09e-01 token 27993: '▁Frau' verification info: Metrics(cosine_distance=0.6170909090909099, euclidean_distance=0.7854545454545515, manhattan_distance=0.8090909090909159)
+[9213s, 232/444] weak_verified with max_prob = 7.07e-01 token 23555: '▁Holland' verification info: Metrics(cosine_distance=0.5621818181818168, euclidean_distance=0.7069090909090947, manhattan_distance=0.6981818181818218)
+[9252s, 233/444] weak_verified with max_prob = 8.54e-01 token 14585: '▁timer' verification info: Metrics(cosine_distance=0.8163636363636433, euclidean_distance=0.8541818181818261, manhattan_distance=0.8501818181818261)
+[9290s, 234/444] strong_verified with max_prob = 8.98e-01 token 1607: 'lock' verification info: Metrics(cosine_distance=0.822909090909098, euclidean_distance=0.8981818181818274, manhattan_distance=0.8967272727272819)
+[9331s, 235/444] weak_verified with max_prob = 7.39e-01 token 23972: 'BUILD' verification info: Metrics(cosine_distance=0.6312727272727288, euclidean_distance=0.7145454545454586, manhattan_distance=0.7392727272727321)
+[9371s, 236/444] weak_verified with max_prob = 7.13e-01 token 29444: '没' verification info: Metrics(cosine_distance=0.6265454545454556, euclidean_distance=0.6934545454545489, manhattan_distance=0.7127272727272768)
+[9411s, 237/444] weak_verified with max_prob = 8.37e-01 token 13793: 'ят' verification info: Metrics(cosine_distance=0.7080000000000038, euclidean_distance=0.7792727272727331, manhattan_distance=0.8370909090909167)
+[9450s, 238/444] weak_verified with max_prob = 7.28e-01 token 21316: '▁ImGui' verification info: Metrics(cosine_distance=0.6040000000000001, euclidean_distance=0.7163636363636404, manhattan_distance=0.7280000000000044)
+[9489s, 239/444] strong_verified with max_prob = 9.24e-01 token 26640: '▁sage' verification info: Metrics(cosine_distance=0.7912727272727335, euclidean_distance=0.9236363636363736, manhattan_distance=0.9109090909091005)
+[9528s, 240/444] strong_verified with max_prob = 9.05e-01 token 24167: '▁carb' verification info: Metrics(cosine_distance=0.8421818181818259, euclidean_distance=0.905454545454555, manhattan_distance=0.8905454545454636)
+[9568s, 241/444] weak_verified with max_prob = 7.17e-01 token 31066: 'ನ' verification info: Metrics(cosine_distance=0.5941818181818181, euclidean_distance=0.6334545454545467, manhattan_distance=0.7167272727272769)
+[9608s, 242/444] weak_verified with max_prob = 8.75e-01 token 10508: 'expect' verification info: Metrics(cosine_distance=0.7647272727272783, euclidean_distance=0.8745454545454632, manhattan_distance=0.8680000000000084)
+[9647s, 243/444] strong_verified with max_prob = 8.99e-01 token 19071: '▁flip' verification info: Metrics(cosine_distance=0.8032727272727338, euclidean_distance=0.8992727272727365, manhattan_distance=0.8723636363636449)
+[9688s, 244/444] weak_verified with max_prob = 7.26e-01 token 21351: '▁Olympics' verification info: Metrics(cosine_distance=0.6221818181818193, euclidean_distance=0.7258181818181861, manhattan_distance=0.6981818181818218)
+[9726s, 245/444] strong_verified with max_prob = 9.48e-01 token 10572: '▁jest' verification info: Metrics(cosine_distance=0.8174545454545524, euclidean_distance=0.9476363636363743, manhattan_distance=0.9218181818181918)
+[9766s, 246/444] strong_verified with max_prob = 9.25e-01 token 8315: '▁feels' verification info: Metrics(cosine_distance=0.8149090909090978, euclidean_distance=0.9254545454545555, manhattan_distance=0.9149090909091007)
+[9807s, 247/444] strong_verified with max_prob = 8.81e-01 token 12982: '▁supplement' verification info: Metrics(cosine_distance=0.7538181818181869, euclidean_distance=0.8807272727272815, manhattan_distance=0.8716363636363722)
+[9847s, 248/444] weak_verified with max_prob = 8.29e-01 token 3573: '▁cannot' verification info: Metrics(cosine_distance=0.7487272727272778, euclidean_distance=0.8294545454545528, manhattan_distance=0.8109090909090977)
+[9888s, 249/444] strong_verified with max_prob = 8.99e-01 token 24539: '▁concentrate' verification info: Metrics(cosine_distance=0.8152727272727341, euclidean_distance=0.8985454545454639, manhattan_distance=0.863636363636372)
+[9928s, 250/444] weak_verified with max_prob = 7.80e-01 token 9847: 'RX' verification info: Metrics(cosine_distance=0.6203636363636373, euclidean_distance=0.7796363636363696, manhattan_distance=0.7792727272727331)
+[9967s, 251/444] weak_verified with max_prob = 7.92e-01 token 11109: '▁où' verification info: Metrics(cosine_distance=0.6596363636363661, euclidean_distance=0.7923636363636426, manhattan_distance=0.7640000000000055)
+[10007s, 252/444] weak_verified with max_prob = 7.83e-01 token 30197: '带' verification info: Metrics(cosine_distance=0.6454545454545473, euclidean_distance=0.7160000000000041, manhattan_distance=0.7829090909090969)
+[10048s, 253/444] weak_verified with max_prob = 7.61e-01 token 31769: '央' verification info: Metrics(cosine_distance=0.6021818181818184, euclidean_distance=0.6785454545454573, manhattan_distance=0.7610909090909145)
+[10087s, 254/444] weak_verified with max_prob = 8.62e-01 token 22643: '▁DCHECK' verification info: Metrics(cosine_distance=0.6632727272727299, euclidean_distance=0.8294545454545528, manhattan_distance=0.86181818181819)
+[10128s, 255/444] weak_verified with max_prob = 8.72e-01 token 25267: '▁batteries' verification info: Metrics(cosine_distance=0.8007272727272793, euclidean_distance=0.8716363636363722, manhattan_distance=0.8512727272727352)
+[10169s, 256/444] weak_verified with max_prob = 7.88e-01 token 31549: '拦' verification info: Metrics(cosine_distance=0.6505454545454564, euclidean_distance=0.7643636363636418, manhattan_distance=0.7876363636363698)
+[10208s, 257/444] weak_verified with max_prob = 8.67e-01 token 10232: 'ASSERT' verification info: Metrics(cosine_distance=0.6720000000000028, euclidean_distance=0.8316363636363711, manhattan_distance=0.866545454545463)
+[10248s, 258/444] weak_verified with max_prob = 7.49e-01 token 31092: '众' verification info: Metrics(cosine_distance=0.6378181818181833, euclidean_distance=0.7021818181818218, manhattan_distance=0.7487272727272778)
+[10288s, 259/444] weak_verified with max_prob = 7.98e-01 token 12033: '▁Assembly' verification info: Metrics(cosine_distance=0.6370909090909107, euclidean_distance=0.7883636363636425, manhattan_distance=0.7978181818181882)
+[10328s, 260/444] strong_verified with max_prob = 9.33e-01 token 26098: '▁wagon' verification info: Metrics(cosine_distance=0.8480000000000079, euclidean_distance=0.932727272727283, manhattan_distance=0.9072727272727368)
+[10367s, 261/444] weak_verified with max_prob = 8.66e-01 token 13638: '▁casino' verification info: Metrics(cosine_distance=0.7960000000000064, euclidean_distance=0.8661818181818265, manhattan_distance=0.8367272727272802)
+[10407s, 262/444] strong_verified with max_prob = 9.46e-01 token 14630: '▁armed' verification info: Metrics(cosine_distance=0.8294545454545528, euclidean_distance=0.9458181818181924, manhattan_distance=0.9232727272727372)
+[10447s, 263/444] weak_verified with max_prob = 7.25e-01 token 28630: 'GN' verification info: Metrics(cosine_distance=0.5821818181818178, euclidean_distance=0.7232727272727316, manhattan_distance=0.7247272727272771)
+[10487s, 264/444] strong_verified with max_prob = 8.77e-01 token 22304: 'bw' verification info: Metrics(cosine_distance=0.8683636363636448, euclidean_distance=0.8770909090909178, manhattan_distance=0.8487272727272805)
+[10525s, 265/444] weak_verified with max_prob = 7.45e-01 token 5457: '▁NOT' verification info: Metrics(cosine_distance=0.6189090909090916, euclidean_distance=0.720727272727277, manhattan_distance=0.7454545454545504)
+[10565s, 266/444] weak_verified with max_prob = 7.57e-01 token 15947: 'BPACK' verification info: Metrics(cosine_distance=0.6709090909090937, euclidean_distance=0.7574545454545507, manhattan_distance=0.7549090909090961)
+[10606s, 267/444] weak_verified with max_prob = 7.77e-01 token 29405: '只' verification info: Metrics(cosine_distance=0.6294545454545466, euclidean_distance=0.7185454545454587, manhattan_distance=0.7774545454545513)
+[10644s, 268/444] weak_verified with max_prob = 6.45e-01 token 2438: 'But' verification info: Metrics(cosine_distance=0.5581818181818167, euclidean_distance=0.6450909090909106, manhattan_distance=0.6345454545454559)
+[10684s, 269/444] strong_verified with max_prob = 9.19e-01 token 26200: '▁durable' verification info: Metrics(cosine_distance=0.840363636363644, euclidean_distance=0.9192727272727371, manhattan_distance=0.9018181818181912)
+[10722s, 270/444] weak_verified with max_prob = 7.71e-01 token 18854: '▁PCI' verification info: Metrics(cosine_distance=0.613454545454546, euclidean_distance=0.7712727272727329, manhattan_distance=0.7330909090909137)
+[10762s, 271/444] weak_verified with max_prob = 7.40e-01 token 20045: 'ROOT' verification info: Metrics(cosine_distance=0.6200000000000009, euclidean_distance=0.7378181818181865, manhattan_distance=0.7396363636363684)
+[10801s, 272/444] weak_verified with max_prob = 7.49e-01 token 18587: '▁IC' verification info: Metrics(cosine_distance=0.5832727272727268, euclidean_distance=0.7494545454545505, manhattan_distance=0.7221818181818225)
+[10841s, 273/444] strong_verified with max_prob = 8.90e-01 token 24065: '▁которые' verification info: Metrics(cosine_distance=0.7570909090909144, euclidean_distance=0.8745454545454632, manhattan_distance=0.8898181818181908)
+[10879s, 274/444] weak_verified with max_prob = 7.73e-01 token 15893: '▁Tol' verification info: Metrics(cosine_distance=0.5854545454545451, euclidean_distance=0.7614545454545508, manhattan_distance=0.7727272727272785)
+[10919s, 275/444] weak_verified with max_prob = 8.73e-01 token 21452: 'activate' verification info: Metrics(cosine_distance=0.798545454545461, euclidean_distance=0.8730909090909177, manhattan_distance=0.8669090909090993)
+[10961s, 276/444] weak_verified with max_prob = 8.52e-01 token 12568: '▁resistance' verification info: Metrics(cosine_distance=0.7865454545454607, euclidean_distance=0.8516363636363716, manhattan_distance=0.8392727272727348)
+[11000s, 277/444] strong_verified with max_prob = 9.04e-01 token 24951: '▁radar' verification info: Metrics(cosine_distance=0.825818181818189, euclidean_distance=0.903636363636373, manhattan_distance=0.8767272727272813)
+[11040s, 278/444] strong_verified with max_prob = 8.78e-01 token 20943: 'визи' verification info: Metrics(cosine_distance=0.7600000000000053, euclidean_distance=0.8738181818181904, manhattan_distance=0.8781818181818268)
+[11079s, 279/444] weak_verified with max_prob = 6.69e-01 token 23216: '▁Syria' verification info: Metrics(cosine_distance=0.5345454545454522, euclidean_distance=0.6687272727272754, manhattan_distance=0.6549090909090929)
+[11119s, 280/444] weak_verified with max_prob = 7.17e-01 token 12202: 'Vertex' verification info: Metrics(cosine_distance=0.5578181818181807, euclidean_distance=0.7170909090909132, manhattan_distance=0.7141818181818222)
+[11158s, 281/444] weak_verified with max_prob = 6.91e-01 token 25401: '▁HIV' verification info: Metrics(cosine_distance=0.5607272727272714, euclidean_distance=0.6909090909090942, manhattan_distance=0.6600000000000023)
+[11199s, 282/444] strong_verified with max_prob = 8.79e-01 token 25846: '▁hierarchy' verification info: Metrics(cosine_distance=0.786909090909097, euclidean_distance=0.879272727272736, manhattan_distance=0.8643636363636447)
+[11238s, 283/444] strong_verified with max_prob = 9.20e-01 token 19642: '▁lens' verification info: Metrics(cosine_distance=0.8501818181818261, euclidean_distance=0.9200000000000099, manhattan_distance=0.9061818181818276)
+[11277s, 284/444] weak_verified with max_prob = 7.19e-01 token 10655: '▁Rose' verification info: Metrics(cosine_distance=0.593090909090909, euclidean_distance=0.718909090909095, manhattan_distance=0.7054545454545492)
+[11317s, 285/444] weak_verified with max_prob = 8.56e-01 token 4334: 'itz' verification info: Metrics(cosine_distance=0.7461818181818232, euclidean_distance=0.8563636363636444, manhattan_distance=0.8392727272727348)
+[11356s, 286/444] weak_verified with max_prob = 8.48e-01 token 7444: '▁mostly' verification info: Metrics(cosine_distance=0.7345454545454592, euclidean_distance=0.8483636363636442, manhattan_distance=0.8185454545454616)
+[11397s, 287/444] weak_verified with max_prob = 7.67e-01 token 30694: '似' verification info: Metrics(cosine_distance=0.6370909090909105, euclidean_distance=0.7425454545454594, manhattan_distance=0.7665454545454601)
+[11436s, 288/444] weak_verified with max_prob = 7.44e-01 token 24698: '▁Oracle' verification info: Metrics(cosine_distance=0.5523636363636348, euclidean_distance=0.7312727272727318, manhattan_distance=0.7443636363636412)
+[11475s, 289/444] weak_verified with max_prob = 8.48e-01 token 2593: 'хо' verification info: Metrics(cosine_distance=0.7341818181818228, euclidean_distance=0.813090909090916, manhattan_distance=0.8483636363636442)
+[11513s, 290/444] weak_verified with max_prob = 8.21e-01 token 25144: 'Sets' verification info: Metrics(cosine_distance=0.6280000000000012, euclidean_distance=0.8007272727272793, manhattan_distance=0.8214545454545525)
+[11552s, 291/444] weak_verified with max_prob = 8.71e-01 token 6602: 'car' verification info: Metrics(cosine_distance=0.8221818181818253, euclidean_distance=0.8705454545454631, manhattan_distance=0.8483636363636442)
+[11592s, 292/444] strong_rejected with max_prob = 6.03e-01 token 22438: '▁Bitcoin' verification info: Metrics(cosine_distance=0.5461818181818163, euclidean_distance=0.6025454545454545, manhattan_distance=0.5639999999999986)
+[11633s, 293/444] weak_verified with max_prob = 7.96e-01 token 31915: '饰' verification info: Metrics(cosine_distance=0.6516363636363657, euclidean_distance=0.7414545454545503, manhattan_distance=0.7960000000000064)
+[11671s, 294/444] weak_verified with max_prob = 6.99e-01 token 3877: 'Run' verification info: Metrics(cosine_distance=0.5749090909090901, euclidean_distance=0.6985454545454581, manhattan_distance=0.694545454545458)
+[11710s, 295/444] strong_verified with max_prob = 9.11e-01 token 11359: '▁basket' verification info: Metrics(cosine_distance=0.8025454545454611, euclidean_distance=0.9105454545454642, manhattan_distance=0.873454545454554)
+[11751s, 296/444] strong_verified with max_prob = 9.05e-01 token 23631: '▁envelope' verification info: Metrics(cosine_distance=0.8149090909090978, euclidean_distance=0.9047272727272822, manhattan_distance=0.8974545454545547)
+[11791s, 297/444] weak_verified with max_prob = 8.60e-01 token 5755: '▁async' verification info: Metrics(cosine_distance=0.7560000000000052, euclidean_distance=0.8600000000000082, manhattan_distance=0.8269090909090981)
+[11831s, 298/444] strong_verified with max_prob = 9.00e-01 token 23401: 'лази' verification info: Metrics(cosine_distance=0.7556363636363689, euclidean_distance=0.8825454545454634, manhattan_distance=0.9000000000000093)
+[11873s, 299/444] strong_verified with max_prob = 8.88e-01 token 10403: '▁perspective' verification info: Metrics(cosine_distance=0.849090909090917, euclidean_distance=0.8876363636363727, manhattan_distance=0.8687272727272811)
+[11913s, 300/444] strong_verified with max_prob = 9.12e-01 token 17077: '▁polynom' verification info: Metrics(cosine_distance=0.7981818181818247, euclidean_distance=0.9120000000000097, manhattan_distance=0.8963636363636456)
+[11953s, 301/444] weak_verified with max_prob = 8.16e-01 token 31123: '焦' verification info: Metrics(cosine_distance=0.6458181818181837, euclidean_distance=0.7545454545454597, manhattan_distance=0.8160000000000069)
+[11993s, 302/444] strong_verified with max_prob = 9.25e-01 token 21945: '▁terrain' verification info: Metrics(cosine_distance=0.8621818181818264, euclidean_distance=0.9247272727272827, manhattan_distance=0.902545454545464)
+[12034s, 303/444] weak_verified with max_prob = 8.15e-01 token 29441: '放' verification info: Metrics(cosine_distance=0.6720000000000028, euclidean_distance=0.7618181818181872, manhattan_distance=0.8149090909090978)
+[12075s, 304/444] weak_verified with max_prob = 8.51e-01 token 28168: '▁setTimeout' verification info: Metrics(cosine_distance=0.756727272727278, euclidean_distance=0.8512727272727352, manhattan_distance=0.8476363636363715)
+[12115s, 305/444] weak_verified with max_prob = 8.16e-01 token 11257: 'ASE' verification info: Metrics(cosine_distance=0.6378181818181835, euclidean_distance=0.8032727272727338, manhattan_distance=0.8156363636363706)
+[12156s, 306/444] strong_verified with max_prob = 8.91e-01 token 17794: '▁vertices' verification info: Metrics(cosine_distance=0.7949090909090972, euclidean_distance=0.8905454545454636, manhattan_distance=0.8825454545454634)
+[12196s, 307/444] strong_verified with max_prob = 9.20e-01 token 15200: 'zent' verification info: Metrics(cosine_distance=0.8007272727272793, euclidean_distance=0.9200000000000099, manhattan_distance=0.9014545454545548)
+[12238s, 308/444] strong_verified with max_prob = 8.84e-01 token 16882: '▁monitoring' verification info: Metrics(cosine_distance=0.8109090909090977, euclidean_distance=0.8745454545454632, manhattan_distance=0.8836363636363725)
+[12277s, 309/444] strong_verified with max_prob = 9.29e-01 token 15094: '▁pent' verification info: Metrics(cosine_distance=0.8061818181818249, euclidean_distance=0.9287272727272828, manhattan_distance=0.8810909090909179)
+[12315s, 310/444] weak_verified with max_prob = 8.24e-01 token 612: 'на' verification info: Metrics(cosine_distance=0.7360000000000047, euclidean_distance=0.7821818181818242, manhattan_distance=0.8236363636363708)
+[12355s, 311/444] weak_verified with max_prob = 7.23e-01 token 30945: '健' verification info: Metrics(cosine_distance=0.5905454545454542, euclidean_distance=0.6654545454545475, manhattan_distance=0.7229090909090952)
+[12395s, 312/444] strong_verified with max_prob = 9.07e-01 token 23510: '▁aunque' verification info: Metrics(cosine_distance=0.7669090909090964, euclidean_distance=0.9065454545454641, manhattan_distance=0.8814545454545543)
+[12435s, 313/444] strong_verified with max_prob = 9.05e-01 token 18251: '▁monster' verification info: Metrics(cosine_distance=0.8396363636363713, euclidean_distance=0.9047272727272822, manhattan_distance=0.8716363636363722)
+[12475s, 314/444] strong_verified with max_prob = 9.28e-01 token 26324: '▁ethical' verification info: Metrics(cosine_distance=0.8436363636363714, euclidean_distance=0.9276363636363737, manhattan_distance=0.9109090909091005)
+[12518s, 315/444] weak_verified with max_prob = 7.99e-01 token 10215: 'widetilde' verification info: Metrics(cosine_distance=0.680000000000003, euclidean_distance=0.7592727272727327, manhattan_distance=0.798545454545461)
+[12556s, 316/444] weak_verified with max_prob = 7.40e-01 token 16102: 'CPU' verification info: Metrics(cosine_distance=0.5923636363636363, euclidean_distance=0.7400000000000048, manhattan_distance=0.7101818181818221)
+[12594s, 317/444] strong_verified with max_prob = 9.10e-01 token 25736: '▁worm' verification info: Metrics(cosine_distance=0.8003636363636428, euclidean_distance=0.9098181818181914, manhattan_distance=0.8756363636363723)
+[12633s, 318/444] weak_verified with max_prob = 6.41e-01 token 28847: 'П' verification info: Metrics(cosine_distance=0.564363636363635, euclidean_distance=0.5174545454545422, manhattan_distance=0.6410909090909105)
+[12671s, 319/444] weak_verified with max_prob = 7.25e-01 token 13444: 'Flow' verification info: Metrics(cosine_distance=0.5996363636363639, euclidean_distance=0.7254545454545498, manhattan_distance=0.7178181818181859)
+[12709s, 320/444] weak_verified with max_prob = 7.01e-01 token 6037: 'They' verification info: Metrics(cosine_distance=0.6152727272727281, euclidean_distance=0.7014545454545491, manhattan_distance=0.7000000000000036)
+[12748s, 321/444] strong_verified with mG:/juchiyun2024-11-1440e-01 token 20781: '▁eran' verification info: Metrics(cosine_distance=0.8090909090909159, euclidean_distance=0.939636363636374, manhattan_distance=0.9196363636363735)
+[12787s, 3G:/juchiyun2024-11-14_verified with max_prob = 8.48e-01 token 18012: '▁pixel' verification info: Metrics(cosine_distance=0.7574545454545507, euclidean_distance=0.8480000000000079, manhattan_distance=0.8040000000000066)
+[12825s, 323/444] weak_verified with max_prob = 7.59e-01 token 24612: 'PHP' verification info: Metrics(cosine_distance=0.6254545454545465, euclidean_distance=0.7465454545454595, manhattan_distance=0.7585454545454599)
+[12865s, 324/444] weak_verified with max_prob = 7.65e-01 token 8408: 'Runtime' verification info: Metrics(cosine_distance=0.6203636363636374, euclidean_distance=0.7534545454545506, manhattan_distance=0.7654545454545509)
+[12904s, 325/444] weak_verified with max_prob = 6.90e-01 token 21069: '▁Marco' verification info: Metrics(cosine_distance=0.5461818181818163, euclidean_distance=0.6898181818181851, manhattan_distance=0.657818181818184)
+[12943s, 326/444] strong_verified with max_prob = 9.23e-01 token 323: 'ac' verification info: Metrics(cosine_distance=0.8120000000000068, euclidean_distance=0.9232727272727372, manhattan_distance=0.905454545454555)
+[12983s, 327/444] weak_verified with max_prob = 8.59e-01 token 30999: '恢' verification info: Metrics(cosine_distance=0.7123636363636403, euclidean_distance=0.8232727272727344, manhattan_distance=0.8592727272727354)
+[13021s, 328/444] weak_verified with max_prob = 7.53e-01 token 18191: 'Phys' verification info: Metrics(cosine_distance=0.629818181818183, euclidean_distance=0.7534545454545506, manhattan_distance=0.7341818181818228)
+[13062s, 329/444] weak_verified with max_prob = 8.21e-01 token 14437: '▁WARRANTY' verification info: Metrics(cosine_distance=0.6680000000000027, euclidean_distance=0.8152727272727341, manhattan_distance=0.8210909090909162)
+[13102s, 330/444] weak_verified with max_prob = 8.40e-01 token 24662: 'rezent' verification info: Metrics(cosine_distance=0.7643636363636418, euclidean_distance=0.8400000000000076, manhattan_distance=0.8363636363636439)
+[13141s, 331/444] weak_verified with max_prob = 7.51e-01 token 22867: 'RESET' verification info: Metrics(cosine_distance=0.6156363636363644, euclidean_distance=0.7294545454545499, manhattan_distance=0.750909090909096)
+[13181s, 332/444] weak_verified with max_prob = 7.28e-01 token 20688: 'ITS' verification info: Metrics(cosine_distance=0.6040000000000005, euclidean_distance=0.7141818181818222, manhattan_distance=0.7280000000000044)
+[13220s, 333/444] weak_verified with max_prob = 7.47e-01 token 19357: '▁Finn' verification info: Metrics(cosine_distance=0.5487272727272708, euclidean_distance=0.7469090909090959, manhattan_distance=0.6960000000000035)
+[13260s, 334/444] weak_verified with max_prob = 8.65e-01 token 16367: '▁safely' verification info: Metrics(cosine_distance=0.7585454545454599, euclidean_distance=0.8650909090909175, manhattan_distance=0.8410909090909168)
+[13299s, 335/444] strong_verified with max_prob = 9.54e-01 token 16838: '▁franch' verification info: Metrics(cosine_distance=0.7778181818181876, euclidean_distance=0.9538181818181927, manhattan_distance=0.9360000000000104)
+[13339s, 336/444] weak_verified with max_prob = 7.35e-01 token 17716: 'Depend' verification info: Metrics(cosine_distance=0.6112727272727279, euclidean_distance=0.7345454545454592, manhattan_distance=0.7349090909090955)
+[13379s, 337/444] weak_verified with max_prob = 7.40e-01 token 30746: '朝' verification info: Metrics(cosine_distance=0.598181818181818, euclidean_distance=0.6883636363636394, manhattan_distance=0.7400000000000048)
+[13418s, 338/444] strong_verified with max_prob = 9.12e-01 token 13446: '▁boxes' verification info: Metrics(cosine_distance=0.8301818181818256, euclidean_distance=0.9058181818181913, manhattan_distance=0.912363636363646)
+[13460s, 339/444] weak_verified with max_prob = 8.23e-01 token 17607: '▁isinstance' verification info: Metrics(cosine_distance=0.7458181818181867, euclidean_distance=0.8127272727272795, manhattan_distance=0.822909090909098)
+[13501s, 340/444] weak_verified with max_prob = 8.51e-01 token 5489: '▁currently' verification info: Metrics(cosine_distance=0.7407272727272776, euclidean_distance=0.8509090909090988, manhattan_distance=0.8225454545454617)
+[13539s, 341/444] strong_verified with max_prob = 8.93e-01 token 21615: '▁yoga' verification info: Metrics(cosine_distance=0.8632727272727355, euclidean_distance=0.8927272727272818, manhattan_distance=0.8781818181818268)
+[13580s, 342/444] weak_verified with max_prob = 8.70e-01 token 13665: '▁nervous' verification info: Metrics(cosine_distance=0.7778181818181876, euclidean_distance=0.8698181818181903, manhattan_distance=0.843272727272735)
+[13621s, 343/444] weak_verified with max_prob = 8.49e-01 token 26735: '▁synthetic' verification info: Metrics(cosine_distance=0.7425454545454594, euclidean_distance=0.849090909090917, manhattan_distance=0.8392727272727348)
+[13661s, 344/444] weak_verified with max_prob = 8.35e-01 token 27884: 'mux' verification info: Metrics(cosine_distance=0.7516363636363688, euclidean_distance=0.8349090909090984, manhattan_distance=0.82872727272728)
+[13700s, 345/444] weak_verified with max_prob = 8.61e-01 token 21298: 'uchar' verification info: Metrics(cosine_distance=0.7658181818181873, euclidean_distance=0.8614545454545537, manhattan_distance=0.8450909090909169)
+[13740s, 346/444] weak_verified with max_prob = 7.88e-01 token 24029: 'IDs' verification info: Metrics(cosine_distance=0.6392727272727289, euclidean_distance=0.7676363636363692, manhattan_distance=0.7880000000000061)
+[13781s, 347/444] weak_verified with max_prob = 7.71e-01 token 29785: '活' verification info: Metrics(cosine_distance=0.6254545454545464, euclidean_distance=0.7232727272727316, manhattan_distance=0.7712727272727329)
+[13822s, 348/444] weak_verified with max_prob = 8.42e-01 token 16382: '▁basketball' verification info: Metrics(cosine_distance=0.792727272727279, euclidean_distance=0.8421818181818259, manhattan_distance=0.8003636363636428)
+[13864s, 349/444] weak_verified with max_prob = 8.57e-01 token 15460: '▁composition' verification info: Metrics(cosine_distance=0.7850909090909152, euclidean_distance=0.8560000000000081, manhattan_distance=0.8567272727272808)
+[13903s, 350/444] weak_verified with max_prob = 8.35e-01 token 11875: 'bach' verification info: Metrics(cosine_distance=0.7778181818181876, euclidean_distance=0.8349090909090984, manhattan_distance=0.8170909090909161)
+[13944s, 351/444] weak_verified with max_prob = 7.58e-01 token 30915: '儿' verification info: Metrics(cosine_distance=0.6276363636363647, euclidean_distance=0.6836363636363665, manhattan_distance=0.7581818181818235)
+[13985s, 352/444] weak_verified with max_prob = 8.09e-01 token 25426: '▁economics' verification info: Metrics(cosine_distance=0.6978181818181854, euclidean_distance=0.7934545454545517, manhattan_distance=0.8090909090909159)
+[14025s, 353/444] weak_verified with max_prob = 7.19e-01 token 8233: 'CODE' verification info: Metrics(cosine_distance=0.6010909090909092, euclidean_distance=0.694545454545458, manhattan_distance=0.718909090909095)
+[14063s, 354/444] weak_verified with max_prob = 7.98e-01 token 18320: 'embed' verification info: Metrics(cosine_distance=0.6592727272727295, euclidean_distance=0.7981818181818247, manhattan_distance=0.7698181818181874)
+[14103s, 355/444] weak_verified with max_prob = 6.90e-01 token 2212: 'Request' verification info: Metrics(cosine_distance=0.5865454545454543, euclidean_distance=0.6887272727272761, manhattan_distance=0.6901818181818216)
+[14142s, 356/444] strong_verified with max_prob = 8.88e-01 token 17559: '▁groupe' verification info: Metrics(cosine_distance=0.7970909090909155, euclidean_distance=0.888000000000009, manhattan_distance=0.8807272727272815)
+[14182s, 357/444] weak_verified with max_prob = 8.41e-01 token 12066: '▁spectrum' verification info: Metrics(cosine_distance=0.7563636363636416, euclidean_distance=0.8414545454545531, manhattan_distance=0.8174545454545524)
+[14222s, 358/444] weak_verified with max_prob = 8.04e-01 token 21781: '▁stocks' verification info: Metrics(cosine_distance=0.7330909090909137, euclidean_distance=0.8040000000000066, manhattan_distance=0.7734545454545512)
+[14262s, 359/444] weak_verified with max_prob = 7.11e-01 token 23217: '▁Caroline' verification info: Metrics(cosine_distance=0.5759999999999993, euclidean_distance=0.7105454545454585, manhattan_distance=0.697454545454549)
+[14302s, 360/444] weak_verified with max_prob = 8.49e-01 token 5088: '▁impact' verification info: Metrics(cosine_distance=0.7676363636363692, euclidean_distance=0.849090909090917, manhattan_distance=0.8334545454545529)
+[14341s, 361/444] strong_verified with max_prob = 9.19e-01 token 23093: '▁skulle' verification info: Metrics(cosine_distance=0.775272727272733, euclidean_distance=0.9192727272727371, manhattan_distance=0.8872727272727362)
+[14383s, 362/444] weak_verified with max_prob = 8.41e-01 token 23755: '▁households' verification info: Metrics(cosine_distance=0.7261818181818226, euclidean_distance=0.8349090909090984, manhattan_distance=0.8407272727272803)
+[14421s, 363/444] weak_verified with max_prob = 8.39e-01 token 8451: 'tip' verification info: Metrics(cosine_distance=0.7560000000000052, euclidean_distance=0.8352727272727347, manhattan_distance=0.8385454545454621)
+[14461s, 364/444] weak_verified with max_prob = 7.40e-01 token 20938: 'ORDER' verification info: Metrics(cosine_distance=0.6014545454545457, euclidean_distance=0.730545454545459, manhattan_distance=0.7396363636363684)
+[14503s, 365/444] weak_verified with max_prob = 8.58e-01 token 22979: 'anzös' verification info: Metrics(cosine_distance=0.718909090909095, euclidean_distance=0.8425454545454623, manhattan_distance=0.8581818181818263)
+[14542s, 366/444] weak_verified with max_prob = 8.26e-01 token 26930: '▁calc' verification info: Metrics(cosine_distance=0.7181818181818224, euclidean_distance=0.825818181818189, manhattan_distance=0.811272727272734)
+[14583s, 367/444] weak_verified with max_prob = 6.91e-01 token 26620: 'MetaData' verification info: Metrics(cosine_distance=0.6003636363636367, euclidean_distance=0.6647272727272752, manhattan_distance=0.6909090909090942)
+[14623s, 368/444] weak_verified with max_prob = 6.46e-01 token 31040: '缺' verification info: Metrics(cosine_distance=0.5727272727272718, euclidean_distance=0.6018181818181817, manhattan_distance=0.6458181818181834)
+[14662s, 369/444] strong_verified with max_prob = 8.98e-01 token 25710: '▁needle' verification info: Metrics(cosine_distance=0.8105454545454613, euclidean_distance=0.8978181818181911, manhattan_distance=0.8556363636363717)
+[14700s, 370/444] weak_verified with max_prob = 7.41e-01 token 22331: 'TCP' verification info: Metrics(cosine_distance=0.6214545454545464, euclidean_distance=0.7407272727272776, manhattan_distance=0.7258181818181861)
+[14739s, 371/444] weak_verified with max_prob = 7.19e-01 token 12206: '▁OK' verification info: Metrics(cosine_distance=0.5701818181818172, euclidean_distance=0.7192727272727315, manhattan_distance=0.7167272727272769)
+[14779s, 372/444] weak_verified with max_prob = 6.83e-01 token 23262: '▁Marcel' verification info: Metrics(cosine_distance=0.5109090909090876, euclidean_distance=0.6832727272727303, manhattan_distance=0.6360000000000011)
+[14818s, 373/444] weak_verified with max_prob = 7.38e-01 token 24144: '▁Metal' verification info: Metrics(cosine_distance=0.6232727272727283, euclidean_distance=0.7378181818181865, manhattan_distance=0.7269090909090953)
+[14858s, 374/444] weak_verified with max_prob = 7.31e-01 token 29740: '再' verification info: Metrics(cosine_distance=0.6338181818181833, euclidean_distance=0.6920000000000032, manhattan_distance=0.7312727272727318)
+[14897s, 375/444] weak_verified with max_prob = 8.59e-01 token 15899: '▁pound' verification info: Metrics(cosine_distance=0.7600000000000053, euclidean_distance=0.8589090909090991, manhattan_distance=0.8105454545454613)
+[14938s, 376/444] weak_verified with max_prob = 6.67e-01 token 31906: '✌' verification info: Metrics(cosine_distance=0.587272727272727, euclidean_distance=0.6672727272727299, manhattan_distance=0.6625454545454569)
+[14978s, 377/444] strong_verified with max_prob = 9.14e-01 token 22289: '▁angles' verification info: Metrics(cosine_distance=0.8170909090909161, euclidean_distance=0.9138181818181915, manhattan_distance=0.8985454545454639)
+[15017s, 378/444] strong_verified with max_prob = 9.03e-01 token 5497: '▁sont' verification info: Metrics(cosine_distance=0.7734545454545512, euclidean_distance=0.902545454545464, manhattan_distance=0.8785454545454633)
+[15057s, 379/444] strong_verified with max_prob = 9.00e-01 token 21870: 'ходит' verification info: Metrics(cosine_distance=0.7523636363636415, euclidean_distance=0.8603636363636445, manhattan_distance=0.8996363636363729)
+[15097s, 380/444] weak_verified with max_prob = 7.84e-01 token 31355: 'ි' verification info: Metrics(cosine_distance=0.6316363636363651, euclidean_distance=0.7225454545454588, manhattan_distance=0.7836363636363697)
+[15135s, 381/444] weak_verified with max_prob = 7.36e-01 token 18096: 'React' verification info: Metrics(cosine_distance=0.5679999999999991, euclidean_distance=0.7141818181818222, manhattan_distance=0.7356363636363683)
+[15176s, 382/444] strong_verified with max_prob = 9.06e-01 token 19063: '▁perturb' verification info: Metrics(cosine_distance=0.8138181818181887, euclidean_distance=0.9061818181818276, manhattan_distance=0.8789090909090996)
+[15216s, 383/444] weak_verified with max_prob = 7.42e-01 token 31977: '嵌' verification info: Metrics(cosine_distance=0.6210909090909099, euclidean_distance=0.7272727272727317, manhattan_distance=0.7418181818181866)
+[15258s, 384/444] weak_verified with max_prob = 7.63e-01 token 22841: 'Horizontal' verification info: Metrics(cosine_distance=0.6403636363636379, euclidean_distance=0.76254545454546, manhattan_distance=0.7370909090909138)
+[15298s, 385/444] weak_verified with max_prob = 8.46e-01 token 18434: 'compile' verification info: Metrics(cosine_distance=0.7672727272727328, euclidean_distance=0.8458181818181896, manhattan_distance=0.8410909090909168)
+[15338s, 386/444] weak_verified with max_prob = 7.99e-01 token 22869: 'Overlay' verification info: Metrics(cosine_distance=0.6680000000000026, euclidean_distance=0.7992727272727337, manhattan_distance=0.7876363636363698)
+[15380s, 387/444] weak_verified with max_prob = 8.44e-01 token 4012: '▁especially' verification info: Metrics(cosine_distance=0.7098181818181858, euclidean_distance=0.8440000000000077, manhattan_distance=0.8141818181818251)
+[15420s, 388/444] weak_verified with max_prob = 8.59e-01 token 26478: 'ioctl' verification info: Metrics(cosine_distance=0.7563636363636416, euclidean_distance=0.8465454545454624, manhattan_distance=0.8589090909090991)
+[15460s, 389/444] weak_verified with max_prob = 7.09e-01 token 13598: 'Packet' verification info: Metrics(cosine_distance=0.5996363636363639, euclidean_distance=0.709090909090913, manhattan_distance=0.6756363636363665)
+[15499s, 390/444] strong_verified with max_prob = 9.11e-01 token 2193: 'ploy' verification info: Metrics(cosine_distance=0.822909090909098, euclidean_distance=0.9112727272727369, manhattan_distance=0.8840000000000089)
+[15539s, 391/444] weak_verified with max_prob = 8.68e-01 token 21695: '▁romance' verification info: Metrics(cosine_distance=0.7970909090909155, euclidean_distance=0.8683636363636448, manhattan_distance=0.8545454545454626)
+[15579s, 392/444] weak_verified with max_prob = 8.68e-01 token 14949: '▁jumped' verification info: Metrics(cosine_distance=0.7385454545454593, euclidean_distance=0.8680000000000084, manhattan_distance=0.8338181818181892)
+[15621s, 393/444] weak_verified with max_prob = 7.93e-01 token 23723: '▁widespread' verification info: Metrics(cosine_distance=0.6854545454545486, euclidean_distance=0.7934545454545517, manhattan_distance=0.76254545454546)
+[15661s, 394/444] weak_verified with max_prob = 7.16e-01 token 28988: '不' verification info: Metrics(cosine_distance=0.635636363636365, euclidean_distance=0.6803636363636392, manhattan_distance=0.7163636363636404)
+[15699s, 395/444] weak_verified with max_prob = 7.23e-01 token 13740: 'Pod' verification info: Metrics(cosine_distance=0.5919999999999997, euclidean_distance=0.7229090909090952, manhattan_distance=0.7141818181818222)
+[15738s, 396/444] weak_verified with max_prob = 8.29e-01 token 12098: 'before' verification info: Metrics(cosine_distance=0.7603636363636417, euclidean_distance=0.8290909090909164, manhattan_distance=0.8105454545454613)
+[15778s, 397/444] strong_verified with max_prob = 9.33e-01 token 16748: '▁woods' verification info: Metrics(cosine_distance=0.8352727272727347, euclidean_distance=0.932727272727283, manhattan_distance=0.9087272727272823)
+[15818s, 398/444] weak_verified with max_prob = 7.25e-01 token 27910: '▁Flight' verification info: Metrics(cosine_distance=0.5923636363636364, euclidean_distance=0.7254545454545498, manhattan_distance=0.6927272727272762)
+[15856s, 399/444] strong_verified with max_prob = 8.86e-01 token 19464: '▁ion' verification info: Metrics(cosine_distance=0.6632727272727299, euclidean_distance=0.8861818181818271, manhattan_distance=0.8352727272727347)
+[15895s, 400/444] strong_verified with max_prob = 9.12e-01 token 13065: 'bru' verification info: Metrics(cosine_distance=0.7905454545454608, euclidean_distance=0.9116363636363732, manhattan_distance=0.8767272727272813)
+[15936s, 401/444] weak_verified with max_prob = 8.47e-01 token 19573: '▁assumptions' verification info: Metrics(cosine_distance=0.7138181818181859, euclidean_distance=0.8472727272727351, manhattan_distance=0.8392727272727348)
+[15976s, 402/444] weak_verified with max_prob = 8.63e-01 token 6579: 'ioni' verification info: Metrics(cosine_distance=0.645090909090911, euclidean_distance=0.8625454545454628, manhattan_distance=0.8363636363636439)
+[16017s, 403/444] weak_verified with max_prob = 7.66e-01 token 29556: '执' verification info: Metrics(cosine_distance=0.6225454545454555, euclidean_distance=0.7265454545454589, manhattan_distance=0.7661818181818237)
+[16057s, 404/444] weak_verified with max_prob = 8.20e-01 token 31984: '糊' verification info: Metrics(cosine_distance=0.6785454545454576, euclidean_distance=0.7789090909090968, manhattan_distance=0.8200000000000071)
+[16096s, 405/444] strong_verified with max_prob = 9.17e-01 token 23683: '▁pine' verification info: Metrics(cosine_distance=0.7858181818181879, euclidean_distance=0.917090909090919, manhattan_distance=0.8974545454545547)
+[16138s, 406/444] weak_verified with max_prob = 8.51e-01 token 27620: '▁initialization' verification info: Metrics(cosine_distance=0.7330909090909137, euclidean_distance=0.8360000000000075, manhattan_distance=0.8505454545454625)
+[16177s, 407/444] strong_verified with max_prob = 9.03e-01 token 7870: '▁loop' verification info: Metrics(cosine_distance=0.8483636363636442, euclidean_distance=0.9032727272727367, manhattan_distance=0.8883636363636453)
+[16218s, 408/444] weak_verified with max_prob = 7.38e-01 token 23611: '▁Mediterr' verification info: Metrics(cosine_distance=0.5854545454545451, euclidean_distance=0.7381818181818229, manhattan_distance=0.7349090909090955)
+[16256s, 409/444] weak_verified with max_prob = 8.37e-01 token 3139: 'жи' verification info: Metrics(cosine_distance=0.7272727272727317, euclidean_distance=0.8025454545454611, manhattan_distance=0.8370909090909167)
+[16295s, 410/444] strong_verified with max_prob = 8.85e-01 token 28311: '▁absorb' verification info: Metrics(cosine_distance=0.7912727272727335, euclidean_distance=0.8854545454545544, manhattan_distance=0.8483636363636442)
+[16336s, 411/444] weak_verified with max_prob = 7.82e-01 token 30490: '종' verification info: Metrics(cosine_distance=0.6000000000000002, euclidean_distance=0.7512727272727324, manhattan_distance=0.7821818181818242)
+[16376s, 412/444] weak_verified with max_prob = 8.52e-01 token 10797: '▁también' verification info: Metrics(cosine_distance=0.7683636363636419, euclidean_distance=0.8516363636363716, manhattan_distance=0.8400000000000076)
+[16417s, 413/444] weak_verified with max_prob = 8.21e-01 token 29861: '框' verification info: Metrics(cosine_distance=0.6596363636363659, euclidean_distance=0.7829090909090969, manhattan_distance=0.8207272727272797)
+[16457s, 414/444] strong_verified with max_prob = 8.87e-01 token 18931: 'imb' verification info: Metrics(cosine_distance=0.7560000000000052, euclidean_distance=0.8872727272727362, manhattan_distance=0.8574545454545536)
+[16497s, 415/444] strong_verified with max_prob = 9.38e-01 token 19232: '▁scales' verification info: Metrics(cosine_distance=0.8876363636363727, euclidean_distance=0.9381818181818286, manhattan_distance=0.9345454545454649)
+[16535s, 416/444] strong_verified with max_prob = 9.08e-01 token 21337: '▁tune' verification info: Metrics(cosine_distance=0.8483636363636442, euclidean_distance=0.9076363636363731, manhattan_distance=0.8912727272727363)
+[16575s, 417/444] strong_verified with max_prob = 8.97e-01 token 18801: '▁beating' verification info: Metrics(cosine_distance=0.8214545454545525, euclidean_distance=0.8970909090909184, manhattan_distance=0.8814545454545543)
+[16616s, 418/444] strong_verified with max_prob = 8.91e-01 token 6435: '▁village' verification info: Metrics(cosine_distance=0.8123636363636432, euclidean_distance=0.8905454545454636, manhattan_distance=0.8687272727272811)
+[16656s, 419/444] strong_verified with max_prob = 8.79e-01 token 9165: '▁violence' verification info: Metrics(cosine_distance=0.811272727272734, euclidean_distance=0.8789090909090996, manhattan_distance=0.8614545454545537)
+[16694s, 420/444] weak_verified with max_prob = 7.47e-01 token 13208: '▁SQL' verification info: Metrics(cosine_distance=0.5890909090909088, euclidean_distance=0.7280000000000044, manhattan_distance=0.7469090909090959)
+[16734s, 421/444] strong_verified with max_prob = 8.81e-01 token 18922: '▁digest' verification info: Metrics(cosine_distance=0.7876363636363698, euclidean_distance=0.8807272727272815, manhattan_distance=0.8712727272727357)
+[16774s, 422/444] weak_verified with max_prob = 7.33e-01 token 11613: 'INIT' verification info: Metrics(cosine_distance=0.5770909090909084, euclidean_distance=0.7141818181818222, manhattan_distance=0.73345454545455)
+[16814s, 423/444] weak_verified with max_prob = 8.21e-01 token 21333: 'RGB' verification info: Metrics(cosine_distance=0.6901818181818216, euclidean_distance=0.8207272727272797, manhattan_distance=0.811272727272734)
+[16857s, 424/444] weak_verified with max_prob = 7.77e-01 token 16751: 'FLAGS' verification info: Metrics(cosine_distance=0.6461818181818201, euclidean_distance=0.7589090909090962, manhattan_distance=0.7770909090909149)
+[16897s, 425/444] weak_verified with max_prob = 7.42e-01 token 23779: '▁Behind' verification info: Metrics(cosine_distance=0.6189090909090916, euclidean_distance=0.7418181818181866, manhattan_distance=0.7203636363636405)
+[16935s, 426/444] strong_verified with max_prob = 8.91e-01 token 16049: '▁drum' verification info: Metrics(cosine_distance=0.7781818181818241, euclidean_distance=0.8912727272727363, manhattan_distance=0.8505454545454625)
+[16974s, 427/444] strong_verified with max_prob = 9.43e-01 token 7278: '▁seat' verification info: Metrics(cosine_distance=0.8607272727272809, euclidean_distance=0.9425454545454651, manhattan_distance=0.9338181818181921)
+[17015s, 428/444] weak_verified with max_prob = 6.82e-01 token 29717: '东' verification info: Metrics(cosine_distance=0.5723636363636353, euclidean_distance=0.5767272727272716, manhattan_distance=0.6821818181818211)
+[17055s, 429/444] weak_verified with max_prob = 8.38e-01 token 1198: 'imes' verification info: Metrics(cosine_distance=0.7330909090909137, euclidean_distance=0.8381818181818258, manhattan_distance=0.8170909090909161)
+[17095s, 430/444] strong_verified with max_prob = 9.01e-01 token 10931: '▁falling' verification info: Metrics(cosine_distance=0.846181818181826, euclidean_distance=0.9010909090909185, manhattan_distance=0.8745454545454632)
+[17135s, 431/444] weak_verified with max_prob = 7.34e-01 token 19954: 'IDS' verification info: Metrics(cosine_distance=0.6065454545454548, euclidean_distance=0.7338181818181864, manhattan_distance=0.7294545454545499)
+[17175s, 432/444] strong_verified with max_prob = 8.87e-01 token 12238: '▁therapy' verification info: Metrics(cosine_distance=0.8083636363636431, euclidean_distance=0.8869090909090999, manhattan_distance=0.8825454545454634)
+[17215s, 433/444] weak_verified with max_prob = 7.94e-01 token 18476: '▁Hunter' verification info: Metrics(cosine_distance=0.6410909090909109, euclidean_distance=0.7894545454545516, manhattan_distance=0.7941818181818245)
+[17254s, 434/444] strong_verified with max_prob = 8.83e-01 token 19548: '▁tomb' verification info: Metrics(cosine_distance=0.7945454545454609, euclidean_distance=0.8832727272727361, manhattan_distance=0.8283636363636436)
+[17295s, 435/444] weak_verified with max_prob = 8.21e-01 token 6450: 'Interface' verification info: Metrics(cosine_distance=0.6483636363636385, euclidean_distance=0.8025454545454611, manhattan_distance=0.8210909090909162)
+[17336s, 436/444] strong_verified with max_prob = 9.05e-01 token 19979: '▁allocated' verification info: Metrics(cosine_distance=0.7781818181818241, euclidean_distance=0.905454545454555, manhattan_distance=0.9050909090909186)
+[17375s, 437/444] strong_verified with max_prob = 8.88e-01 token 6226: '▁trade' verification info: Metrics(cosine_distance=0.8352727272727347, euclidean_distance=0.8876363636363727, manhattan_distance=0.8865454545454635)
+[17415s, 438/444] weak_verified with max_prob = 7.55e-01 token 8401: 'POST' verification info: Metrics(cosine_distance=0.5978181818181818, euclidean_distance=0.750909090909096, manhattan_distance=0.7552727272727325)
+[17456s, 439/444] weak_verified with max_prob = 7.87e-01 token 31804: '丰' verification info: Metrics(cosine_distance=0.605818181818182, euclidean_distance=0.742181818181823, manhattan_distance=0.7872727272727333)
+[17495s, 440/444] weak_verified with max_prob = 8.73e-01 token 23907: '▁tackle' verification info: Metrics(cosine_distance=0.8272727272727345, euclidean_distance=0.8730909090909177, manhattan_distance=0.825818181818189)
+[17534s, 441/444] strong_verified with max_prob = 9.29e-01 token 15722: '▁byl' verification info: Metrics(cosine_distance=0.8116363636363705, euclidean_distance=0.9290909090909193, manhattan_distance=0.9130909090909188)
+[17574s, 442/444] weak_verified with max_prob = 7.49e-01 token 23835: 'Opcode' verification info: Metrics(cosine_distance=0.6014545454545458, euclidean_distance=0.7196363636363678, manhattan_distance=0.7487272727272778)
+[17612s, 443/444] weak_verified with max_prob = 7.07e-01 token 5343: 'URL' verification info: Metrics(cosine_distance=0.5545454545454529, euclidean_distance=0.7065454545454584, manhattan_distance=0.6669090909090932)
+[17653s, 444/444] strong_verified with max_prob = 9.10e-01 token 26445: '▁elevator' verification info: Metrics(cosine_distance=0.8450909090909169, euclidean_distance=0.9101818181818278, manhattan_distance=0.8760000000000087)
+Finished verification, wrote results to /home/chenkx/ckx_ws/StickyToken/results/verifications/SFR_Embedding_2_R.jsonl
+实验信息已保存到: /home/chenkx/ckx_ws/StickyToken/results/experiment_information.json
