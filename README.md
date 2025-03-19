@@ -62,7 +62,7 @@ StickyToken/
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - PyTorch >= 2.5.1
 - Transformers >= 4.47.1
 - Sentence-Transformers >= 3.3.1
