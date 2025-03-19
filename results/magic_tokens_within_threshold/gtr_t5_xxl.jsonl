@@ -1,0 +1,642 @@
+{"i": 1, "raw_vocab": "</s>", "category": "OK_SPECIAL", "decoded": "</s>", "metrics": [104.989088, 107.755159, 142.22249], "main_metric": 104.989088}
+{"i": 24050, "raw_vocab": "▁consacré", "category": "OK", "decoded": " consacré", "metrics": [100.073013, 103.639629, 133.598991], "main_metric": 100.073013}
+{"i": 6640, "raw_vocab": "▁directed", "category": "OK", "decoded": " directed", "metrics": [67.758227, 70.738825, 79.501379], "main_metric": 67.758227}
+{"i": 22032, "raw_vocab": "▁downward", "category": "OK", "decoded": " downward", "metrics": [56.113939, 58.474964, 58.379085], "main_metric": 56.113939}
+{"i": 15154, "raw_vocab": "▁strictly", "category": "OK", "decoded": " strictly", "metrics": [54.930873, 57.467332, 56.78889], "main_metric": 54.930873}
+{"i": 28753, "raw_vocab": "influencing", "category": "OK", "decoded": "influencing", "metrics": [53.429616, 55.831321, 33.752482], "main_metric": 53.429616}
+{"i": 4977, "raw_vocab": "▁charged", "category": "OK", "decoded": " charged", "metrics": [52.56755, 54.872346, 48.615722], "main_metric": 52.56755}
+{"i": 18294, "raw_vocab": "▁positively", "category": "OK", "decoded": " positively", "metrics": [52.11791, 54.445988, 40.575352], "main_metric": 52.11791}
+{"i": 21213, "raw_vocab": "▁complicat", "category": "OK", "decoded": " complicat", "metrics": [50.902344, 53.278593, 58.364769], "main_metric": 50.902344}
+{"i": 13646, "raw_vocab": "▁conducting", "category": "OK", "decoded": " conducting", "metrics": [50.319629, 52.364461, 42.190263], "main_metric": 50.319629}
+{"i": 24945, "raw_vocab": "▁daylight", "category": "OK", "decoded": " daylight", "metrics": [49.981352, 52.297007, 49.527939], "main_metric": 49.981352}
+{"i": 19852, "raw_vocab": "▁privately", "category": "OK", "decoded": " privately", "metrics": [49.057322, 51.154188, 56.301031], "main_metric": 49.057322}
+{"i": 20994, "raw_vocab": "▁tightly", "category": "OK", "decoded": " tightly", "metrics": [49.00435, 51.218223, 49.360423], "main_metric": 49.00435}
+{"i": 3346, "raw_vocab": "▁specifically", "category": "OK", "decoded": " specifically", "metrics": [48.773961, 50.766176, 34.593248], "main_metric": 48.773961}
+{"i": 21633, "raw_vocab": "fecți", "category": "OK", "decoded": "fecți", "metrics": [48.620449, 50.8131, 57.376522], "main_metric": 48.620449}
+{"i": 31322, "raw_vocab": "▁choisissez", "category": "OK", "decoded": " choisissez", "metrics": [48.46578, 50.579101, 42.796251], "main_metric": 48.46578}
+{"i": 6771, "raw_vocab": "▁carrying", "category": "OK", "decoded": " carrying", "metrics": [48.280491, 50.430533, 32.243884], "main_metric": 48.280491}
+{"i": 24766, "raw_vocab": "▁cigar", "category": "OK", "decoded": " cigar", "metrics": [48.051227, 50.321517, 39.345655], "main_metric": 48.051227}
+{"i": 6473, "raw_vocab": "▁beneficial", "category": "OK", "decoded": " beneficial", "metrics": [47.949446, 50.212083, 46.586297], "main_metric": 47.949446}
+{"i": 25661, "raw_vocab": "▁strawberries", "category": "OK", "decoded": " strawberries", "metrics": [47.935136, 50.09121, 39.851754], "main_metric": 47.935136}
+{"i": 30646, "raw_vocab": "▁Medikamente", "category": "OK", "decoded": " Medikamente", "metrics": [47.275959, 49.49649, 22.902638], "main_metric": 47.275959}
+{"i": 30321, "raw_vocab": "▁yolk", "category": "OK", "decoded": " yolk", "metrics": [47.195062, 49.547991, 32.76579], "main_metric": 47.195062}
+{"i": 28219, "raw_vocab": "▁restrictive", "category": "OK", "decoded": " restrictive", "metrics": [47.129206, 48.998691, 46.762299], "main_metric": 47.129206}
+{"i": 24431, "raw_vocab": "infused", "category": "OK", "decoded": "infused", "metrics": [47.002371, 49.090219, 40.565319], "main_metric": 47.002371}
+{"i": 30721, "raw_vocab": "wrongful", "category": "OK", "decoded": "wrongful", "metrics": [46.903197, 49.133612, 43.03019], "main_metric": 46.903197}
+{"i": 27663, "raw_vocab": "ministerium", "category": "OK", "decoded": "ministerium", "metrics": [46.841537, 49.009637, 30.643679], "main_metric": 46.841537}
+{"i": 22861, "raw_vocab": "▁upstairs", "category": "OK", "decoded": " upstairs", "metrics": [46.634339, 48.754038, 41.519392], "main_metric": 46.634339}
+{"i": 2069, "raw_vocab": "▁central", "category": "OK", "decoded": " central", "metrics": [46.475807, 48.766862, 39.774158], "main_metric": 46.475807}
+{"i": 30643, "raw_vocab": "▁monsieur", "category": "OK", "decoded": " monsieur", "metrics": [45.09084, 47.083539, 35.600852], "main_metric": 45.09084}
+{"i": 7789, "raw_vocab": "▁involve", "category": "OK", "decoded": " involve", "metrics": [44.386381, 46.450034, 49.454803], "main_metric": 44.386381}
+{"i": 17118, "raw_vocab": "quelles", "category": "OK", "decoded": "quelles", "metrics": [44.131491, 46.32226, 35.479992], "main_metric": 44.131491}
+{"i": 29962, "raw_vocab": "▁courageous", "category": "OK", "decoded": " courageous", "metrics": [44.056747, 45.989582, 46.481696], "main_metric": 44.056747}
+{"i": 1898, "raw_vocab": "▁setting", "category": "OK", "decoded": " setting", "metrics": [44.040619, 46.052902, 47.719844], "main_metric": 44.040619}
+{"i": 21480, "raw_vocab": "konzept", "category": "OK", "decoded": "konzept", "metrics": [44.008012, 46.068496, 49.14414], "main_metric": 44.008012}
+{"i": 21663, "raw_vocab": "▁serrure", "category": "OK", "decoded": " serrure", "metrics": [43.901811, 45.818425, 41.770213], "main_metric": 43.901811}
+{"i": 1918, "raw_vocab": "▁regarding", "category": "OK", "decoded": " regarding", "metrics": [43.785524, 45.779823, 47.060528], "main_metric": 43.785524}
+{"i": 26180, "raw_vocab": "▁tradiţi", "category": "OK", "decoded": " tradiţi", "metrics": [43.752815, 45.771738, 32.535118], "main_metric": 43.752815}
+{"i": 28678, "raw_vocab": "curând", "category": "OK", "decoded": "curând", "metrics": [43.730612, 45.764945, 42.293834], "main_metric": 43.730612}
+{"i": 26970, "raw_vocab": "Intensiv", "category": "OK", "decoded": "Intensiv", "metrics": [43.720773, 45.688422, 47.329236], "main_metric": 43.720773}
+{"i": 14291, "raw_vocab": "▁caution", "category": "OK", "decoded": " caution", "metrics": [43.639402, 45.523724, 55.766689], "main_metric": 43.639402}
+{"i": 5632, "raw_vocab": "▁Perhaps", "category": "OK", "decoded": " Perhaps", "metrics": [43.566586, 45.472725, 35.849697], "main_metric": 43.566586}
+{"i": 25931, "raw_vocab": "▁geändert", "category": "OK", "decoded": " geändert", "metrics": [43.549994, 45.562805, 32.487777], "main_metric": 43.549994}
+{"i": 1909, "raw_vocab": "▁beyond", "category": "OK", "decoded": " beyond", "metrics": [43.440204, 45.430039, 33.539631], "main_metric": 43.440204}
+{"i": 2087, "raw_vocab": "▁maybe", "category": "OK", "decoded": " maybe", "metrics": [43.439604, 45.637004, 53.273777], "main_metric": 43.439604}
+{"i": 27091, "raw_vocab": "▁funktionieren", "category": "OK", "decoded": " funktionieren", "metrics": [43.409762, 45.333821, 40.01288], "main_metric": 43.409762}
+{"i": 20343, "raw_vocab": "▁unfortunate", "category": "OK", "decoded": " unfortunate", "metrics": [43.406584, 45.265059, 40.941623], "main_metric": 43.406584}
+{"i": 19265, "raw_vocab": "▁könnten", "category": "OK", "decoded": " könnten", "metrics": [43.273782, 45.311361, 40.098359], "main_metric": 43.273782}
+{"i": 26677, "raw_vocab": "destined", "category": "OK", "decoded": "destined", "metrics": [43.269785, 45.184684, 26.686773], "main_metric": 43.269785}
+{"i": 27353, "raw_vocab": "▁reduc", "category": "OK", "decoded": " reduc", "metrics": [43.242051, 45.280748, 45.796251], "main_metric": 43.242051}
+{"i": 429, "raw_vocab": "▁might", "category": "OK", "decoded": " might", "metrics": [43.237431, 45.376649, 52.693862], "main_metric": 43.237431}
+{"i": 25556, "raw_vocab": "getroffen", "category": "OK", "decoded": "getroffen", "metrics": [43.173838, 45.286712, 41.017653], "main_metric": 43.173838}
+{"i": 17928, "raw_vocab": "▁Verwendung", "category": "OK", "decoded": " Verwendung", "metrics": [43.123106, 44.986305, 40.042071], "main_metric": 43.123106}
+{"i": 2718, "raw_vocab": "▁aware", "category": "OK", "decoded": " aware", "metrics": [43.073923, 44.956014, 26.487702], "main_metric": 43.073923}
+{"i": 23399, "raw_vocab": "▁modificări", "category": "OK", "decoded": " modificări", "metrics": [43.063573, 44.882238, 28.126], "main_metric": 43.063573}
+{"i": 3784, "raw_vocab": "▁möglich", "category": "OK", "decoded": " möglich", "metrics": [42.996545, 44.97782, 26.694777], "main_metric": 42.996545}
+{"i": 4006, "raw_vocab": "▁carried", "category": "OK", "decoded": " carried", "metrics": [42.938178, 44.811333, 40.720353], "main_metric": 42.938178}
+{"i": 18643, "raw_vocab": "▁calculation", "category": "OK", "decoded": " calculation", "metrics": [42.824786, 44.802972, 49.2235], "main_metric": 42.824786}
+{"i": 14882, "raw_vocab": "▁darkness", "category": "OK", "decoded": " darkness", "metrics": [42.82439, 44.778728, 33.99131], "main_metric": 42.82439}
+{"i": 25509, "raw_vocab": "▁indirectly", "category": "OK", "decoded": " indirectly", "metrics": [42.820914, 44.638499, 61.060162], "main_metric": 42.820914}
+{"i": 25952, "raw_vocab": "Certains", "category": "OK", "decoded": "Certains", "metrics": [42.800983, 44.682907, 47.537559], "main_metric": 42.800983}
+{"i": 21623, "raw_vocab": "▁enclosed", "category": "OK", "decoded": " enclosed", "metrics": [42.79496, 44.631557, 43.396271], "main_metric": 42.79496}
+{"i": 26847, "raw_vocab": "▁noisy", "category": "OK", "decoded": " noisy", "metrics": [42.736842, 44.704579, 69.433716], "main_metric": 42.736842}
+{"i": 7558, "raw_vocab": "▁continuous", "category": "OK", "decoded": " continuous", "metrics": [42.699757, 44.582149, 40.792019], "main_metric": 42.699757}
+{"i": 3803, "raw_vocab": "▁settings", "category": "OK", "decoded": " settings", "metrics": [42.681491, 44.592415, 32.666345], "main_metric": 42.681491}
+{"i": 1389, "raw_vocab": "▁normal", "category": "OK", "decoded": " normal", "metrics": [42.619225, 44.555039, 25.197828], "main_metric": 42.619225}
+{"i": 24974, "raw_vocab": "▁penetrate", "category": "OK", "decoded": " penetrate", "metrics": [42.614264, 44.325047, 42.053339], "main_metric": 42.614264}
+{"i": 22600, "raw_vocab": "▁attacker", "category": "OK", "decoded": " attacker", "metrics": [42.59837, 44.55182, 47.597928], "main_metric": 42.59837}
+{"i": 11345, "raw_vocab": "▁concentrate", "category": "OK", "decoded": " concentrate", "metrics": [42.511447, 44.523525, 54.090418], "main_metric": 42.511447}
+{"i": 10930, "raw_vocab": "▁Indeed", "category": "OK", "decoded": " Indeed", "metrics": [42.436774, 44.476894, 46.392711], "main_metric": 42.436774}
+{"i": 4858, "raw_vocab": "▁classroom", "category": "OK", "decoded": " classroom", "metrics": [42.428586, 44.278613, 48.521342], "main_metric": 42.428586}
+{"i": 28916, "raw_vocab": "commenced", "category": "OK", "decoded": "commenced", "metrics": [42.362024, 44.440148, 47.326364], "main_metric": 42.362024}
+{"i": 29303, "raw_vocab": "destinée", "category": "OK", "decoded": "destinée", "metrics": [42.360052, 44.204093, 32.984985], "main_metric": 42.360052}
+{"i": 28639, "raw_vocab": "▁Flasche", "category": "OK", "decoded": " Flasche", "metrics": [42.296648, 44.149835, 26.379799], "main_metric": 42.296648}
+{"i": 12011, "raw_vocab": "▁individually", "category": "OK", "decoded": " individually", "metrics": [42.264009, 44.105938, 25.952488], "main_metric": 42.264009}
+{"i": 14209, "raw_vocab": "▁uncomfortable", "category": "OK", "decoded": " uncomfortable", "metrics": [42.187562, 44.175756, 45.75717], "main_metric": 42.187562}
+{"i": 30119, "raw_vocab": "▁ashamed", "category": "OK", "decoded": " ashamed", "metrics": [42.182038, 44.206843, 52.156585], "main_metric": 42.182038}
+{"i": 2531, "raw_vocab": "▁dacă", "category": "OK", "decoded": " dacă", "metrics": [42.179327, 44.219757, 30.196138], "main_metric": 42.179327}
+{"i": 14159, "raw_vocab": "▁sooner", "category": "OK", "decoded": " sooner", "metrics": [42.163747, 44.126628, 20.352202], "main_metric": 42.163747}
+{"i": 17958, "raw_vocab": "▁preciz", "category": "OK", "decoded": " preciz", "metrics": [42.079909, 43.684301, 53.703548], "main_metric": 42.079909}
+{"i": 26355, "raw_vocab": "consciously", "category": "OK", "decoded": "consciously", "metrics": [42.042236, 43.972492, 40.291887], "main_metric": 42.042236}
+{"i": 7282, "raw_vocab": "▁cotton", "category": "OK", "decoded": " cotton", "metrics": [41.996623, 43.94999, 33.381668], "main_metric": 41.996623}
+{"i": 13483, "raw_vocab": "▁underneath", "category": "OK", "decoded": " underneath", "metrics": [41.96707, 43.899777, 38.244279], "main_metric": 41.96707}
+{"i": 7604, "raw_vocab": "▁assigned", "category": "OK", "decoded": " assigned", "metrics": [41.920461, 43.734321, 42.512073], "main_metric": 41.920461}
+{"i": 983, "raw_vocab": "▁however", "category": "OK", "decoded": " however", "metrics": [41.901834, 43.706599, 26.238442], "main_metric": 41.901834}
+{"i": 9495, "raw_vocab": "▁ordinary", "category": "OK", "decoded": " ordinary", "metrics": [41.89805, 43.913976, 33.847759], "main_metric": 41.89805}
+{"i": 18497, "raw_vocab": "lumina", "category": "OK", "decoded": "lumina", "metrics": [41.865552, 43.791869, 31.052572], "main_metric": 41.865552}
+{"i": 17305, "raw_vocab": "▁Waste", "category": "OK", "decoded": " Waste", "metrics": [41.860718, 43.927718, 30.511604], "main_metric": 41.860718}
+{"i": 14399, "raw_vocab": "▁sustained", "category": "OK", "decoded": " sustained", "metrics": [41.85699, 43.65697, 25.212701], "main_metric": 41.85699}
+{"i": 2937, "raw_vocab": "▁focused", "category": "OK", "decoded": " focused", "metrics": [41.752714, 43.577966, 31.442165], "main_metric": 41.752714}
+{"i": 11338, "raw_vocab": "▁calculated", "category": "OK", "decoded": " calculated", "metrics": [41.667799, 43.522262, 33.956742], "main_metric": 41.667799}
+{"i": 13693, "raw_vocab": "▁frustration", "category": "OK", "decoded": " frustration", "metrics": [41.658647, 43.401227, 61.896239], "main_metric": 41.658647}
+{"i": 31900, "raw_vocab": "crystalline", "category": "OK", "decoded": "crystalline", "metrics": [41.652122, 43.641145, 45.988363], "main_metric": 41.652122}
+{"i": 23109, "raw_vocab": "▁cooperate", "category": "OK", "decoded": " cooperate", "metrics": [41.651058, 43.500091, 37.709106], "main_metric": 41.651058}
+{"i": 16487, "raw_vocab": "▁promptly", "category": "OK", "decoded": " promptly", "metrics": [41.620661, 43.501423, 60.810037], "main_metric": 41.620661}
+{"i": 31800, "raw_vocab": "bottled", "category": "OK", "decoded": "bottled", "metrics": [41.537952, 43.52413, 37.928765], "main_metric": 41.537952}
+{"i": 13605, "raw_vocab": "▁theoretical", "category": "OK", "decoded": " theoretical", "metrics": [41.514464, 43.386444, 38.697051], "main_metric": 41.514464}
+{"i": 22060, "raw_vocab": "howcasing", "category": "OK", "decoded": "howcasing", "metrics": [41.426088, 43.36422, 39.040125], "main_metric": 41.426088}
+{"i": 13776, "raw_vocab": "▁peau", "category": "OK", "decoded": " peau", "metrics": [41.422246, 43.445338, 38.695774], "main_metric": 41.422246}
+{"i": 5005, "raw_vocab": "▁equipped", "category": "OK", "decoded": " equipped", "metrics": [41.38766, 43.36531, 45.354244], "main_metric": 41.38766}
+{"i": 31491, "raw_vocab": "perhaps", "category": "OK", "decoded": "perhaps", "metrics": [41.384639, 43.289677, 57.992223], "main_metric": 41.384639}
+{"i": 26450, "raw_vocab": "▁Curtain", "category": "OK", "decoded": " Curtain", "metrics": [41.344269, 43.35361, 38.125883], "main_metric": 41.344269}
+{"i": 2541, "raw_vocab": "▁straight", "category": "OK", "decoded": " straight", "metrics": [41.294086, 43.335314, 39.583308], "main_metric": 41.294086}
+{"i": 9517, "raw_vocab": "▁thorough", "category": "OK", "decoded": " thorough", "metrics": [41.235028, 43.11619, 37.989842], "main_metric": 41.235028}
+{"i": 18223, "raw_vocab": "▁temporarily", "category": "OK", "decoded": " temporarily", "metrics": [41.207547, 43.111201, 31.546474], "main_metric": 41.207547}
+{"i": 27861, "raw_vocab": "Partidul", "category": "OK", "decoded": "Partidul", "metrics": [41.207483, 43.124407, 40.891415], "main_metric": 41.207483}
+{"i": 18135, "raw_vocab": "▁decis", "category": "OK", "decoded": " decis", "metrics": [41.173681, 43.067705, 37.875561], "main_metric": 41.173681}
+{"i": 1065, "raw_vocab": "▁ready", "category": "OK", "decoded": " ready", "metrics": [41.153372, 43.149707, 23.893437], "main_metric": 41.153372}
+{"i": 26988, "raw_vocab": "▁Communist", "category": "OK", "decoded": " Communist", "metrics": [41.123263, 43.042993, 46.085243], "main_metric": 41.123263}
+{"i": 12692, "raw_vocab": "▁conclude", "category": "OK", "decoded": " conclude", "metrics": [41.051713, 42.850994, 54.471914], "main_metric": 41.051713}
+{"i": 4656, "raw_vocab": "▁contrast", "category": "OK", "decoded": " contrast", "metrics": [41.016008, 42.956083, 39.890517], "main_metric": 41.016008}
+{"i": 11857, "raw_vocab": "▁tir", "category": "OK", "decoded": " tir", "metrics": [40.981824, 43.056277, 38.627429], "main_metric": 40.981824}
+{"i": 10965, "raw_vocab": "▁Together", "category": "OK", "decoded": " Together", "metrics": [40.967654, 42.887678, 26.145844], "main_metric": 40.967654}
+{"i": 10311, "raw_vocab": "implementing", "category": "OK", "decoded": "implementing", "metrics": [40.894045, 42.843042, 46.065587], "main_metric": 40.894045}
+{"i": 18815, "raw_vocab": "▁dispos", "category": "OK", "decoded": " dispos", "metrics": [40.885986, 42.724584, 32.215902], "main_metric": 40.885986}
+{"i": 30029, "raw_vocab": "▁excepţi", "category": "OK", "decoded": " excepţi", "metrics": [40.825469, 42.694436, 60.214164], "main_metric": 40.825469}
+{"i": 2994, "raw_vocab": "▁enjoyed", "category": "OK", "decoded": " enjoyed", "metrics": [40.817284, 42.553035, 36.725114], "main_metric": 40.817284}
+{"i": 6765, "raw_vocab": "▁strange", "category": "OK", "decoded": " strange", "metrics": [40.717257, 42.700172, 31.910437], "main_metric": 40.717257}
+{"i": 28273, "raw_vocab": "zulegen", "category": "OK", "decoded": "zulegen", "metrics": [40.627168, 42.562436, 36.532724], "main_metric": 40.627168}
+{"i": 29472, "raw_vocab": "▁brevet", "category": "OK", "decoded": " brevet", "metrics": [40.569135, 42.409239, 40.697928], "main_metric": 40.569135}
+{"i": 14478, "raw_vocab": "▁octombrie", "category": "OK", "decoded": " octombrie", "metrics": [40.513133, 42.40885, 24.697072], "main_metric": 40.513133}
+{"i": 27506, "raw_vocab": "▁exkl", "category": "OK", "decoded": " exkl", "metrics": [40.241006, 42.066945, 29.446096], "main_metric": 40.241006}
+{"i": 8689, "raw_vocab": "specialized", "category": "OK", "decoded": "specialized", "metrics": [40.061292, 41.818637, 44.170892], "main_metric": 40.061292}
+{"i": 28103, "raw_vocab": "▁vizitatori", "category": "OK", "decoded": " vizitatori", "metrics": [39.667563, 41.514187, 39.252305], "main_metric": 39.667563}
+{"i": 2923, "raw_vocab": "▁bedroom", "category": "OK", "decoded": " bedroom", "metrics": [39.075701, 40.822523, 44.403267], "main_metric": 39.075701}
+{"i": 10545, "raw_vocab": "▁shortly", "category": "OK", "decoded": " shortly", "metrics": [39.012802, 40.715314, 48.099059], "main_metric": 39.012802}
+{"i": 8413, "raw_vocab": "▁measured", "category": "OK", "decoded": " measured", "metrics": [38.90743, 40.417341, 25.721355], "main_metric": 38.90743}
+{"i": 14329, "raw_vocab": "▁dessin", "category": "OK", "decoded": " dessin", "metrics": [38.692833, 40.449009, 24.995487], "main_metric": 38.692833}
+{"i": 17294, "raw_vocab": "▁discomfort", "category": "OK", "decoded": " discomfort", "metrics": [38.631094, 40.427171, 48.154952], "main_metric": 38.631094}
+{"i": 24615, "raw_vocab": "congratulat", "category": "OK", "decoded": "congratulat", "metrics": [38.62194, 40.424212, 32.369893], "main_metric": 38.62194}
+{"i": 23679, "raw_vocab": "▁Crit", "category": "OK", "decoded": " Crit", "metrics": [38.587041, 40.425467, 39.109232], "main_metric": 38.587041}
+{"i": 29667, "raw_vocab": "▁Widerspruch", "category": "OK", "decoded": " Widerspruch", "metrics": [38.551078, 40.288304, 48.443589], "main_metric": 38.551078}
+{"i": 6258, "raw_vocab": "▁intense", "category": "OK", "decoded": " intense", "metrics": [38.543878, 40.216995, 62.129716], "main_metric": 38.543878}
+{"i": 16302, "raw_vocab": "▁configure", "category": "OK", "decoded": " configure", "metrics": [38.404548, 40.055228, 48.710152], "main_metric": 38.404548}
+{"i": 1099, "raw_vocab": "▁consider", "category": "OK", "decoded": " consider", "metrics": [38.394293, 40.167512, 33.469728], "main_metric": 38.394293}
+{"i": 8659, "raw_vocab": "▁duration", "category": "OK", "decoded": " duration", "metrics": [38.390491, 39.985519, 55.748955], "main_metric": 38.390491}
+{"i": 3260, "raw_vocab": "▁chose", "category": "OK", "decoded": " chose", "metrics": [38.252096, 39.998936, 33.535771], "main_metric": 38.252096}
+{"i": 2579, "raw_vocab": "▁contains", "category": "OK", "decoded": " contains", "metrics": [38.246984, 40.059035, 19.991533], "main_metric": 38.246984}
+{"i": 4585, "raw_vocab": "▁entirely", "category": "OK", "decoded": " entirely", "metrics": [38.22998, 39.929952, 41.996506], "main_metric": 38.22998}
+{"i": 18054, "raw_vocab": "▁concentrated", "category": "OK", "decoded": " concentrated", "metrics": [38.186692, 40.008404, 33.835751], "main_metric": 38.186692}
+{"i": 21763, "raw_vocab": "excluding", "category": "OK", "decoded": "excluding", "metrics": [38.085532, 39.838904, 37.395084], "main_metric": 38.085532}
+{"i": 22753, "raw_vocab": "bezogen", "category": "OK", "decoded": "bezogen", "metrics": [38.075054, 39.831925, 40.703399], "main_metric": 38.075054}
+{"i": 23840, "raw_vocab": "▁Might", "category": "OK", "decoded": " Might", "metrics": [38.070099, 39.891541, 32.231569], "main_metric": 38.070099}
+{"i": 29755, "raw_vocab": "Spezialist", "category": "OK", "decoded": "Spezialist", "metrics": [38.025795, 39.84551, 46.581439], "main_metric": 38.025795}
+{"i": 344, "raw_vocab": "▁between", "category": "OK", "decoded": " between", "metrics": [37.954197, 39.812483, 54.220054], "main_metric": 37.954197}
+{"i": 29210, "raw_vocab": "▁Refrigerat", "category": "OK", "decoded": " Refrigerat", "metrics": [37.950169, 39.70931, 39.647163], "main_metric": 37.950169}
+{"i": 21549, "raw_vocab": "▁chocolat", "category": "OK", "decoded": " chocolat", "metrics": [37.939302, 39.620524, 40.500564], "main_metric": 37.939302}
+{"i": 19890, "raw_vocab": "▁pursu", "category": "OK", "decoded": " pursu", "metrics": [37.857631, 39.673964, 52.855521], "main_metric": 37.857631}
+{"i": 29690, "raw_vocab": "▁explode", "category": "OK", "decoded": " explode", "metrics": [37.828011, 39.665954, 47.044326], "main_metric": 37.828011}
+{"i": 1316, "raw_vocab": "▁necessary", "category": "OK", "decoded": " necessary", "metrics": [37.82132, 39.502718, 26.117039], "main_metric": 37.82132}
+{"i": 17078, "raw_vocab": "▁sometime", "category": "OK", "decoded": " sometime", "metrics": [37.804025, 39.336041, 33.916187], "main_metric": 37.804025}
+{"i": 10302, "raw_vocab": "▁differently", "category": "OK", "decoded": " differently", "metrics": [37.800919, 39.45182, 53.732561], "main_metric": 37.800919}
+{"i": 9602, "raw_vocab": "betrieb", "category": "OK", "decoded": "betrieb", "metrics": [37.797598, 39.595274, 32.457865], "main_metric": 37.797598}
+{"i": 20831, "raw_vocab": "▁Battery", "category": "OK", "decoded": " Battery", "metrics": [37.793389, 39.460164, 24.986688], "main_metric": 37.793389}
+{"i": 27820, "raw_vocab": "▁reproductive", "category": "OK", "decoded": " reproductive", "metrics": [37.774187, 39.47655, 49.626238], "main_metric": 37.774187}
+{"i": 27748, "raw_vocab": "▁rectif", "category": "OK", "decoded": " rectif", "metrics": [37.76403, 39.473312, 49.065327], "main_metric": 37.76403}
+{"i": 14928, "raw_vocab": "▁conserve", "category": "OK", "decoded": " conserve", "metrics": [37.747643, 39.438032, 56.758267], "main_metric": 37.747643}
+{"i": 12945, "raw_vocab": "▁fonctionne", "category": "OK", "decoded": " fonctionne", "metrics": [37.713695, 39.452678, 40.109598], "main_metric": 37.713695}
+{"i": 20610, "raw_vocab": "▁Duration", "category": "OK", "decoded": " Duration", "metrics": [37.700925, 39.236081, 48.730642], "main_metric": 37.700925}
+{"i": 12390, "raw_vocab": "▁erreicht", "category": "OK", "decoded": " erreicht", "metrics": [37.665862, 39.313332, 41.566526], "main_metric": 37.665862}
+{"i": 1124, "raw_vocab": "▁conditions", "category": "OK", "decoded": " conditions", "metrics": [37.644233, 39.296089, 43.044233], "main_metric": 37.644233}
+{"i": 12440, "raw_vocab": "▁durability", "category": "OK", "decoded": " durability", "metrics": [37.621559, 39.198111, 26.053508], "main_metric": 37.621559}
+{"i": 12841, "raw_vocab": "▁connectivity", "category": "OK", "decoded": " connectivity", "metrics": [37.598242, 39.298852, 41.38883], "main_metric": 37.598242}
+{"i": 27288, "raw_vocab": "contaminated", "category": "OK", "decoded": "contaminated", "metrics": [37.581425, 39.236846, 32.566052], "main_metric": 37.581425}
+{"i": 20108, "raw_vocab": "▁initiate", "category": "OK", "decoded": " initiate", "metrics": [37.537816, 39.270537, 41.917897], "main_metric": 37.537816}
+{"i": 30932, "raw_vocab": "conceivabl", "category": "OK", "decoded": "conceivabl", "metrics": [37.479511, 39.204223, 60.574879], "main_metric": 37.479511}
+{"i": 25435, "raw_vocab": "éventuel", "category": "OK", "decoded": "éventuel", "metrics": [37.468948, 39.230346, 26.946378], "main_metric": 37.468948}
+{"i": 16090, "raw_vocab": "gehalten", "category": "OK", "decoded": "gehalten", "metrics": [37.451597, 39.142535, 39.523844], "main_metric": 37.451597}
+{"i": 10918, "raw_vocab": "▁ocazi", "category": "OK", "decoded": " ocazi", "metrics": [37.44848, 39.196209, 32.26581], "main_metric": 37.44848}
+{"i": 3855, "raw_vocab": "▁intended", "category": "OK", "decoded": " intended", "metrics": [37.445039, 39.1813, 34.093829], "main_metric": 37.445039}
+{"i": 27130, "raw_vocab": "▁premature", "category": "OK", "decoded": " premature", "metrics": [37.394043, 38.957414, 25.901335], "main_metric": 37.394043}
+{"i": 19480, "raw_vocab": "▁yummy", "category": "OK", "decoded": " yummy", "metrics": [37.386283, 38.998923, 33.725772], "main_metric": 37.386283}
+{"i": 2177, "raw_vocab": "▁ahead", "category": "OK", "decoded": " ahead", "metrics": [37.325829, 39.018183, 38.026487], "main_metric": 37.325829}
+{"i": 6926, "raw_vocab": "▁strict", "category": "OK", "decoded": " strict", "metrics": [37.323949, 39.08399, 49.06514], "main_metric": 37.323949}
+{"i": 16533, "raw_vocab": "▁circum", "category": "OK", "decoded": " circum", "metrics": [37.316296, 39.010475, 40.743466], "main_metric": 37.316296}
+{"i": 26804, "raw_vocab": "▁downstream", "category": "OK", "decoded": " downstream", "metrics": [37.311066, 38.888181, 33.050351], "main_metric": 37.311066}
+{"i": 27186, "raw_vocab": "Pourtant", "category": "OK", "decoded": "Pourtant", "metrics": [37.293179, 38.883112, 40.428696], "main_metric": 37.293179}
+{"i": 24987, "raw_vocab": "▁electronically", "category": "OK", "decoded": " electronically", "metrics": [37.290071, 38.971987, 47.358238], "main_metric": 37.290071}
+{"i": 27145, "raw_vocab": "▁culmin", "category": "OK", "decoded": " culmin", "metrics": [37.286327, 39.047693, 49.070019], "main_metric": 37.286327}
+{"i": 29481, "raw_vocab": "Konferenz", "category": "OK", "decoded": "Konferenz", "metrics": [37.279718, 38.981175, 54.319312], "main_metric": 37.279718}
+{"i": 28044, "raw_vocab": "▁Straight", "category": "OK", "decoded": " Straight", "metrics": [37.270897, 39.033332, 54.432759], "main_metric": 37.270897}
+{"i": 19653, "raw_vocab": "▁prevented", "category": "OK", "decoded": " prevented", "metrics": [37.258932, 38.969726, 31.25955], "main_metric": 37.258932}
+{"i": 17775, "raw_vocab": "▁tehnic", "category": "OK", "decoded": " tehnic", "metrics": [37.24909, 39.017748, 39.669785], "main_metric": 37.24909}
+{"i": 13381, "raw_vocab": "▁conscious", "category": "OK", "decoded": " conscious", "metrics": [37.239479, 38.899431, 40.483184], "main_metric": 37.239479}
+{"i": 17125, "raw_vocab": "▁concur", "category": "OK", "decoded": " concur", "metrics": [37.224338, 38.973691, 39.208511], "main_metric": 37.224338}
+{"i": 31750, "raw_vocab": "consider", "category": "OK", "decoded": "consider", "metrics": [37.220046, 39.098764, 40.371342], "main_metric": 37.220046}
+{"i": 6976, "raw_vocab": "▁colleagues", "category": "OK", "decoded": " colleagues", "metrics": [37.21991, 38.908232, 39.749308], "main_metric": 37.21991}
+{"i": 914, "raw_vocab": "▁simply", "category": "OK", "decoded": " simply", "metrics": [37.206227, 39.042694, 67.517914], "main_metric": 37.206227}
+{"i": 11877, "raw_vocab": "▁Möglichkeiten", "category": "OK", "decoded": " Möglichkeiten", "metrics": [37.190195, 38.882589, 32.678004], "main_metric": 37.190195}
+{"i": 29021, "raw_vocab": "escalier", "category": "OK", "decoded": "escalier", "metrics": [37.174205, 38.945982, 48.422978], "main_metric": 37.174205}
+{"i": 17072, "raw_vocab": "Allerdings", "category": "OK", "decoded": "Allerdings", "metrics": [37.143109, 38.819238, 33.532993], "main_metric": 37.143109}
+{"i": 25197, "raw_vocab": "oricar", "category": "OK", "decoded": "oricar", "metrics": [37.123672, 38.96167, 46.250588], "main_metric": 37.123672}
+{"i": 9792, "raw_vocab": "▁closet", "category": "OK", "decoded": " closet", "metrics": [37.116981, 38.914841, 46.450273], "main_metric": 37.116981}
+{"i": 9119, "raw_vocab": "▁garlic", "category": "OK", "decoded": " garlic", "metrics": [37.112938, 38.772419, 32.386839], "main_metric": 37.112938}
+{"i": 28692, "raw_vocab": "▁scrutin", "category": "OK", "decoded": " scrutin", "metrics": [37.110899, 38.686564, 32.502657], "main_metric": 37.110899}
+{"i": 9447, "raw_vocab": "énergie", "category": "OK", "decoded": "énergie", "metrics": [37.092778, 38.731833, 32.131192], "main_metric": 37.092778}
+{"i": 23835, "raw_vocab": "▁bathtub", "category": "OK", "decoded": " bathtub", "metrics": [37.075572, 38.808195, 33.129985], "main_metric": 37.075572}
+{"i": 22955, "raw_vocab": "directed", "category": "OK", "decoded": "directed", "metrics": [37.052876, 38.873899, 47.727397], "main_metric": 37.052876}
+{"i": 25192, "raw_vocab": "▁continuation", "category": "OK", "decoded": " continuation", "metrics": [37.052381, 38.688907, 31.091914], "main_metric": 37.052381}
+{"i": 30656, "raw_vocab": "▁Correction", "category": "OK", "decoded": " Correction", "metrics": [37.038406, 38.896657, 38.140294], "main_metric": 37.038406}
+{"i": 139, "raw_vocab": "▁into", "category": "OK", "decoded": " into", "metrics": [37.029655, 38.760147, 25.096369], "main_metric": 37.029655}
+{"i": 31738, "raw_vocab": "▁disturb", "category": "OK", "decoded": " disturb", "metrics": [37.025881, 38.65454, 47.102452], "main_metric": 37.025881}
+{"i": 22817, "raw_vocab": "vremea", "category": "OK", "decoded": "vremea", "metrics": [37.022606, 38.618086, 47.948875], "main_metric": 37.022606}
+{"i": 3498, "raw_vocab": "▁conduct", "category": "OK", "decoded": " conduct", "metrics": [37.01885, 38.66976, 33.538132], "main_metric": 37.01885}
+{"i": 21479, "raw_vocab": "▁constructive", "category": "OK", "decoded": " constructive", "metrics": [36.990565, 38.689856, 46.382991], "main_metric": 36.990565}
+{"i": 5071, "raw_vocab": "▁indeed", "category": "OK", "decoded": " indeed", "metrics": [36.990142, 38.740909, 38.889401], "main_metric": 36.990142}
+{"i": 19572, "raw_vocab": "▁screws", "category": "OK", "decoded": " screws", "metrics": [36.985971, 38.689859, 47.081785], "main_metric": 36.985971}
+{"i": 18415, "raw_vocab": "datorita", "category": "OK", "decoded": "datorita", "metrics": [36.98488, 38.825475, 26.057323], "main_metric": 36.98488}
+{"i": 10034, "raw_vocab": "▁physically", "category": "OK", "decoded": " physically", "metrics": [36.984836, 38.71444, 40.283458], "main_metric": 36.984836}
+{"i": 1083, "raw_vocab": "▁currently", "category": "OK", "decoded": " currently", "metrics": [36.974168, 38.598483, 40.034734], "main_metric": 36.974168}
+{"i": 16124, "raw_vocab": "▁delayed", "category": "OK", "decoded": " delayed", "metrics": [36.96692, 38.634174, 54.120971], "main_metric": 36.96692}
+{"i": 31128, "raw_vocab": "▁bumbac", "category": "OK", "decoded": " bumbac", "metrics": [36.955253, 38.677411, 35.459021], "main_metric": 36.955253}
+{"i": 1187, "raw_vocab": "▁behind", "category": "OK", "decoded": " behind", "metrics": [36.954832, 38.516419, 27.691074], "main_metric": 36.954832}
+{"i": 1160, "raw_vocab": "▁choice", "category": "OK", "decoded": " choice", "metrics": [36.937066, 38.667385, 33.479746], "main_metric": 36.937066}
+{"i": 31203, "raw_vocab": "schleunig", "category": "OK", "decoded": "schleunig", "metrics": [36.930059, 38.648499, 53.991141], "main_metric": 36.930059}
+{"i": 18570, "raw_vocab": "▁preserved", "category": "OK", "decoded": " preserved", "metrics": [36.918321, 38.404154, 31.987561], "main_metric": 36.918321}
+{"i": 12593, "raw_vocab": "▁slim", "category": "OK", "decoded": " slim", "metrics": [36.915405, 38.742879, 39.407012], "main_metric": 36.915405}
+{"i": 21065, "raw_vocab": "▁headphones", "category": "OK", "decoded": " headphones", "metrics": [36.903673, 38.533225, 48.710788], "main_metric": 36.903673}
+{"i": 26408, "raw_vocab": "iterführende", "category": "OK", "decoded": "iterführende", "metrics": [36.895941, 38.686205, 40.622774], "main_metric": 36.895941}
+{"i": 23613, "raw_vocab": "▁proceeding", "category": "OK", "decoded": " proceeding", "metrics": [36.889077, 38.543946, 31.892725], "main_metric": 36.889077}
+{"i": 2559, "raw_vocab": "▁minimum", "category": "OK", "decoded": " minimum", "metrics": [36.878966, 38.688652, 38.574496], "main_metric": 36.878966}
+{"i": 25876, "raw_vocab": "▁bulg", "category": "OK", "decoded": " bulg", "metrics": [36.875877, 38.621337, 53.961956], "main_metric": 36.875877}
+{"i": 30089, "raw_vocab": "mouvoir", "category": "OK", "decoded": "mouvoir", "metrics": [36.861606, 38.652755, 46.378943], "main_metric": 36.861606}
+{"i": 23756, "raw_vocab": "▁mustard", "category": "OK", "decoded": " mustard", "metrics": [36.857194, 38.661497, 39.201104], "main_metric": 36.857194}
+{"i": 24219, "raw_vocab": "▁comparat", "category": "OK", "decoded": " comparat", "metrics": [36.85464, 38.502371, 40.240849], "main_metric": 36.85464}
+{"i": 20380, "raw_vocab": "▁thru", "category": "OK", "decoded": " thru", "metrics": [36.853278, 38.625604, 25.83608], "main_metric": 36.853278}
+{"i": 19305, "raw_vocab": "▁directeur", "category": "OK", "decoded": " directeur", "metrics": [36.843757, 38.313625, 22.641636], "main_metric": 36.843757}
+{"i": 28729, "raw_vocab": "pregătire", "category": "OK", "decoded": "pregătire", "metrics": [36.842919, 38.488035, 27.783833], "main_metric": 36.842919}
+{"i": 464, "raw_vocab": "▁working", "category": "OK", "decoded": " working", "metrics": [36.836457, 38.654198, 39.088054], "main_metric": 36.836457}
+{"i": 133, "raw_vocab": "▁would", "category": "OK", "decoded": " would", "metrics": [36.821019, 38.706709, 32.449543], "main_metric": 36.821019}
+{"i": 31290, "raw_vocab": "▁absolviert", "category": "OK", "decoded": " absolviert", "metrics": [36.802878, 38.498405, 31.373233], "main_metric": 36.802878}
+{"i": 1664, "raw_vocab": "▁sometimes", "category": "OK", "decoded": " sometimes", "metrics": [36.794519, 38.508694, 46.151901], "main_metric": 36.794519}
+{"i": 24522, "raw_vocab": "▁intentionally", "category": "OK", "decoded": " intentionally", "metrics": [36.790613, 38.342199, 39.54071], "main_metric": 36.790613}
+{"i": 5775, "raw_vocab": "▁somewhere", "category": "OK", "decoded": " somewhere", "metrics": [36.782288, 38.38596, 19.677733], "main_metric": 36.782288}
+{"i": 5609, "raw_vocab": "▁motiv", "category": "OK", "decoded": " motiv", "metrics": [36.764546, 38.463663, 23.645442], "main_metric": 36.764546}
+{"i": 31980, "raw_vocab": "réglage", "category": "OK", "decoded": "réglage", "metrics": [36.761003, 38.311622, 35.455129], "main_metric": 36.761003}
+{"i": 24092, "raw_vocab": "confined", "category": "OK", "decoded": "confined", "metrics": [36.752289, 38.392271, 40.806076], "main_metric": 36.752289}
+{"i": 27886, "raw_vocab": "equipped", "category": "OK", "decoded": "equipped", "metrics": [36.74677, 38.478841, 24.853416], "main_metric": 36.74677}
+{"i": 11173, "raw_vocab": "▁begun", "category": "OK", "decoded": " begun", "metrics": [36.737455, 38.381243, 39.853525], "main_metric": 36.737455}
+{"i": 16251, "raw_vocab": "▁activitati", "category": "OK", "decoded": " activitati", "metrics": [36.735726, 38.513975, 46.39305], "main_metric": 36.735726}
+{"i": 5148, "raw_vocab": "▁combine", "category": "OK", "decoded": " combine", "metrics": [36.706712, 38.479422, 40.343604], "main_metric": 36.706712}
+{"i": 6423, "raw_vocab": "▁diagram", "category": "OK", "decoded": " diagram", "metrics": [36.704552, 38.390514, 41.118079], "main_metric": 36.704552}
+{"i": 8204, "raw_vocab": "▁ought", "category": "OK", "decoded": " ought", "metrics": [36.700953, 38.449037, 33.002865], "main_metric": 36.700953}
+{"i": 29402, "raw_vocab": "▁Kartoffel", "category": "OK", "decoded": " Kartoffel", "metrics": [36.694692, 38.435264, 37.27088], "main_metric": 36.694692}
+{"i": 6224, "raw_vocab": "▁victory", "category": "OK", "decoded": " victory", "metrics": [36.693193, 38.342652, 24.511569], "main_metric": 36.693193}
+{"i": 5366, "raw_vocab": "▁durable", "category": "OK", "decoded": " durable", "metrics": [36.685296, 38.175051, 42.160384], "main_metric": 36.685296}
+{"i": 21261, "raw_vocab": "▁bait", "category": "OK", "decoded": " bait", "metrics": [36.684016, 38.397425, 46.131501], "main_metric": 36.684016}
+{"i": 12958, "raw_vocab": "▁situ", "category": "OK", "decoded": " situ", "metrics": [36.673355, 38.467965, 34.078014], "main_metric": 36.673355}
+{"i": 9086, "raw_vocab": "▁certaine", "category": "OK", "decoded": " certaine", "metrics": [36.671516, 38.296041, 23.383271], "main_metric": 36.671516}
+{"i": 27972, "raw_vocab": "▁concealed", "category": "OK", "decoded": " concealed", "metrics": [36.671119, 38.380969, 40.622305], "main_metric": 36.671119}
+{"i": 10830, "raw_vocab": "teilung", "category": "OK", "decoded": "teilung", "metrics": [36.659102, 38.494664, 39.783291], "main_metric": 36.659102}
+{"i": 26391, "raw_vocab": "corro", "category": "OK", "decoded": "corro", "metrics": [36.637546, 38.341327, 32.915983], "main_metric": 36.637546}
+{"i": 20923, "raw_vocab": "attributed", "category": "OK", "decoded": "attributed", "metrics": [36.636198, 38.364016, 46.07195], "main_metric": 36.636198}
+{"i": 30456, "raw_vocab": "▁Dienstleistung", "category": "OK", "decoded": " Dienstleistung", "metrics": [36.62284, 38.185344, 16.534869], "main_metric": 36.62284}
+{"i": 8619, "raw_vocab": "▁finishing", "category": "OK", "decoded": " finishing", "metrics": [36.619676, 38.352091, 15.664895], "main_metric": 36.619676}
+{"i": 27178, "raw_vocab": "▁Outstanding", "category": "OK", "decoded": " Outstanding", "metrics": [36.603156, 38.456447, 23.778602], "main_metric": 36.603156}
+{"i": 17299, "raw_vocab": "▁acasă", "category": "OK", "decoded": " acasă", "metrics": [36.601983, 38.407046, 47.480225], "main_metric": 36.601983}
+{"i": 23540, "raw_vocab": "étage", "category": "OK", "decoded": "étage", "metrics": [36.595202, 38.296747, 45.723189], "main_metric": 36.595202}
+{"i": 24448, "raw_vocab": "▁predominantly", "category": "OK", "decoded": " predominantly", "metrics": [36.590519, 38.262456, 42.324406], "main_metric": 36.590519}
+{"i": 28101, "raw_vocab": "hormon", "category": "OK", "decoded": "hormon", "metrics": [36.586575, 38.279484, 37.950307], "main_metric": 36.586575}
+{"i": 31764, "raw_vocab": "Kaufentscheidung", "category": "OK", "decoded": "Kaufentscheidung", "metrics": [36.570322, 38.185597, 46.194506], "main_metric": 36.570322}
+{"i": 7179, "raw_vocab": "▁vraiment", "category": "OK", "decoded": " vraiment", "metrics": [36.546998, 38.07908, 32.220284], "main_metric": 36.546998}
+{"i": 25620, "raw_vocab": "chromat", "category": "OK", "decoded": "chromat", "metrics": [36.511272, 38.178297, 46.439095], "main_metric": 36.511272}
+{"i": 3703, "raw_vocab": "▁choices", "category": "OK", "decoded": " choices", "metrics": [36.510579, 38.206919, 34.027926], "main_metric": 36.510579}
+{"i": 27667, "raw_vocab": "cultivated", "category": "OK", "decoded": "cultivated", "metrics": [36.502813, 38.109342, 40.940823], "main_metric": 36.502813}
+{"i": 22833, "raw_vocab": "▁Personne", "category": "OK", "decoded": " Personne", "metrics": [36.49828, 38.179504, 45.590683], "main_metric": 36.49828}
+{"i": 29787, "raw_vocab": "▁choke", "category": "OK", "decoded": " choke", "metrics": [36.486997, 38.197189, 46.730961], "main_metric": 36.486997}
+{"i": 20974, "raw_vocab": "▁breakthrough", "category": "OK", "decoded": " breakthrough", "metrics": [36.486938, 38.175039, 46.837456], "main_metric": 36.486938}
+{"i": 21628, "raw_vocab": "▁primer", "category": "OK", "decoded": " primer", "metrics": [36.478805, 38.210731, 25.043148], "main_metric": 36.478805}
+{"i": 28940, "raw_vocab": "drilled", "category": "OK", "decoded": "drilled", "metrics": [36.474551, 38.277599, 39.22574], "main_metric": 36.474551}
+{"i": 17174, "raw_vocab": "▁tendency", "category": "OK", "decoded": " tendency", "metrics": [36.463348, 37.949876, 39.530478], "main_metric": 36.463348}
+{"i": 28962, "raw_vocab": "▁descendants", "category": "OK", "decoded": " descendants", "metrics": [36.455141, 38.220183, 32.742917], "main_metric": 36.455141}
+{"i": 26227, "raw_vocab": "dulci", "category": "OK", "decoded": "dulci", "metrics": [36.451041, 38.315276, 26.059017], "main_metric": 36.451041}
+{"i": 10069, "raw_vocab": "▁automated", "category": "OK", "decoded": " automated", "metrics": [36.4412, 38.159514, 31.828944], "main_metric": 36.4412}
+{"i": 16414, "raw_vocab": "▁bâtiment", "category": "OK", "decoded": " bâtiment", "metrics": [36.440431, 38.189691, 45.278634], "main_metric": 36.440431}
+{"i": 7157, "raw_vocab": "▁strongly", "category": "OK", "decoded": " strongly", "metrics": [36.438115, 38.134321, 40.076559], "main_metric": 36.438115}
+{"i": 7574, "raw_vocab": "▁discussions", "category": "OK", "decoded": " discussions", "metrics": [36.436876, 37.91313, 38.13247], "main_metric": 36.436876}
+{"i": 29710, "raw_vocab": "▁studenți", "category": "OK", "decoded": " studenți", "metrics": [36.427731, 38.189107, 46.859148], "main_metric": 36.427731}
+{"i": 20156, "raw_vocab": "▁Utiliz", "category": "OK", "decoded": " Utiliz", "metrics": [36.427274, 38.118723, 39.679277], "main_metric": 36.427274}
+{"i": 19628, "raw_vocab": "bacter", "category": "OK", "decoded": "bacter", "metrics": [36.422504, 38.057496, 39.406654], "main_metric": 36.422504}
+{"i": 5051, "raw_vocab": "▁savings", "category": "OK", "decoded": " savings", "metrics": [36.415956, 38.11667, 37.952343], "main_metric": 36.415956}
+{"i": 20550, "raw_vocab": "▁attacking", "category": "OK", "decoded": " attacking", "metrics": [36.404749, 38.155605, 45.197262], "main_metric": 36.404749}
+{"i": 11850, "raw_vocab": "▁functioning", "category": "OK", "decoded": " functioning", "metrics": [36.399037, 38.089372, 32.477688], "main_metric": 36.399037}
+{"i": 30412, "raw_vocab": "cuprinse", "category": "OK", "decoded": "cuprinse", "metrics": [36.370156, 38.035827, 30.491809], "main_metric": 36.370156}
+{"i": 9158, "raw_vocab": "▁commence", "category": "OK", "decoded": " commence", "metrics": [36.363678, 38.102161, 40.948931], "main_metric": 36.363678}
+{"i": 10686, "raw_vocab": "▁demonstration", "category": "OK", "decoded": " demonstration", "metrics": [36.363449, 38.043165, 26.248019], "main_metric": 36.363449}
+{"i": 23760, "raw_vocab": "▁dilemma", "category": "OK", "decoded": " dilemma", "metrics": [36.353045, 38.042022, 39.099822], "main_metric": 36.353045}
+{"i": 25707, "raw_vocab": "▁rencontré", "category": "OK", "decoded": " rencontré", "metrics": [36.349434, 37.981336, 37.5385], "main_metric": 36.349434}
+{"i": 15123, "raw_vocab": "hiver", "category": "OK", "decoded": "hiver", "metrics": [36.338016, 38.1852, 46.798464], "main_metric": 36.338016}
+{"i": 13563, "raw_vocab": "breite", "category": "OK", "decoded": "breite", "metrics": [36.313082, 38.089083, 25.558743], "main_metric": 36.313082}
+{"i": 10383, "raw_vocab": "▁secteur", "category": "OK", "decoded": " secteur", "metrics": [36.304034, 38.010093, 25.380389], "main_metric": 36.304034}
+{"i": 25374, "raw_vocab": "hereby", "category": "OK", "decoded": "hereby", "metrics": [36.296528, 37.935863, 30.291057], "main_metric": 36.296528}
+{"i": 8920, "raw_vocab": "▁connecting", "category": "OK", "decoded": " connecting", "metrics": [36.292687, 37.95616, 47.463931], "main_metric": 36.292687}
+{"i": 12913, "raw_vocab": "influenced", "category": "OK", "decoded": "influenced", "metrics": [36.267355, 37.908125, 25.777756], "main_metric": 36.267355}
+{"i": 30417, "raw_vocab": "ouvri", "category": "OK", "decoded": "ouvri", "metrics": [36.267213, 37.977673, 40.345895], "main_metric": 36.267213}
+{"i": 7388, "raw_vocab": "focusing", "category": "OK", "decoded": "focusing", "metrics": [36.254929, 37.978456, 38.547232], "main_metric": 36.254929}
+{"i": 3227, "raw_vocab": "unless", "category": "OK", "decoded": "unless", "metrics": [36.250915, 38.010462, 44.027342], "main_metric": 36.250915}
+{"i": 22721, "raw_vocab": "▁dentistry", "category": "OK", "decoded": " dentistry", "metrics": [36.232792, 37.869993, 30.606112], "main_metric": 36.232792}
+{"i": 28379, "raw_vocab": "planned", "category": "OK", "decoded": "planned", "metrics": [36.222722, 37.88012, 62.448547], "main_metric": 36.222722}
+{"i": 4298, "raw_vocab": "▁officials", "category": "OK", "decoded": " officials", "metrics": [36.219204, 37.83, 46.22924], "main_metric": 36.219204}
+{"i": 14498, "raw_vocab": "▁controlling", "category": "OK", "decoded": " controlling", "metrics": [36.213209, 37.830612, 39.641605], "main_metric": 36.213209}
+{"i": 24989, "raw_vocab": "▁adjoin", "category": "OK", "decoded": " adjoin", "metrics": [36.21038, 37.899635, 24.364535], "main_metric": 36.21038}
+{"i": 28116, "raw_vocab": "▁acțiune", "category": "OK", "decoded": " acțiune", "metrics": [36.205259, 37.767629, 32.902467], "main_metric": 36.205259}
+{"i": 18820, "raw_vocab": "schuss", "category": "OK", "decoded": "schuss", "metrics": [36.19968, 37.903977, 24.59085], "main_metric": 36.19968}
+{"i": 28043, "raw_vocab": "▁tedious", "category": "OK", "decoded": " tedious", "metrics": [36.198988, 37.849309, 32.722731], "main_metric": 36.198988}
+{"i": 12550, "raw_vocab": "thereby", "category": "OK", "decoded": "thereby", "metrics": [36.167809, 37.891497, 24.710153], "main_metric": 36.167809}
+{"i": 16406, "raw_vocab": "▁Supplier", "category": "OK", "decoded": " Supplier", "metrics": [36.162129, 37.807546, 30.312644], "main_metric": 36.162129}
+{"i": 19154, "raw_vocab": "▁susţin", "category": "OK", "decoded": " susţin", "metrics": [36.158563, 37.788528, 32.551217], "main_metric": 36.158563}
+{"i": 20375, "raw_vocab": "▁rezerva", "category": "OK", "decoded": " rezerva", "metrics": [36.142892, 37.860571, 31.88548], "main_metric": 36.142892}
+{"i": 6930, "raw_vocab": "delivering", "category": "OK", "decoded": "delivering", "metrics": [36.125914, 37.82825, 45.941402], "main_metric": 36.125914}
+{"i": 11698, "raw_vocab": "▁correction", "category": "OK", "decoded": " correction", "metrics": [36.125888, 37.937952, 44.206175], "main_metric": 36.125888}
+{"i": 25648, "raw_vocab": "dehors", "category": "OK", "decoded": "dehors", "metrics": [36.122703, 37.900315, 48.027832], "main_metric": 36.122703}
+{"i": 13435, "raw_vocab": "▁bargain", "category": "OK", "decoded": " bargain", "metrics": [36.121465, 37.835925, 25.643202], "main_metric": 36.121465}
+{"i": 16139, "raw_vocab": "▁remedy", "category": "OK", "decoded": " remedy", "metrics": [36.114829, 37.859348, 37.003962], "main_metric": 36.114829}
+{"i": 22915, "raw_vocab": "▁capabil", "category": "OK", "decoded": " capabil", "metrics": [36.112923, 37.780907, 33.474309], "main_metric": 36.112923}
+{"i": 27763, "raw_vocab": "▁spați", "category": "OK", "decoded": " spați", "metrics": [36.107513, 37.842376, 30.169935], "main_metric": 36.107513}
+{"i": 10251, "raw_vocab": "utilise", "category": "OK", "decoded": "utilise", "metrics": [36.104238, 37.878985, 46.904409], "main_metric": 36.104238}
+{"i": 2808, "raw_vocab": "▁Central", "category": "OK", "decoded": " Central", "metrics": [36.093525, 37.794773, 32.835394], "main_metric": 36.093525}
+{"i": 8341, "raw_vocab": "▁analyze", "category": "OK", "decoded": " analyze", "metrics": [36.073824, 37.667888, 19.675703], "main_metric": 36.073824}
+{"i": 23974, "raw_vocab": "wärts", "category": "OK", "decoded": "wärts", "metrics": [36.069495, 37.812519, 31.323375], "main_metric": 36.069495}
+{"i": 9315, "raw_vocab": "▁circul", "category": "OK", "decoded": " circul", "metrics": [36.056049, 37.759794, 53.917898], "main_metric": 36.056049}
+{"i": 5251, "raw_vocab": "▁visited", "category": "OK", "decoded": " visited", "metrics": [36.051974, 37.809844, 17.854068], "main_metric": 36.051974}
+{"i": 20955, "raw_vocab": "▁miniature", "category": "OK", "decoded": " miniature", "metrics": [36.042609, 37.678759, 31.093913], "main_metric": 36.042609}
+{"i": 23231, "raw_vocab": "▁revolve", "category": "OK", "decoded": " revolve", "metrics": [36.0337, 37.830894, 33.354741], "main_metric": 36.0337}
+{"i": 25651, "raw_vocab": "▁Celebration", "category": "OK", "decoded": " Celebration", "metrics": [35.997416, 37.611773, 39.662176], "main_metric": 35.997416}
+{"i": 7492, "raw_vocab": "▁necesar", "category": "OK", "decoded": " necesar", "metrics": [35.96966, 37.698121, 36.309572], "main_metric": 35.96966}
+{"i": 12706, "raw_vocab": "haltung", "category": "OK", "decoded": "haltung", "metrics": [35.953649, 37.696163, 52.937754], "main_metric": 35.953649}
+{"i": 22742, "raw_vocab": "▁analys", "category": "OK", "decoded": " analys", "metrics": [35.929701, 37.531486, 37.610543], "main_metric": 35.929701}
+{"i": 24437, "raw_vocab": "▁reguli", "category": "OK", "decoded": " reguli", "metrics": [35.928997, 37.604978, 25.628461], "main_metric": 35.928997}
+{"i": 2006, "raw_vocab": "▁limit", "category": "OK", "decoded": " limit", "metrics": [35.928349, 37.644703, 29.488915], "main_metric": 35.928349}
+{"i": 11282, "raw_vocab": "accessed", "category": "OK", "decoded": "accessed", "metrics": [35.927664, 37.661784, 47.135468], "main_metric": 35.927664}
+{"i": 10342, "raw_vocab": "situé", "category": "OK", "decoded": "situé", "metrics": [35.927031, 37.627786, 32.910625], "main_metric": 35.927031}
+{"i": 20340, "raw_vocab": "colored", "category": "OK", "decoded": "colored", "metrics": [35.906922, 37.623666, 46.248198], "main_metric": 35.906922}
+{"i": 29092, "raw_vocab": "▁Junction", "category": "OK", "decoded": " Junction", "metrics": [35.901832, 37.539454, 40.122413], "main_metric": 35.901832}
+{"i": 8658, "raw_vocab": "▁copper", "category": "OK", "decoded": " copper", "metrics": [35.895038, 37.557529, 46.214677], "main_metric": 35.895038}
+{"i": 19635, "raw_vocab": "▁freshly", "category": "OK", "decoded": " freshly", "metrics": [35.887249, 37.492739, 49.916844], "main_metric": 35.887249}
+{"i": 26300, "raw_vocab": "inspected", "category": "OK", "decoded": "inspected", "metrics": [35.886632, 37.688033, 44.932503], "main_metric": 35.886632}
+{"i": 19972, "raw_vocab": "▁disclosed", "category": "OK", "decoded": " disclosed", "metrics": [35.873457, 37.444567, 38.162015], "main_metric": 35.873457}
+{"i": 12231, "raw_vocab": "▁outer", "category": "OK", "decoded": " outer", "metrics": [35.860515, 37.651201, 44.090622], "main_metric": 35.860515}
+{"i": 4260, "raw_vocab": "▁treated", "category": "OK", "decoded": " treated", "metrics": [35.846286, 37.590688, 33.49355], "main_metric": 35.846286}
+{"i": 31415, "raw_vocab": "bouchage", "category": "OK", "decoded": "bouchage", "metrics": [35.842144, 37.492542, 32.357284], "main_metric": 35.842144}
+{"i": 20421, "raw_vocab": "majorité", "category": "OK", "decoded": "majorité", "metrics": [35.840169, 37.490946, 45.57322], "main_metric": 35.840169}
+{"i": 18753, "raw_vocab": "▁Kamera", "category": "OK", "decoded": " Kamera", "metrics": [35.833721, 37.569883, 47.012618], "main_metric": 35.833721}
+{"i": 1096, "raw_vocab": "▁inside", "category": "OK", "decoded": " inside", "metrics": [35.809155, 37.53599, 53.719271], "main_metric": 35.809155}
+{"i": 16048, "raw_vocab": "▁separat", "category": "OK", "decoded": " separat", "metrics": [35.806251, 37.523548, 51.498672], "main_metric": 35.806251}
+{"i": 20963, "raw_vocab": "▁fotografii", "category": "OK", "decoded": " fotografii", "metrics": [35.797025, 37.370154, 39.422915], "main_metric": 35.797025}
+{"i": 20503, "raw_vocab": "▁proced", "category": "OK", "decoded": " proced", "metrics": [35.793499, 37.545186, 24.129811], "main_metric": 35.793499}
+{"i": 5662, "raw_vocab": "▁nostru", "category": "OK", "decoded": " nostru", "metrics": [35.786168, 37.441445, 30.132792], "main_metric": 35.786168}
+{"i": 24190, "raw_vocab": "▁smoker", "category": "OK", "decoded": " smoker", "metrics": [35.782448, 37.451155, 24.189328], "main_metric": 35.782448}
+{"i": 9551, "raw_vocab": "▁probabil", "category": "OK", "decoded": " probabil", "metrics": [35.77644, 37.424504, 45.453922], "main_metric": 35.77644}
+{"i": 30447, "raw_vocab": "▁Braşov", "category": "OK", "decoded": " Braşov", "metrics": [35.775127, 37.498969, 38.322629], "main_metric": 35.775127}
+{"i": 14223, "raw_vocab": "▁empower", "category": "OK", "decoded": " empower", "metrics": [35.766257, 37.501775, 46.192817], "main_metric": 35.766257}
+{"i": 15043, "raw_vocab": "möglich", "category": "OK", "decoded": "möglich", "metrics": [35.762044, 37.594072, 46.119938], "main_metric": 35.762044}
+{"i": 28480, "raw_vocab": "▁observers", "category": "OK", "decoded": " observers", "metrics": [35.751259, 37.43183, 38.633558], "main_metric": 35.751259}
+{"i": 5476, "raw_vocab": "▁meilleur", "category": "OK", "decoded": " meilleur", "metrics": [35.747837, 37.516756, 38.677359], "main_metric": 35.747837}
+{"i": 9442, "raw_vocab": "oriented", "category": "OK", "decoded": "oriented", "metrics": [35.746862, 37.398143, 46.104412], "main_metric": 35.746862}
+{"i": 4775, "raw_vocab": "▁candidate", "category": "OK", "decoded": " candidate", "metrics": [35.734228, 37.335799, 30.564463], "main_metric": 35.734228}
+{"i": 1021, "raw_vocab": "▁young", "category": "OK", "decoded": " young", "metrics": [35.728315, 37.517331, 39.235195], "main_metric": 35.728315}
+{"i": 31192, "raw_vocab": "Developed", "category": "OK", "decoded": "Developed", "metrics": [35.711815, 37.314479, 31.722455], "main_metric": 35.711815}
+{"i": 21877, "raw_vocab": "komfort", "category": "OK", "decoded": "komfort", "metrics": [35.699671, 37.413647, 31.96933], "main_metric": 35.699671}
+{"i": 8033, "raw_vocab": "▁instruction", "category": "OK", "decoded": " instruction", "metrics": [35.690802, 37.41557, 30.499231], "main_metric": 35.690802}
+{"i": 11671, "raw_vocab": "▁Rit", "category": "OK", "decoded": " Rit", "metrics": [35.68868, 37.388944, 23.494083], "main_metric": 35.68868}
+{"i": 889, "raw_vocab": "▁software", "category": "OK", "decoded": " software", "metrics": [35.665601, 37.361103, 30.959072], "main_metric": 35.665601}
+{"i": 5663, "raw_vocab": "iţi", "category": "OK", "decoded": "iţi", "metrics": [35.635855, 37.315033, 31.717034], "main_metric": 35.635855}
+{"i": 4321, "raw_vocab": "▁carefully", "category": "OK", "decoded": " carefully", "metrics": [35.634418, 37.359472, 39.343554], "main_metric": 35.634418}
+{"i": 25445, "raw_vocab": "▁consumul", "category": "OK", "decoded": " consumul", "metrics": [35.62563, 37.133105, 32.224764], "main_metric": 35.62563}
+{"i": 4689, "raw_vocab": "▁relation", "category": "OK", "decoded": " relation", "metrics": [35.553821, 37.307106, 22.248601], "main_metric": 35.553821}
+{"i": 29379, "raw_vocab": "imprimer", "category": "OK", "decoded": "imprimer", "metrics": [35.54822, 37.116623, 31.345738], "main_metric": 35.54822}
+{"i": 20661, "raw_vocab": "▁Bauer", "category": "OK", "decoded": " Bauer", "metrics": [35.54267, 37.234798, 23.469812], "main_metric": 35.54267}
+{"i": 30870, "raw_vocab": "beutel", "category": "OK", "decoded": "beutel", "metrics": [35.514474, 37.221409, 33.390292], "main_metric": 35.514474}
+{"i": 14118, "raw_vocab": "▁jeans", "category": "OK", "decoded": " jeans", "metrics": [35.51255, 37.323759, 30.934804], "main_metric": 35.51255}
+{"i": 7444, "raw_vocab": "▁forth", "category": "OK", "decoded": " forth", "metrics": [35.509924, 37.305621, 30.998057], "main_metric": 35.509924}
+{"i": 851, "raw_vocab": "▁front", "category": "OK", "decoded": " front", "metrics": [35.473467, 37.105006, 46.344434], "main_metric": 35.473467}
+{"i": 29520, "raw_vocab": "▁Pinot", "category": "OK", "decoded": " Pinot", "metrics": [35.464625, 37.165493, 31.41519], "main_metric": 35.464625}
+{"i": 2329, "raw_vocab": "▁primary", "category": "OK", "decoded": " primary", "metrics": [35.458533, 37.187518, 38.392355], "main_metric": 35.458533}
+{"i": 25178, "raw_vocab": "▁strategically", "category": "OK", "decoded": " strategically", "metrics": [35.449381, 37.065669, 51.487192], "main_metric": 35.449381}
+{"i": 26547, "raw_vocab": "▁turnaround", "category": "OK", "decoded": " turnaround", "metrics": [35.44086, 37.031181, 37.194614], "main_metric": 35.44086}
+{"i": 11600, "raw_vocab": "generating", "category": "OK", "decoded": "generating", "metrics": [35.438011, 37.195333, 30.7573], "main_metric": 35.438011}
+{"i": 30753, "raw_vocab": "▁glorif", "category": "OK", "decoded": " glorif", "metrics": [35.437762, 37.024041, 30.279994], "main_metric": 35.437762}
+{"i": 1979, "raw_vocab": "▁connect", "category": "OK", "decoded": " connect", "metrics": [35.415116, 37.098706, 45.886969], "main_metric": 35.415116}
+{"i": 2858, "raw_vocab": "▁Auch", "category": "OK", "decoded": " Auch", "metrics": [35.404169, 37.167308, 31.536984], "main_metric": 35.404169}
+{"i": 11241, "raw_vocab": "▁labels", "category": "OK", "decoded": " labels", "metrics": [35.394968, 37.00899, 45.63087], "main_metric": 35.394968}
+{"i": 12205, "raw_vocab": "▁conserv", "category": "OK", "decoded": " conserv", "metrics": [35.387294, 36.96546, 37.961447], "main_metric": 35.387294}
+{"i": 15574, "raw_vocab": "▁multipli", "category": "OK", "decoded": " multipli", "metrics": [35.386178, 36.992005, 38.406134], "main_metric": 35.386178}
+{"i": 31465, "raw_vocab": "fleck", "category": "OK", "decoded": "fleck", "metrics": [35.378166, 37.196322, 29.581103], "main_metric": 35.378166}
+{"i": 28656, "raw_vocab": "▁perpetual", "category": "OK", "decoded": " perpetual", "metrics": [35.371097, 36.991276, 27.549045], "main_metric": 35.371097}
+{"i": 21641, "raw_vocab": "▁suspicious", "category": "OK", "decoded": " suspicious", "metrics": [35.3654, 36.936161, 17.835728], "main_metric": 35.3654}
+{"i": 19017, "raw_vocab": "phen", "category": "OK", "decoded": "phen", "metrics": [35.363794, 36.911703, 29.611151], "main_metric": 35.363794}
+{"i": 23925, "raw_vocab": "▁penny", "category": "OK", "decoded": " penny", "metrics": [35.350809, 36.978711, 36.569325], "main_metric": 35.350809}
+{"i": 30936, "raw_vocab": "▁Achtung", "category": "OK", "decoded": " Achtung", "metrics": [35.344668, 37.049727, 39.58016], "main_metric": 35.344668}
+{"i": 19801, "raw_vocab": "residing", "category": "OK", "decoded": "residing", "metrics": [35.322267, 37.056373, 29.821295], "main_metric": 35.322267}
+{"i": 23102, "raw_vocab": "ouille", "category": "OK", "decoded": "ouille", "metrics": [35.305289, 37.109509, 23.344362], "main_metric": 35.305289}
+{"i": 31037, "raw_vocab": "fenced", "category": "OK", "decoded": "fenced", "metrics": [35.300255, 37.047118, 40.349169], "main_metric": 35.300255}
+{"i": 20555, "raw_vocab": "GW", "category": "OK", "decoded": "GW", "metrics": [35.285269, 37.051228, 22.327341], "main_metric": 35.285269}
+{"i": 30878, "raw_vocab": "ausbildung", "category": "OK", "decoded": "ausbildung", "metrics": [35.277463, 37.011573, 51.929148], "main_metric": 35.277463}
+{"i": 18287, "raw_vocab": "lbstverständlich", "category": "OK", "decoded": "lbstverständlich", "metrics": [35.273579, 36.894153, 32.062082], "main_metric": 35.273579}
+{"i": 6171, "raw_vocab": "▁basically", "category": "OK", "decoded": " basically", "metrics": [35.268235, 36.929553, 29.725726], "main_metric": 35.268235}
+{"i": 22104, "raw_vocab": "▁enclosure", "category": "OK", "decoded": " enclosure", "metrics": [35.24726, 36.907533, 37.602343], "main_metric": 35.24726}
+{"i": 13939, "raw_vocab": "▁sortie", "category": "OK", "decoded": " sortie", "metrics": [35.244434, 36.998378, 50.663954], "main_metric": 35.244434}
+{"i": 11483, "raw_vocab": "▁amp", "category": "OK", "decoded": " amp", "metrics": [35.205834, 36.882822, 29.98214], "main_metric": 35.205834}
+{"i": 23817, "raw_vocab": "produkte", "category": "OK", "decoded": "produkte", "metrics": [35.205095, 36.844301, 35.570545], "main_metric": 35.205095}
+{"i": 6454, "raw_vocab": "▁printer", "category": "OK", "decoded": " printer", "metrics": [35.193956, 36.998069, 43.531692], "main_metric": 35.193956}
+{"i": 29729, "raw_vocab": "▁Kloster", "category": "OK", "decoded": " Kloster", "metrics": [35.183593, 36.820075, 32.433197], "main_metric": 35.183593}
+{"i": 22813, "raw_vocab": "▁Kooperation", "category": "OK", "decoded": " Kooperation", "metrics": [35.170746, 36.773403, 23.760564], "main_metric": 35.170746}
+{"i": 25316, "raw_vocab": "▁contracted", "category": "OK", "decoded": " contracted", "metrics": [35.168754, 36.8923, 15.856879], "main_metric": 35.168754}
+{"i": 5348, "raw_vocab": "teur", "category": "OK", "decoded": "teur", "metrics": [35.165584, 36.960704, 31.562911], "main_metric": 35.165584}
+{"i": 9198, "raw_vocab": "▁Meeting", "category": "OK", "decoded": " Meeting", "metrics": [35.163907, 36.888917, 22.590074], "main_metric": 35.163907}
+{"i": 21598, "raw_vocab": "▁attendant", "category": "OK", "decoded": " attendant", "metrics": [35.134381, 36.817179, 38.164305], "main_metric": 35.134381}
+{"i": 25180, "raw_vocab": "geteilt", "category": "OK", "decoded": "geteilt", "metrics": [35.132037, 36.873789, 25.189612], "main_metric": 35.132037}
+{"i": 22069, "raw_vocab": "▁proceduri", "category": "OK", "decoded": " proceduri", "metrics": [35.098122, 36.678409, 31.081548], "main_metric": 35.098122}
+{"i": 16074, "raw_vocab": "▁anume", "category": "OK", "decoded": " anume", "metrics": [35.097518, 36.690329, 32.371047], "main_metric": 35.097518}
+{"i": 24181, "raw_vocab": "▁charcoal", "category": "OK", "decoded": " charcoal", "metrics": [35.096334, 36.676302, 44.783055], "main_metric": 35.096334}
+{"i": 7128, "raw_vocab": "▁drain", "category": "OK", "decoded": " drain", "metrics": [35.09563, 36.818552, 24.720162], "main_metric": 35.09563}
+{"i": 10093, "raw_vocab": "yed", "category": "OK", "decoded": "yed", "metrics": [35.083298, 36.907078, 23.313314], "main_metric": 35.083298}
+{"i": 8032, "raw_vocab": "▁sorry", "category": "OK", "decoded": " sorry", "metrics": [35.039662, 36.828857, 29.988488], "main_metric": 35.039662}
+{"i": 7308, "raw_vocab": "▁wichtig", "category": "OK", "decoded": " wichtig", "metrics": [35.020338, 36.671226, 39.135492], "main_metric": 35.020338}
+{"i": 11605, "raw_vocab": "▁suppose", "category": "OK", "decoded": " suppose", "metrics": [35.012236, 36.769748, 24.787632], "main_metric": 35.012236}
+{"i": 30299, "raw_vocab": "▁cartofi", "category": "OK", "decoded": " cartofi", "metrics": [35.011948, 36.667259, 40.181044], "main_metric": 35.011948}
+{"i": 16394, "raw_vocab": "business", "category": "OK", "decoded": "business", "metrics": [34.982965, 36.755992, 15.011442], "main_metric": 34.982965}
+{"i": 30632, "raw_vocab": "▁Schatten", "category": "OK", "decoded": " Schatten", "metrics": [34.916208, 36.528679, 29.977337], "main_metric": 34.916208}
+{"i": 11613, "raw_vocab": "dessus", "category": "OK", "decoded": "dessus", "metrics": [34.887721, 36.693523, 43.529406], "main_metric": 34.887721}
+{"i": 4293, "raw_vocab": "▁procedures", "category": "OK", "decoded": " procedures", "metrics": [34.884735, 36.59395, 26.693712], "main_metric": 34.884735}
+{"i": 16647, "raw_vocab": "▁consumed", "category": "OK", "decoded": " consumed", "metrics": [34.867454, 36.347283, 43.258695], "main_metric": 34.867454}
+{"i": 4573, "raw_vocab": "▁matters", "category": "OK", "decoded": " matters", "metrics": [34.866225, 36.512065, 38.964982], "main_metric": 34.866225}
+{"i": 25558, "raw_vocab": "Including", "category": "OK", "decoded": "Including", "metrics": [34.864899, 36.595202, 30.681505], "main_metric": 34.864899}
+{"i": 25864, "raw_vocab": "▁cavity", "category": "OK", "decoded": " cavity", "metrics": [34.854602, 36.529874, 30.375514], "main_metric": 34.854602}
+{"i": 25457, "raw_vocab": "▁Ceramic", "category": "OK", "decoded": " Ceramic", "metrics": [34.820979, 36.467328, 31.972688], "main_metric": 34.820979}
+{"i": 26790, "raw_vocab": "▁Aboriginal", "category": "OK", "decoded": " Aboriginal", "metrics": [34.814506, 36.491615, 36.281361], "main_metric": 34.814506}
+{"i": 29183, "raw_vocab": "pleasantly", "category": "OK", "decoded": "pleasantly", "metrics": [34.808181, 36.41311, 44.695101], "main_metric": 34.808181}
+{"i": 31406, "raw_vocab": "Possibly", "category": "OK", "decoded": "Possibly", "metrics": [34.800523, 36.508116, 30.691874], "main_metric": 34.800523}
+{"i": 20650, "raw_vocab": "▁Minor", "category": "OK", "decoded": " Minor", "metrics": [34.787145, 36.438535, 23.694317], "main_metric": 34.787145}
+{"i": 29938, "raw_vocab": "▁harmonious", "category": "OK", "decoded": " harmonious", "metrics": [34.760709, 36.338062, 25.558879], "main_metric": 34.760709}
+{"i": 882, "raw_vocab": "▁quite", "category": "OK", "decoded": " quite", "metrics": [34.750885, 36.53046, 25.662729], "main_metric": 34.750885}
+{"i": 18992, "raw_vocab": "anspruch", "category": "OK", "decoded": "anspruch", "metrics": [34.721343, 36.405224, 30.023283], "main_metric": 34.721343}
+{"i": 25948, "raw_vocab": "inland", "category": "OK", "decoded": "inland", "metrics": [34.715921, 36.496604, 29.494701], "main_metric": 34.715921}
+{"i": 28766, "raw_vocab": "recognizable", "category": "OK", "decoded": "recognizable", "metrics": [34.689318, 36.33402, 38.5004], "main_metric": 34.689318}
+{"i": 30358, "raw_vocab": "▁Academie", "category": "OK", "decoded": " Academie", "metrics": [34.674218, 36.354064, 16.905308], "main_metric": 34.674218}
+{"i": 13299, "raw_vocab": "halte", "category": "OK", "decoded": "halte", "metrics": [34.671862, 36.33453, 25.563636], "main_metric": 34.671862}
+{"i": 31387, "raw_vocab": "professionellen", "category": "OK", "decoded": "professionellen", "metrics": [34.666365, 36.12507, 30.327657], "main_metric": 34.666365}
+{"i": 20977, "raw_vocab": "▁indiqué", "category": "OK", "decoded": " indiqué", "metrics": [34.636716, 36.19853, 37.470026], "main_metric": 34.636716}
+{"i": 28951, "raw_vocab": "average", "category": "OK", "decoded": "average", "metrics": [34.569671, 36.183693, 36.814398], "main_metric": 34.569671}
+{"i": 24510, "raw_vocab": "einiger", "category": "OK", "decoded": "einiger", "metrics": [34.51508, 36.276777, 46.818622], "main_metric": 34.51508}
+{"i": 13121, "raw_vocab": "▁barriers", "category": "OK", "decoded": " barriers", "metrics": [34.479644, 36.174659, 37.470115], "main_metric": 34.479644}
+{"i": 3169, "raw_vocab": "▁trouble", "category": "OK", "decoded": " trouble", "metrics": [34.470548, 36.127728, 17.588314], "main_metric": 34.470548}
+{"i": 28142, "raw_vocab": "öck", "category": "OK", "decoded": "öck", "metrics": [34.46925, 36.184803, 30.966361], "main_metric": 34.46925}
+{"i": 17414, "raw_vocab": "▁tragic", "category": "OK", "decoded": " tragic", "metrics": [34.463544, 36.009996, 31.922529], "main_metric": 34.463544}
+{"i": 3532, "raw_vocab": "▁alles", "category": "OK", "decoded": " alles", "metrics": [34.444159, 36.182991, 31.072573], "main_metric": 34.444159}
+{"i": 20697, "raw_vocab": "▁developmental", "category": "OK", "decoded": " developmental", "metrics": [34.439216, 35.923513, 30.38956], "main_metric": 34.439216}
+{"i": 30179, "raw_vocab": "▁kümmern", "category": "OK", "decoded": " kümmern", "metrics": [34.433839, 35.890771, 32.133905], "main_metric": 34.433839}
+{"i": 31599, "raw_vocab": "progressively", "category": "OK", "decoded": "progressively", "metrics": [34.43049, 36.03257, 36.968187], "main_metric": 34.43049}
+{"i": 30556, "raw_vocab": "complexities", "category": "OK", "decoded": "complexities", "metrics": [34.402555, 36.008404, 32.693994], "main_metric": 34.402555}
+{"i": 14140, "raw_vocab": "▁incerc", "category": "OK", "decoded": " incerc", "metrics": [34.279177, 35.909593, 31.398812], "main_metric": 34.279177}
+{"i": 26965, "raw_vocab": "▁condiment", "category": "OK", "decoded": " condiment", "metrics": [34.236469, 35.884233, 35.189736], "main_metric": 34.236469}
+{"i": 23443, "raw_vocab": "ologne", "category": "OK", "decoded": "ologne", "metrics": [34.232876, 35.894197, 35.957761], "main_metric": 34.232876}
+{"i": 10030, "raw_vocab": "▁regime", "category": "OK", "decoded": " regime", "metrics": [34.225016, 35.688268, 44.050505], "main_metric": 34.225016}
+{"i": 14755, "raw_vocab": "möglichkeiten", "category": "OK", "decoded": "möglichkeiten", "metrics": [34.223175, 35.820781, 22.50221], "main_metric": 34.223175}
+{"i": 3405, "raw_vocab": "Those", "category": "OK", "decoded": "Those", "metrics": [34.212195, 35.938284, 35.37587], "main_metric": 34.212195}
+{"i": 27021, "raw_vocab": "▁réfléchi", "category": "OK", "decoded": " réfléchi", "metrics": [34.085346, 35.607743, 17.493395], "main_metric": 34.085346}
+{"i": 7410, "raw_vocab": "DP", "category": "OK", "decoded": "DP", "metrics": [34.066435, 35.775657, 24.178606], "main_metric": 34.066435}
+{"i": 10558, "raw_vocab": "▁minimize", "category": "OK", "decoded": " minimize", "metrics": [34.036345, 35.711843, 43.027089], "main_metric": 34.036345}
+{"i": 24880, "raw_vocab": "cearcă", "category": "OK", "decoded": "cearcă", "metrics": [33.982036, 35.580465, 28.550017], "main_metric": 33.982036}
+{"i": 13860, "raw_vocab": "▁Associate", "category": "OK", "decoded": " Associate", "metrics": [33.96833, 35.577122, 46.839143], "main_metric": 33.96833}
+{"i": 25152, "raw_vocab": "pressive", "category": "OK", "decoded": "pressive", "metrics": [33.967314, 35.598762, 30.41088], "main_metric": 33.967314}
+{"i": 12759, "raw_vocab": "▁beneath", "category": "OK", "decoded": " beneath", "metrics": [33.953879, 35.419485, 40.03899], "main_metric": 33.953879}
+{"i": 31991, "raw_vocab": "nourishe", "category": "OK", "decoded": "nourishe", "metrics": [33.933938, 35.60363, 18.482571], "main_metric": 33.933938}
+{"i": 8133, "raw_vocab": "▁coupon", "category": "OK", "decoded": " coupon", "metrics": [33.82735, 35.515084, 28.973083], "main_metric": 33.82735}
+{"i": 31993, "raw_vocab": "▁disguise", "category": "OK", "decoded": " disguise", "metrics": [33.733428, 35.263478, 31.818308], "main_metric": 33.733428}
+{"i": 31352, "raw_vocab": "▁ancestral", "category": "OK", "decoded": " ancestral", "metrics": [33.702559, 35.191753, 29.026959], "main_metric": 33.702559}
+{"i": 15555, "raw_vocab": "▁früher", "category": "OK", "decoded": " früher", "metrics": [33.675927, 35.277245, 20.21783], "main_metric": 33.675927}
+{"i": 17828, "raw_vocab": "ultimi", "category": "OK", "decoded": "ultimi", "metrics": [33.611127, 35.264855, 27.873766], "main_metric": 33.611127}
+{"i": 3999, "raw_vocab": "▁Wasser", "category": "OK", "decoded": " Wasser", "metrics": [33.3093, 34.816165, 15.855527], "main_metric": 33.3093}
+{"i": 11201, "raw_vocab": "nuit", "category": "OK", "decoded": "nuit", "metrics": [33.287884, 34.895048, 43.034428], "main_metric": 33.287884}
+{"i": 22159, "raw_vocab": "▁truc", "category": "OK", "decoded": " truc", "metrics": [33.240364, 34.844029, 33.697997], "main_metric": 33.240364}
+{"i": 23467, "raw_vocab": "▁confortable", "category": "OK", "decoded": " confortable", "metrics": [33.238897, 34.770257, 13.298859], "main_metric": 33.238897}
+{"i": 10935, "raw_vocab": "▁aktiv", "category": "OK", "decoded": " aktiv", "metrics": [33.177517, 34.780338, 23.147535], "main_metric": 33.177517}
+{"i": 1285, "raw_vocab": "▁included", "category": "OK", "decoded": " included", "metrics": [33.139331, 34.674321, 27.318399], "main_metric": 33.139331}
+{"i": 1090, "raw_vocab": "▁particular", "category": "OK", "decoded": " particular", "metrics": [33.074171, 34.421856, 42.990697], "main_metric": 33.074171}
+{"i": 21718, "raw_vocab": "▁dezvoltat", "category": "OK", "decoded": " dezvoltat", "metrics": [33.037974, 34.59248, 26.808163], "main_metric": 33.037974}
+{"i": 10573, "raw_vocab": "lorsque", "category": "OK", "decoded": "lorsque", "metrics": [33.012302, 34.694859, 35.576479], "main_metric": 33.012302}
+{"i": 24073, "raw_vocab": "▁brightness", "category": "OK", "decoded": " brightness", "metrics": [32.978469, 34.4765, 26.45572], "main_metric": 32.978469}
+{"i": 26478, "raw_vocab": "▁sticla", "category": "OK", "decoded": " sticla", "metrics": [32.914082, 34.313022, 18.817893], "main_metric": 32.914082}
+{"i": 31916, "raw_vocab": "▁toothpaste", "category": "OK", "decoded": " toothpaste", "metrics": [32.873026, 34.376036, 26.728081], "main_metric": 32.873026}
+{"i": 17581, "raw_vocab": "▁compartment", "category": "OK", "decoded": " compartment", "metrics": [32.853271, 34.341247, 40.314722], "main_metric": 32.853271}
+{"i": 7674, "raw_vocab": "FS", "category": "OK", "decoded": "FS", "metrics": [32.850113, 34.464688, 35.041462], "main_metric": 32.850113}
+{"i": 22211, "raw_vocab": "▁bustl", "category": "OK", "decoded": " bustl", "metrics": [32.8174, 34.422654, 41.534503], "main_metric": 32.8174}
+{"i": 4944, "raw_vocab": "▁noticed", "category": "OK", "decoded": " noticed", "metrics": [32.80556, 34.36264, 27.06405], "main_metric": 32.80556}
+{"i": 22322, "raw_vocab": "accompagne", "category": "OK", "decoded": "accompagne", "metrics": [32.779661, 34.196572, 17.43989], "main_metric": 32.779661}
+{"i": 23809, "raw_vocab": "▁originated", "category": "OK", "decoded": " originated", "metrics": [32.733704, 34.157783, 56.32276], "main_metric": 32.733704}
+{"i": 13273, "raw_vocab": "gekommen", "category": "OK", "decoded": "gekommen", "metrics": [32.732612, 34.365449, 33.342364], "main_metric": 32.732612}
+{"i": 31216, "raw_vocab": "▁poivr", "category": "OK", "decoded": " poivr", "metrics": [32.714165, 34.312405, 41.950888], "main_metric": 32.714165}
+{"i": 31098, "raw_vocab": "▁convergence", "category": "OK", "decoded": " convergence", "metrics": [32.668405, 34.265568, 47.083902], "main_metric": 32.668405}
+{"i": 21001, "raw_vocab": "▁inappropriate", "category": "OK", "decoded": " inappropriate", "metrics": [32.667544, 34.117816, 40.351823], "main_metric": 32.667544}
+{"i": 6238, "raw_vocab": "▁concerning", "category": "OK", "decoded": " concerning", "metrics": [32.66318, 34.047586, 32.891074], "main_metric": 32.66318}
+{"i": 26958, "raw_vocab": "informatiile", "category": "OK", "decoded": "informatiile", "metrics": [32.660557, 34.123734, 41.185349], "main_metric": 32.660557}
+{"i": 20685, "raw_vocab": "delà", "category": "OK", "decoded": "delà", "metrics": [32.659095, 34.249065, 32.452699], "main_metric": 32.659095}
+{"i": 20914, "raw_vocab": "▁pouvai", "category": "OK", "decoded": " pouvai", "metrics": [32.58464, 34.259868, 33.465257], "main_metric": 32.58464}
+{"i": 552, "raw_vocab": "▁until", "category": "OK", "decoded": " until", "metrics": [32.571253, 34.195331, 47.465406], "main_metric": 32.571253}
+{"i": 21559, "raw_vocab": "niște", "category": "OK", "decoded": "niște", "metrics": [32.563167, 34.17474, 34.715848], "main_metric": 32.563167}
+{"i": 7441, "raw_vocab": "▁compatible", "category": "OK", "decoded": " compatible", "metrics": [32.536545, 34.016505, 39.656402], "main_metric": 32.536545}
+{"i": 25040, "raw_vocab": "horaire", "category": "OK", "decoded": "horaire", "metrics": [32.532541, 34.175317, 47.631901], "main_metric": 32.532541}
+{"i": 18022, "raw_vocab": "▁prohibited", "category": "OK", "decoded": " prohibited", "metrics": [32.492478, 33.895125, 31.43019], "main_metric": 32.492478}
+{"i": 2135, "raw_vocab": "▁connection", "category": "OK", "decoded": " connection", "metrics": [32.46412, 33.931802, 47.464613], "main_metric": 32.46412}
+{"i": 19442, "raw_vocab": "verantwortlich", "category": "OK", "decoded": "verantwortlich", "metrics": [32.463329, 33.921158, 38.686387], "main_metric": 32.463329}
+{"i": 21010, "raw_vocab": "temperatur", "category": "OK", "decoded": "temperatur", "metrics": [32.449088, 33.694765, 19.316669], "main_metric": 32.449088}
+{"i": 9932, "raw_vocab": "▁protecting", "category": "OK", "decoded": " protecting", "metrics": [32.443535, 33.928702, 15.852007], "main_metric": 32.443535}
+{"i": 31046, "raw_vocab": "▁substantive", "category": "OK", "decoded": " substantive", "metrics": [32.422179, 33.934498, 39.937723], "main_metric": 32.422179}
+{"i": 672, "raw_vocab": "▁etc", "category": "OK", "decoded": " etc", "metrics": [32.41306, 33.972365, 40.851061], "main_metric": 32.41306}
+{"i": 18717, "raw_vocab": "▁strengthening", "category": "OK", "decoded": " strengthening", "metrics": [32.411068, 33.773915, 30.870682], "main_metric": 32.411068}
+{"i": 19335, "raw_vocab": "▁proximité", "category": "OK", "decoded": " proximité", "metrics": [32.406231, 33.996986, 62.611125], "main_metric": 32.406231}
+{"i": 27457, "raw_vocab": "eklagte", "category": "OK", "decoded": "eklagte", "metrics": [32.393209, 33.840533, 41.267456], "main_metric": 32.393209}
+{"i": 6517, "raw_vocab": "▁sistem", "category": "OK", "decoded": " sistem", "metrics": [32.373333, 33.956626, 24.820574], "main_metric": 32.373333}
+{"i": 31513, "raw_vocab": "▁asparagus", "category": "OK", "decoded": " asparagus", "metrics": [32.36383, 33.862509, 31.89634], "main_metric": 32.36383}
+{"i": 4126, "raw_vocab": "▁thick", "category": "OK", "decoded": " thick", "metrics": [32.353293, 33.983672, 27.397401], "main_metric": 32.353293}
+{"i": 24882, "raw_vocab": "▁photographed", "category": "OK", "decoded": " photographed", "metrics": [32.322757, 33.744487, 27.480155], "main_metric": 32.322757}
+{"i": 26477, "raw_vocab": "▁délicat", "category": "OK", "decoded": " délicat", "metrics": [32.315353, 33.772693, 41.92466], "main_metric": 32.315353}
+{"i": 16509, "raw_vocab": "▁partly", "category": "OK", "decoded": " partly", "metrics": [32.308063, 33.858077, 27.100025], "main_metric": 32.308063}
+{"i": 25886, "raw_vocab": "▁Struktur", "category": "OK", "decoded": " Struktur", "metrics": [32.284691, 33.829242, 33.998399], "main_metric": 32.284691}
+{"i": 24237, "raw_vocab": "▁crispy", "category": "OK", "decoded": " crispy", "metrics": [32.278783, 33.928754, 61.138079], "main_metric": 32.278783}
+{"i": 1381, "raw_vocab": "▁involved", "category": "OK", "decoded": " involved", "metrics": [32.268575, 33.733043, 46.719999], "main_metric": 32.268575}
+{"i": 30002, "raw_vocab": "▁toothbrush", "category": "OK", "decoded": " toothbrush", "metrics": [32.266031, 33.739376, 35.007687], "main_metric": 32.266031}
+{"i": 544, "raw_vocab": "▁together", "category": "OK", "decoded": " together", "metrics": [32.263559, 33.764157, 41.043717], "main_metric": 32.263559}
+{"i": 26048, "raw_vocab": "▁harvested", "category": "OK", "decoded": " harvested", "metrics": [32.260373, 33.728797, 26.346767], "main_metric": 32.260373}
+{"i": 25978, "raw_vocab": "▁bibliothèque", "category": "OK", "decoded": " bibliothèque", "metrics": [32.249687, 33.746766, 32.881984], "main_metric": 32.249687}
+{"i": 14476, "raw_vocab": "▁Ready", "category": "OK", "decoded": " Ready", "metrics": [32.244077, 33.817668, 25.819574], "main_metric": 32.244077}
+{"i": 29101, "raw_vocab": "▁pluralit", "category": "OK", "decoded": " pluralit", "metrics": [32.233862, 33.80044, 38.544489], "main_metric": 32.233862}
+{"i": 17474, "raw_vocab": "▁beachten", "category": "OK", "decoded": " beachten", "metrics": [32.22496, 33.479927, 18.082624], "main_metric": 32.22496}
+{"i": 23150, "raw_vocab": "▁goodies", "category": "OK", "decoded": " goodies", "metrics": [32.212858, 33.766486, 31.715064], "main_metric": 32.212858}
+{"i": 23637, "raw_vocab": "▁Budapest", "category": "OK", "decoded": " Budapest", "metrics": [32.209788, 33.693852, 25.026653], "main_metric": 32.209788}
+{"i": 12349, "raw_vocab": "▁mesaj", "category": "OK", "decoded": " mesaj", "metrics": [32.196008, 33.739123, 26.350613], "main_metric": 32.196008}
+{"i": 9687, "raw_vocab": "▁unterschiedlich", "category": "OK", "decoded": " unterschiedlich", "metrics": [32.19472, 33.371722, 42.746449], "main_metric": 32.19472}
+{"i": 18780, "raw_vocab": "clav", "category": "OK", "decoded": "clav", "metrics": [32.19042, 33.844012, 44.656798], "main_metric": 32.19042}
+{"i": 4187, "raw_vocab": "▁determined", "category": "OK", "decoded": " determined", "metrics": [32.18923, 33.603521, 34.212714], "main_metric": 32.18923}
+{"i": 28181, "raw_vocab": "▁positif", "category": "OK", "decoded": " positif", "metrics": [32.186554, 33.707343, 34.372767], "main_metric": 32.186554}
+{"i": 22395, "raw_vocab": "dauert", "category": "OK", "decoded": "dauert", "metrics": [32.178792, 33.705124, 54.588241], "main_metric": 32.178792}
+{"i": 26504, "raw_vocab": "▁buckle", "category": "OK", "decoded": " buckle", "metrics": [32.147243, 33.62103, 33.506528], "main_metric": 32.147243}
+{"i": 19123, "raw_vocab": "legung", "category": "OK", "decoded": "legung", "metrics": [32.136553, 33.669206, 25.949258], "main_metric": 32.136553}
+{"i": 3917, "raw_vocab": "▁constant", "category": "OK", "decoded": " constant", "metrics": [32.123208, 33.584897, 26.428626], "main_metric": 32.123208}
+{"i": 12428, "raw_vocab": "▁clarity", "category": "OK", "decoded": " clarity", "metrics": [32.116862, 33.633883, 32.588456], "main_metric": 32.116862}
+{"i": 5328, "raw_vocab": "▁Would", "category": "OK", "decoded": " Would", "metrics": [32.103979, 33.73455, 46.744728], "main_metric": 32.103979}
+{"i": 17095, "raw_vocab": "specializes", "category": "OK", "decoded": "specializes", "metrics": [32.097362, 33.61141, 46.464964], "main_metric": 32.097362}
+{"i": 29619, "raw_vocab": "▁excepți", "category": "OK", "decoded": " excepți", "metrics": [32.082263, 33.604517, 32.771921], "main_metric": 32.082263}
+{"i": 29483, "raw_vocab": "▁Kräuter", "category": "OK", "decoded": " Kräuter", "metrics": [32.079104, 33.516702, 39.909098], "main_metric": 32.079104}
+{"i": 1684, "raw_vocab": "▁starting", "category": "OK", "decoded": " starting", "metrics": [32.076435, 33.627809, 22.903679], "main_metric": 32.076435}
+{"i": 26775, "raw_vocab": "▁lycée", "category": "OK", "decoded": " lycée", "metrics": [32.057382, 33.564009, 31.513712], "main_metric": 32.057382}
+{"i": 30999, "raw_vocab": "Decizi", "category": "OK", "decoded": "Decizi", "metrics": [32.056411, 33.469226, 54.88728], "main_metric": 32.056411}
+{"i": 876, "raw_vocab": "▁designed", "category": "OK", "decoded": " designed", "metrics": [32.044066, 33.336697, 41.312002], "main_metric": 32.044066}
+{"i": 17540, "raw_vocab": "▁comfortably", "category": "OK", "decoded": " comfortably", "metrics": [32.037747, 33.44182, 26.214561], "main_metric": 32.037747}
+{"i": 5113, "raw_vocab": "▁possibility", "category": "OK", "decoded": " possibility", "metrics": [32.022659, 33.555931, 33.826089], "main_metric": 32.022659}
+{"i": 19350, "raw_vocab": "▁initi", "category": "OK", "decoded": " initi", "metrics": [32.020693, 33.407663, 41.668308], "main_metric": 32.020693}
+{"i": 16766, "raw_vocab": "▁medicines", "category": "OK", "decoded": " medicines", "metrics": [32.019148, 33.427491, 33.599408], "main_metric": 32.019148}
+{"i": 29112, "raw_vocab": "herently", "category": "OK", "decoded": "herently", "metrics": [31.997249, 33.634124, 25.053004], "main_metric": 31.997249}
+{"i": 11700, "raw_vocab": "▁additionally", "category": "OK", "decoded": " additionally", "metrics": [31.990062, 33.417878, 53.961985], "main_metric": 31.990062}
+{"i": 30375, "raw_vocab": "bourgeois", "category": "OK", "decoded": "bourgeois", "metrics": [31.971324, 33.427117, 26.237076], "main_metric": 31.971324}
+{"i": 8712, "raw_vocab": "▁conservation", "category": "OK", "decoded": " conservation", "metrics": [31.962635, 33.415088, 32.638947], "main_metric": 31.962635}
+{"i": 30194, "raw_vocab": "maladies", "category": "OK", "decoded": "maladies", "metrics": [31.95298, 33.459849, 39.021356], "main_metric": 31.95298}
+{"i": 30025, "raw_vocab": "▁bedeutend", "category": "OK", "decoded": " bedeutend", "metrics": [31.944731, 33.50483, 33.7383], "main_metric": 31.944731}
+{"i": 24888, "raw_vocab": "▁toilette", "category": "OK", "decoded": " toilette", "metrics": [31.933215, 33.472817, 47.937851], "main_metric": 31.933215}
+{"i": 19236, "raw_vocab": "▁nonetheless", "category": "OK", "decoded": " nonetheless", "metrics": [31.922158, 33.161595, 32.469384], "main_metric": 31.922158}
+{"i": 19551, "raw_vocab": "▁prohibit", "category": "OK", "decoded": " prohibit", "metrics": [31.921632, 33.366652, 22.21464], "main_metric": 31.921632}
+{"i": 24357, "raw_vocab": "▁unhappy", "category": "OK", "decoded": " unhappy", "metrics": [31.897584, 33.385472, 39.411897], "main_metric": 31.897584}
+{"i": 28038, "raw_vocab": "▁concentrat", "category": "OK", "decoded": " concentrat", "metrics": [31.897137, 33.450654, 40.580351], "main_metric": 31.897137}
+{"i": 27321, "raw_vocab": "regulating", "category": "OK", "decoded": "regulating", "metrics": [31.892692, 33.300379, 48.471736], "main_metric": 31.892692}
+{"i": 14764, "raw_vocab": "▁succès", "category": "OK", "decoded": " succès", "metrics": [31.851599, 33.319167, 17.494338], "main_metric": 31.851599}
+{"i": 1654, "raw_vocab": "▁multe", "category": "OK", "decoded": " multe", "metrics": [31.84056, 33.31305, 39.261737], "main_metric": 31.84056}
+{"i": 31648, "raw_vocab": "▁vulgar", "category": "OK", "decoded": " vulgar", "metrics": [31.840421, 33.148472, 24.64038], "main_metric": 31.840421}
+{"i": 10642, "raw_vocab": "▁ouvert", "category": "OK", "decoded": " ouvert", "metrics": [31.830611, 33.319083, 25.880158], "main_metric": 31.830611}
+{"i": 15836, "raw_vocab": "▁sturdy", "category": "OK", "decoded": " sturdy", "metrics": [31.824877, 33.246062, 19.135475], "main_metric": 31.824877}
+{"i": 23108, "raw_vocab": "wissenschaft", "category": "OK", "decoded": "wissenschaft", "metrics": [31.799639, 33.277924, 32.201067], "main_metric": 31.799639}
+{"i": 25140, "raw_vocab": "▁satisfactory", "category": "OK", "decoded": " satisfactory", "metrics": [31.783139, 33.370904, 18.348415], "main_metric": 31.783139}
+{"i": 16991, "raw_vocab": "izează", "category": "OK", "decoded": "izează", "metrics": [31.777686, 33.319013, 34.074953], "main_metric": 31.777686}
+{"i": 31604, "raw_vocab": "gardinen", "category": "OK", "decoded": "gardinen", "metrics": [31.770931, 33.259799, 40.779297], "main_metric": 31.770931}
+{"i": 17898, "raw_vocab": "exclu", "category": "OK", "decoded": "exclu", "metrics": [31.756365, 33.223966, 25.647619], "main_metric": 31.756365}
+{"i": 11887, "raw_vocab": "▁adjustable", "category": "OK", "decoded": " adjustable", "metrics": [31.756198, 33.144542, 33.573487], "main_metric": 31.756198}
+{"i": 6684, "raw_vocab": "▁sufficient", "category": "OK", "decoded": " sufficient", "metrics": [31.753479, 33.125457, 39.87487], "main_metric": 31.753479}
+{"i": 31341, "raw_vocab": "traditionellen", "category": "OK", "decoded": "traditionellen", "metrics": [31.738024, 33.211317, 31.542644], "main_metric": 31.738024}
+{"i": 27079, "raw_vocab": "gesundheit", "category": "OK", "decoded": "gesundheit", "metrics": [31.731845, 33.269508, 45.891766], "main_metric": 31.731845}
+{"i": 2717, "raw_vocab": "▁economy", "category": "OK", "decoded": " economy", "metrics": [31.728611, 33.148719, 25.69895], "main_metric": 31.728611}
+{"i": 29138, "raw_vocab": "▁congratulations", "category": "OK", "decoded": " congratulations", "metrics": [31.726518, 33.251688, 32.707535], "main_metric": 31.726518}
+{"i": 15756, "raw_vocab": "▁désir", "category": "OK", "decoded": " désir", "metrics": [31.721224, 33.017769, 33.722478], "main_metric": 31.721224}
+{"i": 31856, "raw_vocab": "illustrating", "category": "OK", "decoded": "illustrating", "metrics": [31.719134, 33.147976, 18.027291], "main_metric": 31.719134}
+{"i": 7415, "raw_vocab": "▁controls", "category": "OK", "decoded": " controls", "metrics": [31.714453, 33.141076, 34.220916], "main_metric": 31.714453}
+{"i": 4821, "raw_vocab": "▁Ag", "category": "OK", "decoded": " Ag", "metrics": [31.710856, 33.190036, 25.366503], "main_metric": 31.710856}
+{"i": 21058, "raw_vocab": "▁coordinated", "category": "OK", "decoded": " coordinated", "metrics": [31.70244, 33.103322, 46.844088], "main_metric": 31.70244}
+{"i": 2212, "raw_vocab": "▁direction", "category": "OK", "decoded": " direction", "metrics": [31.697875, 33.13682, 34.028264], "main_metric": 31.697875}
+{"i": 27840, "raw_vocab": "▁iluminat", "category": "OK", "decoded": " iluminat", "metrics": [31.693247, 33.052879, 33.399299], "main_metric": 31.693247}
+{"i": 29176, "raw_vocab": "▁incapable", "category": "OK", "decoded": " incapable", "metrics": [31.686654, 33.203447, 16.680156], "main_metric": 31.686654}
+{"i": 25306, "raw_vocab": "▁Configur", "category": "OK", "decoded": " Configur", "metrics": [31.67663, 33.093059, 46.884732], "main_metric": 31.67663}
+{"i": 1461, "raw_vocab": "▁directly", "category": "OK", "decoded": " directly", "metrics": [31.669295, 33.091326, 31.961253], "main_metric": 31.669295}
+{"i": 24134, "raw_vocab": "▁decisiv", "category": "OK", "decoded": " decisiv", "metrics": [31.663972, 33.057101, 32.694868], "main_metric": 31.663972}
+{"i": 26167, "raw_vocab": "ţiunea", "category": "OK", "decoded": "ţiunea", "metrics": [31.657557, 33.026432, 27.701354], "main_metric": 31.657557}
+{"i": 18950, "raw_vocab": "▁Inner", "category": "OK", "decoded": " Inner", "metrics": [31.649875, 33.225291, 32.420208], "main_metric": 31.649875}
+{"i": 29602, "raw_vocab": "▁școli", "category": "OK", "decoded": " școli", "metrics": [31.644862, 33.172889, 45.96013], "main_metric": 31.644862}
+{"i": 16725, "raw_vocab": "▁happily", "category": "OK", "decoded": " happily", "metrics": [31.638658, 33.117988, 10.863945], "main_metric": 31.638658}
+{"i": 5401, "raw_vocab": "mittel", "category": "OK", "decoded": "mittel", "metrics": [31.631831, 33.123505, 25.254503], "main_metric": 31.631831}
+{"i": 21953, "raw_vocab": "▁altul", "category": "OK", "decoded": " altul", "metrics": [31.631133, 33.177377, 38.609879], "main_metric": 31.631133}
+{"i": 21793, "raw_vocab": "▁dürfte", "category": "OK", "decoded": " dürfte", "metrics": [31.629946, 33.045181, 26.620987], "main_metric": 31.629946}
+{"i": 6745, "raw_vocab": "▁packaging", "category": "OK", "decoded": " packaging", "metrics": [31.62146, 33.057009, 31.5781], "main_metric": 31.62146}
+{"i": 31398, "raw_vocab": "▁Jusqu", "category": "OK", "decoded": " Jusqu", "metrics": [31.617893, 33.035359, 40.784439], "main_metric": 31.617893}
+{"i": 141, "raw_vocab": "▁had", "category": "OK", "decoded": " had", "metrics": [31.611433, 33.08695, 46.974485], "main_metric": 31.611433}
+{"i": 6782, "raw_vocab": "▁belt", "category": "OK", "decoded": " belt", "metrics": [31.610167, 33.153934, 45.936575], "main_metric": 31.610167}
+{"i": 27412, "raw_vocab": "▁RGB", "category": "OK", "decoded": " RGB", "metrics": [31.608735, 33.077585, 24.260895], "main_metric": 31.608735}
+{"i": 6955, "raw_vocab": "preparing", "category": "OK", "decoded": "preparing", "metrics": [31.607653, 33.085522, 39.356503], "main_metric": 31.607653}
+{"i": 1348, "raw_vocab": "▁average", "category": "OK", "decoded": " average", "metrics": [31.602214, 33.067607, 25.244427], "main_metric": 31.602214}
+{"i": 16097, "raw_vocab": "▁refined", "category": "OK", "decoded": " refined", "metrics": [31.600862, 32.960098, 53.581253], "main_metric": 31.600862}
+{"i": 22809, "raw_vocab": "▁incercat", "category": "OK", "decoded": " incercat", "metrics": [31.596838, 33.096585, 60.941366], "main_metric": 31.596838}
+{"i": 2021, "raw_vocab": "▁powerful", "category": "OK", "decoded": " powerful", "metrics": [31.594604, 33.000236, 43.749852], "main_metric": 31.594604}
+{"i": 21167, "raw_vocab": "▁minut", "category": "OK", "decoded": " minut", "metrics": [31.593021, 33.130117, 24.618377], "main_metric": 31.593021}
+{"i": 29387, "raw_vocab": "▁forbidden", "category": "OK", "decoded": " forbidden", "metrics": [31.589621, 33.099666, 41.051465], "main_metric": 31.589621}
+{"i": 17577, "raw_vocab": "▁rigorous", "category": "OK", "decoded": " rigorous", "metrics": [31.5747, 32.994371, 25.159602], "main_metric": 31.5747}
+{"i": 23208, "raw_vocab": "▁Critical", "category": "OK", "decoded": " Critical", "metrics": [31.558601, 33.16193, 17.700444], "main_metric": 31.558601}
+{"i": 19876, "raw_vocab": "▁Maßnahmen", "category": "OK", "decoded": " Maßnahmen", "metrics": [31.557694, 33.030486, 32.116803], "main_metric": 31.557694}
+{"i": 24312, "raw_vocab": "recalled", "category": "OK", "decoded": "recalled", "metrics": [31.553228, 33.038104, 17.083002], "main_metric": 31.553228}
+{"i": 31802, "raw_vocab": "▁beeinflussen", "category": "OK", "decoded": " beeinflussen", "metrics": [31.531548, 32.728805, 24.628192], "main_metric": 31.531548}
+{"i": 16527, "raw_vocab": "Atunci", "category": "OK", "decoded": "Atunci", "metrics": [31.527843, 33.094864, 32.925902], "main_metric": 31.527843}
+{"i": 2957, "raw_vocab": "▁toward", "category": "OK", "decoded": " toward", "metrics": [31.527818, 32.99677, 34.900629], "main_metric": 31.527818}
+{"i": 8807, "raw_vocab": "▁divided", "category": "OK", "decoded": " divided", "metrics": [31.520721, 33.035233, 38.398495], "main_metric": 31.520721}
+{"i": 24576, "raw_vocab": "wirksam", "category": "OK", "decoded": "wirksam", "metrics": [31.519591, 33.06536, 40.616054], "main_metric": 31.519591}
+{"i": 30685, "raw_vocab": "▁străluc", "category": "OK", "decoded": " străluc", "metrics": [31.514446, 32.999253, 42.213003], "main_metric": 31.514446}
+{"i": 31901, "raw_vocab": "▁clasp", "category": "OK", "decoded": " clasp", "metrics": [31.513144, 33.03375, 31.760008], "main_metric": 31.513144}
+{"i": 14943, "raw_vocab": "geschlossen", "category": "OK", "decoded": "geschlossen", "metrics": [31.509265, 32.981671, 40.841563], "main_metric": 31.509265}
+{"i": 26336, "raw_vocab": "▁cuplu", "category": "OK", "decoded": " cuplu", "metrics": [31.504033, 32.901498, 46.308166], "main_metric": 31.504033}
+{"i": 16964, "raw_vocab": "▁briefly", "category": "OK", "decoded": " briefly", "metrics": [31.503004, 33.036621, 53.938239], "main_metric": 31.503004}
+{"i": 19965, "raw_vocab": "▁quietly", "category": "OK", "decoded": " quietly", "metrics": [31.499175, 33.033592, 31.395731], "main_metric": 31.499175}
+{"i": 25499, "raw_vocab": "außerhalb", "category": "OK", "decoded": "außerhalb", "metrics": [31.499076, 32.967579, 52.753008], "main_metric": 31.499076}
+{"i": 18937, "raw_vocab": "▁drape", "category": "OK", "decoded": " drape", "metrics": [31.494723, 32.962783, 41.623604], "main_metric": 31.494723}
+{"i": 10202, "raw_vocab": "▁nécessaire", "category": "OK", "decoded": " nécessaire", "metrics": [31.488997, 32.916659, 24.429186], "main_metric": 31.488997}
+{"i": 23601, "raw_vocab": "▁hurry", "category": "OK", "decoded": " hurry", "metrics": [31.488454, 33.189785, 39.138486], "main_metric": 31.488454}
+{"i": 3345, "raw_vocab": "▁depending", "category": "OK", "decoded": " depending", "metrics": [31.483957, 32.884981, 31.225101], "main_metric": 31.483957}
+{"i": 10214, "raw_vocab": "appareil", "category": "OK", "decoded": "appareil", "metrics": [31.482766, 32.997325, 33.560661], "main_metric": 31.482766}
+{"i": 1366, "raw_vocab": "▁été", "category": "OK", "decoded": " été", "metrics": [31.478743, 33.016884, 38.355276], "main_metric": 31.478743}
+{"i": 22300, "raw_vocab": "▁susține", "category": "OK", "decoded": " susține", "metrics": [31.46048, 32.960189, 46.948996], "main_metric": 31.46048}
+{"i": 21570, "raw_vocab": "itorul", "category": "OK", "decoded": "itorul", "metrics": [31.457779, 32.871436, 40.44156], "main_metric": 31.457779}
+{"i": 25681, "raw_vocab": "▁vigorous", "category": "OK", "decoded": " vigorous", "metrics": [31.455091, 32.759716, 39.446423], "main_metric": 31.455091}
+{"i": 31976, "raw_vocab": "Schraub", "category": "OK", "decoded": "Schraub", "metrics": [31.454276, 33.057888, 46.894368], "main_metric": 31.454276}
+{"i": 31879, "raw_vocab": "▁Compatible", "category": "OK", "decoded": " Compatible", "metrics": [31.45411, 32.803989, 54.341451], "main_metric": 31.45411}
+{"i": 24067, "raw_vocab": "▁deliberately", "category": "OK", "decoded": " deliberately", "metrics": [31.441398, 32.832077, 29.564078], "main_metric": 31.441398}
+{"i": 25427, "raw_vocab": "▁fibr", "category": "OK", "decoded": " fibr", "metrics": [31.441181, 33.016078, 39.67245], "main_metric": 31.441181}
+{"i": 3256, "raw_vocab": "▁continues", "category": "OK", "decoded": " continues", "metrics": [31.440539, 32.951271, 24.910479], "main_metric": 31.440539}
+{"i": 28858, "raw_vocab": "lighted", "category": "OK", "decoded": "lighted", "metrics": [31.437167, 32.94047, 27.375656], "main_metric": 31.437167}
+{"i": 789, "raw_vocab": "▁government", "category": "OK", "decoded": " government", "metrics": [31.434438, 32.915514, 25.56365], "main_metric": 31.434438}
+{"i": 26007, "raw_vocab": "▁plötzlich", "category": "OK", "decoded": " plötzlich", "metrics": [31.430375, 32.686498, 33.016346], "main_metric": 31.430375}
+{"i": 2254, "raw_vocab": "▁methods", "category": "OK", "decoded": " methods", "metrics": [31.428552, 32.985867, 18.234673], "main_metric": 31.428552}
+{"i": 7785, "raw_vocab": "▁resolve", "category": "OK", "decoded": " resolve", "metrics": [31.423734, 32.957013, 30.955959], "main_metric": 31.423734}

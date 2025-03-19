@@ -1,0 +1,998 @@
+{"i": 23518, "raw_vocab": "ĠConclusion", "category": "OK", "decoded": " Conclusion", "metrics": [70.270545, 431.676166, 873.314431], "main_metric": 70.270545}
+{"i": 43809, "raw_vocab": "Ġ\".", "category": "OK", "decoded": " \".", "metrics": [58.725911, 302.746191, 532.463939], "main_metric": 58.725911}
+{"i": 19355, "raw_vocab": "ĠOriginally", "category": "OK", "decoded": " Originally", "metrics": [57.71959, 388.285271, 761.684436], "main_metric": 57.71959}
+{"i": 42927, "raw_vocab": "ĠContributions", "category": "OK", "decoded": " Contributions", "metrics": [53.781017, 337.910065, 748.330506], "main_metric": 53.781017}
+{"i": 44974, "raw_vocab": "Sources", "category": "OK", "decoded": "Sources", "metrics": [53.681702, 346.567615, 705.610219], "main_metric": 53.681702}
+{"i": 48984, "raw_vocab": "Conclusion", "category": "OK", "decoded": "Conclusion", "metrics": [53.116688, 419.814969, 773.026907], "main_metric": 53.116688}
+{"i": 48651, "raw_vocab": "Ġ[/", "category": "OK", "decoded": " [/", "metrics": [52.824497, 366.868457, 881.921307], "main_metric": 52.824497}
+{"i": 40204, "raw_vocab": "568", "category": "OK", "decoded": "568", "metrics": [52.708504, 435.531712, 1120.346308], "main_metric": 52.708504}
+{"i": 8993, "raw_vocab": "ĠProfile", "category": "OK", "decoded": " Profile", "metrics": [52.502326, 399.511308, 614.25453], "main_metric": 52.502326}
+{"i": 13835, "raw_vocab": "Ġannounces", "category": "OK", "decoded": " announces", "metrics": [52.432581, 307.680317, 523.420636], "main_metric": 52.432581}
+{"i": 43179, "raw_vocab": "Ġunpublished", "category": "OK", "decoded": " unpublished", "metrics": [52.427517, 394.027575, 627.300781], "main_metric": 52.427517}
+{"i": 44716, "raw_vocab": "Previous", "category": "OK", "decoded": "Previous", "metrics": [52.391435, 320.862737, 886.396099], "main_metric": 52.391435}
+{"i": 77, "raw_vocab": "Ġwhen", "category": "OK", "decoded": " when", "metrics": [52.335467, 320.238456, 330.558387], "main_metric": 52.335467}
+{"i": 36187, "raw_vocab": "easy", "category": "OK", "decoded": "easy", "metrics": [51.998517, 268.988446, 429.405167], "main_metric": 51.998517}
+{"i": 49310, "raw_vocab": "=[", "category": "OK", "decoded": "=[", "metrics": [51.98352, 408.221641, 1002.267076], "main_metric": 51.98352}
+{"i": 48843, "raw_vocab": "cised", "category": "OK", "decoded": "cised", "metrics": [51.912203, 336.973078, 643.498838], "main_metric": 51.912203}
+{"i": 13361, "raw_vocab": "âĢ¦.", "category": "OK", "decoded": "….", "metrics": [51.690253, 296.538894, 535.603891], "main_metric": 51.690253}
+{"i": 14030, "raw_vocab": "Ġrequesting", "category": "OK", "decoded": " requesting", "metrics": [51.498142, 187.940122, 311.848053], "main_metric": 51.498142}
+{"i": 27779, "raw_vocab": "Ġ]", "category": "OK", "decoded": " ]", "metrics": [51.015125, 304.213539, 629.855258], "main_metric": 51.015125}
+{"i": 8194, "raw_vocab": "Ġdescription", "category": "OK", "decoded": " description", "metrics": [50.934316, 278.642641, 432.100052], "main_metric": 50.934316}
+{"i": 42530, "raw_vocab": "Side", "category": "OK", "decoded": "Side", "metrics": [50.910851, 144.737974, 300.294787], "main_metric": 50.910851}
+{"i": 16632, "raw_vocab": "Ġcompatible", "category": "OK", "decoded": " compatible", "metrics": [50.724411, 339.968996, 599.443991], "main_metric": 50.724411}
+{"i": 47305, "raw_vocab": "Disclaimer", "category": "OK", "decoded": "Disclaimer", "metrics": [50.235806, 403.021173, 901.82639], "main_metric": 50.235806}
+{"i": 48763, "raw_vocab": "Discussion", "category": "OK", "decoded": "Discussion", "metrics": [49.533734, 375.306702, 504.791918], "main_metric": 49.533734}
+{"i": 12227, "raw_vocab": "ĠâĢĭ", "category": "OK", "decoded": " ​", "metrics": [49.471167, 324.204606, 712.817165], "main_metric": 49.471167}
+{"i": 5126, "raw_vocab": "Ġdevelopments", "category": "OK", "decoded": " developments", "metrics": [49.376103, 411.432121, 652.772076], "main_metric": 49.376103}
+{"i": 41746, "raw_vocab": "osexual", "category": "OK", "decoded": "osexual", "metrics": [48.782035, 348.200518, 780.024387], "main_metric": 48.782035}
+{"i": 1658, "raw_vocab": "Ġfiled", "category": "OK", "decoded": " filed", "metrics": [48.679137, 273.911071, 531.002707], "main_metric": 48.679137}
+{"i": 1857, "raw_vocab": "Ġallegations", "category": "OK", "decoded": " allegations", "metrics": [48.656413, 362.608629, 358.254722], "main_metric": 48.656413}
+{"i": 48791, "raw_vocab": "ãĤ¹", "category": "OK", "decoded": "ス", "metrics": [48.645308, 324.325049, 867.576429], "main_metric": 48.645308}
+{"i": 49379, "raw_vocab": "References", "category": "OK", "decoded": "References", "metrics": [48.569128, 447.982025, 858.909409], "main_metric": 48.569128}
+{"i": 27247, "raw_vocab": "Ġramifications", "category": "OK", "decoded": " ramifications", "metrics": [48.5557, 334.146583, 760.111683], "main_metric": 48.5557}
+{"i": 48694, "raw_vocab": "Ġ'.", "category": "OK", "decoded": " '.", "metrics": [48.53326, 294.897992, 519.171549], "main_metric": 48.53326}
+{"i": 28653, "raw_vocab": "ĠParties", "category": "OK", "decoded": " Parties", "metrics": [48.402376, 377.468455, 475.197531], "main_metric": 48.402376}
+{"i": 46076, "raw_vocab": "features", "category": "OK", "decoded": "features", "metrics": [48.339505, 337.824259, 487.659401], "main_metric": 48.339505}
+{"i": 18508, "raw_vocab": "135", "category": "OK", "decoded": "135", "metrics": [48.209186, 349.727371, 887.485586], "main_metric": 48.209186}
+{"i": 5135, "raw_vocab": "Ġreference", "category": "OK", "decoded": " reference", "metrics": [48.113231, 307.095179, 528.763463], "main_metric": 48.113231}
+{"i": 33740, "raw_vocab": "Ġpermissions", "category": "OK", "decoded": " permissions", "metrics": [48.055366, 375.989556, 817.580266], "main_metric": 48.055366}
+{"i": 2641, "raw_vocab": "Ġadmitted", "category": "OK", "decoded": " admitted", "metrics": [47.936032, 331.961693, 701.540382], "main_metric": 47.936032}
+{"i": 16899, "raw_vocab": "Ġdeferred", "category": "OK", "decoded": " deferred", "metrics": [47.935944, 322.304537, 547.642358], "main_metric": 47.935944}
+{"i": 26273, "raw_vocab": "273", "category": "OK", "decoded": "273", "metrics": [47.920712, 341.105632, 675.348177], "main_metric": 47.920712}
+{"i": 1715, "raw_vocab": "Ġsources", "category": "OK", "decoded": " sources", "metrics": [47.906621, 373.757458, 687.627708], "main_metric": 47.906621}
+{"i": 24147, "raw_vocab": "Ġrepercussions", "category": "OK", "decoded": " repercussions", "metrics": [47.874265, 261.483543, 586.968565], "main_metric": 47.874265}
+{"i": 12390, "raw_vocab": "Ġcontributor", "category": "OK", "decoded": " contributor", "metrics": [47.772433, 359.9248, 776.011433], "main_metric": 47.772433}
+{"i": 9460, "raw_vocab": "Ġstealing", "category": "OK", "decoded": " stealing", "metrics": [47.649725, 276.636956, 470.061993], "main_metric": 47.649725}
+{"i": 38080, "raw_vocab": "698", "category": "OK", "decoded": "698", "metrics": [47.648736, 351.418731, 821.21677], "main_metric": 47.648736}
+{"i": 11598, "raw_vocab": "ĠSources", "category": "OK", "decoded": " Sources", "metrics": [47.616883, 351.322763, 804.015175], "main_metric": 47.616883}
+{"i": 33871, "raw_vocab": "401", "category": "OK", "decoded": "401", "metrics": [47.604945, 308.821904, 769.653541], "main_metric": 47.604945}
+{"i": 7123, "raw_vocab": "Ġreviewed", "category": "OK", "decoded": " reviewed", "metrics": [47.536104, 253.004246, 295.273417], "main_metric": 47.536104}
+{"i": 38337, "raw_vocab": "Ġpresume", "category": "OK", "decoded": " presume", "metrics": [47.493955, 363.638124, 667.668602], "main_metric": 47.493955}
+{"i": 10816, "raw_vocab": "offs", "category": "OK", "decoded": "offs", "metrics": [47.388877, 355.558549, 730.673994], "main_metric": 47.388877}
+{"i": 5694, "raw_vocab": "Ġcontributions", "category": "OK", "decoded": " contributions", "metrics": [47.378294, 293.71279, 662.134243], "main_metric": 47.378294}
+{"i": 746, "raw_vocab": "Ġtotal", "category": "OK", "decoded": " total", "metrics": [47.302471, 348.780856, 668.476914], "main_metric": 47.302471}
+{"i": 46812, "raw_vocab": "ĠSubjects", "category": "OK", "decoded": " Subjects", "metrics": [47.297268, 386.266292, 708.801977], "main_metric": 47.297268}
+{"i": 48833, "raw_vocab": "-[", "category": "OK", "decoded": "-[", "metrics": [47.280187, 396.654635, 885.474531], "main_metric": 47.280187}
+{"i": 49844, "raw_vocab": "ãĢİ", "category": "OK", "decoded": "『", "metrics": [47.257731, 483.279778, 765.493702], "main_metric": 47.257731}
+{"i": 3162, "raw_vocab": "Ġcontributed", "category": "OK", "decoded": " contributed", "metrics": [47.238954, 304.552252, 421.948537], "main_metric": 47.238954}
+{"i": 44721, "raw_vocab": "Î±", "category": "OK", "decoded": "α", "metrics": [47.089879, 426.145795, 766.845529], "main_metric": 47.089879}
+{"i": 40170, "raw_vocab": "Knowing", "category": "OK", "decoded": "Knowing", "metrics": [46.976823, 258.583725, 488.483417], "main_metric": 46.976823}
+{"i": 17234, "raw_vocab": "ĠUpdated", "category": "OK", "decoded": " Updated", "metrics": [46.962263, 277.53451, 698.156626], "main_metric": 46.962263}
+{"i": 4319, "raw_vocab": "Ġciting", "category": "OK", "decoded": " citing", "metrics": [46.951652, 241.026567, 548.322498], "main_metric": 46.951652}
+{"i": 10866, "raw_vocab": "Ġdisabilities", "category": "OK", "decoded": " disabilities", "metrics": [46.907652, 335.892505, 244.041442], "main_metric": 46.907652}
+{"i": 44438, "raw_vocab": "DEF", "category": "OK", "decoded": "DEF", "metrics": [46.892971, 269.38299, 583.104485], "main_metric": 46.892971}
+{"i": 43234, "raw_vocab": "default", "category": "OK", "decoded": "default", "metrics": [46.791739, 367.560394, 770.319803], "main_metric": 46.791739}
+{"i": 25838, "raw_vocab": "ĠLINK", "category": "OK", "decoded": " LINK", "metrics": [46.686074, 319.341418, 748.942516], "main_metric": 46.686074}
+{"i": 48462, "raw_vocab": ")[", "category": "OK", "decoded": ")[", "metrics": [46.673796, 445.446089, 1041.030264], "main_metric": 46.673796}
+{"i": 19358, "raw_vocab": "Ġrevoked", "category": "OK", "decoded": " revoked", "metrics": [46.670194, 238.582421, 524.945606], "main_metric": 46.670194}
+{"i": 11012, "raw_vocab": "Ġreactions", "category": "OK", "decoded": " reactions", "metrics": [46.648809, 348.157574, 773.798965], "main_metric": 46.648809}
+{"i": 14135, "raw_vocab": "Ġlinking", "category": "OK", "decoded": " linking", "metrics": [46.632339, 308.419533, 638.732133], "main_metric": 46.632339}
+{"i": 32324, "raw_vocab": "Ġomission", "category": "OK", "decoded": " omission", "metrics": [46.621791, 221.168935, 544.771822], "main_metric": 46.621791}
+{"i": 48565, "raw_vocab": "Ġ/*", "category": "OK", "decoded": " /*", "metrics": [46.609368, 357.67255, 582.032442], "main_metric": 46.609368}
+{"i": 17389, "raw_vocab": "ĠOwners", "category": "OK", "decoded": " Owners", "metrics": [46.560505, 281.692807, 577.269779], "main_metric": 46.560505}
+{"i": 1575, "raw_vocab": "Ġfeatures", "category": "OK", "decoded": " features", "metrics": [46.540538, 252.745993, 478.53281], "main_metric": 46.540538}
+{"i": 48395, "raw_vocab": "Ġ[[", "category": "OK", "decoded": " [[", "metrics": [46.516496, 379.508634, 547.181214], "main_metric": 46.516496}
+{"i": 48931, "raw_vocab": "Topic", "category": "OK", "decoded": "Topic", "metrics": [46.496477, 274.138293, 338.610438], "main_metric": 46.496477}
+{"i": 42449, "raw_vocab": "ĠFormation", "category": "OK", "decoded": " Formation", "metrics": [46.451031, 326.469984, 544.802332], "main_metric": 46.451031}
+{"i": 36098, "raw_vocab": ")/", "category": "OK", "decoded": ")/", "metrics": [46.41073, 256.110886, 657.011183], "main_metric": 46.41073}
+{"i": 43303, "raw_vocab": "Ġ[...]", "category": "OK", "decoded": " [...]", "metrics": [46.393623, 348.035415, 555.11279], "main_metric": 46.393623}
+{"i": 10791, "raw_vocab": "Ġsuggestion", "category": "OK", "decoded": " suggestion", "metrics": [46.358255, 321.253473, 622.902717], "main_metric": 46.358255}
+{"i": 42398, "raw_vocab": "ĠFault", "category": "OK", "decoded": " Fault", "metrics": [46.314137, 200.721734, 545.99848], "main_metric": 46.314137}
+{"i": 646, "raw_vocab": "Ġ[", "category": "OK", "decoded": " [", "metrics": [46.273174, 352.092428, 629.084784], "main_metric": 46.273174}
+{"i": 42029, "raw_vocab": "optional", "category": "OK", "decoded": "optional", "metrics": [46.220644, 291.395254, 463.948045], "main_metric": 46.220644}
+{"i": 1544, "raw_vocab": "ĠAssociation", "category": "OK", "decoded": " Association", "metrics": [46.199945, 219.242575, 483.291192], "main_metric": 46.199945}
+{"i": 9061, "raw_vocab": "Ġobligation", "category": "OK", "decoded": " obligation", "metrics": [46.170476, 283.241695, 604.126452], "main_metric": 46.170476}
+{"i": 32928, "raw_vocab": "Ġrespectfully", "category": "OK", "decoded": " respectfully", "metrics": [46.108896, 264.297737, 497.084359], "main_metric": 46.108896}
+{"i": 34251, "raw_vocab": "Ð¾", "category": "OK", "decoded": "о", "metrics": [46.09998, 397.817859, 650.173461], "main_metric": 46.09998}
+{"i": 20350, "raw_vocab": "ĠProductions", "category": "OK", "decoded": " Productions", "metrics": [46.048603, 270.56084, 430.953368], "main_metric": 46.048603}
+{"i": 44959, "raw_vocab": "ĠSocialism", "category": "OK", "decoded": " Socialism", "metrics": [46.022571, 283.918955, 539.899056], "main_metric": 46.022571}
+{"i": 48377, "raw_vocab": "({", "category": "OK", "decoded": "({", "metrics": [45.93202, 383.645186, 944.925732], "main_metric": 45.93202}
+{"i": 40086, "raw_vocab": "ETHOD", "category": "OK", "decoded": "ETHOD", "metrics": [45.816089, 340.759136, 530.984323], "main_metric": 45.816089}
+{"i": 11223, "raw_vocab": "Ġcredited", "category": "OK", "decoded": " credited", "metrics": [45.800839, 226.366538, 322.390652], "main_metric": 45.800839}
+{"i": 49306, "raw_vocab": "ĠâĸĪ", "category": "OK", "decoded": " █", "metrics": [45.772254, 243.272776, 307.849674], "main_metric": 45.772254}
+{"i": 16295, "raw_vocab": "201", "category": "OK", "decoded": "201", "metrics": [45.765808, 269.933645, 320.834286], "main_metric": 45.765808}
+{"i": 27079, "raw_vocab": "+.", "category": "OK", "decoded": "+.", "metrics": [45.754634, 227.651634, 588.387666], "main_metric": 45.754634}
+{"i": 49366, "raw_vocab": "][/", "category": "OK", "decoded": "][/", "metrics": [45.710304, 365.442462, 825.284321], "main_metric": 45.710304}
+{"i": 17487, "raw_vocab": "Ġ?", "category": "OK", "decoded": " ?", "metrics": [45.705362, 222.040103, 496.961902], "main_metric": 45.705362}
+{"i": 33425, "raw_vocab": "ĠDescription", "category": "OK", "decoded": " Description", "metrics": [45.619847, 319.013091, 635.858298], "main_metric": 45.619847}
+{"i": 33108, "raw_vocab": "ĠProvided", "category": "OK", "decoded": " Provided", "metrics": [45.603335, 303.090103, 409.052164], "main_metric": 45.603335}
+{"i": 15127, "raw_vocab": "EO", "category": "OK", "decoded": "EO", "metrics": [45.603267, 308.357732, 699.697444], "main_metric": 45.603267}
+{"i": 49750, "raw_vocab": "]}", "category": "OK", "decoded": "]}", "metrics": [45.569972, 313.69226, 801.840691], "main_metric": 45.569972}
+{"i": 458, "raw_vocab": "Ġshare", "category": "OK", "decoded": " share", "metrics": [45.564207, 259.949087, 522.560753], "main_metric": 45.564207}
+{"i": 9680, "raw_vocab": "Ġ140", "category": "OK", "decoded": " 140", "metrics": [45.558073, 299.5048, 589.554805], "main_metric": 45.558073}
+{"i": 6665, "raw_vocab": "Ġpapers", "category": "OK", "decoded": " papers", "metrics": [45.541764, 258.72622, 490.05695], "main_metric": 45.541764}
+{"i": 10878, "raw_vocab": "ĠPhotos", "category": "OK", "decoded": " Photos", "metrics": [45.522177, 249.898462, 550.719055], "main_metric": 45.522177}
+{"i": 7325, "raw_vocab": "was", "category": "OK", "decoded": "was", "metrics": [45.515134, 178.079513, 391.586419], "main_metric": 45.515134}
+{"i": 39207, "raw_vocab": "ĠÂ§", "category": "OK", "decoded": " §", "metrics": [45.509894, 206.071029, 473.244944], "main_metric": 45.509894}
+{"i": 44082, "raw_vocab": "];", "category": "OK", "decoded": "];", "metrics": [45.463738, 380.640141, 627.735851], "main_metric": 45.463738}
+{"i": 2203, "raw_vocab": "Ġowners", "category": "OK", "decoded": " owners", "metrics": [45.441759, 273.082845, 583.349962], "main_metric": 45.441759}
+{"i": 45676, "raw_vocab": "Ġwhats", "category": "OK", "decoded": " whats", "metrics": [45.37488, 293.209435, 360.061456], "main_metric": 45.37488}
+{"i": 45405, "raw_vocab": "Ġ].", "category": "OK", "decoded": " ].", "metrics": [45.366129, 326.157818, 709.179501], "main_metric": 45.366129}
+{"i": 49911, "raw_vocab": "âĸĪâĸĪâĸĪâĸĪâĸĪâĸĪâĸĪâĸĪ", "category": "OK", "decoded": "████████", "metrics": [45.337632, 231.465018, 754.531987], "main_metric": 45.337632}
+{"i": 44241, "raw_vocab": "Unknown", "category": "OK", "decoded": "Unknown", "metrics": [45.298944, 345.268585, 712.34229], "main_metric": 45.298944}
+{"i": 48081, "raw_vocab": "Ġ[]", "category": "OK", "decoded": " []", "metrics": [45.290527, 333.075954, 686.471468], "main_metric": 45.290527}
+{"i": 25800, "raw_vocab": "why", "category": "OK", "decoded": "why", "metrics": [45.247931, 288.014415, 582.573575], "main_metric": 45.247931}
+{"i": 38679, "raw_vocab": "Ġ670", "category": "OK", "decoded": " 670", "metrics": [45.239746, 319.516922, 624.207201], "main_metric": 45.239746}
+{"i": 48392, "raw_vocab": "]]", "category": "OK", "decoded": "]]", "metrics": [45.205135, 364.432507, 816.552935], "main_metric": 45.205135}
+{"i": 28283, "raw_vocab": "ĠUnknown", "category": "OK", "decoded": " Unknown", "metrics": [45.188971, 309.118238, 648.984196], "main_metric": 45.188971}
+{"i": 20748, "raw_vocab": "Ġdependence", "category": "OK", "decoded": " dependence", "metrics": [45.152834, 257.954097, 370.573208], "main_metric": 45.152834}
+{"i": 44689, "raw_vocab": "Nintendo", "category": "OK", "decoded": "Nintendo", "metrics": [45.141288, 274.177092, 479.779839], "main_metric": 45.141288}
+{"i": 18538, "raw_vocab": "Ġreacts", "category": "OK", "decoded": " reacts", "metrics": [45.131411, 178.873106, 632.769952], "main_metric": 45.131411}
+{"i": 35524, "raw_vocab": "Ġ}", "category": "OK", "decoded": " }", "metrics": [44.972892, 332.146251, 814.497146], "main_metric": 44.972892}
+{"i": 3358, "raw_vocab": ".-", "category": "OK", "decoded": ".-", "metrics": [44.956064, 268.209034, 452.599968], "main_metric": 44.956064}
+{"i": 25041, "raw_vocab": "ĠNaturally", "category": "OK", "decoded": " Naturally", "metrics": [44.945265, 309.154931, 474.917741], "main_metric": 44.945265}
+{"i": 46659, "raw_vocab": "False", "category": "OK", "decoded": "False", "metrics": [44.821016, 303.983283, 437.57015], "main_metric": 44.821016}
+{"i": 49423, "raw_vocab": "};", "category": "OK", "decoded": "};", "metrics": [44.81974, 270.251213, 607.326036], "main_metric": 44.81974}
+{"i": 8941, "raw_vocab": "Ġrelating", "category": "OK", "decoded": " relating", "metrics": [44.788671, 244.222758, 462.812582], "main_metric": 44.788671}
+{"i": 47720, "raw_vocab": "Ġ],", "category": "OK", "decoded": " ],", "metrics": [44.787624, 326.451754, 614.852702], "main_metric": 44.787624}
+{"i": 33683, "raw_vocab": "Answer", "category": "OK", "decoded": "Answer", "metrics": [44.721189, 309.916144, 440.471165], "main_metric": 44.721189}
+{"i": 47052, "raw_vocab": "Ġ['", "category": "OK", "decoded": " ['", "metrics": [44.673471, 308.954952, 759.603237], "main_metric": 44.673471}
+{"i": 49949, "raw_vocab": "ãĥīãĥ©", "category": "OK", "decoded": "ドラ", "metrics": [44.58043, 317.83247, 797.542627], "main_metric": 44.58043}
+{"i": 21357, "raw_vocab": "Ġdisclosures", "category": "OK", "decoded": " disclosures", "metrics": [44.560623, 350.074122, 796.386479], "main_metric": 44.560623}
+{"i": 44733, "raw_vocab": "1972", "category": "OK", "decoded": "1972", "metrics": [44.527741, 319.072261, 462.27653], "main_metric": 44.527741}
+{"i": 25522, "raw_vocab": "Ġ{", "category": "OK", "decoded": " {", "metrics": [44.443114, 329.559326, 617.426277], "main_metric": 44.443114}
+{"i": 4857, "raw_vocab": "Ġcopyright", "category": "OK", "decoded": " copyright", "metrics": [44.376892, 453.485157, 1002.780894], "main_metric": 44.376892}
+{"i": 26798, "raw_vocab": "Ġconsensual", "category": "OK", "decoded": " consensual", "metrics": [44.32213, 237.693858, 404.304725], "main_metric": 44.32213}
+{"i": 14422, "raw_vocab": "ĠPrevious", "category": "OK", "decoded": " Previous", "metrics": [43.995764, 367.073472, 1006.066301], "main_metric": 43.995764}
+{"i": 6401, "raw_vocab": "Ġguidelines", "category": "OK", "decoded": " guidelines", "metrics": [43.881085, 230.529217, 722.019444], "main_metric": 43.881085}
+{"i": 35581, "raw_vocab": "Sex", "category": "OK", "decoded": "Sex", "metrics": [43.864354, 310.881174, 497.426733], "main_metric": 43.864354}
+{"i": 11957, "raw_vocab": "Share", "category": "OK", "decoded": "Share", "metrics": [43.672912, 360.870687, 847.521708], "main_metric": 43.672912}
+{"i": 24970, "raw_vocab": "Article", "category": "OK", "decoded": "Article", "metrics": [43.536983, 264.392889, 572.57892], "main_metric": 43.536983}
+{"i": 13091, "raw_vocab": "ĠPRE", "category": "OK", "decoded": " PRE", "metrics": [43.465246, 300.030898, 687.734379], "main_metric": 43.465246}
+{"i": 34939, "raw_vocab": "Ġinitiation", "category": "OK", "decoded": " initiation", "metrics": [43.44105, 354.788001, 492.904548], "main_metric": 43.44105}
+{"i": 48936, "raw_vocab": "~~~~~~~~~~~~~~~~", "category": "OK", "decoded": "~~~~~~~~~~~~~~~~", "metrics": [43.391369, 436.380526, 968.966988], "main_metric": 43.391369}
+{"i": 41764, "raw_vocab": "ĠConsent", "category": "OK", "decoded": " Consent", "metrics": [43.346356, 360.152138, 726.670952], "main_metric": 43.346356}
+{"i": 45095, "raw_vocab": "Previously", "category": "OK", "decoded": "Previously", "metrics": [43.153777, 298.944427, 593.018126], "main_metric": 43.153777}
+{"i": 19572, "raw_vocab": "FILE", "category": "OK", "decoded": "FILE", "metrics": [43.15306, 358.934944, 810.267051], "main_metric": 43.15306}
+{"i": 14070, "raw_vocab": "Ġconclusions", "category": "OK", "decoded": " conclusions", "metrics": [43.097848, 343.331477, 720.609225], "main_metric": 43.097848}
+{"i": 8704, "raw_vocab": "Ġreleasing", "category": "OK", "decoded": " releasing", "metrics": [43.087551, 351.695108, 701.672067], "main_metric": 43.087551}
+{"i": 2449, "raw_vocab": "Ġwarned", "category": "OK", "decoded": " warned", "metrics": [43.08413, 261.616224, 429.080987], "main_metric": 43.08413}
+{"i": 39337, "raw_vocab": "513", "category": "OK", "decoded": "513", "metrics": [43.081939, 361.065122, 1135.663638], "main_metric": 43.081939}
+{"i": 12143, "raw_vocab": "Ġconfidential", "category": "OK", "decoded": " confidential", "metrics": [43.006696, 336.821975, 639.886642], "main_metric": 43.006696}
+{"i": 9311, "raw_vocab": "Ġreviewing", "category": "OK", "decoded": " reviewing", "metrics": [42.965219, 228.330173, 575.366662], "main_metric": 42.965219}
+{"i": 17915, "raw_vocab": "Ġconstructive", "category": "OK", "decoded": " constructive", "metrics": [42.907344, 313.273808, 728.149621], "main_metric": 42.907344}
+{"i": 22992, "raw_vocab": "Ġdefer", "category": "OK", "decoded": " defer", "metrics": [42.889325, 371.260973, 492.828842], "main_metric": 42.889325}
+{"i": 24820, "raw_vocab": "ĠAnyway", "category": "OK", "decoded": " Anyway", "metrics": [42.88631, 298.828414, 755.338415], "main_metric": 42.88631}
+{"i": 13815, "raw_vocab": "Ġconfirms", "category": "OK", "decoded": " confirms", "metrics": [42.851721, 267.086598, 333.422154], "main_metric": 42.851721}
+{"i": 23033, "raw_vocab": "before", "category": "OK", "decoded": "before", "metrics": [42.844272, 292.647401, 504.290471], "main_metric": 42.844272}
+{"i": 34674, "raw_vocab": "ĠNato", "category": "OK", "decoded": " Nato", "metrics": [42.842488, 237.2531, 840.430102], "main_metric": 42.842488}
+{"i": 17005, "raw_vocab": "ĠPrivacy", "category": "OK", "decoded": " Privacy", "metrics": [42.726262, 331.005239, 774.842934], "main_metric": 42.726262}
+{"i": 47114, "raw_vocab": "relation", "category": "OK", "decoded": "relation", "metrics": [42.702352, 238.197105, 630.073907], "main_metric": 42.702352}
+{"i": 4144, "raw_vocab": "Ġprivacy", "category": "OK", "decoded": " privacy", "metrics": [42.672412, 367.149682, 585.551254], "main_metric": 42.672412}
+{"i": 43847, "raw_vocab": "ĠCauses", "category": "OK", "decoded": " Causes", "metrics": [42.663815, 311.898983, 629.577225], "main_metric": 42.663815}
+{"i": 3441, "raw_vocab": "Ġrequires", "category": "OK", "decoded": " requires", "metrics": [42.559389, 181.260019, 493.563626], "main_metric": 42.559389}
+{"i": 4914, "raw_vocab": "Ġconsequences", "category": "OK", "decoded": " consequences", "metrics": [42.556146, 350.804921, 847.427975], "main_metric": 42.556146}
+{"i": 32882, "raw_vocab": "ĠBEFORE", "category": "OK", "decoded": " BEFORE", "metrics": [42.550514, 306.396355, 545.4376], "main_metric": 42.550514}
+{"i": 45279, "raw_vocab": "Ġrelational", "category": "OK", "decoded": " relational", "metrics": [42.533924, 275.098729, 549.230973], "main_metric": 42.533924}
+{"i": 11125, "raw_vocab": "Ġpreview", "category": "OK", "decoded": " preview", "metrics": [42.531955, 270.918809, 604.884764], "main_metric": 42.531955}
+{"i": 20312, "raw_vocab": "Ġviolates", "category": "OK", "decoded": " violates", "metrics": [42.474874, 282.020752, 549.918399], "main_metric": 42.474874}
+{"i": 31274, "raw_vocab": ".[", "category": "OK", "decoded": ".[", "metrics": [42.466182, 357.579504, 628.380553], "main_metric": 42.466182}
+{"i": 23920, "raw_vocab": "Ġwhereby", "category": "OK", "decoded": " whereby", "metrics": [42.452142, 245.330044, 474.299259], "main_metric": 42.452142}
+{"i": 5215, "raw_vocab": "Ġdonations", "category": "OK", "decoded": " donations", "metrics": [42.437005, 291.321873, 353.508369], "main_metric": 42.437005}
+{"i": 32976, "raw_vocab": "570", "category": "OK", "decoded": "570", "metrics": [42.401598, 373.904271, 761.412873], "main_metric": 42.401598}
+{"i": 12215, "raw_vocab": "ĠDACA", "category": "OK", "decoded": " DACA", "metrics": [42.378836, 276.302167, 532.003414], "main_metric": 42.378836}
+{"i": 8216, "raw_vocab": "Ġcontributing", "category": "OK", "decoded": " contributing", "metrics": [42.36995, 191.831037, 615.615893], "main_metric": 42.36995}
+{"i": 42949, "raw_vocab": "Original", "category": "OK", "decoded": "Original", "metrics": [42.360675, 395.797291, 720.647324], "main_metric": 42.360675}
+{"i": 45881, "raw_vocab": "ĠParticipant", "category": "OK", "decoded": " Participant", "metrics": [42.357271, 192.726725, 381.533242], "main_metric": 42.357271}
+{"i": 14198, "raw_vocab": "Ġconcepts", "category": "OK", "decoded": " concepts", "metrics": [42.355337, 266.470835, 510.498218], "main_metric": 42.355337}
+{"i": 19439, "raw_vocab": "Ġhonesty", "category": "OK", "decoded": " honesty", "metrics": [42.346432, 337.044696, 416.540515], "main_metric": 42.346432}
+{"i": 7980, "raw_vocab": "Ġrequiring", "category": "OK", "decoded": " requiring", "metrics": [42.32029, 102.493896, 399.302793], "main_metric": 42.32029}
+{"i": 44506, "raw_vocab": "ĠAwakening", "category": "OK", "decoded": " Awakening", "metrics": [42.318381, 319.837311, 660.375561], "main_metric": 42.318381}
+{"i": 46183, "raw_vocab": "Ġschematic", "category": "OK", "decoded": " schematic", "metrics": [42.309548, 257.331879, 690.996071], "main_metric": 42.309548}
+{"i": 18777, "raw_vocab": "Ġcooperative", "category": "OK", "decoded": " cooperative", "metrics": [42.308989, 303.286644, 515.903619], "main_metric": 42.308989}
+{"i": 20712, "raw_vocab": "Ġexemptions", "category": "OK", "decoded": " exemptions", "metrics": [42.285435, 313.197467, 615.850378], "main_metric": 42.285435}
+{"i": 46570, "raw_vocab": "DOC", "category": "OK", "decoded": "DOC", "metrics": [42.262339, 333.903925, 489.216854], "main_metric": 42.262339}
+{"i": 14331, "raw_vocab": "Ġwarns", "category": "OK", "decoded": " warns", "metrics": [42.232804, 230.577756, 580.022805], "main_metric": 42.232804}
+{"i": 2624, "raw_vocab": "Ġregarding", "category": "OK", "decoded": " regarding", "metrics": [42.202142, 134.683281, 282.786155], "main_metric": 42.202142}
+{"i": 44734, "raw_vocab": "humans", "category": "OK", "decoded": "humans", "metrics": [42.191626, 216.638299, 472.056684], "main_metric": 42.191626}
+{"i": 3104, "raw_vocab": "Ġlink", "category": "OK", "decoded": " link", "metrics": [42.17191, 270.732066, 526.42105], "main_metric": 42.17191}
+{"i": 42939, "raw_vocab": "ĠConcepts", "category": "OK", "decoded": " Concepts", "metrics": [42.160928, 468.9917, 728.672169], "main_metric": 42.160928}
+{"i": 4392, "raw_vocab": "Ġprofile", "category": "OK", "decoded": " profile", "metrics": [42.125598, 301.841801, 408.693718], "main_metric": 42.125598}
+{"i": 14022, "raw_vocab": "Ġgratitude", "category": "OK", "decoded": " gratitude", "metrics": [42.10534, 348.852247, 456.843232], "main_metric": 42.10534}
+{"i": 46928, "raw_vocab": "Spoiler", "category": "OK", "decoded": "Spoiler", "metrics": [42.103195, 266.420782, 588.679612], "main_metric": 42.103195}
+{"i": 7218, "raw_vocab": "Ġtransparency", "category": "OK", "decoded": " transparency", "metrics": [42.084782, 285.164535, 809.273467], "main_metric": 42.084782}
+{"i": 35253, "raw_vocab": "327", "category": "OK", "decoded": "327", "metrics": [42.039056, 286.563609, 614.680856], "main_metric": 42.039056}
+{"i": 36766, "raw_vocab": "685", "category": "OK", "decoded": "685", "metrics": [42.034952, 380.009923, 880.676647], "main_metric": 42.034952}
+{"i": 1319, "raw_vocab": "Ġways", "category": "OK", "decoded": " ways", "metrics": [41.998866, 102.487451, 316.459024], "main_metric": 41.998866}
+{"i": 10451, "raw_vocab": "Ġcomparable", "category": "OK", "decoded": " comparable", "metrics": [41.988784, 226.590292, 599.809521], "main_metric": 41.988784}
+{"i": 6310, "raw_vocab": "ĠDis", "category": "OK", "decoded": " Dis", "metrics": [41.981262, 261.508582, 334.950975], "main_metric": 41.981262}
+{"i": 48192, "raw_vocab": "Features", "category": "OK", "decoded": "Features", "metrics": [41.979471, 236.212878, 586.900183], "main_metric": 41.979471}
+{"i": 33851, "raw_vocab": "checking", "category": "OK", "decoded": "checking", "metrics": [41.964028, 275.460582, 679.20407], "main_metric": 41.964028}
+{"i": 8555, "raw_vocab": "Ġprevention", "category": "OK", "decoded": " prevention", "metrics": [41.953137, 402.011491, 654.725154], "main_metric": 41.953137}
+{"i": 47276, "raw_vocab": "properties", "category": "OK", "decoded": "properties", "metrics": [41.952568, 321.712228, 564.393924], "main_metric": 41.952568}
+{"i": 43987, "raw_vocab": "Ġss", "category": "OK", "decoded": " ss", "metrics": [41.914327, 375.062062, 578.028004], "main_metric": 41.914327}
+{"i": 2390, "raw_vocab": "Ġdecisions", "category": "OK", "decoded": " decisions", "metrics": [41.89998, 262.337854, 571.354862], "main_metric": 41.89998}
+{"i": 39597, "raw_vocab": "Ġconfessions", "category": "OK", "decoded": " confessions", "metrics": [41.88871, 271.188998, 597.253724], "main_metric": 41.88871}
+{"i": 17965, "raw_vocab": "ĠFigure", "category": "OK", "decoded": " Figure", "metrics": [41.882044, 361.921312, 752.7928], "main_metric": 41.882044}
+{"i": 46788, "raw_vocab": "comments", "category": "OK", "decoded": "comments", "metrics": [41.870556, 254.938505, 319.96133], "main_metric": 41.870556}
+{"i": 2775, "raw_vocab": "Ġnotes", "category": "OK", "decoded": " notes", "metrics": [41.867801, 305.933693, 612.275146], "main_metric": 41.867801}
+{"i": 36463, "raw_vocab": "ĠCredits", "category": "OK", "decoded": " Credits", "metrics": [41.847049, 391.00895, 697.099275], "main_metric": 41.847049}
+{"i": 16890, "raw_vocab": "Ġfairness", "category": "OK", "decoded": " fairness", "metrics": [41.823197, 359.370524, 740.886009], "main_metric": 41.823197}
+{"i": 45832, "raw_vocab": "Ġcausation", "category": "OK", "decoded": " causation", "metrics": [41.819717, 296.985075, 741.090497], "main_metric": 41.819717}
+{"i": 10105, "raw_vocab": "Because", "category": "OK", "decoded": "Because", "metrics": [41.774086, 286.368003, 620.974516], "main_metric": 41.774086}
+{"i": 21859, "raw_vocab": "ĠFunding", "category": "OK", "decoded": " Funding", "metrics": [41.769874, 334.292402, 579.072752], "main_metric": 41.769874}
+{"i": 10059, "raw_vocab": "Ġlicensed", "category": "OK", "decoded": " licensed", "metrics": [41.769061, 259.866348, 651.446323], "main_metric": 41.769061}
+{"i": 38143, "raw_vocab": "497", "category": "OK", "decoded": "497", "metrics": [41.763289, 265.445855, 694.991553], "main_metric": 41.763289}
+{"i": 47555, "raw_vocab": "Profile", "category": "OK", "decoded": "Profile", "metrics": [41.752755, 320.048423, 866.107002], "main_metric": 41.752755}
+{"i": 14562, "raw_vocab": "Ã¸", "category": "OK", "decoded": "ø", "metrics": [41.749778, 378.734117, 496.631675], "main_metric": 41.749778}
+{"i": 195, "raw_vocab": "Ġ5", "category": "OK", "decoded": " 5", "metrics": [41.741104, 292.084854, 686.279916], "main_metric": 41.741104}
+{"i": 49102, "raw_vocab": "Ġvertex", "category": "OK", "decoded": " vertex", "metrics": [41.737006, 155.71541, 415.786533], "main_metric": 41.737006}
+{"i": 8655, "raw_vocab": "ĠFile", "category": "OK", "decoded": " File", "metrics": [41.735496, 308.228213, 576.51585], "main_metric": 41.735496}
+{"i": 13702, "raw_vocab": "Ġsupervision", "category": "OK", "decoded": " supervision", "metrics": [41.711936, 257.378956, 508.914595], "main_metric": 41.711936}
+{"i": 27716, "raw_vocab": "Ġknowingly", "category": "OK", "decoded": " knowingly", "metrics": [41.710675, 295.457106, 533.318756], "main_metric": 41.710675}
+{"i": 7692, "raw_vocab": "Ġrevised", "category": "OK", "decoded": " revised", "metrics": [41.700301, 238.975227, 702.946703], "main_metric": 41.700301}
+{"i": 37363, "raw_vocab": "Ġdeclass", "category": "OK", "decoded": " declass", "metrics": [41.692944, 280.34442, 502.632015], "main_metric": 41.692944}
+{"i": 34545, "raw_vocab": "original", "category": "OK", "decoded": "original", "metrics": [41.68944, 349.343729, 701.016614], "main_metric": 41.68944}
+{"i": 2660, "raw_vocab": "Ġjoint", "category": "OK", "decoded": " joint", "metrics": [41.688959, 256.262275, 418.479818], "main_metric": 41.688959}
+{"i": 3050, "raw_vocab": "Ġconflict", "category": "OK", "decoded": " conflict", "metrics": [41.685807, 231.691786, 539.958891], "main_metric": 41.685807}
+{"i": 576, "raw_vocab": "Ġgiven", "category": "OK", "decoded": " given", "metrics": [41.655539, 299.754083, 708.025658], "main_metric": 41.655539}
+{"i": 41557, "raw_vocab": "projects", "category": "OK", "decoded": "projects", "metrics": [41.63668, 328.702275, 382.401223], "main_metric": 41.63668}
+{"i": 19538, "raw_vocab": "Copyright", "category": "OK", "decoded": "Copyright", "metrics": [41.635765, 352.52638, 729.726262], "main_metric": 41.635765}
+{"i": 23997, "raw_vocab": "ĠExclusive", "category": "OK", "decoded": " Exclusive", "metrics": [41.63576, 254.690478, 422.842353], "main_metric": 41.63576}
+{"i": 2015, "raw_vocab": "Ġreality", "category": "OK", "decoded": " reality", "metrics": [41.628824, 213.662987, 516.772188], "main_metric": 41.628824}
+{"i": 42739, "raw_vocab": "description", "category": "OK", "decoded": "description", "metrics": [41.627619, 276.667006, 512.716773], "main_metric": 41.627619}
+{"i": 49020, "raw_vocab": "Topics", "category": "OK", "decoded": "Topics", "metrics": [41.603195, 311.267046, 700.138884], "main_metric": 41.603195}
+{"i": 10653, "raw_vocab": "Pro", "category": "OK", "decoded": "Pro", "metrics": [41.598576, 275.830686, 416.374801], "main_metric": 41.598576}
+{"i": 25295, "raw_vocab": "Ġvalidity", "category": "OK", "decoded": " validity", "metrics": [41.594517, 278.890891, 619.428469], "main_metric": 41.594517}
+{"i": 47188, "raw_vocab": "ĠÎ±", "category": "OK", "decoded": " α", "metrics": [41.592225, 252.009976, 317.43093], "main_metric": 41.592225}
+{"i": 30886, "raw_vocab": "Ġsocialism", "category": "OK", "decoded": " socialism", "metrics": [41.578091, 237.873952, 410.128443], "main_metric": 41.578091}
+{"i": 16009, "raw_vocab": "Ġrelates", "category": "OK", "decoded": " relates", "metrics": [41.567336, 255.881545, 478.152068], "main_metric": 41.567336}
+{"i": 20538, "raw_vocab": "ĠConduct", "category": "OK", "decoded": " Conduct", "metrics": [41.558328, 253.101832, 508.811754], "main_metric": 41.558328}
+{"i": 8905, "raw_vocab": "Ġzones", "category": "OK", "decoded": " zones", "metrics": [41.544391, 283.63976, 672.903851], "main_metric": 41.544391}
+{"i": 31896, "raw_vocab": "Ġdefaults", "category": "OK", "decoded": " defaults", "metrics": [41.544297, 228.67303, 754.765182], "main_metric": 41.544297}
+{"i": 9052, "raw_vocab": "Ġstating", "category": "OK", "decoded": " stating", "metrics": [41.540762, 213.666804, 247.130404], "main_metric": 41.540762}
+{"i": 42205, "raw_vocab": "primary", "category": "OK", "decoded": "primary", "metrics": [41.54032, 306.157749, 335.111581], "main_metric": 41.54032}
+{"i": 12049, "raw_vocab": "Ġthemes", "category": "OK", "decoded": " themes", "metrics": [41.534025, 318.158996, 631.24636], "main_metric": 41.534025}
+{"i": 4910, "raw_vocab": "Ġguest", "category": "OK", "decoded": " guest", "metrics": [41.528915, 190.940444, 396.406175], "main_metric": 41.528915}
+{"i": 44720, "raw_vocab": "Property", "category": "OK", "decoded": "Property", "metrics": [41.527892, 287.982972, 556.425345], "main_metric": 41.527892}
+{"i": 22998, "raw_vocab": "ĠPamela", "category": "OK", "decoded": " Pamela", "metrics": [41.508774, 297.324683, 342.592851], "main_metric": 41.508774}
+{"i": 37631, "raw_vocab": "014", "category": "OK", "decoded": "014", "metrics": [41.502383, 287.792732, 658.550581], "main_metric": 41.502383}
+{"i": 25225, "raw_vocab": "ĠKnowing", "category": "OK", "decoded": " Knowing", "metrics": [41.501019, 263.759715, 423.94729], "main_metric": 41.501019}
+{"i": 25732, "raw_vocab": "esque", "category": "OK", "decoded": "esque", "metrics": [41.492339, 360.054678, 844.54442], "main_metric": 41.492339}
+{"i": 40140, "raw_vocab": "Ġdisclaimer", "category": "OK", "decoded": " disclaimer", "metrics": [41.478757, 293.46503, 657.5049], "main_metric": 41.478757}
+{"i": 42914, "raw_vocab": "Ġreversible", "category": "OK", "decoded": " reversible", "metrics": [41.456729, 292.844193, 746.429172], "main_metric": 41.456729}
+{"i": 7757, "raw_vocab": "Ġsubsequent", "category": "OK", "decoded": " subsequent", "metrics": [41.454905, 279.529556, 464.95895], "main_metric": 41.454905}
+{"i": 32058, "raw_vocab": "ĠDOI", "category": "OK", "decoded": " DOI", "metrics": [41.446061, 269.233403, 618.138333], "main_metric": 41.446061}
+{"i": 28208, "raw_vocab": "Ġreintrodu", "category": "OK", "decoded": " reintrodu", "metrics": [41.423989, 284.420724, 548.739511], "main_metric": 41.423989}
+{"i": 16716, "raw_vocab": "ĠWatts", "category": "OK", "decoded": " Watts", "metrics": [41.409582, 268.941429, 637.755626], "main_metric": 41.409582}
+{"i": 21309, "raw_vocab": "ĠFeatures", "category": "OK", "decoded": " Features", "metrics": [41.392136, 305.48561, 508.140946], "main_metric": 41.392136}
+{"i": 4253, "raw_vocab": "ĠSource", "category": "OK", "decoded": " Source", "metrics": [41.388942, 218.935901, 398.791896], "main_metric": 41.388942}
+{"i": 33320, "raw_vocab": "Ġinherit", "category": "OK", "decoded": " inherit", "metrics": [41.385832, 291.507203, 569.997368], "main_metric": 41.385832}
+{"i": 28936, "raw_vocab": "Ġdeed", "category": "OK", "decoded": " deed", "metrics": [41.383095, 354.729351, 704.469964], "main_metric": 41.383095}
+{"i": 5678, "raw_vocab": "Ġlinks", "category": "OK", "decoded": " links", "metrics": [41.380916, 239.282915, 691.183175], "main_metric": 41.380916}
+{"i": 39067, "raw_vocab": "ĠReaction", "category": "OK", "decoded": " Reaction", "metrics": [41.377464, 340.997314, 861.96166], "main_metric": 41.377464}
+{"i": 48441, "raw_vocab": "Theme", "category": "OK", "decoded": "Theme", "metrics": [41.368743, 252.775459, 560.828445], "main_metric": 41.368743}
+{"i": 49278, "raw_vocab": "Ġunlaw", "category": "OK", "decoded": " unlaw", "metrics": [41.322908, 308.440245, 539.812909], "main_metric": 41.322908}
+{"i": 6776, "raw_vocab": "ĠArticle", "category": "OK", "decoded": " Article", "metrics": [41.307457, 258.884397, 427.594888], "main_metric": 41.307457}
+{"i": 44977, "raw_vocab": "ĠXY", "category": "OK", "decoded": " XY", "metrics": [41.293875, 227.379263, 508.062086], "main_metric": 41.293875}
+{"i": 4601, "raw_vocab": "Ġcooperation", "category": "OK", "decoded": " cooperation", "metrics": [41.288054, 359.947738, 726.91775], "main_metric": 41.288054}
+{"i": 49153, "raw_vocab": "Ġ{}", "category": "OK", "decoded": " {}", "metrics": [41.280035, 327.985341, 668.148836], "main_metric": 41.280035}
+{"i": 7621, "raw_vocab": "Ġcopper", "category": "OK", "decoded": " copper", "metrics": [41.277954, 230.450424, 404.068034], "main_metric": 41.277954}
+{"i": 7628, "raw_vocab": "Ġmutual", "category": "OK", "decoded": " mutual", "metrics": [41.276582, 210.351839, 667.72464], "main_metric": 41.276582}
+{"i": 28614, "raw_vocab": "ĠConditions", "category": "OK", "decoded": " Conditions", "metrics": [41.26858, 277.395025, 341.266175], "main_metric": 41.26858}
+{"i": 49151, "raw_vocab": ")].", "category": "OK", "decoded": ")].", "metrics": [41.263187, 322.412324, 834.893922], "main_metric": 41.263187}
+{"i": 19407, "raw_vocab": "Ġerosion", "category": "OK", "decoded": " erosion", "metrics": [41.253408, 267.071335, 729.674037], "main_metric": 41.253408}
+{"i": 4993, "raw_vocab": "After", "category": "OK", "decoded": "After", "metrics": [41.218181, 208.191015, 535.278155], "main_metric": 41.218181}
+{"i": 36736, "raw_vocab": "Ġweld", "category": "OK", "decoded": " weld", "metrics": [41.215503, 225.058831, 408.83739], "main_metric": 41.215503}
+{"i": 5042, "raw_vocab": "Ġcontribute", "category": "OK", "decoded": " contribute", "metrics": [41.210313, 269.354773, 530.993577], "main_metric": 41.210313}
+{"i": 38169, "raw_vocab": "Ġacknowledgment", "category": "OK", "decoded": " acknowledgment", "metrics": [41.206814, 272.14309, 622.978337], "main_metric": 41.206814}
+{"i": 5196, "raw_vocab": "Ġnoting", "category": "OK", "decoded": " noting", "metrics": [41.187478, 244.035865, 319.243115], "main_metric": 41.187478}
+{"i": 45930, "raw_vocab": "scripts", "category": "OK", "decoded": "scripts", "metrics": [41.157783, 298.573869, 659.933287], "main_metric": 41.157783}
+{"i": 31847, "raw_vocab": "ĠTP", "category": "OK", "decoded": " TP", "metrics": [41.155282, 268.986818, 519.584844], "main_metric": 41.155282}
+{"i": 43012, "raw_vocab": "?\".", "category": "OK", "decoded": "?\".", "metrics": [41.146096, 328.666159, 724.764402], "main_metric": 41.146096}
+{"i": 20164, "raw_vocab": "ĠNorris", "category": "OK", "decoded": " Norris", "metrics": [41.144398, 247.98392, 542.841265], "main_metric": 41.144398}
+{"i": 36169, "raw_vocab": "YouTube", "category": "OK", "decoded": "YouTube", "metrics": [41.139975, 218.142541, 589.960669], "main_metric": 41.139975}
+{"i": 36994, "raw_vocab": "ĠSubject", "category": "OK", "decoded": " Subject", "metrics": [41.133205, 224.410853, 418.302228], "main_metric": 41.133205}
+{"i": 20503, "raw_vocab": "ĠSubmit", "category": "OK", "decoded": " Submit", "metrics": [41.120932, 276.179257, 692.71532], "main_metric": 41.120932}
+{"i": 49890, "raw_vocab": "Ġ{:", "category": "OK", "decoded": " {:", "metrics": [41.111687, 397.126767, 719.144439], "main_metric": 41.111687}
+{"i": 1325, "raw_vocab": "Ġreceive", "category": "OK", "decoded": " receive", "metrics": [41.094207, 216.159158, 395.477773], "main_metric": 41.094207}
+{"i": 41602, "raw_vocab": "Description", "category": "OK", "decoded": "Description", "metrics": [41.050966, 317.019826, 878.138006], "main_metric": 41.050966}
+{"i": 44880, "raw_vocab": "1974", "category": "OK", "decoded": "1974", "metrics": [41.036713, 243.960639, 481.879818], "main_metric": 41.036713}
+{"i": 19857, "raw_vocab": "Ġdefines", "category": "OK", "decoded": " defines", "metrics": [41.023604, 261.936615, 479.118962], "main_metric": 41.023604}
+{"i": 5915, "raw_vocab": "Ġviewed", "category": "OK", "decoded": " viewed", "metrics": [41.022943, 137.379168, 283.362062], "main_metric": 41.022943}
+{"i": 40862, "raw_vocab": "?]", "category": "OK", "decoded": "?]", "metrics": [41.010247, 464.428624, 1057.182881], "main_metric": 41.010247}
+{"i": 10547, "raw_vocab": "Ġuniversal", "category": "OK", "decoded": " universal", "metrics": [41.009142, 272.62418, 626.286124], "main_metric": 41.009142}
+{"i": 34439, "raw_vocab": "Fore", "category": "OK", "decoded": "Fore", "metrics": [40.994584, 264.768653, 235.370976], "main_metric": 40.994584}
+{"i": 39342, "raw_vocab": "Ġequilibrium", "category": "OK", "decoded": " equilibrium", "metrics": [40.993958, 235.775188, 452.714837], "main_metric": 40.993958}
+{"i": 17266, "raw_vocab": "ĠTopics", "category": "OK", "decoded": " Topics", "metrics": [40.989991, 200.475208, 431.101306], "main_metric": 40.989991}
+{"i": 22507, "raw_vocab": "Ġreimbursement", "category": "OK", "decoded": " reimbursement", "metrics": [40.9835, 275.083897, 433.027866], "main_metric": 40.9835}
+{"i": 44049, "raw_vocab": "Enjoy", "category": "OK", "decoded": "Enjoy", "metrics": [40.974261, 247.937341, 563.526108], "main_metric": 40.974261}
+{"i": 28550, "raw_vocab": "Ġversa", "category": "OK", "decoded": " versa", "metrics": [40.972119, 305.471018, 521.265919], "main_metric": 40.972119}
+{"i": 9070, "raw_vocab": "ĠFILE", "category": "OK", "decoded": " FILE", "metrics": [40.96246, 275.387231, 390.67557], "main_metric": 40.96246}
+{"i": 37593, "raw_vocab": "Ġ273", "category": "OK", "decoded": " 273", "metrics": [40.949969, 213.153092, 382.743065], "main_metric": 40.949969}
+{"i": 17947, "raw_vocab": "Ġstatutory", "category": "OK", "decoded": " statutory", "metrics": [40.942445, 140.919524, 470.598881], "main_metric": 40.942445}
+{"i": 23170, "raw_vocab": "trust", "category": "OK", "decoded": "trust", "metrics": [40.934262, 293.397758, 535.622499], "main_metric": 40.934262}
+{"i": 47307, "raw_vocab": "ĠUnsure", "category": "OK", "decoded": " Unsure", "metrics": [40.93087, 316.979002, 427.252735], "main_metric": 40.93087}
+{"i": 47517, "raw_vocab": "Ġ{{", "category": "OK", "decoded": " {{", "metrics": [40.923667, 382.562865, 844.391753], "main_metric": 40.923667}
+{"i": 36418, "raw_vocab": "Ġ()", "category": "OK", "decoded": " ()", "metrics": [40.921332, 237.425625, 374.276039], "main_metric": 40.921332}
+{"i": 9142, "raw_vocab": "Ġopenly", "category": "OK", "decoded": " openly", "metrics": [40.91511, 354.060154, 828.807817], "main_metric": 40.91511}
+{"i": 8832, "raw_vocab": "Ġunderstands", "category": "OK", "decoded": " understands", "metrics": [40.912556, 183.499246, 222.459333], "main_metric": 40.912556}
+{"i": 48560, "raw_vocab": "SOURCE", "category": "OK", "decoded": "SOURCE", "metrics": [40.911731, 247.046617, 571.475897], "main_metric": 40.911731}
+{"i": 47702, "raw_vocab": "Feature", "category": "OK", "decoded": "Feature", "metrics": [40.898601, 283.085097, 298.823838], "main_metric": 40.898601}
+{"i": 6016, "raw_vocab": "Ġposting", "category": "OK", "decoded": " posting", "metrics": [40.892732, 231.243084, 590.566819], "main_metric": 40.892732}
+{"i": 32682, "raw_vocab": "ĠDocuments", "category": "OK", "decoded": " Documents", "metrics": [40.889032, 351.920794, 776.442261], "main_metric": 40.889032}
+{"i": 44627, "raw_vocab": "Ġrepentance", "category": "OK", "decoded": " repentance", "metrics": [40.880923, 308.302916, 438.698007], "main_metric": 40.880923}
+{"i": 13189, "raw_vocab": "Ġliabilities", "category": "OK", "decoded": " liabilities", "metrics": [40.879853, 288.903761, 662.833311], "main_metric": 40.879853}
+{"i": 22338, "raw_vocab": "ĠDS", "category": "OK", "decoded": " DS", "metrics": [40.871478, 217.056747, 309.956998], "main_metric": 40.871478}
+{"i": 45109, "raw_vocab": "yrights", "category": "OK", "decoded": "yrights", "metrics": [40.871391, 320.854059, 1021.333726], "main_metric": 40.871391}
+{"i": 4741, "raw_vocab": "Part", "category": "OK", "decoded": "Part", "metrics": [40.866103, 217.557645, 222.762768], "main_metric": 40.866103}
+{"i": 29081, "raw_vocab": "ĠAccept", "category": "OK", "decoded": " Accept", "metrics": [40.846198, 271.9557, 345.605705], "main_metric": 40.846198}
+{"i": 40747, "raw_vocab": "subject", "category": "OK", "decoded": "subject", "metrics": [40.841324, 264.388374, 505.33477], "main_metric": 40.841324}
+{"i": 23927, "raw_vocab": "ĠProceed", "category": "OK", "decoded": " Proceed", "metrics": [40.823195, 246.725632, 707.35841], "main_metric": 40.823195}
+{"i": 36467, "raw_vocab": "-+-+-+-+", "category": "OK", "decoded": "-+-+-+-+", "metrics": [40.812897, 325.320849, 747.221154], "main_metric": 40.812897}
+{"i": 26829, "raw_vocab": "licensed", "category": "OK", "decoded": "licensed", "metrics": [40.812032, 238.077461, 581.88665], "main_metric": 40.812032}
+{"i": 36185, "raw_vocab": ":-", "category": "OK", "decoded": ":-", "metrics": [40.780584, 229.224621, 490.507268], "main_metric": 40.780584}
+{"i": 37167, "raw_vocab": "having", "category": "OK", "decoded": "having", "metrics": [40.743832, 211.308147, 452.156207], "main_metric": 40.743832}
+{"i": 48615, "raw_vocab": "Ġ\"+", "category": "OK", "decoded": " \"+", "metrics": [40.739646, 220.701731, 481.158413], "main_metric": 40.739646}
+{"i": 34891, "raw_vocab": "ĠShed", "category": "OK", "decoded": " Shed", "metrics": [40.738598, 199.92718, 536.584677], "main_metric": 40.738598}
+{"i": 15833, "raw_vocab": "Look", "category": "OK", "decoded": "Look", "metrics": [40.728541, 210.088783, 558.999321], "main_metric": 40.728541}
+{"i": 18004, "raw_vocab": "Ġbiology", "category": "OK", "decoded": " biology", "metrics": [40.723124, 265.59774, 429.577981], "main_metric": 40.723124}
+{"i": 29963, "raw_vocab": "statement", "category": "OK", "decoded": "statement", "metrics": [40.719198, 237.495083, 587.24709], "main_metric": 40.719198}
+{"i": 40592, "raw_vocab": "Safety", "category": "OK", "decoded": "Safety", "metrics": [40.714233, 230.601394, 459.621712], "main_metric": 40.714233}
+{"i": 30615, "raw_vocab": "Ġmarital", "category": "OK", "decoded": " marital", "metrics": [40.695581, 141.698852, 388.558888], "main_metric": 40.695581}
+{"i": 33000, "raw_vocab": "ĠURL", "category": "OK", "decoded": " URL", "metrics": [40.693624, 290.487458, 652.76279], "main_metric": 40.693624}
+{"i": 47834, "raw_vocab": "Submit", "category": "OK", "decoded": "Submit", "metrics": [40.679537, 288.481945, 642.254829], "main_metric": 40.679537}
+{"i": 15480, "raw_vocab": "Ġassumption", "category": "OK", "decoded": " assumption", "metrics": [40.676792, 335.954676, 741.897476], "main_metric": 40.676792}
+{"i": 38608, "raw_vocab": "freedom", "category": "OK", "decoded": "freedom", "metrics": [40.67349, 298.950919, 624.511107], "main_metric": 40.67349}
+{"i": 41833, "raw_vocab": "Ġ'[", "category": "OK", "decoded": " '[", "metrics": [40.656596, 284.707551, 717.770527], "main_metric": 40.656596}
+{"i": 46386, "raw_vocab": "][", "category": "OK", "decoded": "][", "metrics": [40.647989, 231.06327, 675.97671], "main_metric": 40.647989}
+{"i": 8777, "raw_vocab": "Ġshocking", "category": "OK", "decoded": " shocking", "metrics": [40.645808, 290.342367, 684.046173], "main_metric": 40.645808}
+{"i": 48817, "raw_vocab": "Ġ'/", "category": "OK", "decoded": " '/", "metrics": [40.619176, 146.172662, 301.465267], "main_metric": 40.619176}
+{"i": 6363, "raw_vocab": "Ġcategories", "category": "OK", "decoded": " categories", "metrics": [40.615764, 221.293293, 401.992561], "main_metric": 40.615764}
+{"i": 9394, "raw_vocab": "Ġdeclaration", "category": "OK", "decoded": " declaration", "metrics": [40.609843, 304.686541, 421.865864], "main_metric": 40.609843}
+{"i": 47583, "raw_vocab": "Remove", "category": "OK", "decoded": "Remove", "metrics": [40.595977, 319.55274, 543.676649], "main_metric": 40.595977}
+{"i": 14245, "raw_vocab": "ĠTeachers", "category": "OK", "decoded": " Teachers", "metrics": [40.561786, 278.658024, 408.863311], "main_metric": 40.561786}
+{"i": 25270, "raw_vocab": "natural", "category": "OK", "decoded": "natural", "metrics": [40.537867, 302.902993, 740.635389], "main_metric": 40.537867}
+{"i": 49593, "raw_vocab": "ãĤº", "category": "OK", "decoded": "ズ", "metrics": [40.536856, 265.086722, 786.543621], "main_metric": 40.536856}
+{"i": 16032, "raw_vocab": "sponsored", "category": "OK", "decoded": "sponsored", "metrics": [40.533536, 257.385811, 562.108542], "main_metric": 40.533536}
+{"i": 42721, "raw_vocab": "commit", "category": "OK", "decoded": "commit", "metrics": [40.528619, 311.808446, 647.002426], "main_metric": 40.528619}
+{"i": 31834, "raw_vocab": "videos", "category": "OK", "decoded": "videos", "metrics": [40.520196, 257.732207, 574.66856], "main_metric": 40.520196}
+{"i": 7966, "raw_vocab": "Ġsponsored", "category": "OK", "decoded": " sponsored", "metrics": [40.510157, 180.288178, 283.247445], "main_metric": 40.510157}
+{"i": 31154, "raw_vocab": "article", "category": "OK", "decoded": "article", "metrics": [40.495249, 255.122067, 414.495524], "main_metric": 40.495249}
+{"i": 9740, "raw_vocab": "Ġquote", "category": "OK", "decoded": " quote", "metrics": [40.491979, 244.415566, 366.214527], "main_metric": 40.491979}
+{"i": 9042, "raw_vocab": "Ġsections", "category": "OK", "decoded": " sections", "metrics": [40.463903, 234.98127, 429.756858], "main_metric": 40.463903}
+{"i": 2567, "raw_vocab": "Ġpartners", "category": "OK", "decoded": " partners", "metrics": [40.436091, 166.654681, 379.957376], "main_metric": 40.436091}
+{"i": 19281, "raw_vocab": ")-", "category": "OK", "decoded": ")-", "metrics": [40.42852, 253.468281, 820.42033], "main_metric": 40.42852}
+{"i": 18730, "raw_vocab": "ĠSupporters", "category": "OK", "decoded": " Supporters", "metrics": [40.409721, 264.433955, 499.351785], "main_metric": 40.409721}
+{"i": 43521, "raw_vocab": "/)", "category": "OK", "decoded": "/)", "metrics": [40.408578, 285.668009, 712.667658], "main_metric": 40.408578}
+{"i": 49609, "raw_vocab": "Ġ[&", "category": "OK", "decoded": " [&", "metrics": [40.399622, 441.984005, 727.405289], "main_metric": 40.399622}
+{"i": 3950, "raw_vocab": "Ġfalse", "category": "OK", "decoded": " false", "metrics": [40.389963, 297.672302, 521.592611], "main_metric": 40.389963}
+{"i": 19430, "raw_vocab": "ĠND", "category": "OK", "decoded": " ND", "metrics": [40.389606, 132.564448, 298.620631], "main_metric": 40.389606}
+{"i": 49614, "raw_vocab": "Ġ:=", "category": "OK", "decoded": " :=", "metrics": [40.38535, 284.762303, 474.668956], "main_metric": 40.38535}
+{"i": 42968, "raw_vocab": "Natural", "category": "OK", "decoded": "Natural", "metrics": [40.378333, 234.169185, 686.393641], "main_metric": 40.378333}
+{"i": 48505, "raw_vocab": "[/", "category": "OK", "decoded": "[/", "metrics": [40.368516, 409.132302, 898.044996], "main_metric": 40.368516}
+{"i": 47847, "raw_vocab": "Â§", "category": "OK", "decoded": "§", "metrics": [40.362394, 336.018999, 476.924535], "main_metric": 40.362394}
+{"i": 49123, "raw_vocab": "().", "category": "OK", "decoded": "().", "metrics": [40.361287, 209.703341, 459.747939], "main_metric": 40.361287}
+{"i": 36450, "raw_vocab": "Ġunloaded", "category": "OK", "decoded": " unloaded", "metrics": [40.357146, 335.6115, 484.052706], "main_metric": 40.357146}
+{"i": 14476, "raw_vocab": "Ġproves", "category": "OK", "decoded": " proves", "metrics": [40.355248, 304.856541, 350.522472], "main_metric": 40.355248}
+{"i": 45225, "raw_vocab": "Written", "category": "OK", "decoded": "Written", "metrics": [40.353861, 176.392899, 214.126224], "main_metric": 40.353861}
+{"i": 49470, "raw_vocab": "ãĥķ", "category": "OK", "decoded": "フ", "metrics": [40.351539, 338.485998, 615.388636], "main_metric": 40.351539}
+{"i": 307, "raw_vocab": "ĠWednesday", "category": "OK", "decoded": " Wednesday", "metrics": [40.344988, 267.731562, 620.465598], "main_metric": 40.344988}
+{"i": 28311, "raw_vocab": "current", "category": "OK", "decoded": "current", "metrics": [40.343158, 222.370738, 709.520118], "main_metric": 40.343158}
+{"i": 37665, "raw_vocab": "469", "category": "OK", "decoded": "469", "metrics": [40.343068, 292.727248, 828.864036], "main_metric": 40.343068}
+{"i": 31967, "raw_vocab": "ĠFeature", "category": "OK", "decoded": " Feature", "metrics": [40.308683, 250.604182, 297.334101], "main_metric": 40.308683}
+{"i": 44444, "raw_vocab": "ĠDifferences", "category": "OK", "decoded": " Differences", "metrics": [40.301493, 288.53059, 555.667305], "main_metric": 40.301493}
+{"i": 48684, "raw_vocab": "Examples", "category": "OK", "decoded": "Examples", "metrics": [40.293502, 340.208953, 513.473608], "main_metric": 40.293502}
+{"i": 1367, "raw_vocab": "Ġclosed", "category": "OK", "decoded": " closed", "metrics": [40.286224, 285.199804, 413.851509], "main_metric": 40.286224}
+{"i": 21214, "raw_vocab": "ĠParts", "category": "OK", "decoded": " Parts", "metrics": [40.280272, 279.772658, 344.51458], "main_metric": 40.280272}
+{"i": 48366, "raw_vocab": "ĠAttributes", "category": "OK", "decoded": " Attributes", "metrics": [40.271699, 275.145666, 688.218902], "main_metric": 40.271699}
+{"i": 22710, "raw_vocab": "thinking", "category": "OK", "decoded": "thinking", "metrics": [40.261372, 247.326711, 382.627606], "main_metric": 40.261372}
+{"i": 23185, "raw_vocab": "owners", "category": "OK", "decoded": "owners", "metrics": [40.257931, 311.911711, 523.722911], "main_metric": 40.257931}
+{"i": 32940, "raw_vocab": "449", "category": "OK", "decoded": "449", "metrics": [40.248268, 284.484994, 753.090814], "main_metric": 40.248268}
+{"i": 42150, "raw_vocab": "BW", "category": "OK", "decoded": "BW", "metrics": [40.24471, 289.275097, 233.970865], "main_metric": 40.24471}
+{"i": 43470, "raw_vocab": "Ġunlocks", "category": "OK", "decoded": " unlocks", "metrics": [40.237024, 337.826907, 708.259173], "main_metric": 40.237024}
+{"i": 47328, "raw_vocab": "Î²", "category": "OK", "decoded": "β", "metrics": [40.234701, 231.460825, 335.005202], "main_metric": 40.234701}
+{"i": 4457, "raw_vocab": "Ġhosted", "category": "OK", "decoded": " hosted", "metrics": [40.223983, 216.515251, 321.549737], "main_metric": 40.223983}
+{"i": 984, "raw_vocab": "ĠÂ£", "category": "OK", "decoded": " £", "metrics": [40.209372, 211.439456, 464.351158], "main_metric": 40.209372}
+{"i": 36108, "raw_vocab": "413", "category": "OK", "decoded": "413", "metrics": [40.207968, 324.725733, 728.694021], "main_metric": 40.207968}
+{"i": 48552, "raw_vocab": "âĨĴ", "category": "OK", "decoded": "→", "metrics": [40.200515, 255.47165, 401.164667], "main_metric": 40.200515}
+{"i": 49670, "raw_vocab": "Ġ])", "category": "OK", "decoded": " ])", "metrics": [40.170715, 310.017261, 599.143945], "main_metric": 40.170715}
+{"i": 32730, "raw_vocab": "Therefore", "category": "OK", "decoded": "Therefore", "metrics": [40.166177, 269.76072, 445.471815], "main_metric": 40.166177}
+{"i": 37905, "raw_vocab": "070", "category": "OK", "decoded": "070", "metrics": [40.15938, 295.09202, 757.38223], "main_metric": 40.15938}
+{"i": 45491, "raw_vocab": "ĠUpload", "category": "OK", "decoded": " Upload", "metrics": [40.154426, 328.633686, 658.645728], "main_metric": 40.154426}
+{"i": 49030, "raw_vocab": "Ġusb", "category": "OK", "decoded": " usb", "metrics": [40.123935, 265.964529, 575.268349], "main_metric": 40.123935}
+{"i": 4836, "raw_vocab": "Ġnetworks", "category": "OK", "decoded": " networks", "metrics": [40.116617, 258.389357, 415.026334], "main_metric": 40.116617}
+{"i": 48742, "raw_vocab": "\"[", "category": "OK", "decoded": "\"[", "metrics": [40.113523, 449.291019, 1030.534962], "main_metric": 40.113523}
+{"i": 36811, "raw_vocab": "Ġgladly", "category": "OK", "decoded": " gladly", "metrics": [40.104928, 263.296847, 574.209531], "main_metric": 40.104928}
+{"i": 7264, "raw_vocab": "Ġforth", "category": "OK", "decoded": " forth", "metrics": [40.093473, 263.865493, 527.714473], "main_metric": 40.093473}
+{"i": 37191, "raw_vocab": "Ġ279", "category": "OK", "decoded": " 279", "metrics": [40.083735, 234.348823, 681.283299], "main_metric": 40.083735}
+{"i": 6427, "raw_vocab": "Ġconclusion", "category": "OK", "decoded": " conclusion", "metrics": [40.081989, 392.559816, 349.852438], "main_metric": 40.081989}
+{"i": 31231, "raw_vocab": "Should", "category": "OK", "decoded": "Should", "metrics": [40.078761, 176.403742, 472.802142], "main_metric": 40.078761}
+{"i": 11427, "raw_vocab": "Ġeducate", "category": "OK", "decoded": " educate", "metrics": [40.037158, 265.462666, 227.981599], "main_metric": 40.037158}
+{"i": 585, "raw_vocab": "Ġannounced", "category": "OK", "decoded": " announced", "metrics": [40.035417, 225.112642, 427.975375], "main_metric": 40.035417}
+{"i": 32790, "raw_vocab": "ĠRegistered", "category": "OK", "decoded": " Registered", "metrics": [40.025626, 294.746782, 249.723702], "main_metric": 40.025626}
+{"i": 47722, "raw_vocab": "Documents", "category": "OK", "decoded": "Documents", "metrics": [39.995671, 335.194012, 403.088163], "main_metric": 39.995671}
+{"i": 5430, "raw_vocab": "Ġletters", "category": "OK", "decoded": " letters", "metrics": [39.995126, 301.265426, 272.944472], "main_metric": 39.995126}
+{"i": 11665, "raw_vocab": "/.", "category": "OK", "decoded": "/.", "metrics": [39.986971, 159.8371, 283.766703], "main_metric": 39.986971}
+{"i": 5461, "raw_vocab": "Ġdates", "category": "OK", "decoded": " dates", "metrics": [39.981955, 266.45909, 431.304001], "main_metric": 39.981955}
+{"i": 5740, "raw_vocab": "Ġparticipation", "category": "OK", "decoded": " participation", "metrics": [39.978079, 247.749318, 293.828095], "main_metric": 39.978079}
+{"i": 46233, "raw_vocab": "ĠRequires", "category": "OK", "decoded": " Requires", "metrics": [39.97529, 199.150048, 414.506112], "main_metric": 39.97529}
+{"i": 21063, "raw_vocab": "270", "category": "OK", "decoded": "270", "metrics": [39.972489, 267.658228, 524.489576], "main_metric": 39.972489}
+{"i": 24092, "raw_vocab": "ĠPassword", "category": "OK", "decoded": " Password", "metrics": [39.959904, 343.817024, 705.586153], "main_metric": 39.959904}
+{"i": 15469, "raw_vocab": "Ġpersonalities", "category": "OK", "decoded": " personalities", "metrics": [39.951635, 291.408768, 492.651252], "main_metric": 39.951635}
+{"i": 10093, "raw_vocab": "ĠCourtesy", "category": "OK", "decoded": " Courtesy", "metrics": [39.951162, 323.333053, 544.03674], "main_metric": 39.951162}
+{"i": 49888, "raw_vocab": ".''.", "category": "OK", "decoded": ".''.", "metrics": [39.940723, 259.628659, 488.14008], "main_metric": 39.940723}
+{"i": 2633, "raw_vocab": "Ġpresented", "category": "OK", "decoded": " presented", "metrics": [39.939775, 178.705635, 286.028392], "main_metric": 39.939775}
+{"i": 9069, "raw_vocab": "Ġgod", "category": "OK", "decoded": " god", "metrics": [39.932113, 240.675621, 419.678902], "main_metric": 39.932113}
+{"i": 3264, "raw_vocab": "Ġaccept", "category": "OK", "decoded": " accept", "metrics": [39.889457, 302.042621, 526.489192], "main_metric": 39.889457}
+{"i": 19373, "raw_vocab": "Ġensuing", "category": "OK", "decoded": " ensuing", "metrics": [39.867372, 210.526019, 381.908531], "main_metric": 39.867372}
+{"i": 34148, "raw_vocab": "670", "category": "OK", "decoded": "670", "metrics": [39.858624, 250.020569, 545.138049], "main_metric": 39.858624}
+{"i": 21458, "raw_vocab": "Ġ201", "category": "OK", "decoded": " 201", "metrics": [39.858233, 219.579651, 322.740106], "main_metric": 39.858233}
+{"i": 26760, "raw_vocab": "Ġbetrayal", "category": "OK", "decoded": " betrayal", "metrics": [39.843568, 408.074232, 771.498723], "main_metric": 39.843568}
+{"i": 49434, "raw_vocab": "Ġ\"\"\"", "category": "OK", "decoded": " \"\"\"", "metrics": [39.839475, 218.921194, 578.031679], "main_metric": 39.839475}
+{"i": 445, "raw_vocab": "Ġstatement", "category": "OK", "decoded": " statement", "metrics": [39.828882, 232.690921, 420.785754], "main_metric": 39.828882}
+{"i": 4171, "raw_vocab": "ĠThompson", "category": "OK", "decoded": " Thompson", "metrics": [39.823511, 220.858764, 400.745097], "main_metric": 39.823511}
+{"i": 12111, "raw_vocab": "Ġcostume", "category": "OK", "decoded": " costume", "metrics": [39.810285, 190.784954, 233.075029], "main_metric": 39.810285}
+{"i": 44294, "raw_vocab": "').", "category": "OK", "decoded": "').", "metrics": [39.808975, 224.817036, 593.191018], "main_metric": 39.808975}
+{"i": 30161, "raw_vocab": "Ġunmarked", "category": "OK", "decoded": " unmarked", "metrics": [39.796486, 239.12677, 638.648484], "main_metric": 39.796486}
+{"i": 48844, "raw_vocab": "Ġ......", "category": "OK", "decoded": " ......", "metrics": [39.786298, 231.901129, 465.227597], "main_metric": 39.786298}
+{"i": 47567, "raw_vocab": "Ġ([", "category": "OK", "decoded": " ([", "metrics": [39.779139, 311.509298, 613.253339], "main_metric": 39.779139}
+{"i": 14025, "raw_vocab": "Ġ\"(", "category": "OK", "decoded": " \"(", "metrics": [39.773144, 226.591557, 449.202084], "main_metric": 39.773144}
+{"i": 49945, "raw_vocab": "Ġâī¡", "category": "OK", "decoded": " ≡", "metrics": [39.768959, 253.736124, 719.781268], "main_metric": 39.768959}
+{"i": 42248, "raw_vocab": "\"]", "category": "OK", "decoded": "\"]", "metrics": [39.767506, 324.783724, 570.073842], "main_metric": 39.767506}
+{"i": 16934, "raw_vocab": "Ġderived", "category": "OK", "decoded": " derived", "metrics": [39.756666, 216.940077, 211.481007], "main_metric": 39.756666}
+{"i": 32498, "raw_vocab": "387", "category": "OK", "decoded": "387", "metrics": [39.755983, 254.459027, 329.755515], "main_metric": 39.755983}
+{"i": 48937, "raw_vocab": ":]", "category": "OK", "decoded": ":]", "metrics": [39.744629, 442.431999, 940.643498], "main_metric": 39.744629}
+{"i": 50161, "raw_vocab": "Ġ<[", "category": "OK", "decoded": " <[", "metrics": [39.73772, 358.0328, 874.307362], "main_metric": 39.73772}
+{"i": 39088, "raw_vocab": "sorry", "category": "OK", "decoded": "sorry", "metrics": [39.728032, 250.720217, 327.425711], "main_metric": 39.728032}
+{"i": 30570, "raw_vocab": "ologically", "category": "OK", "decoded": "ologically", "metrics": [39.716081, 233.645605, 627.622395], "main_metric": 39.716081}
+{"i": 37900, "raw_vocab": "489", "category": "OK", "decoded": "489", "metrics": [39.713729, 324.572848, 830.187212], "main_metric": 39.713729}
+{"i": 44875, "raw_vocab": "Ġnoun", "category": "OK", "decoded": " noun", "metrics": [39.701001, 236.869042, 498.737701], "main_metric": 39.701001}
+{"i": 3217, "raw_vocab": "ĠLouis", "category": "OK", "decoded": " Louis", "metrics": [39.697222, 292.588926, 426.273593], "main_metric": 39.697222}
+{"i": 8174, "raw_vocab": "].", "category": "OK", "decoded": "].", "metrics": [39.682987, 325.694051, 666.343821], "main_metric": 39.682987}
+{"i": 47467, "raw_vocab": "ensable", "category": "OK", "decoded": "ensable", "metrics": [39.673755, 252.861706, 572.434128], "main_metric": 39.673755}
+{"i": 27737, "raw_vocab": "probably", "category": "OK", "decoded": "probably", "metrics": [39.657039, 221.222596, 394.93597], "main_metric": 39.657039}
+{"i": 32463, "raw_vocab": "ĠYES", "category": "OK", "decoded": " YES", "metrics": [39.655298, 243.195261, 403.729471], "main_metric": 39.655298}
+{"i": 21395, "raw_vocab": "Ġconstitutes", "category": "OK", "decoded": " constitutes", "metrics": [39.651707, 233.202132, 469.814518], "main_metric": 39.651707}
+{"i": 33022, "raw_vocab": "Ġdisable", "category": "OK", "decoded": " disable", "metrics": [39.639404, 297.177243, 565.614792], "main_metric": 39.639404}
+{"i": 44717, "raw_vocab": "]\"", "category": "OK", "decoded": "]\"", "metrics": [39.615446, 384.143668, 866.531825], "main_metric": 39.615446}
+{"i": 22176, "raw_vocab": "Ġ[âĢ¦]", "category": "OK", "decoded": " […]", "metrics": [39.604487, 299.018481, 434.197716], "main_metric": 39.604487}
+{"i": 22856, "raw_vocab": "ĠBeginning", "category": "OK", "decoded": " Beginning", "metrics": [39.595038, 258.630588, 581.138214], "main_metric": 39.595038}
+{"i": 38639, "raw_vocab": "vity", "category": "OK", "decoded": "vity", "metrics": [39.585869, 265.937821, 506.008012], "main_metric": 39.585869}
+{"i": 46865, "raw_vocab": "Questions", "category": "OK", "decoded": "Questions", "metrics": [39.568209, 295.620018, 578.077841], "main_metric": 39.568209}
+{"i": 34295, "raw_vocab": "409", "category": "OK", "decoded": "409", "metrics": [39.559372, 202.510166, 609.814524], "main_metric": 39.559372}
+{"i": 44521, "raw_vocab": "1973", "category": "OK", "decoded": "1973", "metrics": [39.545908, 271.512522, 384.579325], "main_metric": 39.545908}
+{"i": 48790, "raw_vocab": "template", "category": "OK", "decoded": "template", "metrics": [39.543208, 246.415598, 273.94275], "main_metric": 39.543208}
+{"i": 34912, "raw_vocab": "ĠWHY", "category": "OK", "decoded": " WHY", "metrics": [39.540291, 290.283806, 411.4703], "main_metric": 39.540291}
+{"i": 9515, "raw_vocab": "Ġunf", "category": "OK", "decoded": " unf", "metrics": [39.53608, 263.580274, 691.252604], "main_metric": 39.53608}
+{"i": 26613, "raw_vocab": "Ġdefinitions", "category": "OK", "decoded": " definitions", "metrics": [39.532537, 235.675446, 505.309592], "main_metric": 39.532537}
+{"i": 47620, "raw_vocab": "](", "category": "OK", "decoded": "](", "metrics": [39.529263, 376.861833, 840.433742], "main_metric": 39.529263}
+{"i": 10478, "raw_vocab": "ĠUSB", "category": "OK", "decoded": " USB", "metrics": [39.529055, 278.420881, 459.945514], "main_metric": 39.529055}
+{"i": 49329, "raw_vocab": "[\"", "category": "OK", "decoded": "[\"", "metrics": [39.525599, 406.262749, 755.854404], "main_metric": 39.525599}
+{"i": 47859, "raw_vocab": "Created", "category": "OK", "decoded": "Created", "metrics": [39.521179, 232.14451, 602.977921], "main_metric": 39.521179}
+{"i": 223, "raw_vocab": "Ġunder", "category": "OK", "decoded": " under", "metrics": [39.500588, 188.23939, 388.77063], "main_metric": 39.500588}
+{"i": 42747, "raw_vocab": "category", "category": "OK", "decoded": "category", "metrics": [39.49745, 180.937418, 400.156502], "main_metric": 39.49745}
+{"i": 23301, "raw_vocab": "2009", "category": "OK", "decoded": "2009", "metrics": [39.486197, 298.738081, 504.199712], "main_metric": 39.486197}
+{"i": 42130, "raw_vocab": "surface", "category": "OK", "decoded": "surface", "metrics": [39.479298, 193.255866, 519.207318], "main_metric": 39.479298}
+{"i": 43180, "raw_vocab": "Ġpassively", "category": "OK", "decoded": " passively", "metrics": [39.460197, 264.435439, 334.244992], "main_metric": 39.460197}
+{"i": 7479, "raw_vocab": "],", "category": "OK", "decoded": "],", "metrics": [39.446878, 278.953164, 584.123925], "main_metric": 39.446878}
+{"i": 46791, "raw_vocab": "Statement", "category": "OK", "decoded": "Statement", "metrics": [39.424473, 266.913999, 544.222439], "main_metric": 39.424473}
+{"i": 14907, "raw_vocab": "Ġunpaid", "category": "OK", "decoded": " unpaid", "metrics": [39.418656, 305.727977, 401.974609], "main_metric": 39.418656}
+{"i": 43102, "raw_vocab": "nature", "category": "OK", "decoded": "nature", "metrics": [39.409993, 232.953192, 723.346351], "main_metric": 39.409993}
+{"i": 43213, "raw_vocab": "ĠPublication", "category": "OK", "decoded": " Publication", "metrics": [39.404469, 265.46322, 577.398841], "main_metric": 39.404469}
+{"i": 29009, "raw_vocab": "ĠClosed", "category": "OK", "decoded": " Closed", "metrics": [39.398889, 273.512407, 548.725732], "main_metric": 39.398889}
+{"i": 39495, "raw_vocab": "awareness", "category": "OK", "decoded": "awareness", "metrics": [39.382375, 285.676487, 671.891604], "main_metric": 39.382375}
+{"i": 9132, "raw_vocab": "Ġrespected", "category": "OK", "decoded": " respected", "metrics": [39.36386, 177.436461, 394.678324], "main_metric": 39.36386}
+{"i": 49643, "raw_vocab": "{\"", "category": "OK", "decoded": "{\"", "metrics": [39.340416, 406.425412, 1087.354251], "main_metric": 39.340416}
+{"i": 49045, "raw_vocab": "ãģį", "category": "OK", "decoded": "き", "metrics": [39.326817, 338.974796, 736.504385], "main_metric": 39.326817}
+{"i": 4461, "raw_vocab": "ĠWalker", "category": "OK", "decoded": " Walker", "metrics": [39.315004, 148.114212, 454.656752], "main_metric": 39.315004}
+{"i": 49420, "raw_vocab": "[[", "category": "OK", "decoded": "[[", "metrics": [39.30667, 414.453062, 851.298263], "main_metric": 39.30667}
+{"i": 19836, "raw_vocab": "ĠEuropeans", "category": "OK", "decoded": " Europeans", "metrics": [39.291039, 184.694543, 515.803175], "main_metric": 39.291039}
+{"i": 14115, "raw_vocab": "Ġsyndrome", "category": "OK", "decoded": " syndrome", "metrics": [39.285592, 235.944785, 534.497206], "main_metric": 39.285592}
+{"i": 27594, "raw_vocab": "368", "category": "OK", "decoded": "368", "metrics": [39.246806, 307.041045, 552.380845], "main_metric": 39.246806}
+{"i": 16625, "raw_vocab": "your", "category": "OK", "decoded": "your", "metrics": [39.243092, 275.920533, 304.66019], "main_metric": 39.243092}
+{"i": 32646, "raw_vocab": "298", "category": "OK", "decoded": "298", "metrics": [39.241627, 275.801465, 343.890059], "main_metric": 39.241627}
+{"i": 20719, "raw_vocab": "Ġcorrespond", "category": "OK", "decoded": " correspond", "metrics": [39.220906, 233.1049, 459.965042], "main_metric": 39.220906}
+{"i": 31370, "raw_vocab": "ventional", "category": "OK", "decoded": "ventional", "metrics": [39.194743, 145.753071, 197.2237], "main_metric": 39.194743}
+{"i": 5874, "raw_vocab": "Ãº", "category": "OK", "decoded": "ú", "metrics": [39.187404, 264.516238, 485.287695], "main_metric": 39.187404}
+{"i": 25488, "raw_vocab": "139", "category": "OK", "decoded": "139", "metrics": [39.187391, 311.7198, 621.034854], "main_metric": 39.187391}
+{"i": 34357, "raw_vocab": "366", "category": "OK", "decoded": "366", "metrics": [39.174332, 266.213682, 605.960351], "main_metric": 39.174332}
+{"i": 36739, "raw_vocab": "material", "category": "OK", "decoded": "material", "metrics": [39.171509, 241.68175, 317.695445], "main_metric": 39.171509}
+{"i": 34923, "raw_vocab": "371", "category": "OK", "decoded": "371", "metrics": [39.155631, 312.296938, 724.018087], "main_metric": 39.155631}
+{"i": 50075, "raw_vocab": "76561", "category": "OK", "decoded": "76561", "metrics": [39.147537, 354.892508, 1122.244088], "main_metric": 39.147537}
+{"i": 29254, "raw_vocab": "Â£", "category": "OK", "decoded": "£", "metrics": [39.142495, 242.478615, 304.262885], "main_metric": 39.142495}
+{"i": 46250, "raw_vocab": "Ġ'(", "category": "OK", "decoded": " '(", "metrics": [39.136323, 256.073378, 679.434197], "main_metric": 39.136323}
+{"i": 49000, "raw_vocab": "Ġ})", "category": "OK", "decoded": " })", "metrics": [39.124805, 235.785893, 520.335821], "main_metric": 39.124805}
+{"i": 4043, "raw_vocab": "Getty", "category": "OK", "decoded": "Getty", "metrics": [39.117554, 297.372891, 590.753453], "main_metric": 39.117554}
+{"i": 48759, "raw_vocab": "['", "category": "OK", "decoded": "['", "metrics": [39.106787, 364.09908, 875.460906], "main_metric": 39.106787}
+{"i": 4730, "raw_vocab": "Ġknowing", "category": "OK", "decoded": " knowing", "metrics": [39.094015, 278.511391, 468.600907], "main_metric": 39.094015}
+{"i": 34557, "raw_vocab": "ĠNames", "category": "OK", "decoded": " Names", "metrics": [39.084385, 236.884749, 423.746868], "main_metric": 39.084385}
+{"i": 16822, "raw_vocab": "Stock", "category": "OK", "decoded": "Stock", "metrics": [39.080617, 268.341313, 413.665969], "main_metric": 39.080617}
+{"i": 43343, "raw_vocab": "accessible", "category": "OK", "decoded": "accessible", "metrics": [39.079646, 247.280542, 565.411468], "main_metric": 39.079646}
+{"i": 35416, "raw_vocab": "Currently", "category": "OK", "decoded": "Currently", "metrics": [39.073943, 128.40108, 350.604241], "main_metric": 39.073943}
+{"i": 5595, "raw_vocab": "Ġ68", "category": "OK", "decoded": " 68", "metrics": [39.063922, 261.512776, 424.940918], "main_metric": 39.063922}
+{"i": 40141, "raw_vocab": "798", "category": "OK", "decoded": "798", "metrics": [39.045104, 310.018273, 601.126166], "main_metric": 39.045104}
+{"i": 42645, "raw_vocab": "]:", "category": "OK", "decoded": "]:", "metrics": [39.026377, 393.494323, 887.249137], "main_metric": 39.026377}
+{"i": 49659, "raw_vocab": "]=", "category": "OK", "decoded": "]=", "metrics": [39.023886, 295.451428, 679.167264], "main_metric": 39.023886}
+{"i": 36005, "raw_vocab": "Ġprimitive", "category": "OK", "decoded": " primitive", "metrics": [39.014332, 225.078995, 513.288279], "main_metric": 39.014332}
+{"i": 6660, "raw_vocab": "html", "category": "OK", "decoded": "html", "metrics": [39.013445, 285.426163, 462.515703], "main_metric": 39.013445}
+{"i": 4748, "raw_vocab": "ible", "category": "OK", "decoded": "ible", "metrics": [38.982519, 227.228395, 586.885356], "main_metric": 38.982519}
+{"i": 21118, "raw_vocab": "199", "category": "OK", "decoded": "199", "metrics": [38.98084, 315.42569, 426.663531], "main_metric": 38.98084}
+{"i": 47570, "raw_vocab": "...?", "category": "OK", "decoded": "...?", "metrics": [38.970472, 344.665328, 457.364337], "main_metric": 38.970472}
+{"i": 49233, "raw_vocab": "ä½ľ", "category": "OK", "decoded": "作", "metrics": [38.966297, 357.573382, 560.941905], "main_metric": 38.966297}
+{"i": 14757, "raw_vocab": "Ġ1973", "category": "OK", "decoded": " 1973", "metrics": [38.949795, 206.136997, 294.024126], "main_metric": 38.949795}
+{"i": 41327, "raw_vocab": "ĠInput", "category": "OK", "decoded": " Input", "metrics": [38.926977, 266.336893, 395.321564], "main_metric": 38.926977}
+{"i": 24387, "raw_vocab": "Ġoutlining", "category": "OK", "decoded": " outlining", "metrics": [38.860763, 143.997771, 406.596097], "main_metric": 38.860763}
+{"i": 44583, "raw_vocab": "ECTION", "category": "OK", "decoded": "ECTION", "metrics": [38.822014, 310.659523, 453.925499], "main_metric": 38.822014}
+{"i": 40309, "raw_vocab": "ĠLH", "category": "OK", "decoded": " LH", "metrics": [38.786371, 216.194619, 548.81798], "main_metric": 38.786371}
+{"i": 36221, "raw_vocab": "ĠClothing", "category": "OK", "decoded": " Clothing", "metrics": [38.783889, 195.583994, 203.031847], "main_metric": 38.783889}
+{"i": 37353, "raw_vocab": "Ġ298", "category": "OK", "decoded": " 298", "metrics": [38.77937, 332.552153, 323.654886], "main_metric": 38.77937}
+{"i": 48443, "raw_vocab": "([", "category": "OK", "decoded": "([", "metrics": [38.773811, 360.442093, 634.449098], "main_metric": 38.773811}
+{"i": 41366, "raw_vocab": "ĠPresumably", "category": "OK", "decoded": " Presumably", "metrics": [38.771055, 374.522333, 597.659867], "main_metric": 38.771055}
+{"i": 49082, "raw_vocab": "âĸĵ", "category": "OK", "decoded": "▓", "metrics": [38.765191, 346.270226, 772.138831], "main_metric": 38.765191}
+{"i": 46001, "raw_vocab": "ophob", "category": "OK", "decoded": "ophob", "metrics": [38.746458, 276.970653, 805.609324], "main_metric": 38.746458}
+{"i": 44403, "raw_vocab": "']", "category": "OK", "decoded": "']", "metrics": [38.744832, 357.063722, 800.177334], "main_metric": 38.744832}
+{"i": 46495, "raw_vocab": "\\'", "category": "OK", "decoded": "\\'", "metrics": [38.737383, 253.970304, 413.73169], "main_metric": 38.737383}
+{"i": 48576, "raw_vocab": "ãģ¾", "category": "OK", "decoded": "ま", "metrics": [38.725838, 345.347826, 652.336009], "main_metric": 38.725838}
+{"i": 49867, "raw_vocab": "Ġprintln", "category": "OK", "decoded": " println", "metrics": [38.706677, 180.76459, 510.983779], "main_metric": 38.706677}
+{"i": 17206, "raw_vocab": "Before", "category": "OK", "decoded": "Before", "metrics": [38.702555, 227.291996, 510.895137], "main_metric": 38.702555}
+{"i": 23342, "raw_vocab": "Ġ1959", "category": "OK", "decoded": " 1959", "metrics": [38.647542, 247.812447, 471.164061], "main_metric": 38.647542}
+{"i": 423, "raw_vocab": "Ġlater", "category": "OK", "decoded": " later", "metrics": [38.623121, 198.544916, 208.433043], "main_metric": 38.623121}
+{"i": 42066, "raw_vocab": "Ġattribution", "category": "OK", "decoded": " attribution", "metrics": [38.583022, 197.675746, 411.578403], "main_metric": 38.583022}
+{"i": 48021, "raw_vocab": "âĢ¦]", "category": "OK", "decoded": "…]", "metrics": [38.582568, 376.190806, 975.820249], "main_metric": 38.582568}
+{"i": 49162, "raw_vocab": "Width", "category": "OK", "decoded": "Width", "metrics": [38.521966, 256.249267, 326.902215], "main_metric": 38.521966}
+{"i": 42777, "raw_vocab": ";\"", "category": "OK", "decoded": ";\"", "metrics": [38.513945, 277.821789, 616.585457], "main_metric": 38.513945}
+{"i": 8532, "raw_vocab": "Image", "category": "OK", "decoded": "Image", "metrics": [38.470429, 242.021062, 464.446661], "main_metric": 38.470429}
+{"i": 1507, "raw_vocab": "Ġagreed", "category": "OK", "decoded": " agreed", "metrics": [38.455197, 347.426343, 521.843318], "main_metric": 38.455197}
+{"i": 4149, "raw_vocab": "Ġdrama", "category": "OK", "decoded": " drama", "metrics": [38.435134, 178.323803, 298.468931], "main_metric": 38.435134}
+{"i": 36701, "raw_vocab": "ĠGuidelines", "category": "OK", "decoded": " Guidelines", "metrics": [38.318153, 350.999367, 1019.150909], "main_metric": 38.318153}
+{"i": 35322, "raw_vocab": "Ġcriminality", "category": "OK", "decoded": " criminality", "metrics": [38.29928, 303.510306, 729.298611], "main_metric": 38.29928}
+{"i": 29919, "raw_vocab": "ĠWHERE", "category": "OK", "decoded": " WHERE", "metrics": [38.277549, 202.079069, 402.129414], "main_metric": 38.277549}
+{"i": 36285, "raw_vocab": "Ġreciprocal", "category": "OK", "decoded": " reciprocal", "metrics": [38.161776, 300.308682, 663.232432], "main_metric": 38.161776}
+{"i": 12123, "raw_vocab": "Ġsequel", "category": "OK", "decoded": " sequel", "metrics": [38.127863, 312.419077, 622.068531], "main_metric": 38.127863}
+{"i": 24005, "raw_vocab": "ĠPreview", "category": "OK", "decoded": " Preview", "metrics": [38.100802, 267.145787, 598.987527], "main_metric": 38.100802}
+{"i": 42853, "raw_vocab": "1988", "category": "OK", "decoded": "1988", "metrics": [38.094059, 225.152581, 397.703908], "main_metric": 38.094059}
+{"i": 27418, "raw_vocab": "2008", "category": "OK", "decoded": "2008", "metrics": [38.081238, 332.615797, 642.382352], "main_metric": 38.081238}
+{"i": 21138, "raw_vocab": "275", "category": "OK", "decoded": "275", "metrics": [38.060086, 313.439213, 608.461786], "main_metric": 38.060086}
+{"i": 7441, "raw_vocab": "Ġreveals", "category": "OK", "decoded": " reveals", "metrics": [38.025854, 281.157675, 519.280317], "main_metric": 38.025854}
+{"i": 1453, "raw_vocab": "Ġbasis", "category": "OK", "decoded": " basis", "metrics": [38.024267, 199.219593, 344.4967], "main_metric": 38.024267}
+{"i": 50254, "raw_vocab": "<?", "category": "OK", "decoded": "<?", "metrics": [38.00861, 323.165174, 365.201455], "main_metric": 38.00861}
+{"i": 23965, "raw_vocab": "ĠProjects", "category": "OK", "decoded": " Projects", "metrics": [38.008091, 302.549194, 675.401138], "main_metric": 38.008091}
+{"i": 9607, "raw_vocab": "stock", "category": "OK", "decoded": "stock", "metrics": [37.986461, 265.464444, 694.772437], "main_metric": 37.986461}
+{"i": 29521, "raw_vocab": "Ġeas", "category": "OK", "decoded": " eas", "metrics": [37.984812, 263.04989, 582.246926], "main_metric": 37.984812}
+{"i": 4117, "raw_vocab": "Ġknee", "category": "OK", "decoded": " knee", "metrics": [37.976932, 234.125992, 542.441026], "main_metric": 37.976932}
+{"i": 22190, "raw_vocab": "Ġrecommending", "category": "OK", "decoded": " recommending", "metrics": [37.912818, 196.088708, 606.500832], "main_metric": 37.912818}
+{"i": 22310, "raw_vocab": "Ġcomplimentary", "category": "OK", "decoded": " complimentary", "metrics": [37.872911, 233.782093, 814.444243], "main_metric": 37.872911}
+{"i": 27561, "raw_vocab": "release", "category": "OK", "decoded": "release", "metrics": [37.867712, 335.05379, 647.774388], "main_metric": 37.867712}
+{"i": 23483, "raw_vocab": "Ġdetermines", "category": "OK", "decoded": " determines", "metrics": [37.858236, 235.556164, 331.957195], "main_metric": 37.858236}
+{"i": 36038, "raw_vocab": "Ġadjunct", "category": "OK", "decoded": " adjunct", "metrics": [37.812508, 184.217001, 100.871246], "main_metric": 37.812508}
+{"i": 11217, "raw_vocab": "ements", "category": "OK", "decoded": "ements", "metrics": [37.805354, 277.403942, 528.943595], "main_metric": 37.805354}
+{"i": 37657, "raw_vocab": "ĠPledge", "category": "OK", "decoded": " Pledge", "metrics": [37.759993, 319.327272, 607.575115], "main_metric": 37.759993}
+{"i": 3816, "raw_vocab": "Ġdef", "category": "OK", "decoded": " def", "metrics": [37.696652, 185.253697, 292.021502], "main_metric": 37.696652}
+{"i": 35321, "raw_vocab": "665", "category": "OK", "decoded": "665", "metrics": [37.650452, 431.085587, 908.839765], "main_metric": 37.650452}
+{"i": 14642, "raw_vocab": "ĠComment", "category": "OK", "decoded": " Comment", "metrics": [37.607253, 312.613255, 604.188163], "main_metric": 37.607253}
+{"i": 49648, "raw_vocab": "ĠãĢĮ", "category": "OK", "decoded": " 「", "metrics": [37.570101, 322.661308, 711.456333], "main_metric": 37.570101}
+{"i": 3115, "raw_vocab": "Ġrelations", "category": "OK", "decoded": " relations", "metrics": [37.533771, 277.436602, 546.381049], "main_metric": 37.533771}
+{"i": 11413, "raw_vocab": "Ġalleges", "category": "OK", "decoded": " alleges", "metrics": [37.498967, 267.300463, 322.902572], "main_metric": 37.498967}
+{"i": 21053, "raw_vocab": "Ġ1948", "category": "OK", "decoded": " 1948", "metrics": [37.478626, 339.943332, 621.853489], "main_metric": 37.478626}
+{"i": 46419, "raw_vocab": "requires", "category": "OK", "decoded": "requires", "metrics": [37.478161, 179.947359, 232.21026], "main_metric": 37.478161}
+{"i": 3015, "raw_vocab": "ĠEx", "category": "OK", "decoded": " Ex", "metrics": [37.43526, 255.464901, 567.938076], "main_metric": 37.43526}
+{"i": 44565, "raw_vocab": "feature", "category": "OK", "decoded": "feature", "metrics": [37.428018, 221.174121, 390.093135], "main_metric": 37.428018}
+{"i": 17369, "raw_vocab": "Ġphases", "category": "OK", "decoded": " phases", "metrics": [37.403905, 315.005001, 765.122589], "main_metric": 37.403905}
+{"i": 23227, "raw_vocab": "ĠPosts", "category": "OK", "decoded": " Posts", "metrics": [37.398673, 351.113797, 521.785768], "main_metric": 37.398673}
+{"i": 572, "raw_vocab": "ĠAfter", "category": "OK", "decoded": " After", "metrics": [37.39134, 305.251647, 551.07953], "main_metric": 37.39134}
+{"i": 9355, "raw_vocab": "Ġrelation", "category": "OK", "decoded": " relation", "metrics": [37.345414, 319.697316, 714.304247], "main_metric": 37.345414}
+{"i": 35203, "raw_vocab": "Ġcomplicity", "category": "OK", "decoded": " complicity", "metrics": [37.33876, 277.221102, 717.751291], "main_metric": 37.33876}
+{"i": 29171, "raw_vocab": "Ġdinosaurs", "category": "OK", "decoded": " dinosaurs", "metrics": [37.330766, 248.906201, 641.734675], "main_metric": 37.330766}
+{"i": 28270, "raw_vocab": "Ġ1951", "category": "OK", "decoded": " 1951", "metrics": [37.311718, 278.571847, 629.231925], "main_metric": 37.311718}
+{"i": 19690, "raw_vocab": "Ġteaser", "category": "OK", "decoded": " teaser", "metrics": [37.307116, 243.682468, 238.396421], "main_metric": 37.307116}
+{"i": 49351, "raw_vocab": "Ġacknow", "category": "OK", "decoded": " acknow", "metrics": [37.277355, 190.411114, 328.327246], "main_metric": 37.277355}
+{"i": 1697, "raw_vocab": "Ġalleged", "category": "OK", "decoded": " alleged", "metrics": [37.247764, 242.169762, 206.80878], "main_metric": 37.247764}
+{"i": 22792, "raw_vocab": "Ġcorrelation", "category": "OK", "decoded": " correlation", "metrics": [37.238999, 263.475859, 489.226586], "main_metric": 37.238999}
+{"i": 4404, "raw_vocab": "Ġdiscussions", "category": "OK", "decoded": " discussions", "metrics": [37.238366, 306.216943, 513.962255], "main_metric": 37.238366}
+{"i": 46871, "raw_vocab": "Anyway", "category": "OK", "decoded": "Anyway", "metrics": [37.198272, 273.518503, 585.08395], "main_metric": 37.198272}
+{"i": 10795, "raw_vocab": "Ġevolution", "category": "OK", "decoded": " evolution", "metrics": [37.19362, 289.36532, 457.584363], "main_metric": 37.19362}
+{"i": 7919, "raw_vocab": "Ġentitled", "category": "OK", "decoded": " entitled", "metrics": [37.193068, 293.476139, 314.409673], "main_metric": 37.193068}
+{"i": 10142, "raw_vocab": "Ġbeneficial", "category": "OK", "decoded": " beneficial", "metrics": [37.174932, 258.758782, 672.578987], "main_metric": 37.174932}
+{"i": 6425, "raw_vocab": "Ġpraised", "category": "OK", "decoded": " praised", "metrics": [37.148479, 264.110755, 676.92404], "main_metric": 37.148479}
+{"i": 48103, "raw_vocab": "Îº", "category": "OK", "decoded": "κ", "metrics": [37.146689, 323.130331, 763.395461], "main_metric": 37.146689}
+{"i": 24084, "raw_vocab": "Ġrevisions", "category": "OK", "decoded": " revisions", "metrics": [37.13351, 218.133914, 355.841525], "main_metric": 37.13351}
+{"i": 7722, "raw_vocab": "Ġshed", "category": "OK", "decoded": " shed", "metrics": [37.101263, 233.422522, 659.568504], "main_metric": 37.101263}
+{"i": 12120, "raw_vocab": "Ġworkshops", "category": "OK", "decoded": " workshops", "metrics": [37.077019, 240.778357, 436.179848], "main_metric": 37.077019}
+{"i": 4685, "raw_vocab": "Ġcauses", "category": "OK", "decoded": " causes", "metrics": [37.064007, 293.986135, 568.475467], "main_metric": 37.064007}
+{"i": 8785, "raw_vocab": "Ġexists", "category": "OK", "decoded": " exists", "metrics": [37.058369, 143.760801, 437.668383], "main_metric": 37.058369}
+{"i": 9622, "raw_vocab": "Ġsuggestions", "category": "OK", "decoded": " suggestions", "metrics": [37.045013, 339.495425, 835.706641], "main_metric": 37.045013}
+{"i": 32263, "raw_vocab": "Ġbetray", "category": "OK", "decoded": " betray", "metrics": [37.036961, 319.578084, 566.906711], "main_metric": 37.036961}
+{"i": 22624, "raw_vocab": "Ġcompliant", "category": "OK", "decoded": " compliant", "metrics": [37.023999, 235.552353, 365.956082], "main_metric": 37.023999}
+{"i": 16449, "raw_vocab": "Ġfinalized", "category": "OK", "decoded": " finalized", "metrics": [37.02157, 204.551438, 537.392877], "main_metric": 37.02157}
+{"i": 48512, "raw_vocab": "){", "category": "OK", "decoded": "){", "metrics": [37.01508, 361.353928, 911.646802], "main_metric": 37.01508}
+{"i": 38498, "raw_vocab": "concept", "category": "OK", "decoded": "concept", "metrics": [36.994102, 268.665633, 592.95635], "main_metric": 36.994102}
+{"i": 14751, "raw_vocab": "Ġcouncils", "category": "OK", "decoded": " councils", "metrics": [36.973843, 286.463257, 382.507501], "main_metric": 36.973843}
+{"i": 48521, "raw_vocab": "Prev", "category": "OK", "decoded": "Prev", "metrics": [36.973411, 283.36071, 604.192458], "main_metric": 36.973411}
+{"i": 41053, "raw_vocab": "ĠReleases", "category": "OK", "decoded": " Releases", "metrics": [36.967139, 288.765419, 569.412129], "main_metric": 36.967139}
+{"i": 1330, "raw_vocab": "Ġrelated", "category": "OK", "decoded": " related", "metrics": [36.959807, 242.780668, 299.605757], "main_metric": 36.959807}
+{"i": 11050, "raw_vocab": "ĠDue", "category": "OK", "decoded": " Due", "metrics": [36.950918, 287.349046, 477.424836], "main_metric": 36.950918}
+{"i": 8635, "raw_vocab": "Ġce", "category": "OK", "decoded": " ce", "metrics": [36.946286, 182.78936, 465.481058], "main_metric": 36.946286}
+{"i": 21123, "raw_vocab": "Ġ1945", "category": "OK", "decoded": " 1945", "metrics": [36.945559, 256.311929, 505.510576], "main_metric": 36.945559}
+{"i": 18240, "raw_vocab": "Ġcommenting", "category": "OK", "decoded": " commenting", "metrics": [36.937356, 188.005715, 306.088836], "main_metric": 36.937356}
+{"i": 49362, "raw_vocab": "Ġcondem", "category": "OK", "decoded": " condem", "metrics": [36.918722, 268.912389, 419.647745], "main_metric": 36.918722}
+{"i": 24807, "raw_vocab": "ĠCollabor", "category": "OK", "decoded": " Collabor", "metrics": [36.91189, 272.899531, 492.528855], "main_metric": 36.91189}
+{"i": 38616, "raw_vocab": "653", "category": "OK", "decoded": "653", "metrics": [36.911432, 290.357438, 794.96863], "main_metric": 36.911432}
+{"i": 49333, "raw_vocab": "Ġ!=", "category": "OK", "decoded": " !=", "metrics": [36.909628, 387.333609, 663.944087], "main_metric": 36.909628}
+{"i": 986, "raw_vocab": "Ġprevious", "category": "OK", "decoded": " previous", "metrics": [36.899929, 271.254797, 541.931157], "main_metric": 36.899929}
+{"i": 33583, "raw_vocab": "Ġimplicit", "category": "OK", "decoded": " implicit", "metrics": [36.892045, 253.421283, 371.541179], "main_metric": 36.892045}
+{"i": 2455, "raw_vocab": "Ġallowing", "category": "OK", "decoded": " allowing", "metrics": [36.873656, 219.614109, 425.474802], "main_metric": 36.873656}
+{"i": 27397, "raw_vocab": "ĠEE", "category": "OK", "decoded": " EE", "metrics": [36.867258, 209.688475, 390.706477], "main_metric": 36.867258}
+{"i": 49767, "raw_vocab": "METHOD", "category": "OK", "decoded": "METHOD", "metrics": [36.854308, 323.472479, 588.048825], "main_metric": 36.854308}
+{"i": 14522, "raw_vocab": "ĠGavin", "category": "OK", "decoded": " Gavin", "metrics": [36.852065, 291.68429, 571.932264], "main_metric": 36.852065}
+{"i": 6938, "raw_vocab": "Ġproceeds", "category": "OK", "decoded": " proceeds", "metrics": [36.826145, 211.712382, 628.566003], "main_metric": 36.826145}
+{"i": 39364, "raw_vocab": "Ġprerequisite", "category": "OK", "decoded": " prerequisite", "metrics": [36.812636, 358.465554, 555.422482], "main_metric": 36.812636}
+{"i": 27022, "raw_vocab": "Ġdevotion", "category": "OK", "decoded": " devotion", "metrics": [36.799259, 186.706276, 615.513445], "main_metric": 36.799259}
+{"i": 3224, "raw_vocab": "ĠBefore", "category": "OK", "decoded": " Before", "metrics": [36.792937, 220.034809, 528.786884], "main_metric": 36.792937}
+{"i": 47322, "raw_vocab": "Version", "category": "OK", "decoded": "Version", "metrics": [36.792357, 212.972218, 528.011259], "main_metric": 36.792357}
+{"i": 36563, "raw_vocab": "ĠSmooth", "category": "OK", "decoded": " Smooth", "metrics": [36.780214, 226.348861, 401.616751], "main_metric": 36.780214}
+{"i": 48761, "raw_vocab": "Animation", "category": "OK", "decoded": "Animation", "metrics": [36.761144, 273.913449, 608.718952], "main_metric": 36.761144}
+{"i": 39900, "raw_vocab": "Ġcommenter", "category": "OK", "decoded": " commenter", "metrics": [36.749221, 233.754459, 551.375671], "main_metric": 36.749221}
+{"i": 29856, "raw_vocab": "ĠAFTER", "category": "OK", "decoded": " AFTER", "metrics": [36.747695, 246.041995, 240.019102], "main_metric": 36.747695}
+{"i": 49189, "raw_vocab": "Ġ{\"", "category": "OK", "decoded": " {\"", "metrics": [36.743501, 443.71345, 1002.184984], "main_metric": 36.743501}
+{"i": 17152, "raw_vocab": "ĠNotes", "category": "OK", "decoded": " Notes", "metrics": [36.741679, 249.911449, 654.438771], "main_metric": 36.741679}
+{"i": 8249, "raw_vocab": "Ġpraise", "category": "OK", "decoded": " praise", "metrics": [36.735466, 375.91863, 607.597168], "main_metric": 36.735466}
+{"i": 9819, "raw_vocab": "Ġappreciation", "category": "OK", "decoded": " appreciation", "metrics": [36.724463, 294.577061, 682.170436], "main_metric": 36.724463}
+{"i": 46591, "raw_vocab": "Privacy", "category": "OK", "decoded": "Privacy", "metrics": [36.697691, 280.329793, 483.022574], "main_metric": 36.697691}
+{"i": 29843, "raw_vocab": "funding", "category": "OK", "decoded": "funding", "metrics": [36.695859, 211.312092, 658.838833], "main_metric": 36.695859}
+{"i": 30633, "raw_vocab": "ĠEpstein", "category": "OK", "decoded": " Epstein", "metrics": [36.680067, 301.297229, 508.088605], "main_metric": 36.680067}
+{"i": 12337, "raw_vocab": "Ġcorresponding", "category": "OK", "decoded": " corresponding", "metrics": [36.677866, 116.685478, 334.414677], "main_metric": 36.677866}
+{"i": 24521, "raw_vocab": ".).", "category": "OK", "decoded": ".).", "metrics": [36.677285, 196.048209, 512.006268], "main_metric": 36.677285}
+{"i": 16313, "raw_vocab": "Ġsurrendered", "category": "OK", "decoded": " surrendered", "metrics": [36.677085, 253.021634, 580.723141], "main_metric": 36.677085}
+{"i": 432, "raw_vocab": "Ġdeal", "category": "OK", "decoded": " deal", "metrics": [36.657713, 190.697226, 426.110649], "main_metric": 36.657713}
+{"i": 8119, "raw_vocab": "Ġreplacing", "category": "OK", "decoded": " replacing", "metrics": [36.63695, 298.094, 224.384221], "main_metric": 36.63695}
+{"i": 19145, "raw_vocab": "Ġliable", "category": "OK", "decoded": " liable", "metrics": [36.636322, 202.675505, 441.194674], "main_metric": 36.636322}
+{"i": 71, "raw_vocab": "Ġafter", "category": "OK", "decoded": " after", "metrics": [36.622228, 200.320892, 513.942102], "main_metric": 36.622228}
+{"i": 3959, "raw_vocab": "Ġgender", "category": "OK", "decoded": " gender", "metrics": [36.611251, 234.060885, 422.951305], "main_metric": 36.611251}
+{"i": 15461, "raw_vocab": "Ġrevelation", "category": "OK", "decoded": " revelation", "metrics": [36.598966, 305.531643, 619.904039], "main_metric": 36.598966}
+{"i": 24489, "raw_vocab": "Ġlikewise", "category": "OK", "decoded": " likewise", "metrics": [36.594846, 339.575908, 591.312213], "main_metric": 36.594846}
+{"i": 33686, "raw_vocab": "740", "category": "OK", "decoded": "740", "metrics": [36.589828, 330.697164, 853.262055], "main_metric": 36.589828}
+{"i": 47082, "raw_vocab": "ĠDefinitions", "category": "OK", "decoded": " Definitions", "metrics": [36.587079, 282.76913, 557.357983], "main_metric": 36.587079}
+{"i": 25714, "raw_vocab": "ĠRespons", "category": "OK", "decoded": " Respons", "metrics": [36.58473, 228.801602, 505.04876], "main_metric": 36.58473}
+{"i": 8405, "raw_vocab": "Ġchecking", "category": "OK", "decoded": " checking", "metrics": [36.582505, 259.544102, 325.010814], "main_metric": 36.582505}
+{"i": 4289, "raw_vocab": "Ġreaction", "category": "OK", "decoded": " reaction", "metrics": [36.580622, 290.703919, 577.531369], "main_metric": 36.580622}
+{"i": 6156, "raw_vocab": "final", "category": "OK", "decoded": "final", "metrics": [36.574758, 152.513831, 310.508122], "main_metric": 36.574758}
+{"i": 33370, "raw_vocab": "Ġcontro", "category": "OK", "decoded": " contro", "metrics": [36.57469, 244.418706, 456.460615], "main_metric": 36.57469}
+{"i": 2757, "raw_vocab": "Ġdivision", "category": "OK", "decoded": " division", "metrics": [36.571829, 180.678827, 299.827554], "main_metric": 36.571829}
+{"i": 1171, "raw_vocab": "Ġincludes", "category": "OK", "decoded": " includes", "metrics": [36.569977, 168.340066, 299.762544], "main_metric": 36.569977}
+{"i": 49245, "raw_vocab": "Trivia", "category": "OK", "decoded": "Trivia", "metrics": [36.551455, 311.399483, 553.634537], "main_metric": 36.551455}
+{"i": 28192, "raw_vocab": "Ġrevoke", "category": "OK", "decoded": " revoke", "metrics": [36.538133, 237.088238, 622.956592], "main_metric": 36.538133}
+{"i": 5451, "raw_vocab": "Ġexclusive", "category": "OK", "decoded": " exclusive", "metrics": [36.530902, 213.09672, 484.489952], "main_metric": 36.530902}
+{"i": 6411, "raw_vocab": "Ġcomponents", "category": "OK", "decoded": " components", "metrics": [36.507278, 234.680473, 454.233875], "main_metric": 36.507278}
+{"i": 35619, "raw_vocab": "Ġtrespass", "category": "OK", "decoded": " trespass", "metrics": [36.49935, 245.766336, 485.265755], "main_metric": 36.49935}
+{"i": 8201, "raw_vocab": "Ġremoving", "category": "OK", "decoded": " removing", "metrics": [36.494077, 262.383753, 562.310221], "main_metric": 36.494077}
+{"i": 36018, "raw_vocab": "venants", "category": "OK", "decoded": "venants", "metrics": [36.494009, 360.156097, 859.075856], "main_metric": 36.494009}
+{"i": 9323, "raw_vocab": "Ġ1950", "category": "OK", "decoded": " 1950", "metrics": [36.489337, 276.46771, 449.191825], "main_metric": 36.489337}
+{"i": 42283, "raw_vocab": "married", "category": "OK", "decoded": "married", "metrics": [36.462794, 296.668338, 224.059878], "main_metric": 36.462794}
+{"i": 34465, "raw_vocab": "Ġabandonment", "category": "OK", "decoded": " abandonment", "metrics": [36.45716, 332.470503, 527.482486], "main_metric": 36.45716}
+{"i": 10561, "raw_vocab": "Ġphilosophy", "category": "OK", "decoded": " philosophy", "metrics": [36.449207, 177.246033, 311.963504], "main_metric": 36.449207}
+{"i": 33052, "raw_vocab": "Ġreceptive", "category": "OK", "decoded": " receptive", "metrics": [36.448866, 257.884872, 841.752804], "main_metric": 36.448866}
+{"i": 21227, "raw_vocab": "Ġpertaining", "category": "OK", "decoded": " pertaining", "metrics": [36.448842, 172.619266, 43.781564], "main_metric": 36.448842}
+{"i": 12512, "raw_vocab": "ĠSimilarly", "category": "OK", "decoded": " Similarly", "metrics": [36.446171, 271.07236, 772.977276], "main_metric": 36.446171}
+{"i": 1300, "raw_vocab": "Ġsource", "category": "OK", "decoded": " source", "metrics": [36.436045, 249.542678, 488.381161], "main_metric": 36.436045}
+{"i": 43005, "raw_vocab": "ĠSpoiler", "category": "OK", "decoded": " Spoiler", "metrics": [36.421821, 265.798858, 325.822409], "main_metric": 36.421821}
+{"i": 36612, "raw_vocab": "Ġapprox", "category": "OK", "decoded": " approx", "metrics": [36.418781, 185.929599, 456.578723], "main_metric": 36.418781}
+{"i": 26699, "raw_vocab": "Ġequivalents", "category": "OK", "decoded": " equivalents", "metrics": [36.418323, 168.832773, 150.576221], "main_metric": 36.418323}
+{"i": 24963, "raw_vocab": "vious", "category": "OK", "decoded": "vious", "metrics": [36.41442, 192.093504, 581.856709], "main_metric": 36.41442}
+{"i": 16157, "raw_vocab": "Ġ135", "category": "OK", "decoded": " 135", "metrics": [36.407435, 262.109143, 771.130405], "main_metric": 36.407435}
+{"i": 6957, "raw_vocab": "Ġwitnessed", "category": "OK", "decoded": " witnessed", "metrics": [36.404676, 218.189501, 271.879769], "main_metric": 36.404676}
+{"i": 7406, "raw_vocab": "ĠHand", "category": "OK", "decoded": " Hand", "metrics": [36.396796, 239.544516, 269.746579], "main_metric": 36.396796}
+{"i": 1278, "raw_vocab": "Ġposted", "category": "OK", "decoded": " posted", "metrics": [36.390836, 111.810775, 302.095795], "main_metric": 36.390836}
+{"i": 27007, "raw_vocab": "Detroit", "category": "OK", "decoded": "Detroit", "metrics": [36.38903, 213.278189, 425.993858], "main_metric": 36.38903}
+{"i": 28553, "raw_vocab": "Ġ\"âĢ¦", "category": "OK", "decoded": " \"…", "metrics": [36.388307, 292.634927, 513.499088], "main_metric": 36.388307}
+{"i": 37651, "raw_vocab": "Ġdisobedience", "category": "OK", "decoded": " disobedience", "metrics": [36.377976, 336.421194, 768.528659], "main_metric": 36.377976}
+{"i": 6456, "raw_vocab": "Ġfeedback", "category": "OK", "decoded": " feedback", "metrics": [36.369776, 306.226265, 672.640436], "main_metric": 36.369776}
+{"i": 49760, "raw_vocab": "CONCLUS", "category": "OK", "decoded": "CONCLUS", "metrics": [36.361716, 317.727193, 334.560127], "main_metric": 36.361716}
+{"i": 24277, "raw_vocab": "ĠSharing", "category": "OK", "decoded": " Sharing", "metrics": [36.355965, 288.185513, 636.178386], "main_metric": 36.355965}
+{"i": 2706, "raw_vocab": "Ġgeneration", "category": "OK", "decoded": " generation", "metrics": [36.352728, 307.783198, 615.244152], "main_metric": 36.352728}
+{"i": 40721, "raw_vocab": "Ġ366", "category": "OK", "decoded": " 366", "metrics": [36.349089, 252.079055, 575.553269], "main_metric": 36.349089}
+{"i": 33570, "raw_vocab": "Ġcirca", "category": "OK", "decoded": " circa", "metrics": [36.343068, 189.576722, 628.488572], "main_metric": 36.343068}
+{"i": 3283, "raw_vocab": "ĠRelated", "category": "OK", "decoded": " Related", "metrics": [36.341287, 234.676738, 605.099742], "main_metric": 36.341287}
+{"i": 47657, "raw_vocab": "comings", "category": "OK", "decoded": "comings", "metrics": [36.336848, 234.51844, 653.772275], "main_metric": 36.336848}
+{"i": 23660, "raw_vocab": "Ġlawful", "category": "OK", "decoded": " lawful", "metrics": [36.330565, 300.888719, 704.716188], "main_metric": 36.330565}
+{"i": 3565, "raw_vocab": "Ġsharing", "category": "OK", "decoded": " sharing", "metrics": [36.317511, 239.147759, 792.194814], "main_metric": 36.317511}
+{"i": 48407, "raw_vocab": "License", "category": "OK", "decoded": "License", "metrics": [36.312775, 309.446538, 458.523933], "main_metric": 36.312775}
+{"i": 10345, "raw_vocab": "Ġintroducing", "category": "OK", "decoded": " introducing", "metrics": [36.311581, 105.430627, 390.888738], "main_metric": 36.311581}
+{"i": 49097, "raw_vocab": "Ġ[*", "category": "OK", "decoded": " [*", "metrics": [36.305599, 380.457986, 848.318778], "main_metric": 36.305599}
+{"i": 46122, "raw_vocab": "Î¿", "category": "OK", "decoded": "ο", "metrics": [36.304867, 330.632903, 805.612642], "main_metric": 36.304867}
+{"i": 6311, "raw_vocab": "ĠFore", "category": "OK", "decoded": " Fore", "metrics": [36.292636, 226.883418, 327.533155], "main_metric": 36.292636}
+{"i": 45927, "raw_vocab": "reference", "category": "OK", "decoded": "reference", "metrics": [36.28645, 217.022936, 410.972031], "main_metric": 36.28645}
+{"i": 22342, "raw_vocab": "exec", "category": "OK", "decoded": "exec", "metrics": [36.285515, 347.092683, 863.198004], "main_metric": 36.285515}
+{"i": 25262, "raw_vocab": "ĠGender", "category": "OK", "decoded": " Gender", "metrics": [36.280835, 261.618879, 458.174805], "main_metric": 36.280835}
+{"i": 11908, "raw_vocab": "Ġpostponed", "category": "OK", "decoded": " postponed", "metrics": [36.277522, 295.340672, 674.48673], "main_metric": 36.277522}
+{"i": 8255, "raw_vocab": "Ġreleases", "category": "OK", "decoded": " releases", "metrics": [36.264277, 321.640593, 544.006915], "main_metric": 36.264277}
+{"i": 21371, "raw_vocab": "ĠLikewise", "category": "OK", "decoded": " Likewise", "metrics": [36.257273, 276.68192, 637.902199], "main_metric": 36.257273}
+{"i": 32068, "raw_vocab": "Ġacknowledgement", "category": "OK", "decoded": " acknowledgement", "metrics": [36.252411, 242.27583, 547.513465], "main_metric": 36.252411}
+{"i": 19800, "raw_vocab": "Ġreferenced", "category": "OK", "decoded": " referenced", "metrics": [36.246485, 219.147706, 655.970202], "main_metric": 36.246485}
+{"i": 42018, "raw_vocab": "files", "category": "OK", "decoded": "files", "metrics": [36.238732, 269.107059, 319.596891], "main_metric": 36.238732}
+{"i": 21688, "raw_vocab": "ĠYOUR", "category": "OK", "decoded": " YOUR", "metrics": [36.228798, 209.146648, 473.536146], "main_metric": 36.228798}
+{"i": 10549, "raw_vocab": "Ġkit", "category": "OK", "decoded": " kit", "metrics": [36.221489, 248.875756, 467.760314], "main_metric": 36.221489}
+{"i": 44691, "raw_vocab": "Notes", "category": "OK", "decoded": "Notes", "metrics": [36.211842, 252.185569, 474.994839], "main_metric": 36.211842}
+{"i": 1581, "raw_vocab": "Ġnoted", "category": "OK", "decoded": " noted", "metrics": [36.206804, 213.047717, 387.479094], "main_metric": 36.206804}
+{"i": 10316, "raw_vocab": "ĠPolitical", "category": "OK", "decoded": " Political", "metrics": [36.197135, 178.147972, 225.856379], "main_metric": 36.197135}
+{"i": 20825, "raw_vocab": "ilitation", "category": "OK", "decoded": "ilitation", "metrics": [36.194948, 257.243011, 565.945347], "main_metric": 36.194948}
+{"i": 49667, "raw_vocab": "Ġ\"{", "category": "OK", "decoded": " \"{", "metrics": [36.192745, 299.641837, 680.245042], "main_metric": 36.192745}
+{"i": 19450, "raw_vocab": "Ġsanctioned", "category": "OK", "decoded": " sanctioned", "metrics": [36.181536, 217.636483, 239.93304], "main_metric": 36.181536}
+{"i": 7969, "raw_vocab": "Ġ1995", "category": "OK", "decoded": " 1995", "metrics": [36.174834, 268.561663, 636.1514], "main_metric": 36.174834}
+{"i": 5894, "raw_vocab": "Ġaspects", "category": "OK", "decoded": " aspects", "metrics": [36.162285, 268.316142, 615.911371], "main_metric": 36.162285}
+{"i": 40032, "raw_vocab": "ĠExposure", "category": "OK", "decoded": " Exposure", "metrics": [36.160959, 252.018562, 577.096984], "main_metric": 36.160959}
+{"i": 12546, "raw_vocab": "Ġko", "category": "OK", "decoded": " ko", "metrics": [36.153249, 174.303797, 423.652509], "main_metric": 36.153249}
+{"i": 21350, "raw_vocab": "Ġassignments", "category": "OK", "decoded": " assignments", "metrics": [36.1485, 251.485671, 356.528234], "main_metric": 36.1485}
+{"i": 1574, "raw_vocab": "ĠDemocrats", "category": "OK", "decoded": " Democrats", "metrics": [36.146169, 237.722648, 516.025412], "main_metric": 36.146169}
+{"i": 46426, "raw_vocab": "ĠâĢº", "category": "OK", "decoded": " ›", "metrics": [36.144712, 263.747201, 493.705749], "main_metric": 36.144712}
+{"i": 15120, "raw_vocab": "Ġundisclosed", "category": "OK", "decoded": " undisclosed", "metrics": [36.142508, 234.232787, 373.193137], "main_metric": 36.142508}
+{"i": 42774, "raw_vocab": "TPP", "category": "OK", "decoded": "TPP", "metrics": [36.140885, 326.548639, 562.702754], "main_metric": 36.140885}
+{"i": 9333, "raw_vocab": "Ġobligations", "category": "OK", "decoded": " obligations", "metrics": [36.13434, 399.545068, 890.746359], "main_metric": 36.13434}
+{"i": 49791, "raw_vocab": "Attributes", "category": "OK", "decoded": "Attributes", "metrics": [36.113167, 310.430743, 582.921829], "main_metric": 36.113167}
+{"i": 39049, "raw_vocab": "Defense", "category": "OK", "decoded": "Defense", "metrics": [36.104273, 257.176451, 493.519208], "main_metric": 36.104273}
+{"i": 22594, "raw_vocab": "ĠEco", "category": "OK", "decoded": " Eco", "metrics": [36.10286, 223.932809, 232.437381], "main_metric": 36.10286}
+{"i": 7061, "raw_vocab": "Source", "category": "OK", "decoded": "Source", "metrics": [36.102037, 286.827954, 574.333057], "main_metric": 36.102037}
+{"i": 46604, "raw_vocab": "Primary", "category": "OK", "decoded": "Primary", "metrics": [36.098496, 233.944466, 508.308811], "main_metric": 36.098496}
+{"i": 1951, "raw_vocab": "ek", "category": "OK", "decoded": "ek", "metrics": [36.089086, 280.414127, 828.285778], "main_metric": 36.089086}
+{"i": 20358, "raw_vocab": "Ġunanswered", "category": "OK", "decoded": " unanswered", "metrics": [36.082799, 258.08255, 721.506819], "main_metric": 36.082799}
+{"i": 40728, "raw_vocab": "Ġphilosophies", "category": "OK", "decoded": " philosophies", "metrics": [36.07956, 238.571026, 623.832933], "main_metric": 36.07956}
+{"i": 23599, "raw_vocab": "Ġconfession", "category": "OK", "decoded": " confession", "metrics": [36.074676, 339.728914, 776.531009], "main_metric": 36.074676}
+{"i": 37635, "raw_vocab": "civil", "category": "OK", "decoded": "civil", "metrics": [36.061047, 260.746018, 599.379126], "main_metric": 36.061047}
+{"i": 26800, "raw_vocab": "ĠSecondly", "category": "OK", "decoded": " Secondly", "metrics": [36.057757, 308.075007, 435.234962], "main_metric": 36.057757}
+{"i": 23867, "raw_vocab": "ĠSusp", "category": "OK", "decoded": " Susp", "metrics": [36.057174, 181.352054, 380.527356], "main_metric": 36.057174}
+{"i": 8938, "raw_vocab": "ĠParks", "category": "OK", "decoded": " Parks", "metrics": [36.056154, 255.656946, 525.886644], "main_metric": 36.056154}
+{"i": 32690, "raw_vocab": "ĠTED", "category": "OK", "decoded": " TED", "metrics": [36.05371, 259.134436, 574.99705], "main_metric": 36.05371}
+{"i": 26402, "raw_vocab": "Dis", "category": "OK", "decoded": "Dis", "metrics": [36.04477, 253.384499, 408.260918], "main_metric": 36.04477}
+{"i": 45478, "raw_vocab": "ĠAttribution", "category": "OK", "decoded": " Attribution", "metrics": [36.037174, 324.362193, 743.02634], "main_metric": 36.037174}
+{"i": 33584, "raw_vocab": "ĠLOOK", "category": "OK", "decoded": " LOOK", "metrics": [36.034654, 242.576825, 561.167674], "main_metric": 36.034654}
+{"i": 2526, "raw_vocab": "Ġstandard", "category": "OK", "decoded": " standard", "metrics": [36.032738, 230.350635, 774.834042], "main_metric": 36.032738}
+{"i": 23847, "raw_vocab": "ĠPotential", "category": "OK", "decoded": " Potential", "metrics": [36.025389, 300.668903, 339.84266], "main_metric": 36.025389}
+{"i": 45310, "raw_vocab": "Ġexplanatory", "category": "OK", "decoded": " explanatory", "metrics": [36.022304, 254.595222, 365.965859], "main_metric": 36.022304}
+{"i": 45651, "raw_vocab": "Relations", "category": "OK", "decoded": "Relations", "metrics": [36.022101, 249.214898, 464.800949], "main_metric": 36.022101}
+{"i": 35715, "raw_vocab": "ĠPrepare", "category": "OK", "decoded": " Prepare", "metrics": [36.021084, 235.005945, 540.458295], "main_metric": 36.021084}
+{"i": 20177, "raw_vocab": "Ġcites", "category": "OK", "decoded": " cites", "metrics": [36.020328, 256.441368, 502.32476], "main_metric": 36.020328}
+{"i": 33171, "raw_vocab": "Nazis", "category": "OK", "decoded": "Nazis", "metrics": [36.016595, 275.377213, 521.96303], "main_metric": 36.016595}
+{"i": 35333, "raw_vocab": "Ġpreempt", "category": "OK", "decoded": " preempt", "metrics": [36.008405, 198.752926, 605.136668], "main_metric": 36.008405}
+{"i": 5940, "raw_vocab": "Ġrecommend", "category": "OK", "decoded": " recommend", "metrics": [36.007556, 230.308753, 776.280883], "main_metric": 36.007556}
+{"i": 32789, "raw_vocab": "Ġsubord", "category": "OK", "decoded": " subord", "metrics": [36.005268, 266.472035, 379.505252], "main_metric": 36.005268}
+{"i": 33347, "raw_vocab": "Project", "category": "OK", "decoded": "Project", "metrics": [36.003922, 311.866384, 530.000887], "main_metric": 36.003922}
+{"i": 13412, "raw_vocab": "Ġexisted", "category": "OK", "decoded": " existed", "metrics": [36.000718, 144.742589, 592.596545], "main_metric": 36.000718}
+{"i": 16604, "raw_vocab": "request", "category": "OK", "decoded": "request", "metrics": [36.000153, 301.611448, 683.225885], "main_metric": 36.000153}
+{"i": 5367, "raw_vocab": "life", "category": "OK", "decoded": "life", "metrics": [35.977839, 360.155945, 727.75458], "main_metric": 35.977839}
+{"i": 13295, "raw_vocab": "Ġbon", "category": "OK", "decoded": " bon", "metrics": [35.975063, 192.240976, 398.309975], "main_metric": 35.975063}
+{"i": 44710, "raw_vocab": "bringing", "category": "OK", "decoded": "bringing", "metrics": [35.970545, 184.698146, 255.879905], "main_metric": 35.970545}
+{"i": 45297, "raw_vocab": "Development", "category": "OK", "decoded": "Development", "metrics": [35.969601, 302.320492, 683.386323], "main_metric": 35.969601}
+{"i": 3611, "raw_vocab": "Ġproperties", "category": "OK", "decoded": " properties", "metrics": [35.968189, 252.968974, 498.030889], "main_metric": 35.968189}
+{"i": 25050, "raw_vocab": "134", "category": "OK", "decoded": "134", "metrics": [35.966817, 303.764417, 694.130293], "main_metric": 35.966817}
+{"i": 3574, "raw_vocab": "ĠSocial", "category": "OK", "decoded": " Social", "metrics": [35.966527, 179.441589, 214.405503], "main_metric": 35.966527}
+{"i": 37056, "raw_vocab": "DIS", "category": "OK", "decoded": "DIS", "metrics": [35.961164, 177.287235, 144.970766], "main_metric": 35.961164}
+{"i": 26267, "raw_vocab": "Inter", "category": "OK", "decoded": "Inter", "metrics": [35.960652, 221.001675, 478.441906], "main_metric": 35.960652}
+{"i": 38790, "raw_vocab": "ĠORIG", "category": "OK", "decoded": " ORIG", "metrics": [35.945967, 197.197895, 504.87628], "main_metric": 35.945967}
+{"i": 59, "raw_vocab": "Ġabout", "category": "OK", "decoded": " about", "metrics": [35.935037, 203.169452, 228.03398], "main_metric": 35.935037}
+{"i": 38297, "raw_vocab": "esome", "category": "OK", "decoded": "esome", "metrics": [35.919943, 239.799446, 623.947417], "main_metric": 35.919943}
+{"i": 12501, "raw_vocab": "prom", "category": "OK", "decoded": "prom", "metrics": [35.917154, 329.204227, 626.868424], "main_metric": 35.917154}
+{"i": 24789, "raw_vocab": "2010", "category": "OK", "decoded": "2010", "metrics": [35.916736, 276.947877, 524.937823], "main_metric": 35.916736}
+{"i": 10000, "raw_vocab": "ĠNEXT", "category": "OK", "decoded": " NEXT", "metrics": [35.916734, 222.891631, 577.36538], "main_metric": 35.916734}
+{"i": 49066, "raw_vocab": "ËĪ", "category": "OK", "decoded": "ˈ", "metrics": [35.915205, 360.942435, 463.090099], "main_metric": 35.915205}
+{"i": 592, "raw_vocab": "Ġsocial", "category": "OK", "decoded": " social", "metrics": [35.910113, 111.185399, 57.366088], "main_metric": 35.910113}
+{"i": 32509, "raw_vocab": "Ġvaccinations", "category": "OK", "decoded": " vaccinations", "metrics": [35.903833, 205.431377, 511.845995], "main_metric": 35.903833}
+{"i": 767, "raw_vocab": "ĠAccording", "category": "OK", "decoded": " According", "metrics": [35.892574, 188.031865, 331.269732], "main_metric": 35.892574}
+{"i": 26901, "raw_vocab": "ĠBenefits", "category": "OK", "decoded": " Benefits", "metrics": [35.89096, 318.423936, 504.215], "main_metric": 35.89096}
+{"i": 34189, "raw_vocab": "WF", "category": "OK", "decoded": "WF", "metrics": [35.889668, 227.312613, 481.534311], "main_metric": 35.889668}
+{"i": 4064, "raw_vocab": "Ġparticipate", "category": "OK", "decoded": " participate", "metrics": [35.884123, 148.072612, 417.904626], "main_metric": 35.884123}
+{"i": 36275, "raw_vocab": "relations", "category": "OK", "decoded": "relations", "metrics": [35.883851, 246.083739, 641.819951], "main_metric": 35.883851}
+{"i": 44526, "raw_vocab": "ĠOptional", "category": "OK", "decoded": " Optional", "metrics": [35.880838, 245.776871, 446.745484], "main_metric": 35.880838}
+{"i": 38596, "raw_vocab": "Ġblah", "category": "OK", "decoded": " blah", "metrics": [35.872475, 167.606175, 288.485326], "main_metric": 35.872475}
+{"i": 4664, "raw_vocab": "Ġrecommendations", "category": "OK", "decoded": " recommendations", "metrics": [35.871801, 356.637774, 544.525636], "main_metric": 35.871801}
+{"i": 969, "raw_vocab": "Ġshowed", "category": "OK", "decoded": " showed", "metrics": [35.864599, 239.351422, 366.565044], "main_metric": 35.864599}
+{"i": 44065, "raw_vocab": "!\".", "category": "OK", "decoded": "!\".", "metrics": [35.859747, 278.376743, 718.144186], "main_metric": 35.859747}
+{"i": 11246, "raw_vocab": "Ġregards", "category": "OK", "decoded": " regards", "metrics": [35.849116, 178.049547, 370.938003], "main_metric": 35.849116}
+{"i": 45345, "raw_vocab": "ĠDeus", "category": "OK", "decoded": " Deus", "metrics": [35.844055, 211.399058, 576.066757], "main_metric": 35.844055}
+{"i": 17136, "raw_vocab": "Ġinherited", "category": "OK", "decoded": " inherited", "metrics": [35.839612, 327.238659, 624.492221], "main_metric": 35.839612}
+{"i": 44162, "raw_vocab": "'/", "category": "OK", "decoded": "'/", "metrics": [35.837705, 205.651328, 380.80944], "main_metric": 35.837705}
+{"i": 38395, "raw_vocab": "poses", "category": "OK", "decoded": "poses", "metrics": [35.834774, 293.706466, 568.172504], "main_metric": 35.834774}
+{"i": 42640, "raw_vocab": "ĠObjects", "category": "OK", "decoded": " Objects", "metrics": [35.830762, 204.25703, 476.32866], "main_metric": 35.830762}
+{"i": 30930, "raw_vocab": "274", "category": "OK", "decoded": "274", "metrics": [35.828098, 275.772131, 615.647406], "main_metric": 35.828098}
+{"i": 21993, "raw_vocab": "standard", "category": "OK", "decoded": "standard", "metrics": [35.827496, 296.809849, 444.729955], "main_metric": 35.827496}
+{"i": 48906, "raw_vocab": "Ġ[-", "category": "OK", "decoded": " [-", "metrics": [35.823783, 355.448758, 686.587917], "main_metric": 35.823783}
+{"i": 45976, "raw_vocab": "ĠPreferences", "category": "OK", "decoded": " Preferences", "metrics": [35.823073, 245.070976, 514.845749], "main_metric": 35.823073}
+{"i": 18823, "raw_vocab": "Trust", "category": "OK", "decoded": "Trust", "metrics": [35.818552, 190.060523, 353.490349], "main_metric": 35.818552}
+{"i": 15999, "raw_vocab": "saving", "category": "OK", "decoded": "saving", "metrics": [35.806519, 283.357823, 660.832279], "main_metric": 35.806519}
+{"i": 21674, "raw_vocab": "About", "category": "OK", "decoded": "About", "metrics": [35.791579, 195.185021, 327.12534], "main_metric": 35.791579}
+{"i": 41623, "raw_vocab": "PART", "category": "OK", "decoded": "PART", "metrics": [35.783929, 182.91195, 405.647666], "main_metric": 35.783929}
+{"i": 27389, "raw_vocab": "Ġreconcile", "category": "OK", "decoded": " reconcile", "metrics": [35.783415, 288.631215, 781.441928], "main_metric": 35.783415}
+{"i": 14754, "raw_vocab": "Ġimplied", "category": "OK", "decoded": " implied", "metrics": [35.783149, 268.863712, 464.46563], "main_metric": 35.783149}
+{"i": 1726, "raw_vocab": "Ġcaused", "category": "OK", "decoded": " caused", "metrics": [35.78077, 243.301179, 554.646167], "main_metric": 35.78077}
+{"i": 4813, "raw_vocab": "Ġsubmitted", "category": "OK", "decoded": " submitted", "metrics": [35.77714, 215.715504, 370.346027], "main_metric": 35.77714}
+{"i": 46225, "raw_vocab": "Ġ:(", "category": "OK", "decoded": " :(", "metrics": [35.777061, 249.274459, 317.447541], "main_metric": 35.777061}
+{"i": 24733, "raw_vocab": "rights", "category": "OK", "decoded": "rights", "metrics": [35.774254, 273.275021, 432.027766], "main_metric": 35.774254}
+{"i": 10640, "raw_vocab": "Ġwillingness", "category": "OK", "decoded": " willingness", "metrics": [35.774226, 315.027656, 804.643696], "main_metric": 35.774226}
+{"i": 23079, "raw_vocab": "Ġblames", "category": "OK", "decoded": " blames", "metrics": [35.765476, 266.155916, 494.002624], "main_metric": 35.765476}
+{"i": 41930, "raw_vocab": "utory", "category": "OK", "decoded": "utory", "metrics": [35.759451, 257.393832, 520.889811], "main_metric": 35.759451}
+{"i": 45400, "raw_vocab": "Similarly", "category": "OK", "decoded": "Similarly", "metrics": [35.755969, 269.434774, 627.493483], "main_metric": 35.755969}
+{"i": 45716, "raw_vocab": "1965", "category": "OK", "decoded": "1965", "metrics": [35.74518, 224.667965, 590.656925], "main_metric": 35.74518}
+{"i": 47164, "raw_vocab": "Ġreperc", "category": "OK", "decoded": " reperc", "metrics": [35.743653, 186.344537, 419.415715], "main_metric": 35.743653}
+{"i": 22773, "raw_vocab": "Ġrethink", "category": "OK", "decoded": " rethink", "metrics": [35.727464, 399.495355, 738.412613], "main_metric": 35.727464}
+{"i": 36888, "raw_vocab": "Ġcontaminants", "category": "OK", "decoded": " contaminants", "metrics": [35.718658, 257.803179, 124.642024], "main_metric": 35.718658}
+{"i": 35919, "raw_vocab": "Ġaffirmation", "category": "OK", "decoded": " affirmation", "metrics": [35.715475, 231.628359, 594.017717], "main_metric": 35.715475}
+{"i": 37001, "raw_vocab": "tk", "category": "OK", "decoded": "tk", "metrics": [35.711984, 256.473183, 522.800173], "main_metric": 35.711984}
+{"i": 20573, "raw_vocab": "Ġassumes", "category": "OK", "decoded": " assumes", "metrics": [35.711357, 232.445207, 328.998116], "main_metric": 35.711357}
+{"i": 13339, "raw_vocab": "ĠÂ·", "category": "OK", "decoded": " ·", "metrics": [35.708105, 244.653206, 378.436186], "main_metric": 35.708105}
+{"i": 5017, "raw_vocab": "Ġviewers", "category": "OK", "decoded": " viewers", "metrics": [35.696851, 217.95888, 652.001297], "main_metric": 35.696851}
+{"i": 31825, "raw_vocab": "Ġcitation", "category": "OK", "decoded": " citation", "metrics": [35.690431, 265.079855, 622.916177], "main_metric": 35.690431}
+{"i": 13201, "raw_vocab": "Ġcommissioners", "category": "OK", "decoded": " commissioners", "metrics": [35.687796, 350.67691, 350.439878], "main_metric": 35.687796}
+{"i": 21293, "raw_vocab": "Ġpraising", "category": "OK", "decoded": " praising", "metrics": [35.685334, 227.542967, 494.936518], "main_metric": 35.685334}
+{"i": 39274, "raw_vocab": "ĠSECTION", "category": "OK", "decoded": " SECTION", "metrics": [35.674098, 226.244313, 487.236187], "main_metric": 35.674098}
+{"i": 29513, "raw_vocab": "Nazi", "category": "OK", "decoded": "Nazi", "metrics": [35.672929, 322.513834, 589.460537], "main_metric": 35.672929}
+{"i": 47410, "raw_vocab": "ipedia", "category": "OK", "decoded": "ipedia", "metrics": [35.672188, 247.403838, 436.052955], "main_metric": 35.672188}
+{"i": 48999, "raw_vocab": ").[", "category": "OK", "decoded": ").[", "metrics": [35.672083, 251.871509, 683.814328], "main_metric": 35.672083}
+{"i": 38005, "raw_vocab": "ĠHY", "category": "OK", "decoded": " HY", "metrics": [35.66889, 217.033925, 309.39199], "main_metric": 35.66889}
+{"i": 49269, "raw_vocab": "Requirements", "category": "OK", "decoded": "Requirements", "metrics": [35.667544, 352.730231, 460.252228], "main_metric": 35.667544}
+{"i": 49511, "raw_vocab": "ãĥģ", "category": "OK", "decoded": "チ", "metrics": [35.664007, 246.352629, 689.486121], "main_metric": 35.664007}
+{"i": 38688, "raw_vocab": "ĠHercules", "category": "OK", "decoded": " Hercules", "metrics": [35.663717, 214.833177, 572.448895], "main_metric": 35.663717}
+{"i": 13958, "raw_vocab": "Ġconfirming", "category": "OK", "decoded": " confirming", "metrics": [35.658728, 174.525806, 288.69579], "main_metric": 35.658728}
+{"i": 2703, "raw_vocab": "Ġrequire", "category": "OK", "decoded": " require", "metrics": [35.65869, 138.82021, 329.172864], "main_metric": 35.65869}
+{"i": 4418, "raw_vocab": "Ġcited", "category": "OK", "decoded": " cited", "metrics": [35.658597, 224.061823, 574.479611], "main_metric": 35.658597}
+{"i": 8998, "raw_vocab": "ĠRating", "category": "OK", "decoded": " Rating", "metrics": [35.656061, 210.807241, 321.953738], "main_metric": 35.656061}
+{"i": 4130, "raw_vocab": "ĠNext", "category": "OK", "decoded": " Next", "metrics": [35.648839, 273.237802, 601.644914], "main_metric": 35.648839}
+{"i": 31321, "raw_vocab": "Ġpointless", "category": "OK", "decoded": " pointless", "metrics": [35.645784, 194.39994, 236.095774], "main_metric": 35.645784}
+{"i": 16288, "raw_vocab": "Ġpresentations", "category": "OK", "decoded": " presentations", "metrics": [35.638919, 242.428323, 228.620855], "main_metric": 35.638919}
+{"i": 37015, "raw_vocab": "Ġsimilarity", "category": "OK", "decoded": " similarity", "metrics": [35.632919, 205.62198, 443.11052], "main_metric": 35.632919}
+{"i": 28096, "raw_vocab": "Ġkitchens", "category": "OK", "decoded": " kitchens", "metrics": [35.632366, 149.437074, 496.08016], "main_metric": 35.632366}
+{"i": 25827, "raw_vocab": "Ġinfring", "category": "OK", "decoded": " infring", "metrics": [35.627055, 176.860665, 489.290449], "main_metric": 35.627055}
+{"i": 45603, "raw_vocab": "Links", "category": "OK", "decoded": "Links", "metrics": [35.626818, 268.531401, 542.426363], "main_metric": 35.626818}
+{"i": 37680, "raw_vocab": "Ġremovable", "category": "OK", "decoded": " removable", "metrics": [35.623167, 261.510802, 428.61956], "main_metric": 35.623167}
+{"i": 34561, "raw_vocab": "Ġunification", "category": "OK", "decoded": " unification", "metrics": [35.61761, 335.589179, 677.591419], "main_metric": 35.61761}
+{"i": 37228, "raw_vocab": "Ġincompatible", "category": "OK", "decoded": " incompatible", "metrics": [35.615121, 275.24693, 559.820917], "main_metric": 35.615121}
+{"i": 4678, "raw_vocab": "Ġobvious", "category": "OK", "decoded": " obvious", "metrics": [35.608573, 272.612168, 546.777863], "main_metric": 35.608573}
+{"i": 30079, "raw_vocab": "Ġtruths", "category": "OK", "decoded": " truths", "metrics": [35.606382, 328.162083, 670.979252], "main_metric": 35.606382}
+{"i": 12113, "raw_vocab": "Ġhence", "category": "OK", "decoded": " hence", "metrics": [35.60368, 275.413313, 355.131332], "main_metric": 35.60368}
+{"i": 45331, "raw_vocab": "Comment", "category": "OK", "decoded": "Comment", "metrics": [35.603655, 230.464486, 497.810783], "main_metric": 35.603655}
+{"i": 13573, "raw_vocab": "Ġundocumented", "category": "OK", "decoded": " undocumented", "metrics": [35.597158, 237.449509, 519.202572], "main_metric": 35.597158}
+{"i": 46445, "raw_vocab": "ĠÂ¶", "category": "OK", "decoded": " ¶", "metrics": [35.595118, 283.392491, 557.369162], "main_metric": 35.595118}
+{"i": 356, "raw_vocab": "Ġlook", "category": "OK", "decoded": " look", "metrics": [35.592881, 178.466693, 478.753245], "main_metric": 35.592881}
+{"i": 49095, "raw_vocab": "Ġ>=", "category": "OK", "decoded": " >=", "metrics": [35.59079, 285.885716, 397.689639], "main_metric": 35.59079}
+{"i": 38647, "raw_vocab": "Freedom", "category": "OK", "decoded": "Freedom", "metrics": [35.586605, 222.212661, 521.348537], "main_metric": 35.586605}
+{"i": 39934, "raw_vocab": "ĠLimits", "category": "OK", "decoded": " Limits", "metrics": [35.586137, 241.855522, 551.337782], "main_metric": 35.586137}
+{"i": 48450, "raw_vocab": "objects", "category": "OK", "decoded": "objects", "metrics": [35.579854, 306.825011, 805.045304], "main_metric": 35.579854}
+{"i": 11345, "raw_vocab": "Ġwarn", "category": "OK", "decoded": " warn", "metrics": [35.579794, 217.286217, 249.81135], "main_metric": 35.579794}
+{"i": 20299, "raw_vocab": "Ġharmony", "category": "OK", "decoded": " harmony", "metrics": [35.575945, 188.781494, 519.13896], "main_metric": 35.575945}
+{"i": 34795, "raw_vocab": "730", "category": "OK", "decoded": "730", "metrics": [35.563668, 290.91885, 634.418638], "main_metric": 35.563668}
+{"i": 37717, "raw_vocab": "ĠKarma", "category": "OK", "decoded": " Karma", "metrics": [35.555837, 222.639751, 520.82785], "main_metric": 35.555837}
+{"i": 35217, "raw_vocab": "Ġmanners", "category": "OK", "decoded": " manners", "metrics": [35.5556, 266.576969, 234.266646], "main_metric": 35.5556}
+{"i": 35005, "raw_vocab": "Ġcondone", "category": "OK", "decoded": " condone", "metrics": [35.553361, 200.950852, 647.857963], "main_metric": 35.553361}
+{"i": 14697, "raw_vocab": "Ġassociations", "category": "OK", "decoded": " associations", "metrics": [35.547565, 279.384307, 471.192112], "main_metric": 35.547565}
+{"i": 19754, "raw_vocab": "ĠCaption", "category": "OK", "decoded": " Caption", "metrics": [35.542411, 269.71441, 578.267867], "main_metric": 35.542411}
+{"i": 3777, "raw_vocab": "ĠTechnology", "category": "OK", "decoded": " Technology", "metrics": [35.537458, 151.672297, 382.355855], "main_metric": 35.537458}
+{"i": 36891, "raw_vocab": "Ġ269", "category": "OK", "decoded": " 269", "metrics": [35.53704, 281.417419, 599.469324], "main_metric": 35.53704}
+{"i": 35058, "raw_vocab": "Ġ390", "category": "OK", "decoded": " 390", "metrics": [35.534602, 241.338844, 543.38676], "main_metric": 35.534602}
+{"i": 42627, "raw_vocab": "Develop", "category": "OK", "decoded": "Develop", "metrics": [35.534416, 267.872166, 614.114934], "main_metric": 35.534416}
+{"i": 6493, "raw_vocab": "party", "category": "OK", "decoded": "party", "metrics": [35.531974, 276.89241, 705.547204], "main_metric": 35.531974}
+{"i": 37020, "raw_vocab": "535", "category": "OK", "decoded": "535", "metrics": [35.531633, 413.442553, 881.049881], "main_metric": 35.531633}
+{"i": 25055, "raw_vocab": "ĠStrauss", "category": "OK", "decoded": " Strauss", "metrics": [35.529524, 245.145887, 471.541555], "main_metric": 35.529524}
+{"i": 41855, "raw_vocab": "ocalyptic", "category": "OK", "decoded": "ocalyptic", "metrics": [35.527643, 213.097801, 739.342656], "main_metric": 35.527643}
+{"i": 17460, "raw_vocab": "Ġcooperating", "category": "OK", "decoded": " cooperating", "metrics": [35.52381, 149.123436, 306.475647], "main_metric": 35.52381}
+{"i": 47006, "raw_vocab": "();", "category": "OK", "decoded": "();", "metrics": [35.519793, 264.048497, 600.048049], "main_metric": 35.519793}
+{"i": 4997, "raw_vocab": "Ġreferred", "category": "OK", "decoded": " referred", "metrics": [35.508819, 224.560664, 257.330907], "main_metric": 35.508819}
+{"i": 48069, "raw_vocab": "Weiss", "category": "OK", "decoded": "Weiss", "metrics": [35.502394, 286.519514, 658.136537], "main_metric": 35.502394}
+{"i": 46980, "raw_vocab": "aepernick", "category": "OK", "decoded": "aepernick", "metrics": [35.496888, 299.371037, 407.449837], "main_metric": 35.496888}
+{"i": 29080, "raw_vocab": "Ġauthorize", "category": "OK", "decoded": " authorize", "metrics": [35.494983, 239.79062, 657.679691], "main_metric": 35.494983}
+{"i": 7278, "raw_vocab": "ĠNatural", "category": "OK", "decoded": " Natural", "metrics": [35.492136, 199.253097, 762.849131], "main_metric": 35.492136}
+{"i": 28519, "raw_vocab": "Ġdeeds", "category": "OK", "decoded": " deeds", "metrics": [35.491595, 302.125202, 204.522332], "main_metric": 35.491595}
+{"i": 25613, "raw_vocab": "ĠConsequently", "category": "OK", "decoded": " Consequently", "metrics": [35.489674, 268.490782, 586.317087], "main_metric": 35.489674}
+{"i": 43080, "raw_vocab": "Ġ********************************", "category": "OK", "decoded": " ********************************", "metrics": [35.489311, 331.077897, 604.296866], "main_metric": 35.489311}
+{"i": 38612, "raw_vocab": "RIPT", "category": "OK", "decoded": "RIPT", "metrics": [35.479764, 253.400049, 675.068455], "main_metric": 35.479764}
+{"i": 28934, "raw_vocab": "Ġformations", "category": "OK", "decoded": " formations", "metrics": [35.473996, 318.495632, 709.09103], "main_metric": 35.473996}
+{"i": 1463, "raw_vocab": "ĠCommission", "category": "OK", "decoded": " Commission", "metrics": [35.467264, 185.685543, 438.366568], "main_metric": 35.467264}
+{"i": 37839, "raw_vocab": "493", "category": "OK", "decoded": "493", "metrics": [35.466924, 331.330569, 672.861037], "main_metric": 35.466924}
+{"i": 18821, "raw_vocab": "Ġreset", "category": "OK", "decoded": " reset", "metrics": [35.460428, 359.66518, 553.948853], "main_metric": 35.460428}
+{"i": 18390, "raw_vocab": "ĠPP", "category": "OK", "decoded": " PP", "metrics": [35.455001, 196.463148, 253.900578], "main_metric": 35.455001}
+{"i": 29440, "raw_vocab": "ĠCharges", "category": "OK", "decoded": " Charges", "metrics": [35.454347, 245.623136, 531.586347], "main_metric": 35.454347}
+{"i": 48080, "raw_vocab": "Compar", "category": "OK", "decoded": "Compar", "metrics": [35.453279, 143.090424, 373.342309], "main_metric": 35.453279}
+{"i": 48708, "raw_vocab": "plugins", "category": "OK", "decoded": "plugins", "metrics": [35.449736, 284.224802, 369.271508], "main_metric": 35.449736}
+{"i": 27223, "raw_vocab": "...\"", "category": "OK", "decoded": "...\"", "metrics": [35.449673, 289.912491, 576.476071], "main_metric": 35.449673}
+{"i": 34335, "raw_vocab": "develop", "category": "OK", "decoded": "develop", "metrics": [35.426837, 341.225202, 604.869396], "main_metric": 35.426837}
+{"i": 6430, "raw_vocab": "Ġtribute", "category": "OK", "decoded": " tribute", "metrics": [35.42634, 259.364816, 408.305688], "main_metric": 35.42634}
+{"i": 6652, "raw_vocab": "Ġdonated", "category": "OK", "decoded": " donated", "metrics": [35.42513, 219.694153, 402.870518], "main_metric": 35.42513}
+{"i": 4305, "raw_vocab": "ĠAuthority", "category": "OK", "decoded": " Authority", "metrics": [35.422074, 251.111186, 348.131162], "main_metric": 35.422074}
+{"i": 10768, "raw_vocab": "ĠdÃ©", "category": "OK", "decoded": " dé", "metrics": [35.420954, 217.183828, 382.458886], "main_metric": 35.420954}
+{"i": 49537, "raw_vocab": "ãĥī", "category": "OK", "decoded": "ド", "metrics": [35.416539, 415.197195, 784.603372], "main_metric": 35.416539}
+{"i": 20281, "raw_vocab": "ĠINTER", "category": "OK", "decoded": " INTER", "metrics": [35.41436, 167.948867, 288.445661], "main_metric": 35.41436}
+{"i": 44270, "raw_vocab": "shown", "category": "OK", "decoded": "shown", "metrics": [35.413746, 222.822326, 480.209189], "main_metric": 35.413746}
+{"i": 17759, "raw_vocab": "Ġphysics", "category": "OK", "decoded": " physics", "metrics": [35.410617, 240.767752, 533.360094], "main_metric": 35.410617}
+{"i": 37026, "raw_vocab": "Ġremission", "category": "OK", "decoded": " remission", "metrics": [35.410308, 236.887345, 624.088836], "main_metric": 35.410308}
+{"i": 45633, "raw_vocab": "undai", "category": "OK", "decoded": "undai", "metrics": [35.409939, 147.050829, 404.327473], "main_metric": 35.409939}
+{"i": 20905, "raw_vocab": "Ã¶n", "category": "OK", "decoded": "ön", "metrics": [35.404922, 252.855526, 443.941857], "main_metric": 35.404922}
+{"i": 34177, "raw_vocab": "ĠReference", "category": "OK", "decoded": " Reference", "metrics": [35.403947, 303.682011, 528.254894], "main_metric": 35.403947}
+{"i": 49699, "raw_vocab": "Removed", "category": "OK", "decoded": "Removed", "metrics": [35.395049, 344.310793, 433.309328], "main_metric": 35.395049}
+{"i": 39574, "raw_vocab": "Ġ....", "category": "OK", "decoded": " ....", "metrics": [35.377019, 174.853223, 362.355513], "main_metric": 35.377019}
+{"i": 28616, "raw_vocab": "Ġobey", "category": "OK", "decoded": " obey", "metrics": [35.372968, 237.448714, 563.528225], "main_metric": 35.372968}
+{"i": 46954, "raw_vocab": "Ġpresupp", "category": "OK", "decoded": " presupp", "metrics": [35.367857, 314.517132, 688.554839], "main_metric": 35.367857}
+{"i": 511, "raw_vocab": "Ġfollowing", "category": "OK", "decoded": " following", "metrics": [35.365563, 215.473847, 480.031534], "main_metric": 35.365563}
+{"i": 49634, "raw_vocab": "Allows", "category": "OK", "decoded": "Allows", "metrics": [35.359769, 273.824239, 704.300041], "main_metric": 35.359769}
+{"i": 32919, "raw_vocab": "WHO", "category": "OK", "decoded": "WHO", "metrics": [35.355345, 309.699724, 690.351243], "main_metric": 35.355345}
+{"i": 13536, "raw_vocab": "Ġswitching", "category": "OK", "decoded": " switching", "metrics": [35.353141, 253.57442, 459.498861], "main_metric": 35.353141}
+{"i": 22763, "raw_vocab": "Pre", "category": "OK", "decoded": "Pre", "metrics": [35.352696, 304.465547, 261.927836], "main_metric": 35.352696}
+{"i": 654, "raw_vocab": "Ġ50", "category": "OK", "decoded": " 50", "metrics": [35.350336, 195.558665, 412.518895], "main_metric": 35.350336}
+{"i": 48306, "raw_vocab": "Ġ;)", "category": "OK", "decoded": " ;)", "metrics": [35.343531, 230.342991, 333.728454], "main_metric": 35.343531}
+{"i": 5056, "raw_vocab": "Ġreferring", "category": "OK", "decoded": " referring", "metrics": [35.342542, 105.434103, 286.190923], "main_metric": 35.342542}
+{"i": 39704, "raw_vocab": "Ġspiritually", "category": "OK", "decoded": " spiritually", "metrics": [35.326526, 100.20937, 206.980051], "main_metric": 35.326526}
+{"i": 35839, "raw_vocab": "Ġsusp", "category": "OK", "decoded": " susp", "metrics": [35.322219, 213.499411, 398.022682], "main_metric": 35.322219}
+{"i": 19507, "raw_vocab": "ĠContribut", "category": "OK", "decoded": " Contribut", "metrics": [35.319203, 387.954332, 775.449237], "main_metric": 35.319203}
+{"i": 31675, "raw_vocab": "Ġsmoother", "category": "OK", "decoded": " smoother", "metrics": [35.318816, 233.501411, 626.263904], "main_metric": 35.318816}
+{"i": 5259, "raw_vocab": "Ġassociation", "category": "OK", "decoded": " association", "metrics": [35.317475, 259.939179, 484.543395], "main_metric": 35.317475}
+{"i": 25333, "raw_vocab": "Â®,", "category": "OK", "decoded": "®,", "metrics": [35.312575, 182.516761, 630.033412], "main_metric": 35.312575}
+{"i": 48554, "raw_vocab": ":[", "category": "OK", "decoded": ":[", "metrics": [35.303923, 333.541785, 702.535078], "main_metric": 35.303923}
+{"i": 8919, "raw_vocab": "Ġsponsors", "category": "OK", "decoded": " sponsors", "metrics": [35.300474, 272.997873, 437.187835], "main_metric": 35.300474}
+{"i": 32541, "raw_vocab": "Sure", "category": "OK", "decoded": "Sure", "metrics": [35.297164, 150.862728, 438.657003], "main_metric": 35.297164}
+{"i": 16739, "raw_vocab": "Ġprogression", "category": "OK", "decoded": " progression", "metrics": [35.291747, 289.460261, 722.734627], "main_metric": 35.291747}
+{"i": 1038, "raw_vocab": "Ġproperty", "category": "OK", "decoded": " property", "metrics": [35.290783, 220.36557, 401.272745], "main_metric": 35.290783}
+{"i": 48294, "raw_vocab": "Suggest", "category": "OK", "decoded": "Suggest", "metrics": [35.287676, 232.474214, 518.929355], "main_metric": 35.287676}
+{"i": 10100, "raw_vocab": "itis", "category": "OK", "decoded": "itis", "metrics": [35.286902, 188.884389, 414.56213], "main_metric": 35.286902}
+{"i": 9178, "raw_vocab": "how", "category": "OK", "decoded": "how", "metrics": [35.271974, 310.814911, 618.431803], "main_metric": 35.271974}
+{"i": 27503, "raw_vocab": "condition", "category": "OK", "decoded": "condition", "metrics": [35.271505, 179.507751, 476.621155], "main_metric": 35.271505}
+{"i": 36840, "raw_vocab": "CW", "category": "OK", "decoded": "CW", "metrics": [35.267243, 255.240088, 581.270666], "main_metric": 35.267243}
+{"i": 11227, "raw_vocab": "Ġ\"[", "category": "OK", "decoded": " \"[", "metrics": [35.267161, 330.820749, 911.776564], "main_metric": 35.267161}
+{"i": 48855, "raw_vocab": "Ġ};", "category": "OK", "decoded": " };", "metrics": [35.257624, 278.125494, 520.892033], "main_metric": 35.257624}
+{"i": 21735, "raw_vocab": "VIEW", "category": "OK", "decoded": "VIEW", "metrics": [35.255907, 283.695669, 468.316943], "main_metric": 35.255907}
+{"i": 48019, "raw_vocab": "framework", "category": "OK", "decoded": "framework", "metrics": [35.249721, 312.19255, 346.925494], "main_metric": 35.249721}
+{"i": 3076, "raw_vocab": "ĠNations", "category": "OK", "decoded": " Nations", "metrics": [35.248518, 190.636142, 446.064226], "main_metric": 35.248518}
+{"i": 39619, "raw_vocab": "736", "category": "OK", "decoded": "736", "metrics": [35.247356, 365.464536, 734.185882], "main_metric": 35.247356}
+{"i": 3184, "raw_vocab": "Ġstructure", "category": "OK", "decoded": " structure", "metrics": [35.246395, 149.452944, 329.505693], "main_metric": 35.246395}
+{"i": 7181, "raw_vocab": "Ġcommented", "category": "OK", "decoded": " commented", "metrics": [35.243767, 158.104244, 316.700404], "main_metric": 35.243767}
+{"i": 30805, "raw_vocab": "ĠIdentity", "category": "OK", "decoded": " Identity", "metrics": [35.243297, 260.884599, 228.835755], "main_metric": 35.243297}
+{"i": 36710, "raw_vocab": "untary", "category": "OK", "decoded": "untary", "metrics": [35.239114, 288.337304, 568.02123], "main_metric": 35.239114}
+{"i": 34991, "raw_vocab": "397", "category": "OK", "decoded": "397", "metrics": [35.237752, 326.154592, 805.597724], "main_metric": 35.237752}
+{"i": 17011, "raw_vocab": "ĠTVs", "category": "OK", "decoded": " TVs", "metrics": [35.229908, 211.224928, 462.482538], "main_metric": 35.229908}
+{"i": 49435, "raw_vocab": "âĨĳ", "category": "OK", "decoded": "↑", "metrics": [35.227726, 259.540278, 353.139662], "main_metric": 35.227726}
+{"i": 32315, "raw_vocab": "articles", "category": "OK", "decoded": "articles", "metrics": [35.225997, 254.086671, 407.454979], "main_metric": 35.225997}
+{"i": 26443, "raw_vocab": "ĠFailure", "category": "OK", "decoded": " Failure", "metrics": [35.219653, 301.134863, 543.144463], "main_metric": 35.219653}
+{"i": 34094, "raw_vocab": "Ġ1935", "category": "OK", "decoded": " 1935", "metrics": [35.197435, 200.75875, 459.763117], "main_metric": 35.197435}
+{"i": 31691, "raw_vocab": "Ġshrug", "category": "OK", "decoded": " shrug", "metrics": [35.186886, 182.196646, 249.530887], "main_metric": 35.186886}
+{"i": 8378, "raw_vocab": "Ġwhenever", "category": "OK", "decoded": " whenever", "metrics": [35.183971, 231.304846, 459.733871], "main_metric": 35.183971}
+{"i": 48105, "raw_vocab": "ä¸Ģ", "category": "OK", "decoded": "一", "metrics": [35.18089, 316.545406, 573.054563], "main_metric": 35.18089}
+{"i": 19371, "raw_vocab": "ĠWalters", "category": "OK", "decoded": " Walters", "metrics": [35.180631, 226.846195, 338.941749], "main_metric": 35.180631}
+{"i": 15219, "raw_vocab": "ĠArticles", "category": "OK", "decoded": " Articles", "metrics": [35.180444, 237.311638, 321.495303], "main_metric": 35.180444}
+{"i": 36182, "raw_vocab": "Ġpredictably", "category": "OK", "decoded": " predictably", "metrics": [35.179942, 245.812513, 719.502172], "main_metric": 35.179942}
+{"i": 43352, "raw_vocab": "Leaks", "category": "OK", "decoded": "Leaks", "metrics": [35.179436, 339.613485, 599.738364], "main_metric": 35.179436}
+{"i": 42826, "raw_vocab": "species", "category": "OK", "decoded": "species", "metrics": [35.179371, 388.033326, 944.866837], "main_metric": 35.179371}
+{"i": 15487, "raw_vocab": "Ġowning", "category": "OK", "decoded": " owning", "metrics": [35.170953, 229.976159, 481.424667], "main_metric": 35.170953}
+{"i": 18392, "raw_vocab": "ĠAbdel", "category": "OK", "decoded": " Abdel", "metrics": [35.170615, 192.124469, 442.329073], "main_metric": 35.170615}
+{"i": 16416, "raw_vocab": "ELS", "category": "OK", "decoded": "ELS", "metrics": [35.162503, 249.29893, 536.766926], "main_metric": 35.162503}
+{"i": 28845, "raw_vocab": "Ġdocumentaries", "category": "OK", "decoded": " documentaries", "metrics": [35.160433, 182.668483, 307.149213], "main_metric": 35.160433}
+{"i": 29430, "raw_vocab": "Ġdramas", "category": "OK", "decoded": " dramas", "metrics": [35.157556, 235.702226, 440.387762], "main_metric": 35.157556}
+{"i": 22816, "raw_vocab": "Related", "category": "OK", "decoded": "Related", "metrics": [35.155158, 308.146822, 776.416588], "main_metric": 35.155158}
+{"i": 32598, "raw_vocab": "credit", "category": "OK", "decoded": "credit", "metrics": [35.153273, 219.282501, 230.898726], "main_metric": 35.153273}
+{"i": 2087, "raw_vocab": "Ġsubject", "category": "OK", "decoded": " subject", "metrics": [35.150507, 185.04348, 462.69356], "main_metric": 35.150507}
+{"i": 24197, "raw_vocab": "ĠCause", "category": "OK", "decoded": " Cause", "metrics": [35.147696, 241.170543, 552.516388], "main_metric": 35.147696}
+{"i": 3222, "raw_vocab": "Ġinter", "category": "OK", "decoded": " inter", "metrics": [35.146305, 134.857928, 134.282667], "main_metric": 35.146305}
+{"i": 9869, "raw_vocab": "Ġlovely", "category": "OK", "decoded": " lovely", "metrics": [35.143005, 246.053044, 402.61593], "main_metric": 35.143005}
+{"i": 10684, "raw_vocab": "2013", "category": "OK", "decoded": "2013", "metrics": [35.14209, 339.689209, 809.811233], "main_metric": 35.14209}
+{"i": 36886, "raw_vocab": "ĠCommit", "category": "OK", "decoded": " Commit", "metrics": [35.131178, 347.777973, 688.603517], "main_metric": 35.131178}
+{"i": 30376, "raw_vocab": "Ġexcerpt", "category": "OK", "decoded": " excerpt", "metrics": [35.129876, 262.542243, 401.578994], "main_metric": 35.129876}
+{"i": 44500, "raw_vocab": "Ġloader", "category": "OK", "decoded": " loader", "metrics": [35.128868, 193.870594, 328.254137], "main_metric": 35.128868}
+{"i": 16898, "raw_vocab": "Ġsourced", "category": "OK", "decoded": " sourced", "metrics": [35.126927, 177.721301, 308.158729], "main_metric": 35.126927}
+{"i": 49891, "raw_vocab": "ĠNanto", "category": "OK", "decoded": " Nanto", "metrics": [35.122564, 232.377138, 436.093397], "main_metric": 35.122564}
+{"i": 36222, "raw_vocab": "Ġ560", "category": "OK", "decoded": " 560", "metrics": [35.11718, 297.033587, 672.637659], "main_metric": 35.11718}
+{"i": 4661, "raw_vocab": "Ġka", "category": "OK", "decoded": " ka", "metrics": [35.099438, 277.018999, 305.757262], "main_metric": 35.099438}
+{"i": 8708, "raw_vocab": "Ġcontemporary", "category": "OK", "decoded": " contemporary", "metrics": [35.094793, 252.098752, 496.708885], "main_metric": 35.094793}
+{"i": 49134, "raw_vocab": "Requires", "category": "OK", "decoded": "Requires", "metrics": [35.093462, 273.024425, 263.034128], "main_metric": 35.093462}
+{"i": 34063, "raw_vocab": "letters", "category": "OK", "decoded": "letters", "metrics": [35.091459, 268.03618, 615.867761], "main_metric": 35.091459}
+{"i": 3047, "raw_vocab": "ĠBecause", "category": "OK", "decoded": " Because", "metrics": [35.08588, 301.206572, 497.43698], "main_metric": 35.08588}
+{"i": 48016, "raw_vocab": "ãģ«", "category": "OK", "decoded": "に", "metrics": [35.075057, 375.114541, 854.109208], "main_metric": 35.075057}
+{"i": 41682, "raw_vocab": "Ġ367", "category": "OK", "decoded": " 367", "metrics": [35.074617, 308.203917, 528.457936], "main_metric": 35.074617}
+{"i": 38045, "raw_vocab": "Ġsuperiors", "category": "OK", "decoded": " superiors", "metrics": [35.071695, 232.629179, 143.78142], "main_metric": 35.071695}
+{"i": 39889, "raw_vocab": "ĠStrikes", "category": "OK", "decoded": " Strikes", "metrics": [35.062439, 235.4123, 459.182511], "main_metric": 35.062439}
+{"i": 25676, "raw_vocab": "168", "category": "OK", "decoded": "168", "metrics": [35.061003, 260.737606, 562.414316], "main_metric": 35.061003}
+{"i": 21980, "raw_vocab": "Ġdeterioration", "category": "OK", "decoded": " deterioration", "metrics": [35.056576, 261.414505, 713.173583], "main_metric": 35.056576}
+{"i": 44308, "raw_vocab": "Creating", "category": "OK", "decoded": "Creating", "metrics": [35.055815, 232.111116, 691.218445], "main_metric": 35.055815}
+{"i": 49647, "raw_vocab": "Appearances", "category": "OK", "decoded": "Appearances", "metrics": [35.054077, 192.36697, 497.953976], "main_metric": 35.054077}
+{"i": 16344, "raw_vocab": "Ġ1971", "category": "OK", "decoded": " 1971", "metrics": [35.043048, 236.347343, 454.635372], "main_metric": 35.043048}
+{"i": 28565, "raw_vocab": "Social", "category": "OK", "decoded": "Social", "metrics": [35.042947, 224.3905, 124.544658], "main_metric": 35.042947}
+{"i": 3886, "raw_vocab": "Ġprepare", "category": "OK", "decoded": " prepare", "metrics": [35.038806, 275.821913, 526.58331], "main_metric": 35.038806}
+{"i": 32957, "raw_vocab": "404", "category": "OK", "decoded": "404", "metrics": [35.030965, 273.301249, 359.796426], "main_metric": 35.030965}
+{"i": 10663, "raw_vocab": "Ġspiritual", "category": "OK", "decoded": " spiritual", "metrics": [35.023303, 164.05055, 288.004074], "main_metric": 35.023303}
+{"i": 21238, "raw_vocab": "ĠWedding", "category": "OK", "decoded": " Wedding", "metrics": [35.01826, 182.795049, 144.320885], "main_metric": 35.01826}
+{"i": 49445, "raw_vocab": "../", "category": "OK", "decoded": "../", "metrics": [35.017129, 238.848162, 449.220496], "main_metric": 35.017129}
+{"i": 28198, "raw_vocab": "Ġuncon", "category": "OK", "decoded": " uncon", "metrics": [35.01712, 184.589304, 348.090094], "main_metric": 35.01712}
+{"i": 4053, "raw_vocab": "Ġduty", "category": "OK", "decoded": " duty", "metrics": [35.014527, 210.619494, 233.101163], "main_metric": 35.014527}
+{"i": 21135, "raw_vocab": "Ġoversaw", "category": "OK", "decoded": " oversaw", "metrics": [35.012274, 63.129421, 127.180557], "main_metric": 35.012274}
+{"i": 21248, "raw_vocab": "ĠMutual", "category": "OK", "decoded": " Mutual", "metrics": [35.009076, 187.166423, 230.652925], "main_metric": 35.009076}
+{"i": 3163, "raw_vocab": "ĠCharles", "category": "OK", "decoded": " Charles", "metrics": [35.005112, 242.706769, 649.605181], "main_metric": 35.005112}
+{"i": 10620, "raw_vocab": "uka", "category": "OK", "decoded": "uka", "metrics": [35.003492, 385.94692, 704.523093], "main_metric": 35.003492}
+{"i": 49839, "raw_vocab": "ãĢı", "category": "OK", "decoded": "』", "metrics": [35.00238, 348.495954, 862.713063], "main_metric": 35.00238}
+{"i": 7684, "raw_vocab": "Ġfault", "category": "OK", "decoded": " fault", "metrics": [34.99872, 227.915847, 644.459332], "main_metric": 34.99872}
+{"i": 3307, "raw_vocab": "Ġlinked", "category": "OK", "decoded": " linked", "metrics": [34.997851, 228.796736, 519.916202], "main_metric": 34.997851}
+{"i": 7482, "raw_vocab": "Ġunderlying", "category": "OK", "decoded": " underlying", "metrics": [34.993997, 315.309358, 606.550079], "main_metric": 34.993997}
+{"i": 19307, "raw_vocab": "ĠSite", "category": "OK", "decoded": " Site", "metrics": [34.993676, 223.835962, 497.791251], "main_metric": 34.993676}
+{"i": 27882, "raw_vocab": "Ġkindly", "category": "OK", "decoded": " kindly", "metrics": [34.992769, 315.615391, 412.025714], "main_metric": 34.992769}

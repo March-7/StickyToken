@@ -1,0 +1,642 @@
+{"i": 1, "raw_vocab": "</s>", "category": "OK_SPECIAL", "decoded": "</s>", "metrics": [98.15176, 105.735048, 137.060538], "main_metric": 98.15176}
+{"i": 4841, "raw_vocab": "▁».", "category": "OK", "decoded": " ».", "metrics": [93.045016, 100.074332, 129.465491], "main_metric": 93.045016}
+{"i": 32072, "raw_vocab": "<extra_id_27>", "category": "OK_SPECIAL", "decoded": " <extra_id_27>", "metrics": [71.557289, 76.921088, 107.992285], "main_metric": 71.557289}
+{"i": 25101, "raw_vocab": "▁Ecuador", "category": "OK", "decoded": " Ecuador", "metrics": [66.662474, 70.6096, 73.288767], "main_metric": 66.662474}
+{"i": 16758, "raw_vocab": "▁thème", "category": "OK", "decoded": " thème", "metrics": [66.104813, 69.964131, 68.80893], "main_metric": 66.104813}
+{"i": 19725, "raw_vocab": "▁Risiko", "category": "OK", "decoded": " Risiko", "metrics": [66.099599, 69.97317, 62.87522], "main_metric": 66.099599}
+{"i": 29664, "raw_vocab": "▁episcop", "category": "OK", "decoded": " episcop", "metrics": [65.859723, 69.672274, 64.328397], "main_metric": 65.859723}
+{"i": 13903, "raw_vocab": "citation", "category": "OK", "decoded": "citation", "metrics": [61.744581, 65.315, 70.507024], "main_metric": 61.744581}
+{"i": 23944, "raw_vocab": "▁Springfield", "category": "OK", "decoded": " Springfield", "metrics": [61.71619, 65.424531, 64.67072], "main_metric": 61.71619}
+{"i": 30195, "raw_vocab": "▁pneumonia", "category": "OK", "decoded": " pneumonia", "metrics": [61.541326, 65.317327, 63.786291], "main_metric": 61.541326}
+{"i": 30473, "raw_vocab": "▁Philharmoni", "category": "OK", "decoded": " Philharmoni", "metrics": [61.400231, 64.975138, 57.626107], "main_metric": 61.400231}
+{"i": 18404, "raw_vocab": "eignet", "category": "OK", "decoded": "eignet", "metrics": [61.033586, 64.663078, 43.723245], "main_metric": 61.033586}
+{"i": 5257, "raw_vocab": "▁Comment", "category": "OK", "decoded": " Comment", "metrics": [60.952649, 64.618199, 44.46461], "main_metric": 60.952649}
+{"i": 2794, "raw_vocab": "▁waiting", "category": "OK", "decoded": " waiting", "metrics": [60.880293, 64.502886, 57.021613], "main_metric": 60.880293}
+{"i": 11218, "raw_vocab": "▁egal", "category": "OK", "decoded": " egal", "metrics": [60.871285, 64.421208, 67.564616], "main_metric": 60.871285}
+{"i": 30303, "raw_vocab": "Kandidat", "category": "OK", "decoded": "Kandidat", "metrics": [60.793289, 64.41902, 70.572806], "main_metric": 60.793289}
+{"i": 30548, "raw_vocab": "▁Ribbon", "category": "OK", "decoded": " Ribbon", "metrics": [60.639942, 64.289928, 63.519016], "main_metric": 60.639942}
+{"i": 15779, "raw_vocab": "▁foil", "category": "OK", "decoded": " foil", "metrics": [60.516018, 64.114792, 76.210197], "main_metric": 60.516018}
+{"i": 12530, "raw_vocab": "▁Palace", "category": "OK", "decoded": " Palace", "metrics": [60.399589, 63.99388, 51.294647], "main_metric": 60.399589}
+{"i": 22093, "raw_vocab": "▁Uganda", "category": "OK", "decoded": " Uganda", "metrics": [59.933971, 63.521331, 62.462661], "main_metric": 59.933971}
+{"i": 17430, "raw_vocab": "nvelop", "category": "OK", "decoded": "nvelop", "metrics": [59.719408, 63.263116, 68.420259], "main_metric": 59.719408}
+{"i": 29524, "raw_vocab": "▁Vermieter", "category": "OK", "decoded": " Vermieter", "metrics": [59.548523, 63.051597, 50.188479], "main_metric": 59.548523}
+{"i": 8653, "raw_vocab": "▁Vin", "category": "OK", "decoded": " Vin", "metrics": [59.512162, 63.055237, 62.614305], "main_metric": 59.512162}
+{"i": 30602, "raw_vocab": "▁malheureusement", "category": "OK", "decoded": " malheureusement", "metrics": [58.00439, 61.584249, 51.900019], "main_metric": 58.00439}
+{"i": 18237, "raw_vocab": "partisan", "category": "OK", "decoded": "partisan", "metrics": [57.529401, 60.915306, 70.35936], "main_metric": 57.529401}
+{"i": 22152, "raw_vocab": "▁advertised", "category": "OK", "decoded": " advertised", "metrics": [57.456027, 60.810446, 58.012111], "main_metric": 57.456027}
+{"i": 25323, "raw_vocab": "▁Markus", "category": "OK", "decoded": " Markus", "metrics": [57.385052, 60.743079, 58.7041], "main_metric": 57.385052}
+{"i": 25655, "raw_vocab": "▁temptation", "category": "OK", "decoded": " temptation", "metrics": [57.143944, 60.520859, 57.247102], "main_metric": 57.143944}
+{"i": 30541, "raw_vocab": "▁tensiune", "category": "OK", "decoded": " tensiune", "metrics": [57.089109, 60.590781, 71.221069], "main_metric": 57.089109}
+{"i": 22831, "raw_vocab": "▁Serbia", "category": "OK", "decoded": " Serbia", "metrics": [56.983978, 60.387688, 64.798601], "main_metric": 56.983978}
+{"i": 26956, "raw_vocab": "▁Leicester", "category": "OK", "decoded": " Leicester", "metrics": [56.979097, 60.347998, 56.902835], "main_metric": 56.979097}
+{"i": 12064, "raw_vocab": "▁compliment", "category": "OK", "decoded": " compliment", "metrics": [56.914829, 60.323186, 56.698613], "main_metric": 56.914829}
+{"i": 11360, "raw_vocab": "▁Themen", "category": "OK", "decoded": " Themen", "metrics": [56.906304, 60.230613, 78.182579], "main_metric": 56.906304}
+{"i": 20343, "raw_vocab": "▁unfortunate", "category": "OK", "decoded": " unfortunate", "metrics": [56.882151, 60.389692, 51.105321], "main_metric": 56.882151}
+{"i": 17985, "raw_vocab": "▁fasci", "category": "OK", "decoded": " fasci", "metrics": [56.851405, 60.197535, 58.005145], "main_metric": 56.851405}
+{"i": 12322, "raw_vocab": "▁Român", "category": "OK", "decoded": " Român", "metrics": [56.846585, 60.199097, 70.293163], "main_metric": 56.846585}
+{"i": 13428, "raw_vocab": "▁lucrurile", "category": "OK", "decoded": " lucrurile", "metrics": [56.830447, 60.159334, 64.399062], "main_metric": 56.830447}
+{"i": 13686, "raw_vocab": "▁Official", "category": "OK", "decoded": " Official", "metrics": [56.762809, 60.031217, 57.975767], "main_metric": 56.762809}
+{"i": 13234, "raw_vocab": "▁Gast", "category": "OK", "decoded": " Gast", "metrics": [56.75715, 60.105482, 44.31187], "main_metric": 56.75715}
+{"i": 15579, "raw_vocab": "▁mandat", "category": "OK", "decoded": " mandat", "metrics": [56.58622, 59.797934, 62.075414], "main_metric": 56.58622}
+{"i": 15524, "raw_vocab": "▁complain", "category": "OK", "decoded": " complain", "metrics": [56.541609, 60.288608, 61.098984], "main_metric": 56.541609}
+{"i": 26924, "raw_vocab": "▁Embassy", "category": "OK", "decoded": " Embassy", "metrics": [56.530495, 59.907257, 63.495337], "main_metric": 56.530495}
+{"i": 16243, "raw_vocab": "▁Comments", "category": "OK", "decoded": " Comments", "metrics": [56.502495, 59.857513, 64.700823], "main_metric": 56.502495}
+{"i": 19227, "raw_vocab": "▁semnal", "category": "OK", "decoded": " semnal", "metrics": [56.400744, 59.75315, 70.124582], "main_metric": 56.400744}
+{"i": 30939, "raw_vocab": "schaden", "category": "OK", "decoded": "schaden", "metrics": [56.395212, 59.895861, 63.871426], "main_metric": 56.395212}
+{"i": 31556, "raw_vocab": "▁Kensington", "category": "OK", "decoded": " Kensington", "metrics": [56.364869, 59.673897, 68.678398], "main_metric": 56.364869}
+{"i": 31194, "raw_vocab": "sujets", "category": "OK", "decoded": "sujets", "metrics": [56.358355, 59.671191, 58.255047], "main_metric": 56.358355}
+{"i": 23776, "raw_vocab": "▁Lup", "category": "OK", "decoded": " Lup", "metrics": [56.357456, 59.681181, 70.718658], "main_metric": 56.357456}
+{"i": 6781, "raw_vocab": "▁Greek", "category": "OK", "decoded": " Greek", "metrics": [56.353268, 59.647184, 56.231047], "main_metric": 56.353268}
+{"i": 24878, "raw_vocab": "▁epidemic", "category": "OK", "decoded": " epidemic", "metrics": [56.351492, 59.651965, 62.929674], "main_metric": 56.351492}
+{"i": 15536, "raw_vocab": "▁Bulgaria", "category": "OK", "decoded": " Bulgaria", "metrics": [56.318254, 59.741539, 37.777502], "main_metric": 56.318254}
+{"i": 29302, "raw_vocab": "Revelation", "category": "OK", "decoded": "Revelation", "metrics": [56.274661, 59.61342, 68.486597], "main_metric": 56.274661}
+{"i": 18097, "raw_vocab": "▁comenzi", "category": "OK", "decoded": " comenzi", "metrics": [56.223449, 59.512353, 50.869892], "main_metric": 56.223449}
+{"i": 29340, "raw_vocab": "▁climatique", "category": "OK", "decoded": " climatique", "metrics": [56.217811, 59.57573, 76.432291], "main_metric": 56.217811}
+{"i": 12881, "raw_vocab": "▁Ott", "category": "OK", "decoded": " Ott", "metrics": [56.213797, 59.504953, 67.083234], "main_metric": 56.213797}
+{"i": 19639, "raw_vocab": "enquête", "category": "OK", "decoded": "enquête", "metrics": [56.201214, 59.558814, 56.617558], "main_metric": 56.201214}
+{"i": 30017, "raw_vocab": "▁Pablo", "category": "OK", "decoded": " Pablo", "metrics": [56.194822, 59.38675, 42.84755], "main_metric": 56.194822}
+{"i": 25822, "raw_vocab": "▁officiel", "category": "OK", "decoded": " officiel", "metrics": [56.116784, 59.400305, 70.683475], "main_metric": 56.116784}
+{"i": 10214, "raw_vocab": "appareil", "category": "OK", "decoded": "appareil", "metrics": [56.094842, 59.407349, 50.080774], "main_metric": 56.094842}
+{"i": 28517, "raw_vocab": "▁Winnipeg", "category": "OK", "decoded": " Winnipeg", "metrics": [56.084529, 59.454121, 57.767301], "main_metric": 56.084529}
+{"i": 28445, "raw_vocab": "embroidered", "category": "OK", "decoded": "embroidered", "metrics": [56.052008, 59.310967, 37.179582], "main_metric": 56.052008}
+{"i": 5223, "raw_vocab": "▁attached", "category": "OK", "decoded": " attached", "metrics": [56.043382, 59.352955, 49.197749], "main_metric": 56.043382}
+{"i": 31967, "raw_vocab": "▁suggér", "category": "OK", "decoded": " suggér", "metrics": [56.037937, 59.328139, 62.030849], "main_metric": 56.037937}
+{"i": 17316, "raw_vocab": "▁accus", "category": "OK", "decoded": " accus", "metrics": [56.023426, 59.599178, 66.008387], "main_metric": 56.023426}
+{"i": 17142, "raw_vocab": "▁gratitude", "category": "OK", "decoded": " gratitude", "metrics": [56.023032, 59.315981, 61.61087], "main_metric": 56.023032}
+{"i": 2901, "raw_vocab": "▁zone", "category": "OK", "decoded": " zone", "metrics": [56.020622, 59.336723, 44.420431], "main_metric": 56.020622}
+{"i": 21038, "raw_vocab": "▁Emil", "category": "OK", "decoded": " Emil", "metrics": [56.006151, 59.296978, 63.095195], "main_metric": 56.006151}
+{"i": 14428, "raw_vocab": "▁flows", "category": "OK", "decoded": " flows", "metrics": [55.996213, 59.235707, 49.64233], "main_metric": 55.996213}
+{"i": 6273, "raw_vocab": "▁ref", "category": "OK", "decoded": " ref", "metrics": [55.978405, 59.27778, 56.593747], "main_metric": 55.978405}
+{"i": 23679, "raw_vocab": "▁Crit", "category": "OK", "decoded": " Crit", "metrics": [55.971805, 59.259647, 58.488102], "main_metric": 55.971805}
+{"i": 26212, "raw_vocab": "▁komme", "category": "OK", "decoded": " komme", "metrics": [55.944674, 59.233798, 56.714306], "main_metric": 55.944674}
+{"i": 26414, "raw_vocab": "▁contraction", "category": "OK", "decoded": " contraction", "metrics": [55.898529, 59.122418, 55.94558], "main_metric": 55.898529}
+{"i": 27362, "raw_vocab": "▁Somerset", "category": "OK", "decoded": " Somerset", "metrics": [55.879543, 59.175926, 51.699823], "main_metric": 55.879543}
+{"i": 783, "raw_vocab": "▁media", "category": "OK", "decoded": " media", "metrics": [55.862354, 59.220401, 64.058445], "main_metric": 55.862354}
+{"i": 27219, "raw_vocab": "cliquez", "category": "OK", "decoded": "cliquez", "metrics": [55.838689, 59.122852, 56.243737], "main_metric": 55.838689}
+{"i": 14079, "raw_vocab": "▁permits", "category": "OK", "decoded": " permits", "metrics": [55.833758, 59.071692, 64.818077], "main_metric": 55.833758}
+{"i": 26526, "raw_vocab": "▁Realtor", "category": "OK", "decoded": " Realtor", "metrics": [55.768718, 59.035825, 57.021951], "main_metric": 55.768718}
+{"i": 29075, "raw_vocab": "▁senzor", "category": "OK", "decoded": " senzor", "metrics": [55.743879, 59.056438, 64.224728], "main_metric": 55.743879}
+{"i": 25308, "raw_vocab": "▁melting", "category": "OK", "decoded": " melting", "metrics": [55.741212, 59.053583, 23.903238], "main_metric": 55.741212}
+{"i": 17336, "raw_vocab": "Karte", "category": "OK", "decoded": "Karte", "metrics": [55.651695, 58.954381, 50.533483], "main_metric": 55.651695}
+{"i": 31873, "raw_vocab": "Veronica", "category": "OK", "decoded": "Veronica", "metrics": [55.645914, 58.863765, 56.008948], "main_metric": 55.645914}
+{"i": 20612, "raw_vocab": "▁Bert", "category": "OK", "decoded": " Bert", "metrics": [55.645785, 58.915568, 64.692657], "main_metric": 55.645785}
+{"i": 14385, "raw_vocab": "▁Freunde", "category": "OK", "decoded": " Freunde", "metrics": [55.624556, 58.83554, 55.540511], "main_metric": 55.624556}
+{"i": 16868, "raw_vocab": "▁renewal", "category": "OK", "decoded": " renewal", "metrics": [55.620392, 58.904175, 48.90963], "main_metric": 55.620392}
+{"i": 25853, "raw_vocab": "▁multumesc", "category": "OK", "decoded": " multumesc", "metrics": [55.613774, 58.879233, 56.141787], "main_metric": 55.613774}
+{"i": 18469, "raw_vocab": "▁personaj", "category": "OK", "decoded": " personaj", "metrics": [55.576631, 58.891764, 63.737447], "main_metric": 55.576631}
+{"i": 22792, "raw_vocab": "▁Harper", "category": "OK", "decoded": " Harper", "metrics": [55.564411, 58.85686, 63.707757], "main_metric": 55.564411}
+{"i": 29818, "raw_vocab": "▁perspectiva", "category": "OK", "decoded": " perspectiva", "metrics": [55.528992, 58.808692, 57.201045], "main_metric": 55.528992}
+{"i": 27866, "raw_vocab": "▁recount", "category": "OK", "decoded": " recount", "metrics": [55.523201, 59.009311, 63.508044], "main_metric": 55.523201}
+{"i": 31549, "raw_vocab": "▁entspannen", "category": "OK", "decoded": " entspannen", "metrics": [55.51773, 58.806695, 54.482378], "main_metric": 55.51773}
+{"i": 19891, "raw_vocab": "ographer", "category": "OK", "decoded": "ographer", "metrics": [55.510803, 58.739627, 43.099503], "main_metric": 55.510803}
+{"i": 22621, "raw_vocab": "▁Sachen", "category": "OK", "decoded": " Sachen", "metrics": [55.494215, 58.78383, 54.467], "main_metric": 55.494215}
+{"i": 20002, "raw_vocab": "▁Medal", "category": "OK", "decoded": " Medal", "metrics": [55.493176, 58.823952, 57.17284], "main_metric": 55.493176}
+{"i": 24629, "raw_vocab": "▁jocul", "category": "OK", "decoded": " jocul", "metrics": [55.460955, 58.716243, 37.065482], "main_metric": 55.460955}
+{"i": 11813, "raw_vocab": "▁Andrea", "category": "OK", "decoded": " Andrea", "metrics": [55.459716, 58.715457, 68.467845], "main_metric": 55.459716}
+{"i": 21508, "raw_vocab": "▁Concern", "category": "OK", "decoded": " Concern", "metrics": [55.451911, 58.85282, 57.441509], "main_metric": 55.451911}
+{"i": 11240, "raw_vocab": "▁Charlotte", "category": "OK", "decoded": " Charlotte", "metrics": [55.451388, 58.7571, 48.100336], "main_metric": 55.451388}
+{"i": 29678, "raw_vocab": "▁Gloria", "category": "OK", "decoded": " Gloria", "metrics": [55.442288, 58.634499, 62.418856], "main_metric": 55.442288}
+{"i": 17173, "raw_vocab": "▁NOTE", "category": "OK", "decoded": " NOTE", "metrics": [55.435848, 58.646116, 55.722941], "main_metric": 55.435848}
+{"i": 18935, "raw_vocab": "dron", "category": "OK", "decoded": "dron", "metrics": [55.434531, 58.680167, 43.142552], "main_metric": 55.434531}
+{"i": 11741, "raw_vocab": "▁warrant", "category": "OK", "decoded": " warrant", "metrics": [55.42718, 58.726043, 43.482775], "main_metric": 55.42718}
+{"i": 931, "raw_vocab": "▁options", "category": "OK", "decoded": " options", "metrics": [55.409086, 58.697546, 61.038463], "main_metric": 55.409086}
+{"i": 25231, "raw_vocab": "ffentlichkeit", "category": "OK", "decoded": "ffentlichkeit", "metrics": [55.383875, 58.691231, 57.239819], "main_metric": 55.383875}
+{"i": 16408, "raw_vocab": "engage", "category": "OK", "decoded": "engage", "metrics": [55.383044, 58.658572, 47.961582], "main_metric": 55.383044}
+{"i": 31229, "raw_vocab": "▁trandafir", "category": "OK", "decoded": " trandafir", "metrics": [55.363962, 58.649667, 55.606977], "main_metric": 55.363962}
+{"i": 17758, "raw_vocab": "▁Promo", "category": "OK", "decoded": " Promo", "metrics": [55.348238, 58.578812, 49.560386], "main_metric": 55.348238}
+{"i": 19506, "raw_vocab": "speicher", "category": "OK", "decoded": "speicher", "metrics": [55.338819, 58.557689, 37.268017], "main_metric": 55.338819}
+{"i": 13349, "raw_vocab": "▁Amy", "category": "OK", "decoded": " Amy", "metrics": [55.32113, 58.636402, 49.305362], "main_metric": 55.32113}
+{"i": 27631, "raw_vocab": "▁Perspective", "category": "OK", "decoded": " Perspective", "metrics": [55.288008, 58.613345, 56.873908], "main_metric": 55.288008}
+{"i": 30453, "raw_vocab": "▁Christchurch", "category": "OK", "decoded": " Christchurch", "metrics": [55.283136, 58.585316, 29.12675], "main_metric": 55.283136}
+{"i": 6826, "raw_vocab": "▁variant", "category": "OK", "decoded": " variant", "metrics": [55.231725, 58.420742, 67.802898], "main_metric": 55.231725}
+{"i": 12263, "raw_vocab": "▁Greece", "category": "OK", "decoded": " Greece", "metrics": [55.227979, 58.561856, 63.775721], "main_metric": 55.227979}
+{"i": 5713, "raw_vocab": "▁Cloud", "category": "OK", "decoded": " Cloud", "metrics": [55.203971, 58.490821, 24.865284], "main_metric": 55.203971}
+{"i": 22393, "raw_vocab": "▁communal", "category": "OK", "decoded": " communal", "metrics": [55.203044, 58.450161, 60.72149], "main_metric": 55.203044}
+{"i": 31198, "raw_vocab": "▁Anregung", "category": "OK", "decoded": " Anregung", "metrics": [55.196566, 58.456808, 56.709169], "main_metric": 55.196566}
+{"i": 30254, "raw_vocab": "▁escalate", "category": "OK", "decoded": " escalate", "metrics": [55.182035, 58.458792, 50.726655], "main_metric": 55.182035}
+{"i": 28819, "raw_vocab": "▁Kuwait", "category": "OK", "decoded": " Kuwait", "metrics": [55.160653, 58.389361, 37.976675], "main_metric": 55.160653}
+{"i": 28163, "raw_vocab": "▁situatie", "category": "OK", "decoded": " situatie", "metrics": [55.132168, 58.47175, 55.73655], "main_metric": 55.132168}
+{"i": 5851, "raw_vocab": "▁luck", "category": "OK", "decoded": " luck", "metrics": [55.095664, 58.343756, 30.471055], "main_metric": 55.095664}
+{"i": 22611, "raw_vocab": "evangeli", "category": "OK", "decoded": "evangeli", "metrics": [55.092093, 58.321412, 56.980991], "main_metric": 55.092093}
+{"i": 16418, "raw_vocab": "▁Tradition", "category": "OK", "decoded": " Tradition", "metrics": [55.082944, 58.304597, 68.512965], "main_metric": 55.082944}
+{"i": 20323, "raw_vocab": "▁Domnului", "category": "OK", "decoded": " Domnului", "metrics": [55.074829, 58.283655, 63.528004], "main_metric": 55.074829}
+{"i": 21592, "raw_vocab": "▁advertisement", "category": "OK", "decoded": " advertisement", "metrics": [55.066221, 58.349199, 55.927545], "main_metric": 55.066221}
+{"i": 8987, "raw_vocab": "▁disk", "category": "OK", "decoded": " disk", "metrics": [55.062613, 58.397668, 62.554319], "main_metric": 55.062613}
+{"i": 12487, "raw_vocab": "▁adjacent", "category": "OK", "decoded": " adjacent", "metrics": [55.039572, 58.241365, 48.060948], "main_metric": 55.039572}
+{"i": 26601, "raw_vocab": "Continuing", "category": "OK", "decoded": "Continuing", "metrics": [55.036617, 58.284406, 43.329637], "main_metric": 55.036617}
+{"i": 8916, "raw_vocab": "▁restoration", "category": "OK", "decoded": " restoration", "metrics": [55.000092, 58.238458, 62.572767], "main_metric": 55.000092}
+{"i": 18136, "raw_vocab": "▁Shadow", "category": "OK", "decoded": " Shadow", "metrics": [54.992709, 58.245501, 56.66152], "main_metric": 54.992709}
+{"i": 9149, "raw_vocab": "▁Source", "category": "OK", "decoded": " Source", "metrics": [54.989626, 58.260321, 43.872561], "main_metric": 54.989626}
+{"i": 26439, "raw_vocab": "▁rectangle", "category": "OK", "decoded": " rectangle", "metrics": [54.987839, 58.355019, 49.873171], "main_metric": 54.987839}
+{"i": 28345, "raw_vocab": "▁classmates", "category": "OK", "decoded": " classmates", "metrics": [54.974433, 58.273065, 36.75026], "main_metric": 54.974433}
+{"i": 12353, "raw_vocab": "▁oraș", "category": "OK", "decoded": " oraș", "metrics": [54.959977, 58.175543, 61.082986], "main_metric": 54.959977}
+{"i": 25296, "raw_vocab": "reprendre", "category": "OK", "decoded": "reprendre", "metrics": [54.956713, 58.176405, 54.843478], "main_metric": 54.956713}
+{"i": 28102, "raw_vocab": "connection", "category": "OK", "decoded": "connection", "metrics": [54.948466, 58.200012, 67.908441], "main_metric": 54.948466}
+{"i": 6502, "raw_vocab": "▁Catholic", "category": "OK", "decoded": " Catholic", "metrics": [54.945965, 58.280512, 56.786788], "main_metric": 54.945965}
+{"i": 29553, "raw_vocab": "▁Recomand", "category": "OK", "decoded": " Recomand", "metrics": [54.912333, 58.139707, 43.691964], "main_metric": 54.912333}
+{"i": 21755, "raw_vocab": "▁professeur", "category": "OK", "decoded": " professeur", "metrics": [54.896859, 58.05843, 48.578775], "main_metric": 54.896859}
+{"i": 12480, "raw_vocab": "▁serie", "category": "OK", "decoded": " serie", "metrics": [54.87231, 58.094412, 55.701874], "main_metric": 54.87231}
+{"i": 17034, "raw_vocab": "▁Campbell", "category": "OK", "decoded": " Campbell", "metrics": [54.860972, 58.084884, 55.77839], "main_metric": 54.860972}
+{"i": 22889, "raw_vocab": "▁Cassi", "category": "OK", "decoded": " Cassi", "metrics": [54.800758, 57.995439, 69.363362], "main_metric": 54.800758}
+{"i": 26914, "raw_vocab": "▁invoke", "category": "OK", "decoded": " invoke", "metrics": [54.766551, 57.972147, 46.577676], "main_metric": 54.766551}
+{"i": 5240, "raw_vocab": "▁tun", "category": "OK", "decoded": " tun", "metrics": [54.746804, 57.967176, 24.562403], "main_metric": 54.746804}
+{"i": 4150, "raw_vocab": "▁urban", "category": "OK", "decoded": " urban", "metrics": [54.692596, 57.935566, 54.195389], "main_metric": 54.692596}
+{"i": 19710, "raw_vocab": "topic", "category": "OK", "decoded": "topic", "metrics": [54.673885, 57.843397, 73.179251], "main_metric": 54.673885}
+{"i": 30440, "raw_vocab": "▁kiosk", "category": "OK", "decoded": " kiosk", "metrics": [54.665551, 57.893164, 42.848855], "main_metric": 54.665551}
+{"i": 30310, "raw_vocab": "▁reiterate", "category": "OK", "decoded": " reiterate", "metrics": [54.646384, 57.870978, 68.561239], "main_metric": 54.646384}
+{"i": 12661, "raw_vocab": "isson", "category": "OK", "decoded": "isson", "metrics": [54.64574, 57.81309, 54.87614], "main_metric": 54.64574}
+{"i": 6904, "raw_vocab": "▁heading", "category": "OK", "decoded": " heading", "metrics": [54.603412, 57.774421, 55.58907], "main_metric": 54.603412}
+{"i": 26752, "raw_vocab": "▁aftermath", "category": "OK", "decoded": " aftermath", "metrics": [54.551879, 57.871392, 64.062136], "main_metric": 54.551879}
+{"i": 11551, "raw_vocab": "▁Adobe", "category": "OK", "decoded": " Adobe", "metrics": [54.516835, 57.747867, 50.506139], "main_metric": 54.516835}
+{"i": 26137, "raw_vocab": "sstisch", "category": "OK", "decoded": "sstisch", "metrics": [54.509532, 57.762001, 47.799085], "main_metric": 54.509532}
+{"i": 26504, "raw_vocab": "▁buckle", "category": "OK", "decoded": " buckle", "metrics": [54.392762, 57.642979, 41.639653], "main_metric": 54.392762}
+{"i": 1586, "raw_vocab": "▁touch", "category": "OK", "decoded": " touch", "metrics": [54.39122, 57.658, 53.453222], "main_metric": 54.39122}
+{"i": 10549, "raw_vocab": "▁sorts", "category": "OK", "decoded": " sorts", "metrics": [54.355052, 57.615734, 54.298565], "main_metric": 54.355052}
+{"i": 31473, "raw_vocab": "outskirt", "category": "OK", "decoded": "outskirt", "metrics": [54.280889, 57.508186, 41.545977], "main_metric": 54.280889}
+{"i": 26781, "raw_vocab": "imposing", "category": "OK", "decoded": "imposing", "metrics": [54.190003, 57.464952, 48.224582], "main_metric": 54.190003}
+{"i": 2891, "raw_vocab": "▁whatever", "category": "OK", "decoded": " whatever", "metrics": [54.081071, 57.260354, 30.105163], "main_metric": 54.081071}
+{"i": 15071, "raw_vocab": "▁Monat", "category": "OK", "decoded": " Monat", "metrics": [54.023405, 57.175686, 68.590485], "main_metric": 54.023405}
+{"i": 6790, "raw_vocab": "▁limits", "category": "OK", "decoded": " limits", "metrics": [53.799042, 56.950714, 60.63738], "main_metric": 53.799042}
+{"i": 16060, "raw_vocab": "▁Rules", "category": "OK", "decoded": " Rules", "metrics": [53.582453, 56.680874, 60.525692], "main_metric": 53.582453}
+{"i": 28761, "raw_vocab": "▁kritisch", "category": "OK", "decoded": " kritisch", "metrics": [53.104404, 56.327767, 72.770942], "main_metric": 53.104404}
+{"i": 20102, "raw_vocab": "wahrscheinlich", "category": "OK", "decoded": "wahrscheinlich", "metrics": [52.801033, 55.895761, 58.239687], "main_metric": 52.801033}
+{"i": 29723, "raw_vocab": "lehnt", "category": "OK", "decoded": "lehnt", "metrics": [52.704341, 55.877193, 67.313219], "main_metric": 52.704341}
+{"i": 31465, "raw_vocab": "fleck", "category": "OK", "decoded": "fleck", "metrics": [52.370658, 55.461029, 67.867415], "main_metric": 52.370658}
+{"i": 31296, "raw_vocab": "versprechen", "category": "OK", "decoded": "versprechen", "metrics": [52.174291, 55.221162, 58.584959], "main_metric": 52.174291}
+{"i": 7839, "raw_vocab": "▁possibilities", "category": "OK", "decoded": " possibilities", "metrics": [52.15512, 55.19533, 65.455368], "main_metric": 52.15512}
+{"i": 27060, "raw_vocab": "▁Protestant", "category": "OK", "decoded": " Protestant", "metrics": [52.126472, 55.238629, 51.808335], "main_metric": 52.126472}
+{"i": 6709, "raw_vocab": "▁requested", "category": "OK", "decoded": " requested", "metrics": [52.111549, 55.153104, 59.040524], "main_metric": 52.111549}
+{"i": 13880, "raw_vocab": "logged", "category": "OK", "decoded": "logged", "metrics": [52.092253, 55.151708, 57.09486], "main_metric": 52.092253}
+{"i": 11977, "raw_vocab": "▁Luci", "category": "OK", "decoded": " Luci", "metrics": [52.06874, 55.15502, 57.621625], "main_metric": 52.06874}
+{"i": 9954, "raw_vocab": "▁gray", "category": "OK", "decoded": " gray", "metrics": [52.055698, 55.147087, 58.51106], "main_metric": 52.055698}
+{"i": 22849, "raw_vocab": "▁Ukrainian", "category": "OK", "decoded": " Ukrainian", "metrics": [52.018916, 55.290516, 71.259618], "main_metric": 52.018916}
+{"i": 27217, "raw_vocab": "seized", "category": "OK", "decoded": "seized", "metrics": [51.95852, 55.055911, 65.586512], "main_metric": 51.95852}
+{"i": 23132, "raw_vocab": "▁villain", "category": "OK", "decoded": " villain", "metrics": [51.891896, 55.029904, 64.684658], "main_metric": 51.891896}
+{"i": 28387, "raw_vocab": "▁ressenti", "category": "OK", "decoded": " ressenti", "metrics": [51.890979, 55.162279, 72.734348], "main_metric": 51.890979}
+{"i": 5706, "raw_vocab": "▁suffering", "category": "OK", "decoded": " suffering", "metrics": [51.868052, 55.102605, 45.231915], "main_metric": 51.868052}
+{"i": 10362, "raw_vocab": "▁dial", "category": "OK", "decoded": " dial", "metrics": [51.850315, 54.915002, 37.081308], "main_metric": 51.850315}
+{"i": 30150, "raw_vocab": "▁dringend", "category": "OK", "decoded": " dringend", "metrics": [51.77096, 54.837471, 51.10322], "main_metric": 51.77096}
+{"i": 18024, "raw_vocab": "▁suspected", "category": "OK", "decoded": " suspected", "metrics": [51.756347, 54.835961, 65.748514], "main_metric": 51.756347}
+{"i": 28597, "raw_vocab": "▁Elliott", "category": "OK", "decoded": " Elliott", "metrics": [51.745952, 54.762792, 57.281801], "main_metric": 51.745952}
+{"i": 25779, "raw_vocab": "▁memoir", "category": "OK", "decoded": " memoir", "metrics": [51.734619, 54.754632, 52.406744], "main_metric": 51.734619}
+{"i": 30470, "raw_vocab": "▁verlangt", "category": "OK", "decoded": " verlangt", "metrics": [51.729993, 54.855474, 64.955025], "main_metric": 51.729993}
+{"i": 10341, "raw_vocab": "▁Eagle", "category": "OK", "decoded": " Eagle", "metrics": [51.655962, 54.714424, 44.501381], "main_metric": 51.655962}
+{"i": 31145, "raw_vocab": "kraut", "category": "OK", "decoded": "kraut", "metrics": [51.649623, 54.72706, 63.511901], "main_metric": 51.649623}
+{"i": 5941, "raw_vocab": "▁upgrade", "category": "OK", "decoded": " upgrade", "metrics": [51.648383, 54.713262, 37.783475], "main_metric": 51.648383}
+{"i": 24979, "raw_vocab": "▁farmhouse", "category": "OK", "decoded": " farmhouse", "metrics": [51.64512, 54.841298, 52.558519], "main_metric": 51.64512}
+{"i": 26833, "raw_vocab": "opérateur", "category": "OK", "decoded": "opérateur", "metrics": [51.638215, 54.615934, 50.811578], "main_metric": 51.638215}
+{"i": 13235, "raw_vocab": "▁Issue", "category": "OK", "decoded": " Issue", "metrics": [51.630938, 54.753299, 77.82218], "main_metric": 51.630938}
+{"i": 27680, "raw_vocab": "▁Iaşi", "category": "OK", "decoded": " Iaşi", "metrics": [51.627183, 54.706505, 55.964583], "main_metric": 51.627183}
+{"i": 26076, "raw_vocab": "▁Macedon", "category": "OK", "decoded": " Macedon", "metrics": [51.626782, 54.744252, 53.170109], "main_metric": 51.626782}
+{"i": 26334, "raw_vocab": "▁Cornwall", "category": "OK", "decoded": " Cornwall", "metrics": [51.625516, 54.64386, 51.272119], "main_metric": 51.625516}
+{"i": 18736, "raw_vocab": "▁publicat", "category": "OK", "decoded": " publicat", "metrics": [51.618143, 54.575759, 43.666466], "main_metric": 51.618143}
+{"i": 22808, "raw_vocab": "Argentin", "category": "OK", "decoded": "Argentin", "metrics": [51.614503, 54.714419, 57.191996], "main_metric": 51.614503}
+{"i": 25596, "raw_vocab": "geladen", "category": "OK", "decoded": "geladen", "metrics": [51.602466, 54.723873, 45.398656], "main_metric": 51.602466}
+{"i": 9558, "raw_vocab": "▁român", "category": "OK", "decoded": " român", "metrics": [51.60128, 54.660825, 56.5082], "main_metric": 51.60128}
+{"i": 13664, "raw_vocab": "▁Mihai", "category": "OK", "decoded": " Mihai", "metrics": [51.540231, 54.490095, 57.560709], "main_metric": 51.540231}
+{"i": 13386, "raw_vocab": "▁inflammation", "category": "OK", "decoded": " inflammation", "metrics": [51.524739, 54.656248, 18.271878], "main_metric": 51.524739}
+{"i": 30323, "raw_vocab": "▁truffle", "category": "OK", "decoded": " truffle", "metrics": [51.522105, 54.552939, 43.15437], "main_metric": 51.522105}
+{"i": 11020, "raw_vocab": "▁Canon", "category": "OK", "decoded": " Canon", "metrics": [51.50708, 54.499556, 44.138822], "main_metric": 51.50708}
+{"i": 8403, "raw_vocab": "▁Wahl", "category": "OK", "decoded": " Wahl", "metrics": [51.494334, 54.619402, 43.346923], "main_metric": 51.494334}
+{"i": 31324, "raw_vocab": "▁perpetu", "category": "OK", "decoded": " perpetu", "metrics": [51.479641, 54.493486, 37.35734], "main_metric": 51.479641}
+{"i": 11897, "raw_vocab": "▁Ukraine", "category": "OK", "decoded": " Ukraine", "metrics": [51.456922, 54.815386, 59.862494], "main_metric": 51.456922}
+{"i": 26790, "raw_vocab": "▁Aboriginal", "category": "OK", "decoded": " Aboriginal", "metrics": [51.447945, 54.456674, 50.923215], "main_metric": 51.447945}
+{"i": 24593, "raw_vocab": "▁Kritik", "category": "OK", "decoded": " Kritik", "metrics": [51.446172, 54.51922, 64.473409], "main_metric": 51.446172}
+{"i": 28418, "raw_vocab": "einsatz", "category": "OK", "decoded": "einsatz", "metrics": [51.437806, 54.470083, 70.448628], "main_metric": 51.437806}
+{"i": 30640, "raw_vocab": "▁Heidi", "category": "OK", "decoded": " Heidi", "metrics": [51.429726, 54.407349, 51.206234], "main_metric": 51.429726}
+{"i": 30734, "raw_vocab": "Gästen", "category": "OK", "decoded": "Gästen", "metrics": [51.416615, 54.435894, 50.927343], "main_metric": 51.416615}
+{"i": 26608, "raw_vocab": "▁inconsistent", "category": "OK", "decoded": " inconsistent", "metrics": [51.41253, 54.47206, 37.964079], "main_metric": 51.41253}
+{"i": 23564, "raw_vocab": "▁Prague", "category": "OK", "decoded": " Prague", "metrics": [51.404387, 54.472106, 31.009958], "main_metric": 51.404387}
+{"i": 3503, "raw_vocab": "▁perspective", "category": "OK", "decoded": " perspective", "metrics": [51.404377, 54.452341, 57.883129], "main_metric": 51.404377}
+{"i": 18552, "raw_vocab": "▁Köln", "category": "OK", "decoded": " Köln", "metrics": [51.400416, 54.477387, 49.410525], "main_metric": 51.400416}
+{"i": 16247, "raw_vocab": "▁Coupon", "category": "OK", "decoded": " Coupon", "metrics": [51.388998, 54.424812, 43.415506], "main_metric": 51.388998}
+{"i": 14097, "raw_vocab": "▁boiler", "category": "OK", "decoded": " boiler", "metrics": [51.388429, 54.391469, 50.124935], "main_metric": 51.388429}
+{"i": 20904, "raw_vocab": "▁volonté", "category": "OK", "decoded": " volonté", "metrics": [51.383127, 54.442557, 56.381796], "main_metric": 51.383127}
+{"i": 15084, "raw_vocab": "▁humble", "category": "OK", "decoded": " humble", "metrics": [51.353405, 54.351563, 58.17987], "main_metric": 51.353405}
+{"i": 22864, "raw_vocab": "▁Lecture", "category": "OK", "decoded": " Lecture", "metrics": [51.3495, 54.352458, 52.135554], "main_metric": 51.3495}
+{"i": 28608, "raw_vocab": "▁Belarus", "category": "OK", "decoded": " Belarus", "metrics": [51.347858, 54.392081, 76.144105], "main_metric": 51.347858}
+{"i": 4789, "raw_vocab": "▁Schul", "category": "OK", "decoded": " Schul", "metrics": [51.347404, 54.36261, 49.97839], "main_metric": 51.347404}
+{"i": 20514, "raw_vocab": "▁oportun", "category": "OK", "decoded": " oportun", "metrics": [51.336803, 54.277033, 57.456632], "main_metric": 51.336803}
+{"i": 11011, "raw_vocab": "▁essays", "category": "OK", "decoded": " essays", "metrics": [51.329481, 54.398571, 49.508002], "main_metric": 51.329481}
+{"i": 30736, "raw_vocab": "▁Anonymous", "category": "OK", "decoded": " Anonymous", "metrics": [51.319062, 54.393868, 57.077543], "main_metric": 51.319062}
+{"i": 9375, "raw_vocab": "▁Kris", "category": "OK", "decoded": " Kris", "metrics": [51.308901, 54.300471, 57.458669], "main_metric": 51.308901}
+{"i": 16127, "raw_vocab": "▁Champion", "category": "OK", "decoded": " Champion", "metrics": [51.305585, 54.34455, 56.782803], "main_metric": 51.305585}
+{"i": 24904, "raw_vocab": "▁redemption", "category": "OK", "decoded": " redemption", "metrics": [51.302944, 54.358632, 56.307387], "main_metric": 51.302944}
+{"i": 12092, "raw_vocab": "▁Philip", "category": "OK", "decoded": " Philip", "metrics": [51.29302, 54.311941, 43.127183], "main_metric": 51.29302}
+{"i": 10397, "raw_vocab": "annonce", "category": "OK", "decoded": "annonce", "metrics": [51.279613, 54.327777, 69.63677], "main_metric": 51.279613}
+{"i": 2273, "raw_vocab": "▁experts", "category": "OK", "decoded": " experts", "metrics": [51.272944, 54.259018, 69.939118], "main_metric": 51.272944}
+{"i": 17275, "raw_vocab": "▁accessibility", "category": "OK", "decoded": " accessibility", "metrics": [51.26719, 54.25224, 41.522932], "main_metric": 51.26719}
+{"i": 29255, "raw_vocab": "▁apprentice", "category": "OK", "decoded": " apprentice", "metrics": [51.258097, 54.297351, 43.849452], "main_metric": 51.258097}
+{"i": 28339, "raw_vocab": "invites", "category": "OK", "decoded": "invites", "metrics": [51.244675, 54.275931, 63.626398], "main_metric": 51.244675}
+{"i": 20843, "raw_vocab": "▁Serge", "category": "OK", "decoded": " Serge", "metrics": [51.24414, 54.235007, 64.010138], "main_metric": 51.24414}
+{"i": 14436, "raw_vocab": "▁Feld", "category": "OK", "decoded": " Feld", "metrics": [51.240434, 54.291112, 62.647538], "main_metric": 51.240434}
+{"i": 22402, "raw_vocab": "▁Munich", "category": "OK", "decoded": " Munich", "metrics": [51.233738, 54.255827, 62.685017], "main_metric": 51.233738}
+{"i": 16213, "raw_vocab": "▁flux", "category": "OK", "decoded": " flux", "metrics": [51.231871, 54.169938, 50.375292], "main_metric": 51.231871}
+{"i": 31199, "raw_vocab": "▁spectateur", "category": "OK", "decoded": " spectateur", "metrics": [51.220918, 54.26387, 43.433975], "main_metric": 51.220918}
+{"i": 17944, "raw_vocab": "▁Hampshire", "category": "OK", "decoded": " Hampshire", "metrics": [51.215881, 54.289225, 57.993293], "main_metric": 51.215881}
+{"i": 25686, "raw_vocab": "▁slavery", "category": "OK", "decoded": " slavery", "metrics": [51.211592, 54.191514, 57.66906], "main_metric": 51.211592}
+{"i": 3792, "raw_vocab": "▁covers", "category": "OK", "decoded": " covers", "metrics": [51.211249, 54.171958, 56.299671], "main_metric": 51.211249}
+{"i": 15181, "raw_vocab": "▁Mensch", "category": "OK", "decoded": " Mensch", "metrics": [51.210772, 54.292519, 57.056165], "main_metric": 51.210772}
+{"i": 15988, "raw_vocab": "▁Vintage", "category": "OK", "decoded": " Vintage", "metrics": [51.210544, 54.260062, 62.630253], "main_metric": 51.210544}
+{"i": 151, "raw_vocab": "▁people", "category": "OK", "decoded": " people", "metrics": [51.199398, 54.277181, 38.518514], "main_metric": 51.199398}
+{"i": 23987, "raw_vocab": "▁Kabel", "category": "OK", "decoded": " Kabel", "metrics": [51.193437, 54.19493, 49.197598], "main_metric": 51.193437}
+{"i": 9236, "raw_vocab": "▁Major", "category": "OK", "decoded": " Major", "metrics": [51.191269, 54.100922, 56.92543], "main_metric": 51.191269}
+{"i": 18178, "raw_vocab": "▁journals", "category": "OK", "decoded": " journals", "metrics": [51.185354, 54.116371, 50.360648], "main_metric": 51.185354}
+{"i": 31630, "raw_vocab": "▁Apartament", "category": "OK", "decoded": " Apartament", "metrics": [51.17906, 54.302012, 49.088426], "main_metric": 51.17906}
+{"i": 8053, "raw_vocab": "▁emphasis", "category": "OK", "decoded": " emphasis", "metrics": [51.171586, 54.166262, 62.71361], "main_metric": 51.171586}
+{"i": 8926, "raw_vocab": "▁victims", "category": "OK", "decoded": " victims", "metrics": [51.169651, 54.385675, 51.99465], "main_metric": 51.169651}
+{"i": 28432, "raw_vocab": "▁Sigur", "category": "OK", "decoded": " Sigur", "metrics": [51.16475, 54.115437, 49.82449], "main_metric": 51.16475}
+{"i": 21169, "raw_vocab": "▁accidentally", "category": "OK", "decoded": " accidentally", "metrics": [51.163936, 54.213032, 21.682237], "main_metric": 51.163936}
+{"i": 23699, "raw_vocab": "▁Rusia", "category": "OK", "decoded": " Rusia", "metrics": [51.159847, 54.43412, 52.680928], "main_metric": 51.159847}
+{"i": 16786, "raw_vocab": "urgence", "category": "OK", "decoded": "urgence", "metrics": [51.157133, 54.140132, 54.509848], "main_metric": 51.157133}
+{"i": 7294, "raw_vocab": "▁trigger", "category": "OK", "decoded": " trigger", "metrics": [51.144257, 54.153801, 56.396625], "main_metric": 51.144257}
+{"i": 30184, "raw_vocab": "▁Dominique", "category": "OK", "decoded": " Dominique", "metrics": [51.143476, 54.164513, 64.665766], "main_metric": 51.143476}
+{"i": 2416, "raw_vocab": "▁links", "category": "OK", "decoded": " links", "metrics": [51.141557, 54.112086, 49.557322], "main_metric": 51.141557}
+{"i": 19143, "raw_vocab": "▁Iranian", "category": "OK", "decoded": " Iranian", "metrics": [51.13628, 54.141166, 65.063008], "main_metric": 51.13628}
+{"i": 23961, "raw_vocab": "▁Gemeinschaft", "category": "OK", "decoded": " Gemeinschaft", "metrics": [51.136194, 54.12, 63.380792], "main_metric": 51.136194}
+{"i": 23092, "raw_vocab": "▁marvel", "category": "OK", "decoded": " marvel", "metrics": [51.13522, 54.169034, 64.547812], "main_metric": 51.13522}
+{"i": 9953, "raw_vocab": "▁lawsuit", "category": "OK", "decoded": " lawsuit", "metrics": [51.120445, 54.234883, 43.416863], "main_metric": 51.120445}
+{"i": 18936, "raw_vocab": "▁donor", "category": "OK", "decoded": " donor", "metrics": [51.116044, 54.114175, 63.288357], "main_metric": 51.116044}
+{"i": 28796, "raw_vocab": "▁Filip", "category": "OK", "decoded": " Filip", "metrics": [51.096795, 54.112304, 50.377795], "main_metric": 51.096795}
+{"i": 27375, "raw_vocab": "▁superstar", "category": "OK", "decoded": " superstar", "metrics": [51.096231, 54.07801, 62.502535], "main_metric": 51.096231}
+{"i": 25749, "raw_vocab": "▁Zürich", "category": "OK", "decoded": " Zürich", "metrics": [51.090684, 54.027924, 50.095774], "main_metric": 51.090684}
+{"i": 10155, "raw_vocab": "▁Malaysia", "category": "OK", "decoded": " Malaysia", "metrics": [51.090008, 54.186921, 67.993741], "main_metric": 51.090008}
+{"i": 12167, "raw_vocab": "▁subiect", "category": "OK", "decoded": " subiect", "metrics": [51.088919, 54.096689, 64.624526], "main_metric": 51.088919}
+{"i": 16755, "raw_vocab": "▁Levi", "category": "OK", "decoded": " Levi", "metrics": [51.081444, 54.066092, 57.113388], "main_metric": 51.081444}
+{"i": 21260, "raw_vocab": "▁Commonwealth", "category": "OK", "decoded": " Commonwealth", "metrics": [51.068497, 54.06488, 36.990058], "main_metric": 51.068497}
+{"i": 31928, "raw_vocab": "▁Scottsdale", "category": "OK", "decoded": " Scottsdale", "metrics": [51.053295, 54.030529, 37.259033], "main_metric": 51.053295}
+{"i": 30190, "raw_vocab": "▁Ucraina", "category": "OK", "decoded": " Ucraina", "metrics": [51.051842, 54.140425, 57.497926], "main_metric": 51.051842}
+{"i": 26629, "raw_vocab": "▁stubborn", "category": "OK", "decoded": " stubborn", "metrics": [51.045582, 54.05217, 56.698753], "main_metric": 51.045582}
+{"i": 25514, "raw_vocab": "▁Stimmung", "category": "OK", "decoded": " Stimmung", "metrics": [51.036205, 54.129251, 50.119783], "main_metric": 51.036205}
+{"i": 7786, "raw_vocab": "▁advise", "category": "OK", "decoded": " advise", "metrics": [51.029435, 54.018343, 36.784688], "main_metric": 51.029435}
+{"i": 15386, "raw_vocab": "▁pixels", "category": "OK", "decoded": " pixels", "metrics": [51.022418, 54.063776, 48.159799], "main_metric": 51.022418}
+{"i": 25315, "raw_vocab": "▁Bogdan", "category": "OK", "decoded": " Bogdan", "metrics": [51.014202, 54.011112, 63.042582], "main_metric": 51.014202}
+{"i": 29105, "raw_vocab": "▁conspir", "category": "OK", "decoded": " conspir", "metrics": [50.9992, 54.123643, 51.061222], "main_metric": 50.9992}
+{"i": 17956, "raw_vocab": "▁groove", "category": "OK", "decoded": " groove", "metrics": [50.996567, 54.05706, 43.769009], "main_metric": 50.996567}
+{"i": 30629, "raw_vocab": "▁Slovakia", "category": "OK", "decoded": " Slovakia", "metrics": [50.990963, 54.036, 57.109523], "main_metric": 50.990963}
+{"i": 28347, "raw_vocab": "▁Camill", "category": "OK", "decoded": " Camill", "metrics": [50.987503, 54.038927, 64.071927], "main_metric": 50.987503}
+{"i": 16202, "raw_vocab": "▁Phillip", "category": "OK", "decoded": " Phillip", "metrics": [50.984833, 53.990242, 42.873231], "main_metric": 50.984833}
+{"i": 23196, "raw_vocab": "leger", "category": "OK", "decoded": "leger", "metrics": [50.977012, 53.977249, 74.269114], "main_metric": 50.977012}
+{"i": 20412, "raw_vocab": "▁Owen", "category": "OK", "decoded": " Owen", "metrics": [50.96775, 53.966687, 56.374931], "main_metric": 50.96775}
+{"i": 19789, "raw_vocab": "▁Croatia", "category": "OK", "decoded": " Croatia", "metrics": [50.954332, 54.055727, 44.378834], "main_metric": 50.954332}
+{"i": 9973, "raw_vocab": "▁confirmation", "category": "OK", "decoded": " confirmation", "metrics": [50.943917, 53.910786, 49.998593], "main_metric": 50.943917}
+{"i": 2987, "raw_vocab": "▁passion", "category": "OK", "decoded": " passion", "metrics": [50.935199, 53.931413, 50.759904], "main_metric": 50.935199}
+{"i": 29829, "raw_vocab": "Aktionen", "category": "OK", "decoded": "Aktionen", "metrics": [50.933245, 53.932673, 49.73954], "main_metric": 50.933245}
+{"i": 21967, "raw_vocab": "▁Cardinal", "category": "OK", "decoded": " Cardinal", "metrics": [50.931926, 53.920598, 63.936249], "main_metric": 50.931926}
+{"i": 14311, "raw_vocab": "▁basics", "category": "OK", "decoded": " basics", "metrics": [50.922384, 53.884851, 63.275989], "main_metric": 50.922384}
+{"i": 24734, "raw_vocab": "▁Cyprus", "category": "OK", "decoded": " Cyprus", "metrics": [50.897901, 53.897578, 49.512804], "main_metric": 50.897901}
+{"i": 29592, "raw_vocab": "▁monastery", "category": "OK", "decoded": " monastery", "metrics": [50.896546, 53.936006, 51.27193], "main_metric": 50.896546}
+{"i": 31124, "raw_vocab": "▁reagieren", "category": "OK", "decoded": " reagieren", "metrics": [50.889173, 53.933068, 62.265659], "main_metric": 50.889173}
+{"i": 23636, "raw_vocab": "▁Influen", "category": "OK", "decoded": " Influen", "metrics": [50.879945, 53.853635, 51.07153], "main_metric": 50.879945}
+{"i": 29710, "raw_vocab": "▁studenți", "category": "OK", "decoded": " studenți", "metrics": [50.871006, 53.819534, 51.158655], "main_metric": 50.871006}
+{"i": 29467, "raw_vocab": "▁Baldwin", "category": "OK", "decoded": " Baldwin", "metrics": [50.865001, 53.922228, 57.504101], "main_metric": 50.865001}
+{"i": 28424, "raw_vocab": "▁Ortodox", "category": "OK", "decoded": " Ortodox", "metrics": [50.861244, 53.842452, 56.591985], "main_metric": 50.861244}
+{"i": 30733, "raw_vocab": "OnePlus", "category": "OK", "decoded": "OnePlus", "metrics": [50.859876, 53.941849, 69.705194], "main_metric": 50.859876}
+{"i": 11905, "raw_vocab": "▁withdrawal", "category": "OK", "decoded": " withdrawal", "metrics": [50.857851, 53.887198, 52.235393], "main_metric": 50.857851}
+{"i": 14740, "raw_vocab": "▁kingdom", "category": "OK", "decoded": " kingdom", "metrics": [50.852544, 53.855261, 60.850898], "main_metric": 50.852544}
+{"i": 704, "raw_vocab": "▁offers", "category": "OK", "decoded": " offers", "metrics": [50.850024, 53.825201, 49.47261], "main_metric": 50.850024}
+{"i": 16638, "raw_vocab": "▁notebook", "category": "OK", "decoded": " notebook", "metrics": [50.836476, 53.831007, 29.879538], "main_metric": 50.836476}
+{"i": 29734, "raw_vocab": "explication", "category": "OK", "decoded": "explication", "metrics": [50.833907, 53.780355, 49.030705], "main_metric": 50.833907}
+{"i": 16753, "raw_vocab": "▁caps", "category": "OK", "decoded": " caps", "metrics": [50.829979, 53.802929, 56.073606], "main_metric": 50.829979}
+{"i": 19820, "raw_vocab": "▁wünschen", "category": "OK", "decoded": " wünschen", "metrics": [50.821241, 53.850825, 49.677988], "main_metric": 50.821241}
+{"i": 31176, "raw_vocab": "▁Eduard", "category": "OK", "decoded": " Eduard", "metrics": [50.815707, 53.800686, 43.414878], "main_metric": 50.815707}
+{"i": 27411, "raw_vocab": "▁gestern", "category": "OK", "decoded": " gestern", "metrics": [50.813713, 53.736998, 45.846867], "main_metric": 50.813713}
+{"i": 24424, "raw_vocab": "▁Florin", "category": "OK", "decoded": " Florin", "metrics": [50.81149, 53.717141, 43.540743], "main_metric": 50.81149}
+{"i": 1151, "raw_vocab": "▁additional", "category": "OK", "decoded": " additional", "metrics": [50.810454, 53.736828, 43.924607], "main_metric": 50.810454}
+{"i": 29939, "raw_vocab": "▁ailments", "category": "OK", "decoded": " ailments", "metrics": [50.79525, 53.940392, 50.374225], "main_metric": 50.79525}
+{"i": 25562, "raw_vocab": "▁pahar", "category": "OK", "decoded": " pahar", "metrics": [50.793164, 53.776219, 48.90243], "main_metric": 50.793164}
+{"i": 23022, "raw_vocab": "▁jealous", "category": "OK", "decoded": " jealous", "metrics": [50.788157, 53.830793, 50.366262], "main_metric": 50.788157}
+{"i": 15528, "raw_vocab": "▁saint", "category": "OK", "decoded": " saint", "metrics": [50.781921, 53.722243, 48.655856], "main_metric": 50.781921}
+{"i": 5264, "raw_vocab": "▁Remember", "category": "OK", "decoded": " Remember", "metrics": [50.77917, 53.722765, 50.236945], "main_metric": 50.77917}
+{"i": 26387, "raw_vocab": "▁Sino", "category": "OK", "decoded": " Sino", "metrics": [50.778666, 53.716428, 56.17156], "main_metric": 50.778666}
+{"i": 12237, "raw_vocab": "▁sensors", "category": "OK", "decoded": " sensors", "metrics": [50.777932, 53.750507, 71.108818], "main_metric": 50.777932}
+{"i": 29031, "raw_vocab": "▁Gratuit", "category": "OK", "decoded": " Gratuit", "metrics": [50.777789, 53.781422, 56.347325], "main_metric": 50.777789}
+{"i": 27318, "raw_vocab": "▁Napoleon", "category": "OK", "decoded": " Napoleon", "metrics": [50.77266, 53.888829, 78.484965], "main_metric": 50.77266}
+{"i": 26537, "raw_vocab": "▁glide", "category": "OK", "decoded": " glide", "metrics": [50.770132, 53.786849, 47.66918], "main_metric": 50.770132}
+{"i": 9083, "raw_vocab": "▁Brook", "category": "OK", "decoded": " Brook", "metrics": [50.767485, 53.810477, 48.938986], "main_metric": 50.767485}
+{"i": 25496, "raw_vocab": "▁Cristian", "category": "OK", "decoded": " Cristian", "metrics": [50.766602, 53.685183, 68.07559], "main_metric": 50.766602}
+{"i": 8410, "raw_vocab": "▁Lor", "category": "OK", "decoded": " Lor", "metrics": [50.764363, 53.703637, 43.368956], "main_metric": 50.764363}
+{"i": 27666, "raw_vocab": "extrêmement", "category": "OK", "decoded": "extrêmement", "metrics": [50.756433, 53.769186, 60.091065], "main_metric": 50.756433}
+{"i": 30435, "raw_vocab": "▁invitați", "category": "OK", "decoded": " invitați", "metrics": [50.751847, 53.79941, 56.449121], "main_metric": 50.751847}
+{"i": 27770, "raw_vocab": "▁hymn", "category": "OK", "decoded": " hymn", "metrics": [50.73778, 53.698433, 61.318637], "main_metric": 50.73778}
+{"i": 21384, "raw_vocab": "▁Malta", "category": "OK", "decoded": " Malta", "metrics": [50.730428, 53.735551, 62.822737], "main_metric": 50.730428}
+{"i": 30430, "raw_vocab": "▁apology", "category": "OK", "decoded": " apology", "metrics": [50.727822, 53.700847, 50.944278], "main_metric": 50.727822}
+{"i": 29347, "raw_vocab": "▁RSVP", "category": "OK", "decoded": " RSVP", "metrics": [50.727401, 53.728063, 57.896966], "main_metric": 50.727401}
+{"i": 23799, "raw_vocab": "Source", "category": "OK", "decoded": "Source", "metrics": [50.725293, 53.62916, 36.716702], "main_metric": 50.725293}
+{"i": 26062, "raw_vocab": "▁Adri", "category": "OK", "decoded": " Adri", "metrics": [50.711758, 53.665074, 62.558837], "main_metric": 50.711758}
+{"i": 25069, "raw_vocab": "▁articolul", "category": "OK", "decoded": " articolul", "metrics": [50.710783, 53.70491, 69.492853], "main_metric": 50.710783}
+{"i": 22994, "raw_vocab": "▁didactic", "category": "OK", "decoded": " didactic", "metrics": [50.708094, 53.647975, 54.927912], "main_metric": 50.708094}
+{"i": 19830, "raw_vocab": "▁Yorkshire", "category": "OK", "decoded": " Yorkshire", "metrics": [50.70382, 53.698293, 31.767875], "main_metric": 50.70382}
+{"i": 2178, "raw_vocab": "▁sharing", "category": "OK", "decoded": " sharing", "metrics": [50.703552, 53.693445, 55.131187], "main_metric": 50.703552}
+{"i": 26513, "raw_vocab": "▁Wolfgang", "category": "OK", "decoded": " Wolfgang", "metrics": [50.699226, 53.597576, 56.399716], "main_metric": 50.699226}
+{"i": 18337, "raw_vocab": "▁desperate", "category": "OK", "decoded": " desperate", "metrics": [50.686454, 53.785852, 44.110981], "main_metric": 50.686454}
+{"i": 21112, "raw_vocab": "▁Charakter", "category": "OK", "decoded": " Charakter", "metrics": [50.686409, 53.686285, 56.311698], "main_metric": 50.686409}
+{"i": 10127, "raw_vocab": "▁Urban", "category": "OK", "decoded": " Urban", "metrics": [50.684627, 53.723512, 49.913888], "main_metric": 50.684627}
+{"i": 19128, "raw_vocab": "▁Sibiu", "category": "OK", "decoded": " Sibiu", "metrics": [50.677876, 53.736965, 56.612544], "main_metric": 50.677876}
+{"i": 14286, "raw_vocab": "▁coupled", "category": "OK", "decoded": " coupled", "metrics": [50.677254, 53.648134, 42.348662], "main_metric": 50.677254}
+{"i": 14590, "raw_vocab": "▁tenant", "category": "OK", "decoded": " tenant", "metrics": [50.674302, 53.620323, 49.396998], "main_metric": 50.674302}
+{"i": 24360, "raw_vocab": "▁Rochester", "category": "OK", "decoded": " Rochester", "metrics": [50.667073, 53.767363, 55.551289], "main_metric": 50.667073}
+{"i": 6881, "raw_vocab": "▁centers", "category": "OK", "decoded": " centers", "metrics": [50.662429, 53.637218, 55.629811], "main_metric": 50.662429}
+{"i": 7592, "raw_vocab": "▁grey", "category": "OK", "decoded": " grey", "metrics": [50.656298, 53.672748, 57.160681], "main_metric": 50.656298}
+{"i": 3946, "raw_vocab": "▁mark", "category": "OK", "decoded": " mark", "metrics": [50.652726, 53.593827, 62.356239], "main_metric": 50.652726}
+{"i": 13401, "raw_vocab": "▁Kentucky", "category": "OK", "decoded": " Kentucky", "metrics": [50.649719, 53.668104, 49.635084], "main_metric": 50.649719}
+{"i": 19583, "raw_vocab": "incoming", "category": "OK", "decoded": "incoming", "metrics": [50.648368, 53.692901, 50.663152], "main_metric": 50.648368}
+{"i": 28169, "raw_vocab": "▁Allison", "category": "OK", "decoded": " Allison", "metrics": [50.642969, 53.596633, 57.896518], "main_metric": 50.642969}
+{"i": 18274, "raw_vocab": "▁archives", "category": "OK", "decoded": " archives", "metrics": [50.634411, 53.56675, 44.688266], "main_metric": 50.634411}
+{"i": 29068, "raw_vocab": "▁témoignage", "category": "OK", "decoded": " témoignage", "metrics": [50.626194, 53.611983, 49.943129], "main_metric": 50.626194}
+{"i": 13159, "raw_vocab": "issue", "category": "OK", "decoded": "issue", "metrics": [50.595003, 53.566974, 51.638805], "main_metric": 50.595003}
+{"i": 28465, "raw_vocab": "▁sollicit", "category": "OK", "decoded": " sollicit", "metrics": [50.592225, 53.636924, 71.594143], "main_metric": 50.592225}
+{"i": 18660, "raw_vocab": "▁greeting", "category": "OK", "decoded": " greeting", "metrics": [50.588724, 53.635271, 43.671116], "main_metric": 50.588724}
+{"i": 733, "raw_vocab": "▁story", "category": "OK", "decoded": " story", "metrics": [50.586819, 53.53307, 62.062686], "main_metric": 50.586819}
+{"i": 19907, "raw_vocab": "▁annoncé", "category": "OK", "decoded": " annoncé", "metrics": [50.577825, 53.540328, 63.529468], "main_metric": 50.577825}
+{"i": 27689, "raw_vocab": "Kollekt", "category": "OK", "decoded": "Kollekt", "metrics": [50.577027, 53.579239, 55.431767], "main_metric": 50.577027}
+{"i": 21400, "raw_vocab": "gerufen", "category": "OK", "decoded": "gerufen", "metrics": [50.572538, 53.625544, 62.441863], "main_metric": 50.572538}
+{"i": 14891, "raw_vocab": "▁lernen", "category": "OK", "decoded": " lernen", "metrics": [50.570289, 53.510977, 62.830379], "main_metric": 50.570289}
+{"i": 17011, "raw_vocab": "▁Options", "category": "OK", "decoded": " Options", "metrics": [50.566243, 53.491796, 49.208422], "main_metric": 50.566243}
+{"i": 7449, "raw_vocab": "▁Iran", "category": "OK", "decoded": " Iran", "metrics": [50.563427, 53.594378, 58.560295], "main_metric": 50.563427}
+{"i": 28358, "raw_vocab": "▁tactile", "category": "OK", "decoded": " tactile", "metrics": [50.552105, 53.545595, 42.260868], "main_metric": 50.552105}
+{"i": 16592, "raw_vocab": "chide", "category": "OK", "decoded": "chide", "metrics": [50.544345, 53.66248, 31.190415], "main_metric": 50.544345}
+{"i": 25963, "raw_vocab": "▁Volk", "category": "OK", "decoded": " Volk", "metrics": [50.537117, 53.610578, 68.922111], "main_metric": 50.537117}
+{"i": 8357, "raw_vocab": "▁Sony", "category": "OK", "decoded": " Sony", "metrics": [50.536474, 53.55531, 51.757527], "main_metric": 50.536474}
+{"i": 1216, "raw_vocab": "▁cum", "category": "OK", "decoded": " cum", "metrics": [50.536031, 53.595734, 63.622616], "main_metric": 50.536031}
+{"i": 29563, "raw_vocab": "intelligence", "category": "OK", "decoded": "intelligence", "metrics": [50.533924, 53.428916, 55.479257], "main_metric": 50.533924}
+{"i": 9661, "raw_vocab": "▁Cluj", "category": "OK", "decoded": " Cluj", "metrics": [50.528455, 53.542881, 30.705086], "main_metric": 50.528455}
+{"i": 26849, "raw_vocab": "▁Surrey", "category": "OK", "decoded": " Surrey", "metrics": [50.524902, 53.513995, 57.047245], "main_metric": 50.524902}
+{"i": 29295, "raw_vocab": "▁Sorin", "category": "OK", "decoded": " Sorin", "metrics": [50.522974, 53.494686, 70.905432], "main_metric": 50.522974}
+{"i": 28995, "raw_vocab": "freiheit", "category": "OK", "decoded": "freiheit", "metrics": [50.511354, 53.425097, 55.554428], "main_metric": 50.511354}
+{"i": 21140, "raw_vocab": "▁Milwaukee", "category": "OK", "decoded": " Milwaukee", "metrics": [50.510946, 53.450272, 30.514928], "main_metric": 50.510946}
+{"i": 26158, "raw_vocab": "▁Marius", "category": "OK", "decoded": " Marius", "metrics": [50.50975, 53.511211, 51.29913], "main_metric": 50.50975}
+{"i": 16688, "raw_vocab": "▁Concept", "category": "OK", "decoded": " Concept", "metrics": [50.509136, 53.405658, 64.27763], "main_metric": 50.509136}
+{"i": 31696, "raw_vocab": "▁Portsmouth", "category": "OK", "decoded": " Portsmouth", "metrics": [50.507867, 53.460256, 49.459435], "main_metric": 50.507867}
+{"i": 27992, "raw_vocab": "extrême", "category": "OK", "decoded": "extrême", "metrics": [50.507238, 53.534857, 50.455343], "main_metric": 50.507238}
+{"i": 28481, "raw_vocab": "▁Timișoara", "category": "OK", "decoded": " Timișoara", "metrics": [50.505271, 53.527225, 48.252615], "main_metric": 50.505271}
+{"i": 28867, "raw_vocab": "kamera", "category": "OK", "decoded": "kamera", "metrics": [50.494729, 53.542632, 62.478318], "main_metric": 50.494729}
+{"i": 15641, "raw_vocab": "▁Rosa", "category": "OK", "decoded": " Rosa", "metrics": [50.494371, 53.59094, 55.517474], "main_metric": 50.494371}
+{"i": 21751, "raw_vocab": "▁Noir", "category": "OK", "decoded": " Noir", "metrics": [50.494328, 53.463503, 48.543214], "main_metric": 50.494328}
+{"i": 21639, "raw_vocab": "▁matériaux", "category": "OK", "decoded": " matériaux", "metrics": [50.485616, 53.409637, 55.91584], "main_metric": 50.485616}
+{"i": 30715, "raw_vocab": "circulating", "category": "OK", "decoded": "circulating", "metrics": [50.478218, 53.544159, 31.479802], "main_metric": 50.478218}
+{"i": 9018, "raw_vocab": "▁progressive", "category": "OK", "decoded": " progressive", "metrics": [50.478172, 53.45791, 55.797492], "main_metric": 50.478172}
+{"i": 26959, "raw_vocab": "lädt", "category": "OK", "decoded": "lädt", "metrics": [50.477064, 53.531789, 57.354581], "main_metric": 50.477064}
+{"i": 4531, "raw_vocab": "▁Series", "category": "OK", "decoded": " Series", "metrics": [50.47626, 53.468512, 36.421746], "main_metric": 50.47626}
+{"i": 12868, "raw_vocab": "▁lac", "category": "OK", "decoded": " lac", "metrics": [50.47426, 53.476319, 55.572633], "main_metric": 50.47426}
+{"i": 29136, "raw_vocab": "▁ethic", "category": "OK", "decoded": " ethic", "metrics": [50.465028, 53.372671, 57.464643], "main_metric": 50.465028}
+{"i": 15006, "raw_vocab": "▁clasic", "category": "OK", "decoded": " clasic", "metrics": [50.459645, 53.433233, 29.680764], "main_metric": 50.459645}
+{"i": 21747, "raw_vocab": "▁cadou", "category": "OK", "decoded": " cadou", "metrics": [50.459168, 53.418815, 55.383307], "main_metric": 50.459168}
+{"i": 5049, "raw_vocab": "▁Mel", "category": "OK", "decoded": " Mel", "metrics": [50.459048, 53.460579, 43.283811], "main_metric": 50.459048}
+{"i": 30657, "raw_vocab": "bureaux", "category": "OK", "decoded": "bureaux", "metrics": [50.458024, 53.421719, 50.031666], "main_metric": 50.458024}
+{"i": 10181, "raw_vocab": "▁Termin", "category": "OK", "decoded": " Termin", "metrics": [50.456966, 53.434424, 56.252502], "main_metric": 50.456966}
+{"i": 28077, "raw_vocab": "finalists", "category": "OK", "decoded": "finalists", "metrics": [50.447486, 53.557787, 56.405607], "main_metric": 50.447486}
+{"i": 3653, "raw_vocab": "▁appreciate", "category": "OK", "decoded": " appreciate", "metrics": [50.44694, 53.342035, 42.054573], "main_metric": 50.44694}
+{"i": 16870, "raw_vocab": "▁Czech", "category": "OK", "decoded": " Czech", "metrics": [50.445713, 53.455696, 43.229748], "main_metric": 50.445713}
+{"i": 3516, "raw_vocab": "▁worry", "category": "OK", "decoded": " worry", "metrics": [50.438958, 53.568502, 44.552478], "main_metric": 50.438958}
+{"i": 31412, "raw_vocab": "▁magician", "category": "OK", "decoded": " magician", "metrics": [50.436365, 53.422581, 57.491691], "main_metric": 50.436365}
+{"i": 31128, "raw_vocab": "▁bumbac", "category": "OK", "decoded": " bumbac", "metrics": [50.434322, 53.438868, 49.408073], "main_metric": 50.434322}
+{"i": 27794, "raw_vocab": "Appel", "category": "OK", "decoded": "Appel", "metrics": [50.434233, 53.421989, 43.967907], "main_metric": 50.434233}
+{"i": 10226, "raw_vocab": "▁Rights", "category": "OK", "decoded": " Rights", "metrics": [50.431164, 53.393858, 62.144232], "main_metric": 50.431164}
+{"i": 25933, "raw_vocab": "▁diary", "category": "OK", "decoded": " diary", "metrics": [50.426777, 53.390858, 31.967692], "main_metric": 50.426777}
+{"i": 15592, "raw_vocab": "valent", "category": "OK", "decoded": "valent", "metrics": [50.419388, 53.401689, 35.303126], "main_metric": 50.419388}
+{"i": 15926, "raw_vocab": "▁camps", "category": "OK", "decoded": " camps", "metrics": [50.401645, 53.46716, 43.425003], "main_metric": 50.401645}
+{"i": 19691, "raw_vocab": "settling", "category": "OK", "decoded": "settling", "metrics": [50.397734, 53.366223, 49.805788], "main_metric": 50.397734}
+{"i": 17994, "raw_vocab": "citing", "category": "OK", "decoded": "citing", "metrics": [50.39192, 53.357459, 36.338751], "main_metric": 50.39192}
+{"i": 24583, "raw_vocab": "▁Progress", "category": "OK", "decoded": " Progress", "metrics": [50.388844, 53.341359, 55.386125], "main_metric": 50.388844}
+{"i": 29697, "raw_vocab": "▁BlackBerry", "category": "OK", "decoded": " BlackBerry", "metrics": [50.379493, 53.416127, 43.753869], "main_metric": 50.379493}
+{"i": 23655, "raw_vocab": "▁summon", "category": "OK", "decoded": " summon", "metrics": [50.36601, 53.426103, 71.012481], "main_metric": 50.36601}
+{"i": 26134, "raw_vocab": "▁contender", "category": "OK", "decoded": " contender", "metrics": [50.34917, 53.365281, 36.747621], "main_metric": 50.34917}
+{"i": 17755, "raw_vocab": "▁counselor", "category": "OK", "decoded": " counselor", "metrics": [50.342948, 53.313019, 38.097365], "main_metric": 50.342948}
+{"i": 15489, "raw_vocab": "▁refine", "category": "OK", "decoded": " refine", "metrics": [50.336418, 53.270044, 49.478008], "main_metric": 50.336418}
+{"i": 15374, "raw_vocab": "▁Request", "category": "OK", "decoded": " Request", "metrics": [50.328295, 53.355225, 45.186969], "main_metric": 50.328295}
+{"i": 21450, "raw_vocab": "▁Jamaica", "category": "OK", "decoded": " Jamaica", "metrics": [50.324594, 53.276166, 31.26853], "main_metric": 50.324594}
+{"i": 5023, "raw_vocab": "▁speech", "category": "OK", "decoded": " speech", "metrics": [50.323545, 53.296964, 55.495958], "main_metric": 50.323545}
+{"i": 16806, "raw_vocab": "▁TVA", "category": "OK", "decoded": " TVA", "metrics": [50.322934, 53.274137, 38.213974], "main_metric": 50.322934}
+{"i": 5156, "raw_vocab": "▁Tage", "category": "OK", "decoded": " Tage", "metrics": [50.319931, 53.27268, 56.100885], "main_metric": 50.319931}
+{"i": 30617, "raw_vocab": "Părinte", "category": "OK", "decoded": "Părinte", "metrics": [50.318075, 53.180785, 41.765156], "main_metric": 50.318075}
+{"i": 22508, "raw_vocab": "▁bucks", "category": "OK", "decoded": " bucks", "metrics": [50.317457, 53.262466, 49.814347], "main_metric": 50.317457}
+{"i": 27279, "raw_vocab": "▁Herald", "category": "OK", "decoded": " Herald", "metrics": [50.316558, 53.285106, 49.304746], "main_metric": 50.316558}
+{"i": 27466, "raw_vocab": "▁sonore", "category": "OK", "decoded": " sonore", "metrics": [50.314012, 53.241239, 45.020423], "main_metric": 50.314012}
+{"i": 11959, "raw_vocab": "▁Valentine", "category": "OK", "decoded": " Valentine", "metrics": [50.304744, 53.251422, 43.315476], "main_metric": 50.304744}
+{"i": 23908, "raw_vocab": "▁Verizon", "category": "OK", "decoded": " Verizon", "metrics": [50.302785, 53.259075, 44.351162], "main_metric": 50.302785}
+{"i": 1333, "raw_vocab": "▁Thanks", "category": "OK", "decoded": " Thanks", "metrics": [50.299688, 53.245191, 56.742327], "main_metric": 50.299688}
+{"i": 17531, "raw_vocab": "▁Chor", "category": "OK", "decoded": " Chor", "metrics": [50.294428, 53.237006, 41.067293], "main_metric": 50.294428}
+{"i": 31027, "raw_vocab": "icillin", "category": "OK", "decoded": "icillin", "metrics": [50.29371, 53.235905, 30.58512], "main_metric": 50.29371}
+{"i": 7458, "raw_vocab": "▁vente", "category": "OK", "decoded": " vente", "metrics": [50.284499, 53.192861, 68.252873], "main_metric": 50.284499}
+{"i": 29485, "raw_vocab": "▁Sherman", "category": "OK", "decoded": " Sherman", "metrics": [50.280274, 53.208143, 50.068277], "main_metric": 50.280274}
+{"i": 15356, "raw_vocab": "▁Tips", "category": "OK", "decoded": " Tips", "metrics": [50.275808, 53.212573, 43.963534], "main_metric": 50.275808}
+{"i": 22148, "raw_vocab": "accumulated", "category": "OK", "decoded": "accumulated", "metrics": [50.273615, 53.232683, 55.035811], "main_metric": 50.273615}
+{"i": 19191, "raw_vocab": "▁Meyer", "category": "OK", "decoded": " Meyer", "metrics": [50.272646, 53.179494, 43.448051], "main_metric": 50.272646}
+{"i": 29981, "raw_vocab": "▁Therapist", "category": "OK", "decoded": " Therapist", "metrics": [50.261371, 53.190482, 56.626259], "main_metric": 50.261371}
+{"i": 24290, "raw_vocab": "▁mediation", "category": "OK", "decoded": " mediation", "metrics": [50.251741, 53.190094, 37.247913], "main_metric": 50.251741}
+{"i": 16562, "raw_vocab": "▁struggles", "category": "OK", "decoded": " struggles", "metrics": [50.249768, 53.445523, 64.436131], "main_metric": 50.249768}
+{"i": 24674, "raw_vocab": "▁obsession", "category": "OK", "decoded": " obsession", "metrics": [50.235338, 53.21303, 56.407651], "main_metric": 50.235338}
+{"i": 23233, "raw_vocab": "▁Ruf", "category": "OK", "decoded": " Ruf", "metrics": [50.233988, 53.233243, 43.239999], "main_metric": 50.233988}
+{"i": 6437, "raw_vocab": "▁listing", "category": "OK", "decoded": " listing", "metrics": [50.219623, 53.188923, 55.465003], "main_metric": 50.219623}
+{"i": 21352, "raw_vocab": "▁profund", "category": "OK", "decoded": " profund", "metrics": [50.219274, 53.14362, 36.578257], "main_metric": 50.219274}
+{"i": 19461, "raw_vocab": "▁Schle", "category": "OK", "decoded": " Schle", "metrics": [50.214601, 53.190833, 56.623731], "main_metric": 50.214601}
+{"i": 26103, "raw_vocab": "▁dorint", "category": "OK", "decoded": " dorint", "metrics": [50.213605, 53.244939, 49.575828], "main_metric": 50.213605}
+{"i": 18963, "raw_vocab": "▁equality", "category": "OK", "decoded": " equality", "metrics": [50.206268, 53.218645, 48.986472], "main_metric": 50.206268}
+{"i": 7332, "raw_vocab": "▁Rome", "category": "OK", "decoded": " Rome", "metrics": [50.204461, 53.149718, 49.016849], "main_metric": 50.204461}
+{"i": 29201, "raw_vocab": "▁Plastik", "category": "OK", "decoded": " Plastik", "metrics": [50.193186, 53.217636, 63.164302], "main_metric": 50.193186}
+{"i": 28081, "raw_vocab": "▁descarc", "category": "OK", "decoded": " descarc", "metrics": [50.192831, 53.282113, 64.466488], "main_metric": 50.192831}
+{"i": 17563, "raw_vocab": "▁Buffalo", "category": "OK", "decoded": " Buffalo", "metrics": [50.185122, 53.187439, 62.649094], "main_metric": 50.185122}
+{"i": 18738, "raw_vocab": "▁hue", "category": "OK", "decoded": " hue", "metrics": [50.176606, 53.086746, 44.022036], "main_metric": 50.176606}
+{"i": 19854, "raw_vocab": "▁Sonne", "category": "OK", "decoded": " Sonne", "metrics": [50.174865, 53.133469, 56.409357], "main_metric": 50.174865}
+{"i": 26618, "raw_vocab": "gemeldet", "category": "OK", "decoded": "gemeldet", "metrics": [50.172743, 53.168788, 37.682916], "main_metric": 50.172743}
+{"i": 8109, "raw_vocab": "▁narrative", "category": "OK", "decoded": " narrative", "metrics": [50.16893, 53.12014, 57.485335], "main_metric": 50.16893}
+{"i": 29345, "raw_vocab": "▁Griffith", "category": "OK", "decoded": " Griffith", "metrics": [50.166703, 53.161063, 43.43436], "main_metric": 50.166703}
+{"i": 5374, "raw_vocab": "▁invited", "category": "OK", "decoded": " invited", "metrics": [50.156608, 53.143711, 43.861252], "main_metric": 50.156608}
+{"i": 31559, "raw_vocab": "▁excesiv", "category": "OK", "decoded": " excesiv", "metrics": [50.145541, 53.119099, 49.367596], "main_metric": 50.145541}
+{"i": 14253, "raw_vocab": "▁Philipp", "category": "OK", "decoded": " Philipp", "metrics": [50.137684, 53.060815, 55.350026], "main_metric": 50.137684}
+{"i": 23893, "raw_vocab": "▁Symposium", "category": "OK", "decoded": " Symposium", "metrics": [50.133883, 53.702296, 37.849873], "main_metric": 50.133883}
+{"i": 6937, "raw_vocab": "▁rising", "category": "OK", "decoded": " rising", "metrics": [50.133133, 53.127709, 23.397803], "main_metric": 50.133133}
+{"i": 11637, "raw_vocab": "▁Pages", "category": "OK", "decoded": " Pages", "metrics": [50.132265, 53.033478, 55.21002], "main_metric": 50.132265}
+{"i": 7904, "raw_vocab": "▁Nigeria", "category": "OK", "decoded": " Nigeria", "metrics": [50.1276, 53.085596, 43.050734], "main_metric": 50.1276}
+{"i": 19596, "raw_vocab": "▁konkret", "category": "OK", "decoded": " konkret", "metrics": [50.124808, 52.982709, 56.134487], "main_metric": 50.124808}
+{"i": 7828, "raw_vocab": "▁fault", "category": "OK", "decoded": " fault", "metrics": [50.121931, 53.190637, 51.060381], "main_metric": 50.121931}
+{"i": 22073, "raw_vocab": "▁pairing", "category": "OK", "decoded": " pairing", "metrics": [50.107677, 53.085373, 54.495897], "main_metric": 50.107677}
+{"i": 13933, "raw_vocab": "▁Kurs", "category": "OK", "decoded": " Kurs", "metrics": [50.097506, 53.083524, 49.688779], "main_metric": 50.097506}
+{"i": 3256, "raw_vocab": "▁continues", "category": "OK", "decoded": " continues", "metrics": [50.091794, 53.094592, 60.855896], "main_metric": 50.091794}
+{"i": 7171, "raw_vocab": "doc", "category": "OK", "decoded": "doc", "metrics": [50.089931, 52.983839, 43.482519], "main_metric": 50.089931}
+{"i": 31310, "raw_vocab": "▁regizor", "category": "OK", "decoded": " regizor", "metrics": [50.089437, 53.074658, 62.264787], "main_metric": 50.089437}
+{"i": 4730, "raw_vocab": "▁campus", "category": "OK", "decoded": " campus", "metrics": [50.08517, 53.078012, 44.510233], "main_metric": 50.08517}
+{"i": 10114, "raw_vocab": "meld", "category": "OK", "decoded": "meld", "metrics": [50.084344, 53.061656, 56.511438], "main_metric": 50.084344}
+{"i": 11024, "raw_vocab": "▁Woche", "category": "OK", "decoded": " Woche", "metrics": [50.081676, 53.089841, 67.916572], "main_metric": 50.081676}
+{"i": 24795, "raw_vocab": "▁équipements", "category": "OK", "decoded": " équipements", "metrics": [50.080377, 52.969713, 54.667419], "main_metric": 50.080377}
+{"i": 27761, "raw_vocab": "▁Britanie", "category": "OK", "decoded": " Britanie", "metrics": [50.079741, 53.032274, 48.834419], "main_metric": 50.079741}
+{"i": 15968, "raw_vocab": "▁poses", "category": "OK", "decoded": " poses", "metrics": [50.066672, 53.134766, 50.378678], "main_metric": 50.066672}
+{"i": 7702, "raw_vocab": "▁consequences", "category": "OK", "decoded": " consequences", "metrics": [50.064012, 53.054566, 58.006998], "main_metric": 50.064012}
+{"i": 10223, "raw_vocab": "▁contents", "category": "OK", "decoded": " contents", "metrics": [50.061115, 52.935909, 47.882775], "main_metric": 50.061115}
+{"i": 16175, "raw_vocab": "▁chapters", "category": "OK", "decoded": " chapters", "metrics": [50.06082, 52.970076, 55.693715], "main_metric": 50.06082}
+{"i": 9681, "raw_vocab": "▁condo", "category": "OK", "decoded": " condo", "metrics": [50.051796, 52.988413, 41.75654], "main_metric": 50.051796}
+{"i": 6139, "raw_vocab": "▁crazy", "category": "OK", "decoded": " crazy", "metrics": [50.047322, 53.016613, 49.366976], "main_metric": 50.047322}
+{"i": 27831, "raw_vocab": "▁revenge", "category": "OK", "decoded": " revenge", "metrics": [50.047284, 52.949479, 62.515793], "main_metric": 50.047284}
+{"i": 18184, "raw_vocab": "▁renewed", "category": "OK", "decoded": " renewed", "metrics": [50.041852, 52.943349, 48.137056], "main_metric": 50.041852}
+{"i": 11441, "raw_vocab": "▁centres", "category": "OK", "decoded": " centres", "metrics": [50.040865, 52.961992, 61.796269], "main_metric": 50.040865}
+{"i": 6060, "raw_vocab": "▁Williams", "category": "OK", "decoded": " Williams", "metrics": [50.040799, 52.996113, 43.598253], "main_metric": 50.040799}
+{"i": 26606, "raw_vocab": "▁Richter", "category": "OK", "decoded": " Richter", "metrics": [50.039734, 52.961593, 61.694258], "main_metric": 50.039734}
+{"i": 14657, "raw_vocab": "assurance", "category": "OK", "decoded": "assurance", "metrics": [50.037539, 52.917815, 30.965495], "main_metric": 50.037539}
+{"i": 20887, "raw_vocab": "▁Keller", "category": "OK", "decoded": " Keller", "metrics": [50.033702, 53.037685, 37.919989], "main_metric": 50.033702}
+{"i": 22429, "raw_vocab": "▁stool", "category": "OK", "decoded": " stool", "metrics": [50.026745, 53.056332, 62.00915], "main_metric": 50.026745}
+{"i": 1448, "raw_vocab": "▁word", "category": "OK", "decoded": " word", "metrics": [50.026508, 52.965836, 47.753953], "main_metric": 50.026508}
+{"i": 14929, "raw_vocab": "▁sprinkle", "category": "OK", "decoded": " sprinkle", "metrics": [50.016309, 53.017973, 43.998279], "main_metric": 50.016309}
+{"i": 19500, "raw_vocab": "▁Vienna", "category": "OK", "decoded": " Vienna", "metrics": [50.004506, 52.95129, 61.333007], "main_metric": 50.004506}
+{"i": 13412, "raw_vocab": "▁changer", "category": "OK", "decoded": " changer", "metrics": [49.999473, 52.956474, 50.490875], "main_metric": 49.999473}
+{"i": 26399, "raw_vocab": "▁fingertips", "category": "OK", "decoded": " fingertips", "metrics": [49.997891, 53.017369, 47.99849], "main_metric": 49.997891}
+{"i": 22242, "raw_vocab": "▁Workers", "category": "OK", "decoded": " Workers", "metrics": [49.997739, 52.974086, 43.191742], "main_metric": 49.997739}
+{"i": 23054, "raw_vocab": "▁taie", "category": "OK", "decoded": " taie", "metrics": [49.997039, 52.991499, 49.465149], "main_metric": 49.997039}
+{"i": 23686, "raw_vocab": "▁Deposit", "category": "OK", "decoded": " Deposit", "metrics": [49.996855, 52.90702, 57.091993], "main_metric": 49.996855}
+{"i": 21638, "raw_vocab": "fuhr", "category": "OK", "decoded": "fuhr", "metrics": [49.990501, 52.980914, 67.857083], "main_metric": 49.990501}
+{"i": 21181, "raw_vocab": "prayed", "category": "OK", "decoded": "prayed", "metrics": [49.989637, 52.950692, 57.286982], "main_metric": 49.989637}
+{"i": 12148, "raw_vocab": "▁Camera", "category": "OK", "decoded": " Camera", "metrics": [49.989551, 53.066169, 49.063771], "main_metric": 49.989551}
+{"i": 28502, "raw_vocab": "nozzle", "category": "OK", "decoded": "nozzle", "metrics": [49.986918, 52.927049, 41.816683], "main_metric": 49.986918}
+{"i": 4381, "raw_vocab": "▁recorded", "category": "OK", "decoded": " recorded", "metrics": [49.983475, 52.89691, 68.570072], "main_metric": 49.983475}
+{"i": 23681, "raw_vocab": "▁Accessories", "category": "OK", "decoded": " Accessories", "metrics": [49.981972, 52.965246, 55.781447], "main_metric": 49.981972}
+{"i": 31334, "raw_vocab": "Vaccin", "category": "OK", "decoded": "Vaccin", "metrics": [49.980838, 52.894727, 43.735547], "main_metric": 49.980838}
+{"i": 8521, "raw_vocab": "▁overnight", "category": "OK", "decoded": " overnight", "metrics": [49.969276, 52.919558, 36.658305], "main_metric": 49.969276}
+{"i": 1209, "raw_vocab": "elor", "category": "OK", "decoded": "elor", "metrics": [49.968879, 52.92863, 61.479932], "main_metric": 49.968879}
+{"i": 14528, "raw_vocab": "pelled", "category": "OK", "decoded": "pelled", "metrics": [49.967594, 52.914728, 61.537492], "main_metric": 49.967594}
+{"i": 22203, "raw_vocab": "▁Duty", "category": "OK", "decoded": " Duty", "metrics": [49.963341, 52.840926, 42.415144], "main_metric": 49.963341}
+{"i": 27766, "raw_vocab": "▁prescribe", "category": "OK", "decoded": " prescribe", "metrics": [49.962991, 52.808239, 61.415148], "main_metric": 49.962991}
+{"i": 26789, "raw_vocab": "▁Impress", "category": "OK", "decoded": " Impress", "metrics": [49.956804, 52.865434, 42.392391], "main_metric": 49.956804}
+{"i": 3358, "raw_vocab": "▁notes", "category": "OK", "decoded": " notes", "metrics": [49.952821, 52.854347, 55.728229], "main_metric": 49.952821}
+{"i": 22697, "raw_vocab": "▁Layer", "category": "OK", "decoded": " Layer", "metrics": [49.951051, 52.904749, 44.011726], "main_metric": 49.951051}
+{"i": 24113, "raw_vocab": "macher", "category": "OK", "decoded": "macher", "metrics": [49.947191, 52.888747, 49.661434], "main_metric": 49.947191}
+{"i": 19027, "raw_vocab": "▁Eisen", "category": "OK", "decoded": " Eisen", "metrics": [49.941217, 52.796793, 34.693055], "main_metric": 49.941217}
+{"i": 17013, "raw_vocab": "▁adviser", "category": "OK", "decoded": " adviser", "metrics": [49.933683, 52.860106, 51.244435], "main_metric": 49.933683}
+{"i": 3161, "raw_vocab": "▁resolution", "category": "OK", "decoded": " resolution", "metrics": [49.927928, 52.929237, 42.818935], "main_metric": 49.927928}
+{"i": 11336, "raw_vocab": "▁developments", "category": "OK", "decoded": " developments", "metrics": [49.921638, 52.798181, 61.546948], "main_metric": 49.921638}
+{"i": 29956, "raw_vocab": "Ecole", "category": "OK", "decoded": "Ecole", "metrics": [49.916031, 52.872716, 49.508838], "main_metric": 49.916031}
+{"i": 11643, "raw_vocab": "▁Bedroom", "category": "OK", "decoded": " Bedroom", "metrics": [49.913828, 52.892083, 55.892369], "main_metric": 49.913828}
+{"i": 12533, "raw_vocab": "▁lid", "category": "OK", "decoded": " lid", "metrics": [49.912076, 52.847858, 67.895831], "main_metric": 49.912076}
+{"i": 27830, "raw_vocab": "▁Lancaster", "category": "OK", "decoded": " Lancaster", "metrics": [49.908026, 52.875997, 48.096779], "main_metric": 49.908026}
+{"i": 20427, "raw_vocab": "▁Wochenende", "category": "OK", "decoded": " Wochenende", "metrics": [49.905375, 52.850604, 37.02534], "main_metric": 49.905375}
+{"i": 25723, "raw_vocab": "▁penetration", "category": "OK", "decoded": " penetration", "metrics": [49.88819, 52.860242, 55.476614], "main_metric": 49.88819}
+{"i": 28956, "raw_vocab": "▁batches", "category": "OK", "decoded": " batches", "metrics": [49.887971, 52.892691, 49.731694], "main_metric": 49.887971}
+{"i": 19809, "raw_vocab": "▁Ottawa", "category": "OK", "decoded": " Ottawa", "metrics": [49.885503, 52.886433, 47.287854], "main_metric": 49.885503}
+{"i": 19164, "raw_vocab": "▁scaun", "category": "OK", "decoded": " scaun", "metrics": [49.880525, 52.85383, 51.014267], "main_metric": 49.880525}
+{"i": 5302, "raw_vocab": "▁introduction", "category": "OK", "decoded": " introduction", "metrics": [49.877673, 52.796591, 55.063833], "main_metric": 49.877673}
+{"i": 14911, "raw_vocab": "▁spate", "category": "OK", "decoded": " spate", "metrics": [49.876793, 52.83087, 48.447107], "main_metric": 49.876793}
+{"i": 14729, "raw_vocab": "▁Risk", "category": "OK", "decoded": " Risk", "metrics": [49.875496, 52.89207, 69.493484], "main_metric": 49.875496}
+{"i": 15423, "raw_vocab": "▁Turkish", "category": "OK", "decoded": " Turkish", "metrics": [49.875398, 52.865482, 64.465028], "main_metric": 49.875398}
+{"i": 7940, "raw_vocab": "▁Meanwhile", "category": "OK", "decoded": " Meanwhile", "metrics": [49.873446, 52.856542, 49.517594], "main_metric": 49.873446}
+{"i": 9745, "raw_vocab": "▁Minnesota", "category": "OK", "decoded": " Minnesota", "metrics": [49.862747, 52.728141, 43.699291], "main_metric": 49.862747}
+{"i": 10763, "raw_vocab": "▁cod", "category": "OK", "decoded": " cod", "metrics": [49.854987, 52.827859, 23.3957], "main_metric": 49.854987}
+{"i": 22591, "raw_vocab": "▁recap", "category": "OK", "decoded": " recap", "metrics": [49.851725, 52.794593, 62.049806], "main_metric": 49.851725}
+{"i": 29484, "raw_vocab": "▁gelernt", "category": "OK", "decoded": " gelernt", "metrics": [49.851264, 52.724427, 49.632749], "main_metric": 49.851264}
+{"i": 17191, "raw_vocab": "▁König", "category": "OK", "decoded": " König", "metrics": [49.850744, 52.825094, 63.25592], "main_metric": 49.850744}
+{"i": 22904, "raw_vocab": "▁grec", "category": "OK", "decoded": " grec", "metrics": [49.846994, 52.842452, 62.820337], "main_metric": 49.846994}
+{"i": 31697, "raw_vocab": "▁împărat", "category": "OK", "decoded": " împărat", "metrics": [49.84546, 52.761757, 50.754428], "main_metric": 49.84546}
+{"i": 23573, "raw_vocab": "▁Leder", "category": "OK", "decoded": " Leder", "metrics": [49.842102, 52.745425, 49.641415], "main_metric": 49.842102}
+{"i": 26087, "raw_vocab": "▁Klo", "category": "OK", "decoded": " Klo", "metrics": [49.839452, 52.806318, 52.993928], "main_metric": 49.839452}
+{"i": 29361, "raw_vocab": "▁tripod", "category": "OK", "decoded": " tripod", "metrics": [49.828541, 52.749845, 43.100809], "main_metric": 49.828541}
+{"i": 22257, "raw_vocab": "viens", "category": "OK", "decoded": "viens", "metrics": [49.81435, 52.754135, 48.599694], "main_metric": 49.81435}
+{"i": 27808, "raw_vocab": "▁britanic", "category": "OK", "decoded": " britanic", "metrics": [49.811542, 52.698495, 48.539349], "main_metric": 49.811542}
+{"i": 1253, "raw_vocab": "▁chance", "category": "OK", "decoded": " chance", "metrics": [49.79933, 52.808794, 44.231206], "main_metric": 49.79933}
+{"i": 24094, "raw_vocab": "▁simptome", "category": "OK", "decoded": " simptome", "metrics": [49.787933, 52.723354, 56.4617], "main_metric": 49.787933}
+{"i": 19989, "raw_vocab": "▁HTC", "category": "OK", "decoded": " HTC", "metrics": [49.782297, 52.736664, 48.16434], "main_metric": 49.782297}
+{"i": 25682, "raw_vocab": "▁tava", "category": "OK", "decoded": " tava", "metrics": [49.772639, 52.655256, 48.5523], "main_metric": 49.772639}
+{"i": 1004, "raw_vocab": "▁opportunity", "category": "OK", "decoded": " opportunity", "metrics": [49.772422, 52.670142, 49.580113], "main_metric": 49.772422}
+{"i": 1105, "raw_vocab": "▁users", "category": "OK", "decoded": " users", "metrics": [49.765759, 52.751143, 49.63466], "main_metric": 49.765759}
+{"i": 20587, "raw_vocab": "Emmanuel", "category": "OK", "decoded": "Emmanuel", "metrics": [49.74463, 52.731818, 50.267662], "main_metric": 49.74463}
+{"i": 21769, "raw_vocab": "▁cursuri", "category": "OK", "decoded": " cursuri", "metrics": [49.741662, 52.662406, 67.110765], "main_metric": 49.741662}
+{"i": 22988, "raw_vocab": "▁Olympia", "category": "OK", "decoded": " Olympia", "metrics": [49.731534, 52.726077, 67.954373], "main_metric": 49.731534}
+{"i": 16621, "raw_vocab": "▁candid", "category": "OK", "decoded": " candid", "metrics": [49.717083, 52.680954, 49.091492], "main_metric": 49.717083}
+{"i": 2931, "raw_vocab": "▁audio", "category": "OK", "decoded": " audio", "metrics": [49.715797, 52.693759, 41.725241], "main_metric": 49.715797}
+{"i": 30136, "raw_vocab": "▁vicious", "category": "OK", "decoded": " vicious", "metrics": [49.711407, 52.689351, 48.631645], "main_metric": 49.711407}
+{"i": 27153, "raw_vocab": "njeux", "category": "OK", "decoded": "njeux", "metrics": [49.707149, 52.678215, 51.056646], "main_metric": 49.707149}
+{"i": 20886, "raw_vocab": "izeaza", "category": "OK", "decoded": "izeaza", "metrics": [49.704007, 52.607823, 35.374932], "main_metric": 49.704007}
+{"i": 29270, "raw_vocab": "▁Weihnachten", "category": "OK", "decoded": " Weihnachten", "metrics": [49.685699, 52.61055, 43.05609], "main_metric": 49.685699}
+{"i": 19985, "raw_vocab": "▁francez", "category": "OK", "decoded": " francez", "metrics": [49.681612, 52.571968, 41.634621], "main_metric": 49.681612}
+{"i": 30018, "raw_vocab": "▁adanc", "category": "OK", "decoded": " adanc", "metrics": [49.677953, 52.672347, 42.817314], "main_metric": 49.677953}
+{"i": 24484, "raw_vocab": "▁Leiter", "category": "OK", "decoded": " Leiter", "metrics": [49.670445, 52.589888, 54.62764], "main_metric": 49.670445}
+{"i": 22053, "raw_vocab": "bisschen", "category": "OK", "decoded": "bisschen", "metrics": [49.669631, 52.641882, 55.308049], "main_metric": 49.669631}
+{"i": 21675, "raw_vocab": "▁shrub", "category": "OK", "decoded": " shrub", "metrics": [49.66162, 52.68525, 56.573588], "main_metric": 49.66162}
+{"i": 13735, "raw_vocab": "Poate", "category": "OK", "decoded": "Poate", "metrics": [49.653995, 52.528874, 48.047782], "main_metric": 49.653995}
+{"i": 7491, "raw_vocab": "▁Article", "category": "OK", "decoded": " Article", "metrics": [49.651453, 52.524581, 55.352608], "main_metric": 49.651453}
+{"i": 24790, "raw_vocab": "stroke", "category": "OK", "decoded": "stroke", "metrics": [49.615346, 52.524681, 62.041184], "main_metric": 49.615346}
+{"i": 3239, "raw_vocab": "▁formation", "category": "OK", "decoded": " formation", "metrics": [49.610778, 52.560412, 63.080155], "main_metric": 49.610778}
+{"i": 16895, "raw_vocab": "▁recomandat", "category": "OK", "decoded": " recomandat", "metrics": [49.597359, 52.514548, 55.039383], "main_metric": 49.597359}
+{"i": 25185, "raw_vocab": "▁Couple", "category": "OK", "decoded": " Couple", "metrics": [49.594744, 52.575685, 35.966542], "main_metric": 49.594744}
+{"i": 18906, "raw_vocab": "▁quantitative", "category": "OK", "decoded": " quantitative", "metrics": [49.594609, 52.476132, 35.615487], "main_metric": 49.594609}
+{"i": 26009, "raw_vocab": "▁Republicii", "category": "OK", "decoded": " Republicii", "metrics": [49.589686, 52.55421, 56.488852], "main_metric": 49.589686}
+{"i": 29527, "raw_vocab": "abonnement", "category": "OK", "decoded": "abonnement", "metrics": [49.587498, 52.544057, 37.131095], "main_metric": 49.587498}
+{"i": 27599, "raw_vocab": "rruption", "category": "OK", "decoded": "rruption", "metrics": [49.58148, 52.611694, 30.505763], "main_metric": 49.58148}
+{"i": 25672, "raw_vocab": "▁Raspberry", "category": "OK", "decoded": " Raspberry", "metrics": [49.567525, 52.593127, 50.401436], "main_metric": 49.567525}
+{"i": 11122, "raw_vocab": "▁acceptance", "category": "OK", "decoded": " acceptance", "metrics": [49.562957, 52.561386, 41.780456], "main_metric": 49.562957}
+{"i": 17740, "raw_vocab": "▁Spur", "category": "OK", "decoded": " Spur", "metrics": [49.550905, 52.458249, 36.385386], "main_metric": 49.550905}
+{"i": 25797, "raw_vocab": "needed", "category": "OK", "decoded": "needed", "metrics": [49.548858, 52.549932, 36.424698], "main_metric": 49.548858}
+{"i": 20785, "raw_vocab": "▁jeudi", "category": "OK", "decoded": " jeudi", "metrics": [49.544876, 52.443109, 48.957647], "main_metric": 49.544876}
+{"i": 29143, "raw_vocab": "assemblée", "category": "OK", "decoded": "assemblée", "metrics": [49.541186, 52.45585, 49.403297], "main_metric": 49.541186}
+{"i": 8824, "raw_vocab": "▁semn", "category": "OK", "decoded": " semn", "metrics": [49.532268, 52.417913, 30.346327], "main_metric": 49.532268}
+{"i": 13359, "raw_vocab": "▁peers", "category": "OK", "decoded": " peers", "metrics": [49.53112, 52.501268, 49.247691], "main_metric": 49.53112}
+{"i": 5513, "raw_vocab": "▁accessories", "category": "OK", "decoded": " accessories", "metrics": [49.529768, 52.424749, 35.105995], "main_metric": 49.529768}
+{"i": 31001, "raw_vocab": "▁ideologi", "category": "OK", "decoded": " ideologi", "metrics": [49.527103, 52.423156, 69.70202], "main_metric": 49.527103}
+{"i": 5469, "raw_vocab": "▁Cum", "category": "OK", "decoded": " Cum", "metrics": [49.52509, 52.556185, 41.542891], "main_metric": 49.52509}
+{"i": 30913, "raw_vocab": "empfindlich", "category": "OK", "decoded": "empfindlich", "metrics": [49.521787, 52.434562, 37.020192], "main_metric": 49.521787}
+{"i": 1632, "raw_vocab": "▁became", "category": "OK", "decoded": " became", "metrics": [49.512907, 52.418839, 47.766736], "main_metric": 49.512907}
+{"i": 16591, "raw_vocab": "▁frustrating", "category": "OK", "decoded": " frustrating", "metrics": [49.506996, 52.668716, 49.414849], "main_metric": 49.506996}
+{"i": 6599, "raw_vocab": "▁patio", "category": "OK", "decoded": " patio", "metrics": [49.497037, 52.449024, 42.979431], "main_metric": 49.497037}
+{"i": 24574, "raw_vocab": "▁Gegner", "category": "OK", "decoded": " Gegner", "metrics": [49.496796, 52.454358, 57.092069], "main_metric": 49.496796}
+{"i": 19369, "raw_vocab": "▁Promotion", "category": "OK", "decoded": " Promotion", "metrics": [49.489566, 52.429461, 42.066907], "main_metric": 49.489566}
+{"i": 17903, "raw_vocab": "▁Rhode", "category": "OK", "decoded": " Rhode", "metrics": [49.484839, 52.454101, 23.386293], "main_metric": 49.484839}
+{"i": 27921, "raw_vocab": "▁exposé", "category": "OK", "decoded": " exposé", "metrics": [49.466992, 52.466489, 68.264741], "main_metric": 49.466992}
+{"i": 26173, "raw_vocab": "▁Griff", "category": "OK", "decoded": " Griff", "metrics": [49.466353, 52.425844, 54.793604], "main_metric": 49.466353}
+{"i": 16469, "raw_vocab": "▁Kern", "category": "OK", "decoded": " Kern", "metrics": [49.463645, 52.370983, 48.576131], "main_metric": 49.463645}
+{"i": 21696, "raw_vocab": "▁bark", "category": "OK", "decoded": " bark", "metrics": [49.458123, 52.492889, 41.616301], "main_metric": 49.458123}
+{"i": 18715, "raw_vocab": "▁Armenia", "category": "OK", "decoded": " Armenia", "metrics": [49.455248, 52.482806, 56.310507], "main_metric": 49.455248}
+{"i": 18529, "raw_vocab": "▁Cham", "category": "OK", "decoded": " Cham", "metrics": [49.450635, 52.373881, 35.580728], "main_metric": 49.450635}
+{"i": 3336, "raw_vocab": "▁voi", "category": "OK", "decoded": " voi", "metrics": [49.437044, 52.376785, 42.610727], "main_metric": 49.437044}
+{"i": 21252, "raw_vocab": "▁Fisch", "category": "OK", "decoded": " Fisch", "metrics": [49.427664, 52.398086, 42.491024], "main_metric": 49.427664}
+{"i": 28410, "raw_vocab": "▁verteilt", "category": "OK", "decoded": " verteilt", "metrics": [49.426041, 52.341302, 55.090247], "main_metric": 49.426041}
+{"i": 13069, "raw_vocab": "teller", "category": "OK", "decoded": "teller", "metrics": [49.420187, 52.282231, 61.444902], "main_metric": 49.420187}
+{"i": 27688, "raw_vocab": "▁intermittent", "category": "OK", "decoded": " intermittent", "metrics": [49.403659, 52.32046, 56.145146], "main_metric": 49.403659}
+{"i": 21723, "raw_vocab": "▁Condo", "category": "OK", "decoded": " Condo", "metrics": [49.403345, 52.276021, 36.199261], "main_metric": 49.403345}
+{"i": 28718, "raw_vocab": "immeuble", "category": "OK", "decoded": "immeuble", "metrics": [49.397202, 52.264977, 41.746682], "main_metric": 49.397202}
+{"i": 9506, "raw_vocab": "▁Excel", "category": "OK", "decoded": " Excel", "metrics": [49.393732, 52.336922, 42.44164], "main_metric": 49.393732}
+{"i": 25688, "raw_vocab": "▁correspondent", "category": "OK", "decoded": " correspondent", "metrics": [49.389681, 52.313578, 49.425911], "main_metric": 49.389681}
+{"i": 27956, "raw_vocab": "▁Syndrome", "category": "OK", "decoded": " Syndrome", "metrics": [49.38398, 52.295798, 48.591679], "main_metric": 49.38398}
+{"i": 22154, "raw_vocab": "albeit", "category": "OK", "decoded": "albeit", "metrics": [49.382899, 52.353721, 34.394696], "main_metric": 49.382899}
+{"i": 9561, "raw_vocab": "▁reminder", "category": "OK", "decoded": " reminder", "metrics": [49.369745, 52.314942, 61.307842], "main_metric": 49.369745}
+{"i": 26591, "raw_vocab": "streit", "category": "OK", "decoded": "streit", "metrics": [49.365867, 52.310941, 55.426651], "main_metric": 49.365867}
+{"i": 1773, "raw_vocab": "▁response", "category": "OK", "decoded": " response", "metrics": [49.360464, 52.26131, 48.503467], "main_metric": 49.360464}
+{"i": 17887, "raw_vocab": "▁Eck", "category": "OK", "decoded": " Eck", "metrics": [49.358136, 52.252541, 36.009979], "main_metric": 49.358136}
+{"i": 31934, "raw_vocab": "▁Vorschriften", "category": "OK", "decoded": " Vorschriften", "metrics": [49.355995, 52.195357, 63.100858], "main_metric": 49.355995}
+{"i": 1991, "raw_vocab": "▁furniture", "category": "OK", "decoded": " furniture", "metrics": [49.353705, 52.189571, 41.227304], "main_metric": 49.353705}
+{"i": 27169, "raw_vocab": "bowel", "category": "OK", "decoded": "bowel", "metrics": [49.345909, 52.267627, 41.395404], "main_metric": 49.345909}
+{"i": 23950, "raw_vocab": "▁empathy", "category": "OK", "decoded": " empathy", "metrics": [49.344552, 52.300575, 69.768096], "main_metric": 49.344552}
+{"i": 25889, "raw_vocab": "emprunt", "category": "OK", "decoded": "emprunt", "metrics": [49.338149, 52.228966, 35.922132], "main_metric": 49.338149}
+{"i": 2851, "raw_vocab": "▁dining", "category": "OK", "decoded": " dining", "metrics": [49.325884, 52.300435, 53.277131], "main_metric": 49.325884}
+{"i": 28998, "raw_vocab": "▁perpetrat", "category": "OK", "decoded": " perpetrat", "metrics": [49.324399, 52.248272, 61.532355], "main_metric": 49.324399}
+{"i": 14327, "raw_vocab": "▁prescribed", "category": "OK", "decoded": " prescribed", "metrics": [49.319324, 52.109149, 55.378659], "main_metric": 49.319324}
+{"i": 2789, "raw_vocab": "▁England", "category": "OK", "decoded": " England", "metrics": [49.310704, 52.272236, 36.126821], "main_metric": 49.310704}
+{"i": 31501, "raw_vocab": "▁orthopedic", "category": "OK", "decoded": " orthopedic", "metrics": [49.310263, 52.234508, 29.913732], "main_metric": 49.310263}
+{"i": 11169, "raw_vocab": "▁indicator", "category": "OK", "decoded": " indicator", "metrics": [49.30368, 52.25408, 54.571317], "main_metric": 49.30368}
+{"i": 15523, "raw_vocab": "▁emphasize", "category": "OK", "decoded": " emphasize", "metrics": [49.300615, 52.237051, 66.912168], "main_metric": 49.300615}
+{"i": 7826, "raw_vocab": "▁Ryan", "category": "OK", "decoded": " Ryan", "metrics": [49.299456, 52.224342, 44.463548], "main_metric": 49.299456}
+{"i": 17247, "raw_vocab": "▁Richmond", "category": "OK", "decoded": " Richmond", "metrics": [49.29936, 52.165821, 35.809889], "main_metric": 49.29936}
+{"i": 984, "raw_vocab": "▁events", "category": "OK", "decoded": " events", "metrics": [49.298956, 52.267793, 54.668418], "main_metric": 49.298956}
+{"i": 18597, "raw_vocab": "▁Electro", "category": "OK", "decoded": " Electro", "metrics": [49.296261, 52.26111, 28.827971], "main_metric": 49.296261}
+{"i": 23629, "raw_vocab": "longed", "category": "OK", "decoded": "longed", "metrics": [49.274556, 52.200517, 36.159905], "main_metric": 49.274556}
+{"i": 23590, "raw_vocab": "▁pallet", "category": "OK", "decoded": " pallet", "metrics": [49.270839, 52.202409, 54.852385], "main_metric": 49.270839}
+{"i": 31500, "raw_vocab": "presedintele", "category": "OK", "decoded": "presedintele", "metrics": [49.270197, 52.153179, 61.85897], "main_metric": 49.270197}
+{"i": 3006, "raw_vocab": "▁Elle", "category": "OK", "decoded": " Elle", "metrics": [49.267522, 52.163686, 42.474747], "main_metric": 49.267522}
+{"i": 1671, "raw_vocab": "▁November", "category": "OK", "decoded": " November", "metrics": [49.261799, 52.270768, 61.708988], "main_metric": 49.261799}
+{"i": 24475, "raw_vocab": "▁poat", "category": "OK", "decoded": " poat", "metrics": [49.259927, 52.18609, 60.048545], "main_metric": 49.259927}
+{"i": 15589, "raw_vocab": "▁Coin", "category": "OK", "decoded": " Coin", "metrics": [49.255129, 52.221293, 48.117523], "main_metric": 49.255129}
+{"i": 30870, "raw_vocab": "beutel", "category": "OK", "decoded": "beutel", "metrics": [49.249882, 52.202681, 43.054226], "main_metric": 49.249882}
+{"i": 5111, "raw_vocab": "▁revealed", "category": "OK", "decoded": " revealed", "metrics": [49.246566, 52.113682, 38.104154], "main_metric": 49.246566}
+{"i": 13660, "raw_vocab": "▁legendary", "category": "OK", "decoded": " legendary", "metrics": [49.227292, 52.059969, 55.306629], "main_metric": 49.227292}
+{"i": 30515, "raw_vocab": "▁voastre", "category": "OK", "decoded": " voastre", "metrics": [49.199222, 52.1493, 50.135219], "main_metric": 49.199222}
+{"i": 19727, "raw_vocab": "zeichnen", "category": "OK", "decoded": "zeichnen", "metrics": [49.198317, 52.15644, 42.307075], "main_metric": 49.198317}
+{"i": 28804, "raw_vocab": "▁astounding", "category": "OK", "decoded": " astounding", "metrics": [49.193235, 52.149837, 42.082035], "main_metric": 49.193235}
+{"i": 6814, "raw_vocab": "homme", "category": "OK", "decoded": "homme", "metrics": [49.191701, 52.101629, 60.767624], "main_metric": 49.191701}
+{"i": 25177, "raw_vocab": "▁wechseln", "category": "OK", "decoded": " wechseln", "metrics": [49.186373, 52.073193, 42.739145], "main_metric": 49.186373}
+{"i": 20103, "raw_vocab": "▁squeeze", "category": "OK", "decoded": " squeeze", "metrics": [49.1718, 52.209474, 56.649699], "main_metric": 49.1718}
+{"i": 1341, "raw_vocab": "▁related", "category": "OK", "decoded": " related", "metrics": [49.167509, 52.054676, 62.579011], "main_metric": 49.167509}
+{"i": 28149, "raw_vocab": "▁rosii", "category": "OK", "decoded": " rosii", "metrics": [49.156196, 52.177568, 49.573142], "main_metric": 49.156196}
+{"i": 15970, "raw_vocab": "▁Apartment", "category": "OK", "decoded": " Apartment", "metrics": [49.155862, 52.081705, 48.142184], "main_metric": 49.155862}
+{"i": 20207, "raw_vocab": "enstein", "category": "OK", "decoded": "enstein", "metrics": [49.147876, 52.068767, 28.217978], "main_metric": 49.147876}
+{"i": 15327, "raw_vocab": "▁Logo", "category": "OK", "decoded": " Logo", "metrics": [49.129418, 52.023049, 43.850678], "main_metric": 49.129418}
+{"i": 11934, "raw_vocab": "▁cald", "category": "OK", "decoded": " cald", "metrics": [49.121045, 52.113457, 49.287615], "main_metric": 49.121045}
+{"i": 3513, "raw_vocab": "▁adults", "category": "OK", "decoded": " adults", "metrics": [49.112095, 52.092686, 56.625321], "main_metric": 49.112095}
+{"i": 24865, "raw_vocab": "brushed", "category": "OK", "decoded": "brushed", "metrics": [49.098212, 52.000881, 48.43917], "main_metric": 49.098212}
+{"i": 14013, "raw_vocab": "▁perspectives", "category": "OK", "decoded": " perspectives", "metrics": [49.087478, 52.035114, 69.605797], "main_metric": 49.087478}
+{"i": 5348, "raw_vocab": "teur", "category": "OK", "decoded": "teur", "metrics": [49.08469, 51.978733, 54.200399], "main_metric": 49.08469}
