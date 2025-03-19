@@ -4,7 +4,7 @@ Official implementation of "Sticking to the Mean: Detecting Sticky Tokens in Tex
 
 <!-- **Martin Kuo<sup>\*</sup>,** **Jianyi Zhang<sup>\*</sup>,** **Aolin Ding<sup></sup>,** **Qinsi Wang<sup></sup>,** **Louis DiValentin<sup></sup>,** **Yujia Bao<sup></sup>,** **Wei Wei<sup></sup>,** **Hai Li<sup></sup>,** **Yiran Chen<sup></sup>** -->
 
-This project is licensed under the CC BY-NC-SA 4.0 license. For more details, please refer to the LICENSE file.
+This project is licensed under the MIT license. For more details, please refer to the LICENSE file.
 
 <!-- Paper Link: [📖[Paper Link]()]
 
@@ -131,5 +131,5 @@ More technical details can be found in our paper. If you find H-CoT or Malicious
 
 ## License
 
-This project is licensed under the CC BY-NC-SA 4.0 license.
+This project is licensed under the MIT license.
 
