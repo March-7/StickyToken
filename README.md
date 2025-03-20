@@ -115,7 +115,7 @@ jupyter notebook notebooks/demo.ipynb
 ```
 ## Paper and Citation
 
-More technical details can be found in our paper. If you find H-CoT or Malicious-Educator useful or relevant to your project and research, please kindly cite our paper:
+More technical details can be found in our paper. If you find STD useful or relevant to your project and research, please kindly cite our paper:
 
 <!-- ```bibtex
 @misc{kuo2025hcothijackingchainofthoughtsafety,
