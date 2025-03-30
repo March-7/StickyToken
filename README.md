@@ -44,9 +44,12 @@ We applied STD to 37 models spanning 12 prominent model families and uncovered a
 - Inserting these tokens causes notable performance drops in downstream tasks (e.g., retrieval accuracy on NFCorpus can fall by over 50% for certain models)
 - Layer-wise attention analysis suggests that sticky tokens disrupt normal attention patterns, overshadowing other parts of the input sequence
 
-### Detailed Results
+### Detailed Detection Results
 
 The table below presents detailed analysis results for each model, including the number of parameters, vocabulary size, number of available tokens, number of verification candidates, and the number of sticky tokens discovered. We also list some representative sticky tokens found in each model.
+
+<details>
+<summary>Click to expand/collapse the detailed results table</summary>
 
 | Model Name | Parameters | Vocab Size | Available Tokens | Verification Candidates | Sticky Token Count | Examples |
 |------------|------------|------------|------------------|------------------------|-------------------|-----------|
@@ -87,6 +90,8 @@ The table below presents detailed analysis results for each model, including the
 | GritLM-7B | 7111M | 32000 | 31747 | 635 | 17 | ▁adventures, ▁promoting, ▁nine, ▁folks, ▁village, ▁according, ▁escort, ▁islands, ▁accidents, ▁©, ▁junior, ▁elite, ▁photo, ▁', ▁accident, ▁publication, ▁young |
 | SFR-Embedding-2_R | 7111M | 32000 | 31716 | 444 | 2 | zeichnet, ▁scales |
 | SFR-Embedding-Mistral | 7111M | 32000 | 31716 | 635 | 46 | ▁которы, ▁годи, ▁Jahrhund, ▁который, ▁которых, ▁распо, ▁вре, ▁района, ▁уча, ▁явля, ▁которые, ▁изда, ▁trabaj, ▁чемпи, ▁них, ▁llev, ześ, ▁райо, ▁того, ▁furono, ющи, ▁насе, ▁занима, ▁satisf, ▁отри, ▁най, ▁той, ▁смер, ▁побе, ▁окру, ▁служ, ▁участи, ▁invånare, ▁получи, ▁участ, ▁algun, ▁DCHECK, ▁invån, ▁occas, ▁актив, ▁observ, ▁befindet, ▁voegen, ▁режи, ▁соста, ▁нача |
+
+</details>
 
 ## Project Structure
 
