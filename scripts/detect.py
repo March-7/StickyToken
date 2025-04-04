@@ -1,4 +1,15 @@
 import argparse
+# autodl内置学术资源加速
+import subprocess
+import os
+
+result = subprocess.run('bash -c "source /etc/network_turbo && env | grep proxy"', shell=True, capture_output=True, text=True)
+output = result.stdout
+for line in output.splitlines():
+    if '=' in line:
+        var, value = line.split('=', 1)
+        os.environ[var] = value
+os.environ['HF_HOME'] = '/root/autodl-tmp/cache/'
 
 parser = argparse.ArgumentParser(description='Process some parameters.')
 parser.add_argument('--model', type=str, default='sentence-transformers/sentence-t5-base', help='Path to the model')
@@ -38,7 +49,7 @@ from stickytoken.embedding_model import ModelAnalyzer
 moda = ModelAnalyzer(EXP.MODEL,use_flash_attn=args.flash_attn)
 
 from stickytoken.tokenization import TokenizerAnalyzer
-toka = TokenizerAnalyzer(EXP.MODEL)
+toka = TokenizerAnalyzer(EXP.MODEL,tokenizer=moda.model.tokenizer)
 
 token_infos = toka.categorize_tokens()
 
@@ -55,7 +66,14 @@ verification_dataset = Dataset(sent_pairs.sampled_sentence_pairs_path,moda,EXP.V
 #                                                                  EXP.INSERT_NUM,
 #                                                                  )
 
-token_infos_with_metrics = moda.caculate_vocab_token_magic_score_multi_token(token_infos,
+from stickytoken.utils import output_name,load_vocab_token_magic_scores,load_vocab_verifications
+
+output_file = output_name(moda.model_name, "vocab_token_magic_scores", "jsonl")
+# 检查文件是否存在，存在则直接加载
+if os.path.exists(output_file):
+    token_infos_with_metrics = load_vocab_token_magic_scores(moda.model_name)
+else:
+    token_infos_with_metrics = moda.caculate_vocab_token_magic_score_multi_token(token_infos,
                                                                                 dataset,
                                                                                 EXP.INSERT_NUM,
                                                                                 )
