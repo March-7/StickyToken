@@ -16,7 +16,9 @@ This project investigates and detects anomalous "sticky tokens" in text embeddin
 
 ## Research Motivation
 
-Text embedding models are crucial for many NLP tasks, but they can exhibit unexpected behaviors. As illustrated in the example below, repeatedly appending the token "lucrarea" to an unrelated sentence yields a noticeable increase in its similarity to a reference sentence when using ST5 models:
+Text embedding models are crucial for many NLP tasks, but they can exhibit unexpected behaviors. In the Kaggle competition "LLM Prompt Recovery", participants leveraged a token loophole to achieve high scores. (https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/494343) 
+
+As illustrated in the example below, repeatedly appending the token "lucrarea" to an unrelated sentence yields a noticeable increase in its similarity to a reference sentence when using ST5 models:
 
 ![Sticky Token Example](fig/sticky_token_example.drawio.png)
 
