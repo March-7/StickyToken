@@ -2,13 +2,13 @@
 
 Official implementation of "Sticking to the Mean: Detecting Sticky Tokens in Text Embedding Models"
 
-<!-- **Martin Kuo<sup>\*</sup>,** **Jianyi Zhang<sup>\*</sup>,** **Aolin Ding<sup></sup>,** **Qinsi Wang<sup></sup>,** **Louis DiValentin<sup></sup>,** **Yujia Bao<sup></sup>,** **Wei Wei<sup></sup>,** **Hai Li<sup></sup>,** **Yiran Chen<sup></sup>** -->
+**Kexin Chen<sup></sup>,** **Dongxia Wang<sup></sup>,** **Yi Liu<sup></sup>,** **Haonan Zhang<sup></sup>,** **Wenhai Wang<sup></sup>**
 
 This project is licensed under the MIT license. For more details, please refer to the LICENSE file.
 
-<!-- Paper Link: [📖[Paper Link]()]
+Paper Link: [📖[Paper Link](https://aclanthology.org/2025.acl-long.1391/)]
 
-Website Link: [[🕶️StickyToken]()] -->
+Website Link: [[🕶️StickyToken](https://github.com/March-7/StickyToken)]
 
 ## Project Description
 
@@ -163,17 +163,22 @@ jupyter notebook notebooks/demo.ipynb
 
 More technical details can be found in our paper. If you find STD useful or relevant to your project and research, please kindly cite our paper:
 
-<!-- ```bibtex
-@misc{kuo2025hcothijackingchainofthoughtsafety,
-      title={H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking}, 
-      author={Martin Kuo and Jianyi Zhang and Aolin Ding and Qinsi Wang and Louis DiValentin and Yujia Bao and Wei Wei and Hai Li and Yiran Chen},
-      year={2025},
-      eprint={2502.12893},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.12893}, 
+```bibtex
+@inproceedings{chen-etal-2025-sticking,
+      title = "Sticking to the Mean: Detecting Sticky Tokens in Text Embedding Models",
+      author = "Chen, Kexin and Wang, Dongxia and Liu, Yi and Zhang, Haonan and Wang, Wenhai",
+      editor = "Che, Wanxiang and Nabende, Joyce and Shutova, Ekaterina and Pilehvar, Mohammad Taher",
+      booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      month = jul,
+      year = "2025",
+      address = "Vienna, Austria",
+      publisher = "Association for Computational Linguistics",
+      url = "https://aclanthology.org/2025.acl-long.1391/",
+      pages = "28660--28681",
+      ISBN = "979-8-89176-251-0",
+      doi = "10.18653/v1/2025.acl-long.1391"
 }
-``` -->
+```
 
 ## License
 
